@@ -1,0 +1,501 @@
+/* ============================================================
+   The Daily
+   Newspaper components on top of damianpickett.com's site.css.
+   Same tokens, same glass menu, same San Francisco. Mobile first.
+   ============================================================ */
+
+:root {
+  --menu-w: 208px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  overscroll-behavior-y: auto;
+}
+
+main {
+  max-width: 680px;
+  padding: 72px 24px 170px;
+}
+
+/* ---------- Masthead ---------- */
+
+.masthead {
+  margin-bottom: 48px;
+}
+
+.masthead-kicker,
+.section-h {
+  font-size: 13px;
+  font-weight: 650;
+  text-transform: uppercase;
+  letter-spacing: 0.11em;
+  color: var(--sage-deep);
+}
+
+.masthead-kicker {
+  margin-bottom: 14px;
+}
+
+.masthead-kicker a {
+  color: inherit;
+  font-weight: inherit;
+}
+
+.masthead-kicker a:hover {
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.masthead .page-title {
+  margin-bottom: 4px;
+}
+
+.dateline {
+  font-size: 21px;
+  line-height: 1.35;
+  font-weight: 500;
+  letter-spacing: -0.012em;
+  color: var(--muted);
+}
+
+.standfirst {
+  margin-top: 16px;
+  font-size: 18px;
+  line-height: 1.55;
+  color: var(--body);
+  text-wrap: pretty;
+}
+
+/* ---------- Sections ---------- */
+
+.section {
+  margin-bottom: 56px;
+  scroll-margin-top: 20px;
+}
+
+.section-h {
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+}
+
+.group-h {
+  margin: 30px 0 0;
+  font-size: 15px;
+  font-weight: 650;
+  letter-spacing: -0.004em;
+  color: var(--ink);
+}
+
+.group-h:first-of-type {
+  margin-top: 22px;
+}
+
+.group-h + .stories .story:first-child {
+  padding-top: 12px;
+}
+
+/* ---------- Stories ---------- */
+
+.stories {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.story {
+  position: relative;
+  padding: 20px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.story:last-child {
+  border-bottom: 0;
+}
+
+.story-title {
+  font-size: 19px;
+  line-height: 1.32;
+  font-weight: 600;
+  letter-spacing: -0.012em;
+  color: var(--ink);
+  text-wrap: pretty;
+}
+
+main .story-title a {
+  font-weight: inherit;
+  color: inherit;
+  transition: color 160ms ease;
+}
+
+/* The title carries the link; the whole row is its tap target. */
+.story-title a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.story:hover .story-title a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 2px;
+  text-decoration-color: var(--sage);
+  text-decoration-skip-ink: none;
+}
+
+/* Read stories quieten down. */
+main .story-title a:visited {
+  color: var(--muted);
+}
+
+.story-tldr {
+  margin-top: 7px;
+  font-size: 17px;
+  line-height: 1.52;
+  color: var(--body);
+  text-wrap: pretty;
+}
+
+.story-meta {
+  margin-top: 9px;
+  font-size: 14px;
+  line-height: 1.4;
+  color: var(--muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 10px;
+}
+
+.story-source {
+  color: var(--sage-deep);
+  font-weight: 550;
+}
+
+.front .story-title {
+  font-size: 23px;
+  line-height: 1.25;
+  letter-spacing: -0.016em;
+}
+
+.front .story-lead .story-title {
+  font-size: 27px;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+.front .story-tldr {
+  font-size: 18px;
+}
+
+.front .story {
+  padding: 24px 0;
+}
+
+.finally .story-title {
+  font-size: 21px;
+}
+
+/* ---------- Picks: today's read and listen ---------- */
+
+.picks-grid {
+  display: grid;
+  gap: 16px;
+  margin-top: 20px;
+}
+
+@media (min-width: 660px) {
+  .picks-grid {
+    grid-template-columns: 1fr 1fr;
+    align-items: stretch;
+  }
+}
+
+.pick {
+  position: relative;
+  padding: 24px 26px 22px;
+}
+
+.pick-kicker {
+  font-size: 12.5px;
+  font-weight: 650;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--sage-deep);
+  margin-bottom: 12px;
+}
+
+.pick-title {
+  font-size: 20px;
+  line-height: 1.28;
+  font-weight: 650;
+  letter-spacing: -0.014em;
+  color: var(--ink);
+  text-wrap: pretty;
+}
+
+main .pick-title a {
+  font-weight: inherit;
+  color: inherit;
+}
+
+.pick-title a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+}
+
+.pick:hover .pick-title a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 2px;
+  text-decoration-color: var(--sage);
+  text-decoration-skip-ink: none;
+}
+
+.pick-sub {
+  margin-top: 6px;
+  font-size: 16px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-wrap: pretty;
+}
+
+.pick-why {
+  margin-top: 12px;
+  font-size: 16.5px;
+  line-height: 1.5;
+  color: var(--body);
+  text-wrap: pretty;
+}
+
+.pick-meta {
+  margin-top: 16px;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+main .pick-meta a {
+  position: relative;
+  z-index: 1;
+  color: var(--sage-deep);
+  font-weight: 550;
+}
+
+main .pick-meta a:hover {
+  color: var(--ink);
+}
+
+.tag {
+  display: inline-block;
+  padding: 1px 8px 2px;
+  border-radius: 9px;
+  border: 1px solid var(--line);
+  font-size: 12px;
+  font-weight: 550;
+  letter-spacing: 0.02em;
+  color: var(--muted);
+  vertical-align: 1px;
+}
+
+/* ---------- Colophon ---------- */
+
+.colophon {
+  margin-top: 12px;
+  padding-top: 26px;
+  border-top: 1px solid var(--line);
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--muted);
+  text-wrap: pretty;
+}
+
+.colophon a {
+  color: var(--sage-deep);
+  font-weight: 550;
+}
+
+.colophon a:hover {
+  color: var(--ink);
+}
+
+.colophon-links {
+  margin-top: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 20px;
+}
+
+main .colophon p + p {
+  margin-top: 14px;
+}
+
+/* ---------- Archive ---------- */
+
+.editions {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.edition-row {
+  position: relative;
+  padding: 18px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.edition-row:last-child {
+  border-bottom: 0;
+}
+
+.edition-date {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: -0.012em;
+  color: var(--ink);
+}
+
+main .edition-date a {
+  color: inherit;
+  font-weight: inherit;
+}
+
+.edition-date a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.edition-row:hover .edition-date a {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 2px;
+  text-decoration-color: var(--sage);
+}
+
+.edition-lead {
+  margin-top: 4px;
+  font-size: 16px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-wrap: pretty;
+}
+
+/* ---------- Sources ---------- */
+
+.source-group + .source-group {
+  margin-top: 8px;
+}
+
+.source-list {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0;
+}
+
+.source-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 17px;
+}
+
+.source-list li:last-child {
+  border-bottom: 0;
+}
+
+.source-host {
+  font-size: 14px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+/* ---------- Menu ---------- */
+
+.menu {
+  bottom: max(30px, calc(env(safe-area-inset-bottom) + 14px));
+}
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 780px) {
+  main {
+    padding: 52px 20px 150px;
+  }
+
+  .masthead {
+    margin-bottom: 40px;
+  }
+
+  .masthead .page-title {
+    font-size: 40px;
+  }
+
+  .dateline {
+    font-size: 19px;
+  }
+
+  .standfirst {
+    font-size: 17px;
+  }
+
+  .section {
+    margin-bottom: 46px;
+  }
+
+  .story {
+    padding: 18px 0;
+  }
+
+  .story-title {
+    font-size: 18.5px;
+  }
+
+  .story-tldr {
+    font-size: 16.5px;
+  }
+
+  .front .story {
+    padding: 20px 0;
+  }
+
+  .front .story-title {
+    font-size: 21px;
+  }
+
+  .front .story-lead .story-title {
+    font-size: 24px;
+  }
+
+  .front .story-tldr {
+    font-size: 17px;
+  }
+
+  .pick {
+    padding: 22px 22px 20px;
+    border-radius: 16px;
+  }
+
+  .pick-title {
+    font-size: 19px;
+  }
+
+  .menu {
+    bottom: max(22px, calc(env(safe-area-inset-bottom) + 10px));
+  }
+}
+
+/* ---------- Reduced motion ---------- */
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "the-daily",
+  "private": true,
+  "type": "module",
+  "description": "Damian Pickett's morning paper. Zero dependencies.",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/build.mjs --check",
+    "serve": "npx serve -l 3456 ."
+  }
+}

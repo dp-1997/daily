@@ -1,0 +1,297 @@
+{
+  "date": "2026-09-04",
+  "note": "Monza practice starts today. Next Wednesday brings Apple's iPhone event and the Patriots' opener in Seattle.",
+  "front": [
+    {
+      "title": "OpenAI's GPT-6 Astra arrives, and the company says it has 'entered the AGI era'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "tldr": "OpenAI calls the new model a generational leap for cybersecurity, professional work, software engineering, science and computer use. It is rolling out to ChatGPT Plus, Pro, Business and Enterprise users and through the API over the coming days.",
+      "source": "The Verge",
+      "published": "2026-09-03T18:00:00.000Z"
+    },
+    {
+      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+      "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion",
+      "tldr": "The chipmaker takes control of the platform that hosts over 3 million models and serves 18 million developers, and says it will stay open. It is a bet that backing open models can offset any slowdown in demand for chips.",
+      "source": "Ars Technica",
+      "published": "2026-09-03T13:34:13.000Z"
+    },
+    {
+      "title": "Rutschman homers twice on his return to Baltimore as the Red Sox rally to win 6-5",
+      "url": "https://www.boston.com/sports/boston-red-sox/2026/09/03/rutschman-homers-twice-in-return-to-baltimore-and-the-red-sox-rally-for-a-6-5-victory",
+      "tldr": "A month after the trade, Adley Rutschman got a standing ovation from Orioles fans, then hit two home runs against them. Boston came from behind on a go-ahead homer in the eighth.",
+      "source": "Boston.com",
+      "published": "2026-09-04T02:48:58.000Z"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Google DeepMind introduces WeatherNext 3, its most accurate global weather model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model",
+          "tldr": "The new model forecasts at what Google calls unprecedented resolution using live satellite data, with better predictions for rain and snow. Its forecasts will start feeding the weather shown in Search, Google Maps and Gemini.",
+          "source": "Google DeepMind",
+          "published": "2026-09-03T15:02:08.000Z"
+        },
+        {
+          "title": "Nvidia's free Personal AI Router links your idle computers into a home AI cluster",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+          "tldr": "PAIR syncs the computers in your house so they can share local inference jobs for tools like Ollama and LM Studio. It is free, and it makes private, local AI a little more practical.",
+          "source": "The Verge",
+          "published": "2026-09-03T16:00:00.000Z"
+        },
+        {
+          "title": "Google now lets you talk to Gmail, Docs and Keep",
+          "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+          "tldr": "Gmail Live, Docs Live and Keep Live are real-time voice modes, in the style of Gemini Live, for managing the apps by talking to them. They are rolling out now.",
+          "source": "The Verge",
+          "published": "2026-09-03T16:00:00.000Z"
+        },
+        {
+          "title": "Meta is paying to see how you use its new Muse Spark model",
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+          "tldr": "For Muse Spark, its model for coding and other agents, Meta offers an average 95 per cent discount to users who share their prompts and outputs for training future models. A pricing decision that turns usage data into currency.",
+          "source": "TechCrunch",
+          "published": "2026-09-03T18:19:56.000Z"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Tesla launches the Cybercab, quietly",
+          "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+          "tldr": "At a closed-door event in Austin, Tesla began offering rides in its two-seat robotaxi with no steering wheel or pedals. It is also asking people whether they would buy and run Cybercab fleets.",
+          "source": "The Verge",
+          "published": "2026-09-04T00:25:06.000Z"
+        },
+        {
+          "title": "Audacity's new look is here, with its largest feature update in years",
+          "url": "https://www.engadget.com/2250830/audacity-4-new-look-is-finally-here-along-with-its-largest-feature-update-in-years",
+          "tldr": "The free audio editor gets a redesign with a colourful dark mode and more granular editing tools.",
+          "source": "Engadget",
+          "published": "2026-09-03T23:50:08.000Z"
+        },
+        {
+          "title": "Oura files to go public",
+          "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public",
+          "tldr": "The smart ring maker says revenue has grown significantly over the past year. A category that once looked like a curiosity is heading for the stock market.",
+          "source": "TechCrunch",
+          "published": "2026-09-03T22:35:41.000Z"
+        },
+        {
+          "title": "Ugreen's new smart home ecosystem runs on local AI hubs",
+          "url": "https://www.engadget.com/2250749/ugreen-smart-home-ecosystem-built-around-local-ai-hubs",
+          "tldr": "Three hubs run your smart home with on-device AI instead of the cloud. The top model uses Nvidia's Jetson Thor platform and costs $20,000, so local-first is arriving at very different price points.",
+          "source": "Engadget",
+          "published": "2026-09-03T22:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple Vision Pro used in a first-of-its-kind surgery",
+          "url": "https://9to5mac.com/2026/09/03/apple-vision-pro-was-just-used-in-a-first-of-its-kind-surgery",
+          "tldr": "Stryker completed the first surgical procedure using its SportSuite Vision app on Vision Pro, a hip arthroscopy. The software received FDA De Novo authorisation in July.",
+          "source": "9to5Mac",
+          "published": "2026-09-03T17:59:08.000Z"
+        },
+        {
+          "title": "Report: iPhone Ultra's price and features outlined ahead of Wednesday's event",
+          "url": "https://www.macrumors.com/2026/09/03/iphone-ultra-features-price-specs",
+          "tldr": "Research firm TrendForce has estimated the price range and features of Apple's first foldable iPhone, expected at the event on 9 September. A report, not an announcement, and the numbers are estimates.",
+          "source": "MacRumors",
+          "published": "2026-09-03T14:33:59.000Z"
+        },
+        {
+          "title": "Apple's Calendar app gets a new design for key features in iOS 27",
+          "url": "https://9to5mac.com/2026/09/03/apples-calendar-app-in-ios-27-has-brand-new-design-for-key-features",
+          "tldr": "iOS 27 brings new features to Notes, Reminders and Calendar, and the Calendar app picks up notable design changes. 9to5Mac walks through what is new.",
+          "source": "9to5Mac",
+          "published": "2026-09-03T19:02:28.000Z"
+        },
+        {
+          "title": "Designed in California, the Apple history podcast, makes its debut",
+          "url": "https://www.macstories.net/linked/designed-in-california-makes-its-official-debut",
+          "tldr": "Myke Hurley and Jason Snell's show is live on Relay after a successful Kickstarter, with two free episodes and more for backers and subscribers. For anyone who studies Apple, a new fixture.",
+          "source": "MacStories",
+          "published": "2026-09-03T15:59:43.000Z"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Wild Horse Nine' emerges from Venice as the first major Oscar contender of the autumn",
+          "url": "https://www.indiewire.com/news/festivals/john-malkovich-wild-horse-nine-best-actor-oscar-chances-1235214640",
+          "tldr": "Martin McDonagh's spy comedy drew raves at its premiere, and IndieWire argues it is the showcase that could finally win John Malkovich an Oscar after two nominations.",
+          "source": "IndieWire",
+          "published": "2026-09-03T21:25:03.000Z"
+        },
+        {
+          "title": "'Gromit was nearly a cat': secrets from 50 years of Aardman",
+          "url": "https://www.bbc.co.uk/news/articles/cn8ell3dngno",
+          "tldr": "The studio turns 50 with stories of a cat-like Gromit, a silent Shaun and Chicken Run's Oscar legacy.",
+          "source": "BBC",
+          "published": "2026-09-04T00:34:18.000Z"
+        },
+        {
+          "title": "Meryl Streep, Colman Domingo and Bill Hader join 'Lincoln in the Bardo'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/meryl-streep-join-lincoln-in-the-bardo-animated-cast-1236690281",
+          "tldr": "Duke Johnson's stop-motion and live-action film adds Streep, Domingo, Hader and Tom Waits to a cast that already includes Tom Hanks and Willem Dafoe.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-03T22:14:41.000Z"
+        },
+        {
+          "title": "George Clooney on the rule he lives by, and what he will film next",
+          "url": "https://deadline.com/2026/09/george-clooney-reveals-rule-he-lives-next-movie-masterclass-1237066769",
+          "tldr": "In a wide-ranging Venice masterclass, Clooney talked about the uncertain path to success as an actor, the rule he tries to live by, and his next project.",
+          "source": "Deadline",
+          "published": "2026-09-03T22:03:54.000Z"
+        },
+        {
+          "title": "'Free Solo' directors return with their most personal film, 'Everest: The Other Side'",
+          "url": "https://variety.com/2026/film/global/everest-the-other-side-elizabeth-chai-vasarhelyi-jimmy-chin-1236848068",
+          "tldr": "Elizabeth Chai Vasarhelyi and Jimmy Chin follow ski mountaineers Jim Morrison and Hilaree Nelson in a film about grief and loss, screening at Venice and Toronto.",
+          "source": "Variety",
+          "published": "2026-09-04T05:45:00.000Z"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Why the NBA's punishment of the Clippers is good news for the Celtics",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/09/03/boston-celtics-jaylen-brown-clippers-76ers-nba-basketball-punishment-2028-draft-pick",
+          "tldr": "The league came down hard on the Clippers and Kawhi Leonard for circumventing the salary cap. Boston holds the Clippers' 2028 pick, so a Clippers slide would be welcome.",
+          "source": "Boston.com",
+          "published": "2026-09-03T19:11:38.000Z"
+        },
+        {
+          "tag": "Manchester United",
+          "title": "Manchester United submit their 23-man Premier League squad list",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-squad-premier-league-34564522",
+          "tldr": "The list for the first half of the season went in on Thursday after the window closed. Kobbie Mainoo and Leny Yoro are among the names not on it, and the MEN explains the omissions.",
+          "source": "Manchester Evening News",
+          "published": "2026-09-03T16:49:30.000Z"
+        },
+        {
+          "tag": "Manchester United",
+          "title": "United's strongest line-up after the window, with a £62.5m signing left out",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-uniteds-strongest-line-up-34561279",
+          "tldr": "Deadline day ended quietly at Old Trafford. The MEN picks the best eleven before the Champions League returns next week.",
+          "source": "Manchester Evening News",
+          "published": "2026-09-04T04:00:00.000Z"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Game preview: Patriots at Seahawks, Week 1",
+          "url": "https://www.patriots.com/news/game-preview-patriots-at-seahawks-week-1",
+          "tldr": "New England open the season in Seattle on Wednesday 9 September at 8:20pm Eastern, which is 1:20am on Thursday in Manchester.",
+          "source": "Patriots.com",
+          "published": "2026-09-03T17:33:00.000Z"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots rookie found out he made the roster via Instagram",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/136092/quintayvious-hutchins-patriots-roster-instagram",
+          "tldr": "Unlike 37 teammates, outside linebacker Quintayvious Hutchins was never asked to hand back his iPad at the cutdown. Nobody told him he had made the 53; he found out online.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-03T10:00:00.000Z"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Christian Gonzalez 'still frustrated' as contract talks stall before Week 1",
+          "url": "https://www.masslive.com/patriots/2026/09/patriots-star-christian-gonzalez-on-his-contract-talks-im-still-frustrated.html",
+          "tldr": "The cornerback would not say whether he will play in Seattle on Wednesday while negotiations continue.",
+          "source": "MassLive",
+          "published": "2026-09-03T18:33:29.000Z"
+        },
+        {
+          "tag": "F1",
+          "title": "F1 races set to be shortened to 290km in 2027",
+          "url": "https://www.motorsport.com/f1/news/why-all-f1-gps-could-be-shortened-next-season/10851980",
+          "tldr": "Teams have agreed a plan to cut grand prix distances as the series rebalances electrical and combustion power for 2027.",
+          "source": "Motorsport.com",
+          "published": "2026-09-03T18:32:17.000Z"
+        },
+        {
+          "tag": "F1",
+          "title": "Sebastian Vettel returns to the cockpit at Monza to drive Schumacher's F2002",
+          "url": "https://www.motorsport.com/f1/news/sebastian-vettel-shares-message-ahead-of-f1-cockpit-return-for-michael-schumacher-tribute/10851929",
+          "tldr": "Vettel will take Michael Schumacher's Ferrari F2002 on an honorary lap at the Italian Grand Prix this weekend, and has shared a message ahead of his return to the paddock.",
+          "source": "Motorsport.com",
+          "published": "2026-09-03T16:20:10.000Z"
+        },
+        {
+          "tag": "F1",
+          "title": "Hamilton ready to rock Monza with a 'phenomenal' Ferrari win",
+          "url": "https://www.theguardian.com/sport/2026/sep/03/lewis-hamilton-targets-phenomenal-italian-grand-prix-victory-with-ferrari",
+          "tldr": "Ferrari bring an upgraded engine to their home race. Hamilton says a win at Monza would be new territory in an already storied career.",
+          "source": "The Guardian",
+          "published": "2026-09-03T17:05:52.000Z"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Roman Anthony 'fantastic' since returning, hitting .500 in his 'new season'",
+          "url": "https://www.masslive.com/redsox/2026/09/roman-anthony-fantastic-since-returning-to-red-sox-hitting-500-its-like-a-new-season-for-me.html",
+          "tldr": "The pitching has wobbled through three losses in four games, but the young star's healthy, productive return has been the bright spot.",
+          "source": "MassLive",
+          "published": "2026-09-03T19:03:56.000Z"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Ceddanne Rafaela sidelined by a quad injury, timetable uncertain",
+          "url": "https://www.mlb.com/redsox/news/ceddanne-rafaela-right-quad-injury-red-sox",
+          "tldr": "The outfielder is out with a right quad injury and there is no date for his return.",
+          "source": "MLB.com",
+          "published": "2026-09-04T03:55:00.000Z"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+    "why": "On a day of two huge launches, this is the piece on turning an origin story into a communications strategy: the job of finding the story inside the product.",
+    "title": "How to make people care about your startup",
+    "subtitle": "Three founder archetypes—and how to turn your origin story into a communications strategy",
+    "published": "2026-08-11",
+    "words": 5969,
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/431-how-henry-singleton-worked/id1141877104?i=1000786905410&uo=4",
+      "why": "New this week. Singleton built Teledyne with ruthless capital allocation and a refusal to court analysts, a bracing contrast with a news day full of announcements.",
+      "show": "Founders",
+      "title": "#431 How Henry Singleton Worked",
+      "published": "2026-08-31",
+      "duration": "49m",
+      "apple": "https://podcasts.apple.com/us/podcast/431-how-henry-singleton-worked/id1141877104?i=1000786905410&uo=4"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/doug-leone",
+      "why": "Also new: 26 years helping lead Sequoia, an outsider's fear turned into fuel, and what starting over at 69 looks like.",
+      "show": "David Senra",
+      "title": "Doug Leone on Sequoia, Fear, Great Founders & Starting Over at 69",
+      "published": "2026-08-30",
+      "duration": "1h 22m",
+      "apple": "https://podcasts.apple.com/us/podcast/doug-leone-on-sequoia-fear-great-founders-starting/id1836497887?i=1000786771634&uo=4"
+    }
+  ],
+  "finally": {
+    "title": "75,000 patterned paper kites cascade through Jacob Hashimoto's largest installation yet",
+    "url": "https://www.thisiscolossal.com/2026/09/jacob-hashimoto-giant-arc-sfmoma-installation-exhibition",
+    "tldr": "'Giant Arc' is a vibrant cloud canopy of kites suspended inside SFMOMA.",
+    "source": "Colossal",
+    "published": "2026-09-03T14:27:20.000Z"
+  }
+}

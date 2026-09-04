@@ -1,0 +1,9 @@
+_build
+data
+scripts
+node_modules
+ROUTINE.md
+README.md
+package.json
+.gitignore
+.git

@@ -1,0 +1,483 @@
+{
+  "window_hours": 30,
+  "per_source_cap": 10,
+  "per_topic_cap": 40,
+  "topics": [
+    {
+      "id": "apple",
+      "title": "Apple",
+      "feeds": [
+        {
+          "name": "Apple Newsroom",
+          "site": "https://www.apple.com/newsroom/",
+          "url": "https://www.apple.com/newsroom/rss-feed.rss",
+          "tier": 1,
+          "kind": "primary"
+        },
+        {
+          "name": "9to5Mac",
+          "site": "https://9to5mac.com",
+          "url": "https://9to5mac.com/feed/",
+          "tier": 2
+        },
+        {
+          "name": "MacRumors",
+          "site": "https://www.macrumors.com",
+          "url": "https://feeds.macrumors.com/MacRumors-All",
+          "tier": 2
+        },
+        {
+          "name": "MacStories",
+          "site": "https://www.macstories.net",
+          "url": "https://www.macstories.net/feed/",
+          "tier": 2
+        },
+        {
+          "name": "Six Colors",
+          "site": "https://sixcolors.com",
+          "url": "https://sixcolors.com/feed/",
+          "tier": 2
+        },
+        {
+          "name": "Daring Fireball",
+          "site": "https://daringfireball.net",
+          "url": "https://daringfireball.net/feeds/main",
+          "tier": 2
+        },
+        {
+          "name": "The Verge",
+          "site": "https://www.theverge.com/apple",
+          "url": "https://www.theverge.com/rss/apple/index.xml",
+          "tier": 1
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "feeds": [
+        {
+          "name": "The Verge",
+          "site": "https://www.theverge.com/ai-artificial-intelligence",
+          "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+          "tier": 1
+        },
+        {
+          "name": "Ars Technica",
+          "site": "https://arstechnica.com/ai/",
+          "url": "https://arstechnica.com/ai/feed/",
+          "tier": 1
+        },
+        {
+          "name": "TechCrunch",
+          "site": "https://techcrunch.com/category/artificial-intelligence/",
+          "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+          "tier": 1
+        },
+        {
+          "name": "OpenAI",
+          "site": "https://openai.com/news/",
+          "url": "https://openai.com/news/rss.xml",
+          "tier": 2,
+          "kind": "primary"
+        },
+        {
+          "name": "Google DeepMind",
+          "site": "https://deepmind.google/blog/",
+          "url": "https://deepmind.google/blog/rss.xml",
+          "tier": 2,
+          "kind": "primary"
+        },
+        {
+          "name": "Google",
+          "site": "https://blog.google/technology/ai/",
+          "url": "https://blog.google/technology/ai/rss/",
+          "tier": 2,
+          "kind": "primary"
+        },
+        {
+          "name": "Simon Willison",
+          "site": "https://simonwillison.net",
+          "url": "https://simonwillison.net/atom/everything/",
+          "tier": 2
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "title": "Film",
+      "feeds": [
+        {
+          "name": "Variety",
+          "site": "https://variety.com/v/film/",
+          "url": "https://variety.com/v/film/feed/",
+          "tier": 1
+        },
+        {
+          "name": "The Hollywood Reporter",
+          "site": "https://www.hollywoodreporter.com/c/movies/",
+          "url": "https://www.hollywoodreporter.com/c/movies/feed/",
+          "tier": 1
+        },
+        {
+          "name": "Deadline",
+          "site": "https://deadline.com/v/film/",
+          "url": "https://deadline.com/v/film/feed/",
+          "tier": 1
+        },
+        {
+          "name": "IndieWire",
+          "site": "https://www.indiewire.com",
+          "url": "https://www.indiewire.com/feed/",
+          "tier": 2
+        },
+        {
+          "name": "The Guardian",
+          "site": "https://www.theguardian.com/film",
+          "url": "https://www.theguardian.com/film/rss",
+          "tier": 1
+        },
+        {
+          "name": "BBC",
+          "site": "https://www.bbc.co.uk/news/entertainment_and_arts",
+          "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+          "tier": 1
+        },
+        {
+          "name": "Letterboxd Journal",
+          "site": "https://letterboxd.com/journal/",
+          "url": "https://letterboxd.com/journal/rss/",
+          "tier": 2
+        },
+        {
+          "name": "RogerEbert.com",
+          "site": "https://www.rogerebert.com",
+          "url": "https://www.rogerebert.com/feed",
+          "tier": 2
+        },
+        {
+          "name": "/Film",
+          "site": "https://www.slashfilm.com",
+          "url": "https://www.slashfilm.com/feed/",
+          "tier": 2
+        }
+      ]
+    },
+    {
+      "id": "celtics",
+      "title": "Celtics",
+      "group": "sport",
+      "feeds": [
+        {
+          "name": "MassLive",
+          "site": "https://www.masslive.com/celtics/",
+          "url": "https://www.masslive.com/arc/outboundfeeds/rss/category/celtics/?outputType=xml",
+          "tier": 2
+        },
+        {
+          "name": "Boston.com",
+          "site": "https://www.boston.com/tag/boston-celtics/",
+          "url": "https://www.boston.com/tag/boston-celtics/feed/",
+          "tier": 2
+        },
+        {
+          "name": "CelticsBlog",
+          "site": "https://www.celticsblog.com",
+          "url": "https://www.celticsblog.com/rss/index.xml",
+          "tier": 2
+        }
+      ]
+    },
+    {
+      "id": "manutd",
+      "title": "Manchester United",
+      "group": "sport",
+      "feeds": [
+        {
+          "name": "BBC Sport",
+          "site": "https://www.bbc.co.uk/sport/football/teams/manchester-united",
+          "url": "https://feeds.bbci.co.uk/sport/football/teams/manchester-united/rss.xml",
+          "tier": 1
+        },
+        {
+          "name": "The Guardian",
+          "site": "https://www.theguardian.com/football/manchester-united",
+          "url": "https://www.theguardian.com/football/manchester-united/rss",
+          "tier": 1
+        },
+        {
+          "name": "Manchester Evening News",
+          "site": "https://www.manchestereveningnews.co.uk/all-about/manchester-united-fc",
+          "url": "https://www.manchestereveningnews.co.uk/all-about/manchester-united-fc?service=rss",
+          "tier": 2
+        }
+      ]
+    },
+    {
+      "id": "patriots",
+      "title": "Patriots",
+      "group": "sport",
+      "feeds": [
+        {
+          "name": "Patriots.com",
+          "site": "https://www.patriots.com/news/",
+          "url": "https://www.patriots.com/rss/news",
+          "tier": 2,
+          "kind": "primary"
+        },
+        {
+          "name": "MassLive",
+          "site": "https://www.masslive.com/patriots/",
+          "url": "https://www.masslive.com/arc/outboundfeeds/rss/category/patriots/?outputType=xml",
+          "tier": 2
+        },
+        {
+          "name": "Boston.com",
+          "site": "https://www.boston.com/tag/new-england-patriots/",
+          "url": "https://www.boston.com/tag/new-england-patriots/feed/",
+          "tier": 2
+        },
+        {
+          "name": "Pats Pulpit",
+          "site": "https://www.patspulpit.com",
+          "url": "https://www.patspulpit.com/rss/index.xml",
+          "tier": 2
+        }
+      ]
+    },
+    {
+      "id": "f1",
+      "title": "F1",
+      "group": "sport",
+      "feeds": [
+        {
+          "name": "Formula1.com",
+          "site": "https://www.formula1.com/en/latest",
+          "url": "https://www.formula1.com/en/latest/all.xml",
+          "tier": 2,
+          "kind": "primary"
+        },
+        {
+          "name": "BBC Sport",
+          "site": "https://www.bbc.co.uk/sport/formula1",
+          "url": "https://feeds.bbci.co.uk/sport/formula1/rss.xml",
+          "tier": 1
+        },
+        {
+          "name": "The Guardian",
+          "site": "https://www.theguardian.com/sport/formulaone",
+          "url": "https://www.theguardian.com/sport/formulaone/rss",
+          "tier": 1
+        },
+        {
+          "name": "Autosport",
+          "site": "https://www.autosport.com/f1/",
+          "url": "https://www.autosport.com/rss/f1/news/",
+          "tier": 2
+        },
+        {
+          "name": "Motorsport.com",
+          "site": "https://www.motorsport.com/f1/",
+          "url": "https://www.motorsport.com/rss/f1/news/",
+          "tier": 2
+        },
+        {
+          "name": "The Race",
+          "site": "https://www.the-race.com/formula-1/",
+          "url": "https://www.the-race.com/feed/",
+          "tier": 2
+        },
+        {
+          "name": "RaceFans",
+          "site": "https://www.racefans.net",
+          "url": "https://www.racefans.net/feed/",
+          "tier": 2
+        },
+        {
+          "name": "Sky Sports",
+          "site": "https://www.skysports.com/f1",
+          "url": "https://www.skysports.com/rss/12433",
+          "tier": 1
+        }
+      ]
+    },
+    {
+      "id": "redsox",
+      "title": "Red Sox",
+      "group": "sport",
+      "feeds": [
+        {
+          "name": "MLB.com",
+          "site": "https://www.mlb.com/redsox/news",
+          "url": "https://www.mlb.com/redsox/feeds/news/rss.xml",
+          "tier": 2,
+          "kind": "primary"
+        },
+        {
+          "name": "MassLive",
+          "site": "https://www.masslive.com/redsox/",
+          "url": "https://www.masslive.com/arc/outboundfeeds/rss/category/redsox/?outputType=xml",
+          "tier": 2
+        },
+        {
+          "name": "Boston.com",
+          "site": "https://www.boston.com/tag/boston-red-sox/",
+          "url": "https://www.boston.com/tag/boston-red-sox/feed/",
+          "tier": 2
+        },
+        {
+          "name": "Over the Monster",
+          "site": "https://www.overthemonster.com",
+          "url": "https://www.overthemonster.com/rss/index.xml",
+          "tier": 2
+        }
+      ]
+    },
+    {
+      "id": "finally",
+      "title": "And finally",
+      "feeds": [
+        {
+          "name": "Colossal",
+          "site": "https://www.thisiscolossal.com",
+          "url": "https://www.thisiscolossal.com/feed/",
+          "tier": 2
+        },
+        {
+          "name": "Kottke",
+          "site": "https://kottke.org",
+          "url": "https://feeds.kottke.org/main",
+          "tier": 2
+        },
+        {
+          "name": "Dezeen",
+          "site": "https://www.dezeen.com",
+          "url": "https://www.dezeen.com/feed/",
+          "tier": 2
+        },
+        {
+          "name": "The Guardian",
+          "site": "https://www.theguardian.com/world/series/the-upside",
+          "url": "https://www.theguardian.com/world/series/the-upside/rss",
+          "tier": 1
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "title": "Technology",
+      "feeds": [
+        {
+          "name": "The Verge",
+          "site": "https://www.theverge.com",
+          "url": "https://www.theverge.com/rss/index.xml",
+          "tier": 1
+        },
+        {
+          "name": "Ars Technica",
+          "site": "https://arstechnica.com",
+          "url": "https://feeds.arstechnica.com/arstechnica/index",
+          "tier": 1
+        },
+        {
+          "name": "TechCrunch",
+          "site": "https://techcrunch.com",
+          "url": "https://techcrunch.com/feed/",
+          "tier": 1
+        },
+        {
+          "name": "Engadget",
+          "site": "https://www.engadget.com",
+          "url": "https://www.engadget.com/rss.xml",
+          "tier": 2
+        },
+        {
+          "name": "BBC",
+          "site": "https://www.bbc.co.uk/news/technology",
+          "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+          "tier": 1
+        },
+        {
+          "name": "The Guardian",
+          "site": "https://www.theguardian.com/uk/technology",
+          "url": "https://www.theguardian.com/uk/technology/rss",
+          "tier": 1
+        }
+      ]
+    }
+  ],
+  "lenny": {
+    "name": "Lenny's Newsletter",
+    "site": "https://www.lennysnewsletter.com",
+    "archive_api": "https://www.lennysnewsletter.com/api/v1/archive?sort=new&search=&offset={offset}&limit=50"
+  },
+  "podcasts": [
+    {
+      "show": "Founders",
+      "host": "David Senra",
+      "feed": "https://feeds.megaphone.fm/DSLLC6297708582",
+      "apple": "https://podcasts.apple.com/gb/podcast/founders/id1141877104",
+      "site": "https://www.founderspodcast.com"
+    },
+    {
+      "show": "David Senra",
+      "host": "David Senra",
+      "feed": "https://feeds.megaphone.fm/david-senra",
+      "apple": "https://podcasts.apple.com/gb/podcast/david-senra/id1836497887",
+      "site": "https://podcasts.apple.com/gb/podcast/david-senra/id1836497887"
+    },
+    {
+      "show": "Acquired",
+      "host": "Ben Gilbert and David Rosenthal",
+      "feed": "https://feeds.transistor.fm/acquired",
+      "apple": "https://podcasts.apple.com/gb/podcast/acquired/id1050462261",
+      "site": "https://www.acquired.fm"
+    }
+  ],
+  "summary_chars": 200,
+  "blocked_hosts": [
+    "bloomberg.com",
+    "wsj.com",
+    "nytimes.com",
+    "ft.com",
+    "theinformation.com",
+    "theathletic.com",
+    "washingtonpost.com",
+    "economist.com",
+    "newyorker.com",
+    "wired.com",
+    "bostonglobe.com",
+    "telegraph.co.uk",
+    "thetimes.com",
+    "thetimes.co.uk"
+  ],
+  "exclude_titles": [
+    "^deals?:",
+    "^daily deals",
+    "daily links",
+    "^transcript:",
+    "^poll:",
+    "how to watch",
+    "^live:",
+    "^live blog",
+    "^watch:",
+    "^listen:",
+    "newsletter is out",
+    "^\\d+ things to",
+    "giveaway",
+    "^sale:",
+    "discount",
+    "coupon",
+    "best deals",
+    "price drop",
+    "^happy hour",
+    "^9to5mac daily",
+    "^podcast:",
+    "sign up",
+    "everything we know",
+    "everything you need to know",
+    "what you need to know",
+    "open thread",
+    "morning lineup"
+  ]
+}

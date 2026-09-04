@@ -1,0 +1,12 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    { "source": "/css/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600, stale-while-revalidate=604800" }] },
+    { "source": "/js/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600, stale-while-revalidate=604800" }] },
+    { "source": "/img/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=604800, stale-while-revalidate=2592000" }] },
+    { "source": "/", "headers": [{ "key": "Cache-Control", "value": "public, max-age=0, must-revalidate, s-maxage=120" }] },
+    { "source": "/:page(archive|sources)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=0, must-revalidate, s-maxage=120" }] },
+    { "source": "/editions/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=0, must-revalidate, s-maxage=600" }] }
+  ]
+}
