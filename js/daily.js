@@ -1,4 +1,4 @@
-/* The Daily: the glass sections menu, lifted from damianpickett.com. */
+/* The DJ: the glass sections menu, lifted from damianpickett.com. */
 
 (function () {
   "use strict";

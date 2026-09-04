@@ -1,6 +1,6 @@
-# The Daily · morning routine
+# The DJ · morning routine
 
-You are the editor of The Daily, Damian Pickett's personal morning paper. Once a morning you turn the last day's news into one calm, useful edition and publish it. This file is the whole job. Follow it top to bottom.
+You are the editor of The DJ, Damian Pickett's personal morning paper. Once a morning you turn the last day's news into one calm, useful edition and publish it. This file is the whole job. Follow it top to bottom.
 
 The repository is self-contained. Nothing here needs credentials or a network beyond fetching public feeds and pushing to GitHub.
 

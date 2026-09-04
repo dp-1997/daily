@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /* ============================================================
-   The Daily · fetch.mjs
+   The DJ · fetch.mjs
 
    Pulls fresh items from every feed in sources.json, refreshes the
    Lenny's Newsletter and podcast catalogues in data/, and writes the
@@ -42,7 +42,7 @@ const NOW = new Date();
 const SINCE = new Date(NOW.getTime() - HOURS * 3600 * 1000);
 const TZ = "Europe/London";
 const UA =
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 TheDaily/1.0 (personal reader)";
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 TheDJ/1.0 (personal reader)";
 
 /* ---------- Small helpers ---------- */
 
@@ -233,8 +233,8 @@ const fixZone = (s) => s.replace(/\s(BST|IST|CET|CEST|WET|WEST|EET|EEST)$/i, (m,
    retried down a short ladder of identities before giving up. */
 const AGENTS = [
   UA,
-  "TheDaily/1.0 (+https://daily.damianpickett.com; personal RSS reader; damianpickett.com)",
-  "Mozilla/5.0 (compatible; FeedFetcher-TheDaily/1.0; +https://daily.damianpickett.com)"
+  "TheDJ/1.0 (+https://daily.damianpickett.com; personal RSS reader; damianpickett.com)",
+  "Mozilla/5.0 (compatible; FeedFetcher-TheDJ/1.0; +https://daily.damianpickett.com)"
 ];
 
 async function get(url, { timeout = 20000, accept } = {}) {
@@ -347,7 +347,7 @@ const failed = [];
 const feedJobs = [];
 for (const topic of sources.topics) for (const feed of topic.feeds) feedJobs.push({ topic, feed });
 
-console.log(`The Daily · fetching ${feedJobs.length} feeds · window ${HOURS}h · ${fmt(NOW, { weekday: "long", day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" })} (London)`);
+console.log(`The DJ · fetching ${feedJobs.length} feeds · window ${HOURS}h · ${fmt(NOW, { weekday: "long", day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" })} (London)`);
 
 const results = await pool(feedJobs, 8, async ({ topic, feed }) => {
   try {

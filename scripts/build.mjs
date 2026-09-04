@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /* ============================================================
-   The Daily · build.mjs
+   The DJ · build.mjs
 
    Turns editions/*.json into static pages:
      index.html               the latest edition
@@ -29,7 +29,7 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const CHECK = process.argv.includes("--check");
 const OFFLINE = CHECK || process.env.DAILY_OFFLINE === "1";
 const TZ = "Europe/London";
-const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 TheDaily/1.0 (personal reader)";
+const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 TheDJ/1.0 (personal reader)";
 const site = JSON.parse(readFileSync(join(ROOT, "site.json"), "utf8"));
 const sources = JSON.parse(readFileSync(join(ROOT, "sources.json"), "utf8"));
 

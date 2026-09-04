@@ -1,14 +1,22 @@
 {
-  "name": "The Daily",
-  "short_name": "The Daily",
-  "description": "Damian Pickett's morning paper.",
+  "name": "The DJ",
+  "short_name": "The DJ",
+  "description": "The DJ, Damian Pickett's morning paper.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#16180f",
   "theme_color": "#16180f",
   "icons": [
-    { "src": "/img/icon-512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+    {
+      "src": "/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
   ]
 }
