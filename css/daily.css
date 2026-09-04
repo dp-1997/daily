@@ -18,7 +18,7 @@ body {
 
 main {
   max-width: 680px;
-  padding: 72px 24px 170px;
+  padding: calc(72px + env(safe-area-inset-top, 0px)) 24px 170px;
 }
 
 /* ---------- Masthead ---------- */
@@ -196,6 +196,77 @@ main .story-title a:visited {
 
 .finally .story-title {
   font-size: 21px;
+}
+
+/* ---------- Pictures ---------- */
+
+.story.has-media {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 84px;
+  gap: 18px;
+  align-items: start;
+}
+
+.story-media {
+  margin: 0;
+  width: 84px;
+  aspect-ratio: 1;
+  border-radius: 10px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.story-media img,
+.pick-media img,
+.pick-art img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Front page and the closing story carry their pictures wide. */
+.front .story.has-media,
+.finally .story.has-media {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 14px;
+}
+
+.front .story-media,
+.finally .story-media {
+  order: -1;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 12px;
+}
+
+.pick-media {
+  margin: -2px 0 18px;
+  aspect-ratio: 3 / 2;
+  border-radius: 10px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.pick-art {
+  position: absolute;
+  top: 22px;
+  right: 24px;
+  width: 60px;
+  height: 60px;
+  margin: 0;
+  border-radius: 12px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+}
+
+.pick.has-art .pick-kicker,
+.pick.has-art .pick-title {
+  padding-right: 76px;
 }
 
 /* ---------- Picks: today's read and listen ---------- */
@@ -427,7 +498,7 @@ main .edition-date a {
 
 @media (max-width: 780px) {
   main {
-    padding: 52px 20px 150px;
+    padding: calc(52px + env(safe-area-inset-top, 0px)) 20px 150px;
   }
 
   .masthead {
@@ -481,6 +552,27 @@ main .edition-date a {
   .pick {
     padding: 22px 22px 20px;
     border-radius: 16px;
+  }
+
+  .story.has-media {
+    grid-template-columns: minmax(0, 1fr) 76px;
+    gap: 14px;
+  }
+
+  .story-media {
+    width: 76px;
+  }
+
+  .pick-art {
+    top: 20px;
+    right: 20px;
+    width: 54px;
+    height: 54px;
+  }
+
+  .pick.has-art .pick-kicker,
+  .pick.has-art .pick-title {
+    padding-right: 66px;
   }
 
   .pick-title {

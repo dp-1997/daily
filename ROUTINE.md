@@ -32,7 +32,7 @@ Work from the repository root.
 
        node scripts/build.mjs
 
-   The build refuses invalid editions and prints exactly what is wrong. Fix the JSON and build again. Never edit the generated HTML by hand.
+   The build refuses invalid editions and prints exactly what is wrong. Fix the JSON and build again. Never edit the generated HTML by hand. The build also fetches a picture for each story from its feed or article page and writes it back into the edition file; that needs the network, and a story without a picture is fine.
 
 6. Publish:
 
@@ -66,23 +66,23 @@ Work from the repository root.
 
 ## Today's read: Lenny's Newsletter
 
-One post from Lenny's Newsletter, any age, chosen because it speaks to today or to Damian's work: positioning, launches, storytelling, product marketing, product-market fit, pricing, growth, career moves, building with AI, taste and craft. The candidates file lists the newest unused posts; for anything older, search the catalogue:
+Check first whether Lenny's published anything in the last 24 hours: the candidates file lists new posts under "New in the last 36 hours". If there is one, recommend it. If not, recommend a back-catalogue post, any age, chosen because it speaks to today or to Damian's work: positioning, launches, storytelling, product marketing, product-market fit, pricing, growth, career moves, building with AI, taste and craft. The candidates file lists the newest unused posts; for anything older, search the catalogue:
 
     grep -i "positioning\|launch" data/lenny.json | head -40
 
-Prefer written posts (`"type": "newsletter"`) over podcast episodes. Do not repeat anything listed under "Already recommended" (the last 120 days). In the edition you give the post's `url` and a one-sentence `why` connecting it to today or to him; the build fills in the title, subtitle, date, length and whether it is paid from the catalogue.
+Prefer written posts (`"type": "newsletter"`) over podcast episodes. Do not repeat anything listed under "Already recommended" (the last 120 days). In the edition you give the post's `url` and a one-sentence `why` connecting it to today or to him; the build fills in the title, subtitle, cover image, date, length and whether it is paid from the catalogue.
 
 ## Today's listen
 
-One episode from Founders (David Senra), David Senra (his interview show) or Acquired.
+Three shows: Founders (David Senra's book podcast), David Senra (his interview show) and Acquired.
 
-- If any of the three released an episode in the last seven days that has not been recommended, pick it; the candidates file lists them. Two picks are allowed only when two shows both released something.
-- Otherwise pick from the back catalogue for relevance to the day's news, Damian's interests or the Lenny's post:
+- Check first whether any of the three released an episode in the last 24 hours: the candidates file lists them under "new since the last edition". If one did, recommend it. If two or three did, recommend up to two.
+- If none did, recommend one back-catalogue episode for relevance to the day's news, Damian's interests or the Lenny's post:
 
       grep -i "steve jobs\|disney" data/podcasts.json | head -40
 
 - Rotate: avoid the same show three days running unless it released something new.
-- In the edition you give the episode's `url` (exactly as it appears in the catalogue) and a one-sentence `why`; the build fills in the show, title, date, duration and Apple Podcasts link.
+- In the edition you give the episode's `url` (exactly as it appears in the catalogue or the candidates file) and a one-sentence `why`; the build fills in the show, title, date, duration, artwork, Apple Podcasts link and, when the show's YouTube channel has the episode, the YouTube link. Damian listens on YouTube, so the card links there when it can and offers a YouTube search otherwise. Nothing for you to do.
 
 ## The edition file
 

@@ -21,6 +21,24 @@
     }
   });
 
+  /* A picture that fails to load takes its frame with it. */
+  document.addEventListener(
+    "error",
+    function (e) {
+      var el = e.target;
+      if (!el || el.tagName !== "IMG") return;
+      var fig = el.closest(".story-media, .pick-media, .pick-art");
+      if (!fig) return;
+      var owner = fig.closest(".has-media, .has-art");
+      fig.parentNode.removeChild(fig);
+      if (owner) {
+        owner.classList.remove("has-media");
+        owner.classList.remove("has-art");
+      }
+    },
+    true
+  );
+
   var menu = document.querySelector(".menu");
   var trigger = menu && menu.querySelector(".menu-trigger");
   var links = menu && menu.querySelector(".menu-links");

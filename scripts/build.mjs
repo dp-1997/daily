@@ -8,19 +8,28 @@
      archive.html             every edition, newest first
      sources.html             where the paper comes from
 
+   The editor writes title, url and tldr. Everything the reader also
+   wants (source, timestamp, a picture, the newsletter's subtitle and
+   cover, an episode's duration, artwork and YouTube link) is filled in
+   here from this morning's candidates, the catalogues and the article
+   pages, then written back into the edition so it stays self-contained
+   once _build/ is gone.
+
    No dependencies. Node 18 or newer.
 
      node scripts/build.mjs           build everything
-     node scripts/build.mjs --check   validate editions only, no output
+     node scripts/build.mjs --check   validate editions only, no output, no network
    ============================================================ */
 
-import { readFileSync, writeFileSync, readdirSync, mkdirSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync, readdirSync, mkdirSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const CHECK = process.argv.includes("--check");
+const OFFLINE = CHECK || process.env.DAILY_OFFLINE === "1";
 const TZ = "Europe/London";
+const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 TheDaily/1.0 (personal reader)";
 const site = JSON.parse(readFileSync(join(ROOT, "site.json"), "utf8"));
 const sources = JSON.parse(readFileSync(join(ROOT, "sources.json"), "utf8"));
 
@@ -45,26 +54,27 @@ const esc = (s) =>
 /* Straight quotes become typographic ones in rendered copy. */
 function typo(s) {
   return String(s ?? "")
-    .replace(/(^|[\s(\[\u201C\u2018])"/g, "$1\u201C")
-    .replace(/"/g, "\u201D")
-    .replace(/(^|[\s(\[\u201C])'/g, "$1\u2018")
-    .replace(/'/g, "\u2019");
+    .replace(/(^|[\s(\[“‘])"/g, "$1“")
+    .replace(/"/g, "”")
+    .replace(/(^|[\s(\[“])'/g, "$1‘")
+    .replace(/'/g, "’");
 }
 const t = (s) => esc(typo(s));
 
-const fmt = (d, opts) => new Intl.DateTimeFormat("en-GB", { timeZone: TZ, ...opts }).format(d).replace(/\bSept\b/, "Sep");
+const fmt = (d, opts) => new Intl.DateTimeFormat("en-GB", { timeZone: TZ, ...opts }).format(d);
 const isoDay = (d) => new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit" }).format(d);
 const noon = (day) => new Date(day + "T12:00:00Z");
+const tidy = (s) => s.replace(",", "").replace(/Sept\b/, "Sep");
 
 function longDate(day) {
   return fmt(noon(day), { weekday: "long", day: "numeric", month: "long", year: "numeric" }).replace(",", "");
 }
 function shortDate(day) {
-  return fmt(noon(day), { weekday: "short", day: "numeric", month: "short", year: "numeric" }).replace(",", "");
+  return tidy(fmt(noon(day), { weekday: "short", day: "numeric", month: "short", year: "numeric" }));
 }
 function monthYear(day) {
   if (!day) return "";
-  return fmt(noon(day.slice(0, 10)), { month: "long", year: "numeric" });
+  return fmt(noon(String(day).slice(0, 10)), { month: "long", year: "numeric" });
 }
 
 /* When a story was published, relative to the edition day, London time. */
@@ -75,8 +85,8 @@ function whenLabel(published, editionDay) {
   const day = isoDay(d);
   if (day === editionDay) return fmt(d, { hour: "2-digit", minute: "2-digit" });
   const diff = (noon(editionDay) - noon(day)) / 86400000;
-  if (diff <= 6) return fmt(d, { weekday: "short", hour: "2-digit", minute: "2-digit" }).replace(",", "");
-  return fmt(d, { day: "numeric", month: "short" });
+  if (diff <= 6) return tidy(fmt(d, { weekday: "short", hour: "2-digit", minute: "2-digit" }));
+  return tidy(fmt(d, { day: "numeric", month: "short" }));
 }
 
 function host(url) {
@@ -84,22 +94,6 @@ function host(url) {
     return new URL(url).hostname.replace(/^www\./, "");
   } catch {
     return "";
-  }
-}
-
-
-/* ---------- Enrichment ----------
-   The editor writes title, url and tldr. Everything the reader also
-   wants (source, timestamp, the newsletter's subtitle, an episode's
-   duration) is filled in here from this morning's candidates and the
-   catalogues, then written back into the edition so it stays
-   self-contained once _build/ is gone. */
-
-function loadJson(path, fallback) {
-  try {
-    return JSON.parse(readFileSync(path, "utf8"));
-  } catch {
-    return fallback;
   }
 }
 
@@ -112,6 +106,60 @@ function urlKey(u) {
   }
 }
 
+function loadJson(path, fallback) {
+  try {
+    return JSON.parse(readFileSync(path, "utf8"));
+  } catch {
+    return fallback;
+  }
+}
+
+async function pool(items, limit, fn) {
+  let i = 0;
+  await Promise.all(
+    Array.from({ length: Math.min(limit, items.length) }, async () => {
+      while (i < items.length) {
+        const k = i++;
+        await fn(items[k]);
+      }
+    })
+  );
+}
+
+/* The article's own share image, read from the top of its page. */
+async function ogImage(url) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), 8000);
+  try {
+    const res = await fetch(url, { headers: { "user-agent": UA, accept: "text/html,*/*;q=0.5" }, signal: ctrl.signal, redirect: "follow" });
+    if (!res.ok || !res.body) return "";
+    const reader = res.body.getReader();
+    const dec = new TextDecoder();
+    let html = "";
+    while (html.length < 300000) {
+      const { value, done } = await reader.read();
+      if (done) break;
+      html += dec.decode(value, { stream: true });
+      if (/<\/head>/i.test(html)) break;
+    }
+    reader.cancel().catch(() => {});
+    const m = html.match(/<meta\b[^>]*(?:property|name)\s*=\s*["'](?:og:image|og:image:url|twitter:image|twitter:image:src)["'][^>]*>/i);
+    if (!m) return "";
+    const c = m[0].match(/\bcontent\s*=\s*["']([^"']+)["']/i);
+    if (!c) return "";
+    let u = c[1].replace(/&amp;/g, "&").trim();
+    if (u.startsWith("//")) u = "https:" + u;
+    if (!/^https?:\/\//i.test(u)) u = new URL(u, url).toString();
+    return u;
+  } catch {
+    return "";
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+/* ---------- Enrichment ---------- */
+
 const candidates = loadJson(join(ROOT, "_build", "candidates.json"), null);
 const candByUrl = new Map();
 if (candidates) for (const list of Object.values(candidates.topics || {})) for (const it of list) candByUrl.set(urlKey(it.url), it);
@@ -120,9 +168,18 @@ const podByUrl = new Map();
 for (const e of loadJson(join(ROOT, "data", "podcasts.json"), [])) {
   podByUrl.set(urlKey(e.url), e);
   if (e.apple) podByUrl.set(urlKey(e.apple), e);
+  if (e.page) podByUrl.set(urlKey(e.page), e);
+  if (e.youtube) podByUrl.set(urlKey(e.youtube), e);
 }
 
-function enrich(ed) {
+function allStories(ed) {
+  const stories = [...(ed.front || [])];
+  for (const s of ed.sections || []) stories.push(...(s.stories || []));
+  if (ed.finally) stories.push(ed.finally);
+  return stories.filter((s) => s && typeof s === "object");
+}
+
+async function enrich(ed) {
   let changed = false;
   const fill = (obj, k, v) => {
     if ((obj[k] === undefined || obj[k] === null || obj[k] === "") && v !== undefined && v !== null && v !== "") {
@@ -130,16 +187,24 @@ function enrich(ed) {
       changed = true;
     }
   };
-  const stories = [...(ed.front || [])];
-  for (const s of ed.sections || []) stories.push(...(s.stories || []));
-  if (ed.finally) stories.push(ed.finally);
+  const stories = allStories(ed);
   for (const s of stories) {
-    if (!s || !s.url) continue;
+    if (!s.url) continue;
     const c = candByUrl.get(urlKey(s.url));
     if (!c) continue;
     fill(s, "title", c.title);
     fill(s, "source", c.source);
     fill(s, "published", c.published);
+    fill(s, "image", c.image);
+  }
+  /* Stories with no picture from their feed: ask the article page once.
+     An empty string records that we tried, so it is not asked again. */
+  const need = stories.filter((s) => s.url && s.image === undefined);
+  if (need.length && !OFFLINE) {
+    await pool(need, 6, async (s) => {
+      s.image = await ogImage(s.url);
+      changed = true;
+    });
   }
   if (ed.read && ed.read.url) {
     const p = lennyByUrl.get(urlKey(ed.read.url));
@@ -149,6 +214,7 @@ function enrich(ed) {
       fill(ed.read, "published", p.date);
       fill(ed.read, "words", p.words);
       fill(ed.read, "minutes", p.minutes);
+      fill(ed.read, "image", p.image);
       if (ed.read.paid === undefined) {
         ed.read.paid = p.audience === "only_paid";
         changed = true;
@@ -164,6 +230,9 @@ function enrich(ed) {
     fill(l, "published", e.date);
     fill(l, "duration", e.duration);
     fill(l, "apple", e.apple);
+    fill(l, "page", e.page);
+    fill(l, "artwork", e.artwork);
+    fill(l, "youtube", e.youtube);
   }
   return changed;
 }
@@ -218,13 +287,18 @@ function validate(ed, file) {
 
 /* ---------- Rendering ---------- */
 
+const img = (src, cls) => `<figure class="${cls}"><img src="${esc(src)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></figure>`;
+
 function storyHtml(s, editionDay, opts = {}) {
   const when = whenLabel(s.published, editionDay);
+  const media = s.image ? img(s.image, "story-media") : "";
   return `
-        <li class="story${opts.lead ? " story-lead" : ""}">
-          <h3 class="story-title"><a href="${esc(s.url)}" rel="noopener">${t(s.title)}</a></h3>
-          <p class="story-tldr">${t(s.tldr)}</p>
-          <p class="story-meta"><span class="story-source">${esc(s.source)}</span>${when ? `<span class="story-time">${esc(when)}</span>` : ""}</p>
+        <li class="story${opts.lead ? " story-lead" : ""}${media ? " has-media" : ""}">
+          <div class="story-body">
+            <h3 class="story-title"><a href="${esc(s.url)}" rel="noopener">${t(s.title)}</a></h3>
+            <p class="story-tldr">${t(s.tldr)}</p>
+            <p class="story-meta"><span class="story-source">${esc(s.source)}</span>${when ? `<span class="story-time">${esc(when)}</span>` : ""}</p>
+          </div>${media}
         </li>`;
 }
 
@@ -233,7 +307,7 @@ function storiesHtml(stories, editionDay, { grouped = false, lead = false } = {}
   if (!grouped) {
     return `<ol class="stories">${stories.map((s, i) => storyHtml(s, editionDay, { lead: lead && i === 0 })).join("")}\n      </ol>`;
   }
-  const order = [...SPORT_ORDER, ...stories.map((s) => s.tag).filter((t) => !SPORT_ORDER.includes(t))];
+  const order = [...SPORT_ORDER, ...stories.map((s) => s.tag).filter((x) => !SPORT_ORDER.includes(x))];
   const groups = new Map();
   for (const s of stories) {
     if (!groups.has(s.tag)) groups.set(s.tag, []);
@@ -254,7 +328,8 @@ function pickReadHtml(r) {
   if (r.words) meta.push(`${Number(r.words).toLocaleString("en-GB")} words`);
   if (r.minutes) meta.push(`${r.minutes} min`);
   return `
-        <article class="card glass pick">
+        <article class="card glass pick pick-read">
+          ${r.image ? img(r.image, "pick-media") : ""}
           <p class="pick-kicker">Today's read · Lenny's Newsletter</p>
           <h3 class="pick-title"><a href="${esc(r.url)}" rel="noopener">${t(r.title)}</a></h3>
           ${r.subtitle ? `<p class="pick-sub">${t(r.subtitle)}</p>` : ""}
@@ -263,19 +338,28 @@ function pickReadHtml(r) {
         </article>`;
 }
 
+const youtubeSearch = (l) => `https://www.youtube.com/results?search_query=${encodeURIComponent(`${l.show} ${l.title}`)}`;
+
 function pickListenHtml(l) {
   const show = sources.podcasts.find((p) => p.show === l.show);
+  const primary = l.youtube || l.url;
   const meta = [];
-  if (l.published) meta.push(monthYear(l.published));
-  if (l.duration) meta.push(l.duration);
+  if (l.published) meta.push(esc(monthYear(l.published)));
+  if (l.duration) meta.push(esc(l.duration));
+  const links = [];
+  if (l.youtube) links.push(`<a href="${esc(l.youtube)}" rel="noopener">YouTube</a>`);
+  else links.push(`<a href="${esc(youtubeSearch(l))}" rel="noopener">Find on YouTube</a>`);
+  const page = l.page || (l.url !== primary && !/podcasts\.apple\.com/i.test(l.url) ? l.url : "");
+  if (page && urlKey(page) !== urlKey(primary)) links.push(`<a href="${esc(page)}" rel="noopener">Show notes</a>`);
   const appleUrl = l.apple || show?.apple || "";
-  const apple = appleUrl && urlKey(appleUrl) !== urlKey(l.url) ? `<a class="pick-alt" href="${esc(appleUrl)}" rel="noopener">Apple Podcasts</a>` : "";
+  if (appleUrl && urlKey(appleUrl) !== urlKey(primary)) links.push(`<a href="${esc(appleUrl)}" rel="noopener">Apple Podcasts</a>`);
   return `
-        <article class="card glass pick">
+        <article class="card glass pick pick-listen${l.artwork ? " has-art" : ""}">
+          ${l.artwork ? img(l.artwork, "pick-art") : ""}
           <p class="pick-kicker">Today's listen · ${esc(l.show)}</p>
-          <h3 class="pick-title"><a href="${esc(l.url)}" rel="noopener">${t(l.title)}</a></h3>
+          <h3 class="pick-title"><a href="${esc(primary)}" rel="noopener">${t(l.title)}</a></h3>
           <p class="pick-why">${t(l.why)}</p>
-          <p class="pick-meta">${meta.map(esc).join(" · ")}${apple ? `${meta.length ? " · " : ""}${apple}` : ""}</p>
+          <p class="pick-meta">${[...meta, ...links].join(" · ")}</p>
         </article>`;
 }
 
@@ -343,7 +427,7 @@ ${menu}
 function colophon(feedCount) {
   return `
     <footer class="colophon">
-      <p>Curated each morning by Claude from ${feedCount} ungated sources, for <a href="${esc(site.owner_url)}">${esc(site.owner)}</a>. The summaries are the editor's; the reporting belongs to the outlets linked.</p>
+      <p>Curated each morning by Claude from ${feedCount} ungated sources, for <a href="${esc(site.owner_url)}">${esc(site.owner)}</a>. The summaries are the editor's; the reporting and the pictures belong to the outlets linked.</p>
       <p class="colophon-links"><a href="/archive">Archive</a><a href="/sources">Sources</a><a href="${esc(site.owner_url)}">damianpickett.com</a></p>
     </footer>`;
 }
@@ -421,16 +505,16 @@ ${colophon(feedCount)}`;
 
 function sourcesHtml(feedCount) {
   const groups = sources.topics
-    .map((t) => {
-      const items = t.feeds.map((f) => `<li><a href="${esc(f.site)}" rel="noopener">${esc(f.name)}</a><span class="source-host">${esc(host(f.site))}</span></li>`).join("");
+    .map((tp) => {
+      const items = tp.feeds.map((f) => `<li><a href="${esc(f.site)}" rel="noopener">${esc(f.name)}</a><span class="source-host">${esc(host(f.site))}</span></li>`).join("");
       return `
       <div class="source-group">
-        <h2 class="group-h">${esc(t.group ? `Sport · ${t.title}` : t.title)}</h2>
+        <h2 class="group-h">${esc(tp.group ? `Sport · ${tp.title}` : tp.title)}</h2>
         <ul class="source-list">${items}</ul>
       </div>`;
     })
     .join("");
-  const pods = sources.podcasts.map((p) => `<li><a href="${esc(p.site)}" rel="noopener">${esc(p.show)}</a><span class="source-host">${esc(p.host)}</span></li>`).join("");
+  const pods = sources.podcasts.map((p) => `<li><a href="${esc(p.youtube || p.site)}" rel="noopener">${esc(p.show)}</a><span class="source-host">${esc(p.host)}</span></li>`).join("");
   const body = `
     <header class="masthead fade-in" style="--d: 0">
       <p class="masthead-kicker"><a href="/">${esc(site.name)}</a></p>
@@ -457,7 +541,7 @@ ${colophon(feedCount)}`;
 const dir = join(ROOT, "editions");
 mkdirSync(dir, { recursive: true });
 const files = readdirSync(dir).filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
-const feedCount = sources.topics.reduce((n, t) => n + t.feeds.length, 0);
+const feedCount = sources.topics.reduce((n, tp) => n + tp.feeds.length, 0);
 
 let failed = false;
 const editions = [];
@@ -470,7 +554,7 @@ for (const [i, f] of files.entries()) {
     failed = true;
     continue;
   }
-  const enriched = enrich(ed);
+  const enriched = await enrich(ed);
   const errs = validate(ed, f);
   if (enriched && !errs.length && !CHECK) writeFileSync(join(dir, f), JSON.stringify(ed, null, 2) + "\n");
   if (errs.length) {
@@ -503,5 +587,6 @@ writeFileSync(join(ROOT, "index.html"), editionHtml(latest.ed, latest.number, fe
 writeFileSync(join(ROOT, "archive.html"), archiveHtml([...editions].reverse(), feedCount));
 writeFileSync(join(ROOT, "sources.html"), sourcesHtml(feedCount));
 
-const stories = latest.ed.front.length + latest.ed.sections.reduce((n, s) => n + s.stories.length, 0) + (latest.ed.finally ? 1 : 0);
-console.log(`✓ Built ${editions.length} edition${editions.length === 1 ? "" : "s"}. Latest: ${latest.ed.date} (No. ${latest.number}), ${stories} stories, ${latest.ed.listen.length} listen pick${latest.ed.listen.length === 1 ? "" : "s"}.`);
+const stories = allStories(latest.ed);
+const pictured = stories.filter((s) => s.image).length;
+console.log(`✓ Built ${editions.length} edition${editions.length === 1 ? "" : "s"}. Latest: ${latest.ed.date} (No. ${latest.number}), ${stories.length} stories (${pictured} with pictures), ${latest.ed.listen.length} listen pick${latest.ed.listen.length === 1 ? "" : "s"}${latest.ed.listen.some((l) => l.youtube) ? " with YouTube" : ""}.`);

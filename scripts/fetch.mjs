@@ -32,6 +32,8 @@ const HOURS = Number(val("--hours", sources.window_hours || 30));
 const PER_SOURCE = sources.per_source_cap || 10;
 const PER_TOPIC = sources.per_topic_cap || 30;
 const SUMMARY = sources.summary_chars || 200;
+const NEW_POD_HOURS = sources.podcast_new_hours || 36;
+const NEW_LENNY_HOURS = sources.lenny_new_hours || 36;
 const UNDATED_CAP = 8;
 const EXCLUDE = (sources.exclude_titles || []).map((p) => new RegExp(p, "i"));
 const BLOCKED = sources.blocked_hosts || [];
@@ -48,6 +50,8 @@ const fmt = (d, opts) => new Intl.DateTimeFormat("en-GB", { timeZone: TZ, ...opt
 const isoDay = (d) => new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit" }).format(d);
 const TODAY = isoDay(NOW);
 const INVISIBLE = /[\u200B-\u200F\u2060\uFEFF\u00AD]/g;
+const hoursAgo = (iso) => (NOW - new Date(iso)) / 3600000;
+const daysAgo = (iso) => (NOW - new Date(iso.length === 10 ? iso + "T12:00:00Z" : iso)) / 86400000;
 
 function whenLabel(d) {
   if (!d) return "undated";
@@ -92,18 +96,69 @@ function tag(block, name) {
   return m ? m[1] : null;
 }
 
+function attr(attrs, name) {
+  const m = attrs.match(new RegExp(`\\b${name}\\s*=\\s*"([^"]*)"`, "i")) || attrs.match(new RegExp(`\\b${name}\\s*=\\s*'([^']*)'`, "i"));
+  return m ? m[1] : "";
+}
+
 function atomLink(block) {
   const links = [...block.matchAll(/<(?:atom:)?link\b([^>]*?)\/?>/gi)].map((m) => m[1]);
   let alt = null;
   let any = null;
   for (const attrs of links) {
-    const href = (attrs.match(/href\s*=\s*"([^"]*)"/i) || attrs.match(/href\s*=\s*'([^']*)'/i) || [])[1];
+    const href = attr(attrs, "href");
     if (!href) continue;
-    const rel = (attrs.match(/rel\s*=\s*"([^"]*)"/i) || [])[1];
+    const rel = attr(attrs, "rel");
     if (!rel || rel === "alternate") alt = alt ?? href;
     any = any ?? href;
   }
   return alt ?? any;
+}
+
+/* The best picture a feed item offers, if any. */
+function itemImage(block) {
+  let best = "";
+  let bestW = -1;
+  for (const m of block.matchAll(/<media:content\b([^>]*)>/gi)) {
+    const url = attr(m[1], "url");
+    if (!url) continue;
+    const type = attr(m[1], "type");
+    const medium = attr(m[1], "medium");
+    if (type && !/^image\//i.test(type)) continue;
+    if (medium && medium !== "image") continue;
+    const w = Number(attr(m[1], "width") || 0);
+    if (w > bestW) {
+      best = url;
+      bestW = w;
+    }
+  }
+  if (!best) {
+    const t = block.match(/<media:thumbnail\b([^>]*)>/i);
+    if (t) best = attr(t[1], "url");
+  }
+  if (!best) {
+    const e = block.match(/<enclosure\b([^>]*)>/i);
+    if (e && /^image\//i.test(attr(e[1], "type"))) best = attr(e[1], "url");
+  }
+  if (!best) {
+    const it = block.match(/<itunes:image\b([^>]*)>/i);
+    if (it) best = attr(it[1], "href");
+  }
+  if (!best) {
+    const html = decode(decode(unwrap(tag(block, "content:encoded") || tag(block, "description") || tag(block, "content") || tag(block, "summary") || "")));
+    for (const m of html.matchAll(/<img\b([^>]*)>/gi)) {
+      const src = attr(m[1], "src");
+      if (!src) continue;
+      const w = Number(attr(m[1], "width") || 0);
+      if (w && w < 80) continue;
+      if (/pixel|tracker|feedburner|1x1|\.gif(\?|$)|emoji|gravatar|badge|icon|spacer|avatar/i.test(src)) continue;
+      best = src;
+      break;
+    }
+  }
+  best = decode(best || "").replace(INVISIBLE, "").trim();
+  if (best.startsWith("//")) best = "https:" + best;
+  return /^https?:\/\//i.test(best) ? best : "";
 }
 
 function truncate(s, n) {
@@ -166,6 +221,11 @@ function duration(raw) {
   return h ? `${h}h ${String(m).padStart(2, "0")}m` : `${m}m`;
 }
 
+/* JavaScript's date parser rejects European zone abbreviations that
+   some UK feeds use (Sky Sports: "BST"). */
+const ZONES = { BST: "+0100", IST: "+0100", CET: "+0100", CEST: "+0200", WET: "+0000", WEST: "+0100", EET: "+0200", EEST: "+0300" };
+const fixZone = (s) => s.replace(/\s(BST|IST|CET|CEST|WET|WEST|EET|EEST)$/i, (m, z) => " " + ZONES[z.toUpperCase()]);
+
 /* ---------- Network ---------- */
 
 async function get(url, { timeout = 20000, accept } = {}) {
@@ -201,12 +261,6 @@ async function pool(items, limit, fn) {
   return out;
 }
 
-
-/* JavaScript's date parser rejects European zone abbreviations that
-   some UK feeds use (Sky Sports: "BST"). */
-const ZONES = { BST: "+0100", IST: "+0100", CET: "+0100", CEST: "+0200", WET: "+0000", WEST: "+0100", EET: "+0200", EEST: "+0300" };
-const fixZone = (s) => s.replace(/\s(BST|IST|CET|CEST|WET|WEST|EET|EEST)$/i, (m, z) => " " + ZONES[z.toUpperCase()]);
-
 /* ---------- Feed parsing (RSS 2.0, RSS 1.0 and Atom) ---------- */
 
 function parseFeed(xml) {
@@ -232,7 +286,7 @@ function parseFeed(xml) {
       const summaryRaw = tag(b, "description") || tag(b, "summary") || tag(b, "content:encoded") || tag(b, "content") || "";
       const summary = text(summaryRaw);
       const dur = tag(b, "itunes:duration");
-      return { title, link, guid, published, summary, duration: duration(dur ? text(dur) : "") };
+      return { title, link, guid, published, summary, duration: duration(dur ? text(dur) : ""), image: itemImage(b) };
     })
     .filter((it) => it.title);
 }
@@ -263,7 +317,6 @@ function storiesOf(ed) {
 }
 
 const editions = loadEditions();
-const daysAgo = (iso) => (NOW - new Date(iso + "T12:00:00Z")) / 86400000;
 const usedStoryUrls = new Set();
 for (const ed of editions.slice(-7)) for (const s of storiesOf(ed)) if (s?.url) usedStoryUrls.add(normUrl(s.url));
 const recentReads = editions.filter((e) => daysAgo(e.date) <= 120 && e.read?.url).map((e) => ({ date: e.date, url: e.read.url, title: e.read.title || "" }));
@@ -333,17 +386,12 @@ for (const topic of sources.topics) {
         topic: topic.id,
         published: it.published ? it.published.toISOString() : null,
         when: undated ? "undated" : whenLabel(it.published),
-        summary: truncate(it.summary, SUMMARY)
+        summary: truncate(it.summary, SUMMARY),
+        image: it.image || ""
       });
     }
   }
-  list.sort((a, b) => {
-    if (!a.published && !b.published) return 0;
-    if (!a.published) return 1;
-    if (!b.published) return -1;
-    return b.published.localeCompare(a.published);
-  });
-  const dated = list.filter((it) => it.published).slice(0, PER_TOPIC);
+  const dated = list.filter((it) => it.published).sort((a, b) => b.published.localeCompare(a.published)).slice(0, PER_TOPIC);
   const undatedItems = list.filter((it) => !it.published).slice(0, UNDATED_CAP);
   topics[topic.id] = [...dated, ...undatedItems];
 }
@@ -366,8 +414,8 @@ async function refreshLenny(full) {
     if (!Array.isArray(arr) || arr.length === 0) break;
     let added = 0;
     for (const p of arr) {
-      if (!p.canonical_url || byId.has(p.id)) continue;
-      byId.set(p.id, {
+      if (!p.canonical_url) continue;
+      const fresh = {
         id: p.id,
         title: text(p.title || ""),
         subtitle: text(p.subtitle || ""),
@@ -376,9 +424,11 @@ async function refreshLenny(full) {
         type: p.type,
         audience: p.audience,
         words: p.wordcount || null,
-        minutes: p.podcast_duration ? Math.round(p.podcast_duration / 60) : null
-      });
-      added++;
+        minutes: p.podcast_duration ? Math.round(p.podcast_duration / 60) : null,
+        image: p.cover_image || ""
+      };
+      if (!byId.has(p.id)) added++;
+      byId.set(p.id, { ...(byId.get(p.id) || {}), ...fresh });
     }
     pages++;
     offset += 50;
@@ -389,21 +439,64 @@ async function refreshLenny(full) {
   return posts;
 }
 
-/* Apple's lookup API gives a per-episode Apple Podcasts link for the
-   200 most recent episodes of a show, which matters for Founders,
+/* Apple's lookup API gives a per-episode Apple Podcasts link and artwork
+   for the 200 most recent episodes of a show, which matters for Founders,
    whose feed carries no episode links at all. */
 async function appleEpisodes(show) {
   const m = (show.apple || "").match(/id(\d+)/);
-  if (!m) return new Map();
+  const out = { map: new Map(), artwork: "" };
+  if (!m) return out;
   const raw = await get(`https://itunes.apple.com/lookup?id=${m[1]}&entity=podcastEpisode&limit=200`, { accept: "application/json" });
-  const map = new Map();
   for (const e of JSON.parse(raw).results || []) {
+    if (e.kind === "podcast" || e.wrapperType === "track" && e.kind !== "podcast-episode") {
+      if (!out.artwork && e.artworkUrl600) out.artwork = e.artworkUrl600;
+      continue;
+    }
     if (e.kind !== "podcast-episode" || !e.trackViewUrl) continue;
-    const info = { url: e.trackViewUrl.replace(/\?uo=\d+$/, ""), title: e.trackName || "" };
-    if (e.episodeGuid) map.set("g:" + e.episodeGuid, info);
-    if (e.trackName) map.set("t:" + titleKey(e.trackName), info);
+    const info = { url: e.trackViewUrl.replace(/\?uo=\d+$/, ""), title: e.trackName || "", artwork: e.artworkUrl600 || "" };
+    if (e.episodeGuid) out.map.set("g:" + e.episodeGuid, info);
+    if (e.trackName) out.map.set("t:" + titleKey(e.trackName), info);
   }
-  return map;
+  return out;
+}
+
+/* YouTube's channel feed lists a show's latest 15 uploads. Episodes are
+   matched to videos by title, or by guest name plus release date when
+   the channel retitles them. Older episodes get a search link instead. */
+async function youtubeVideos(show) {
+  if (!show.youtube_channel) return [];
+  const xml = await get(`https://www.youtube.com/feeds/videos.xml?channel_id=${show.youtube_channel}`);
+  return [...xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)].map((m) => {
+    const b = m[1];
+    const id = text(tag(b, "yt:videoId") || "");
+    const t = text(tag(b, "title") || "");
+    const p = text(tag(b, "published") || "");
+    return { id, title: t, date: p.slice(0, 10), url: `https://www.youtube.com/watch?v=${id}` };
+  }).filter((v) => v.id && v.title);
+}
+
+const STOP = new Set(["the", "and", "for", "with", "from", "that", "this", "how", "why", "what", "who", "his", "her", "their", "our", "your", "you", "are", "was", "were", "into", "over", "about", "after", "before", "podcast", "episode", "founders", "acquired", "david", "senra", "part", "full", "interview"]);
+const words = (t) => new Set(titleKey(t).split(" ").filter((w) => w.length >= 3 && !STOP.has(w)));
+
+function matchVideo(ep, videos) {
+  const k = titleKey(ep.title);
+  let best = null;
+  let bestScore = 0;
+  for (const v of videos) {
+    const vk = titleKey(v.title);
+    if (vk === k || (k.length > 24 && (vk.includes(k) || k.includes(vk)))) return v;
+    const a = words(ep.title);
+    const b = words(v.title);
+    let shared = 0;
+    for (const w of a) if (b.has(w)) shared++;
+    const dayDiff = ep.date && v.date ? Math.abs((new Date(ep.date) - new Date(v.date)) / 86400000) : 99;
+    const score = shared + (dayDiff <= 3 ? 1 : 0);
+    if (shared >= 2 && dayDiff <= 5 && score > bestScore) {
+      best = v;
+      bestScore = score;
+    }
+  }
+  return best;
 }
 
 async function refreshPodcasts() {
@@ -412,31 +505,44 @@ async function refreshPodcasts() {
   const key = (e) => `${e.show}::${e.guid || e.url}`;
   const byKey = new Map(known.map((e) => [key(e), e]));
   for (const show of sources.podcasts) {
-    let apple = new Map();
+    let apple = { map: new Map(), artwork: "" };
+    let videos = [];
     try {
       apple = await appleEpisodes(show);
     } catch (err) {
       failed.push({ topic: "podcasts", name: `${show.show} (Apple lookup)`, url: show.apple, error: String(err.message || err) });
     }
     try {
+      videos = await youtubeVideos(show);
+    } catch (err) {
+      failed.push({ topic: "podcasts", name: `${show.show} (YouTube feed)`, url: show.youtube || "", error: String(err.message || err) });
+    }
+    try {
       const xml = await get(show.feed);
       const items = parseFeed(xml);
       if (!items.length) throw new Error("no episodes parsed");
       for (const it of items) {
-        const a = apple.get("g:" + it.guid) || apple.get("t:" + titleKey(it.title));
+        const a = apple.map.get("g:" + it.guid) || apple.map.get("t:" + titleKey(it.title));
         const ownPage = it.link && !isHomepage(it.link) && !/megaphone\.fm|transistor\.fm/i.test(host(it.link)) ? normUrl(it.link) : "";
         const e = {
           show: show.show,
           title: truncate(it.title, 180),
           url: ownPage || a?.url || show.apple,
+          page: ownPage,
           apple: a?.url || "",
+          artwork: a?.artwork || it.image || apple.artwork || "",
           guid: it.guid,
           date: it.published ? it.published.toISOString().slice(0, 10) : "",
           duration: it.duration,
           summary: truncate(it.summary, 300)
         };
+        const v = matchVideo(e, videos);
         const prev = byKey.get(key(e));
-        byKey.set(key(e), prev ? { ...prev, ...e, apple: e.apple || prev.apple || "" } : e);
+        const merged = prev ? { ...prev, ...e } : e;
+        merged.apple = e.apple || prev?.apple || "";
+        merged.artwork = e.artwork || prev?.artwork || "";
+        merged.youtube = v ? v.url : prev?.youtube || "";
+        byKey.set(key(e), merged);
       }
     } catch (err) {
       failed.push({ topic: "podcasts", name: show.show, url: show.feed, error: String(err.message || err) });
@@ -464,11 +570,14 @@ if (!has("--no-catalogues")) {
 }
 
 const recentListenUrls = new Set(recentListens.map((l) => l.url));
-const newEpisodes = podcasts.filter((e) => e.date && daysAgo(e.date) <= 7 && !recentListenUrls.has(e.url));
+const newEpisodes = podcasts.filter((e) => e.date && daysAgo(e.date) <= NEW_POD_HOURS / 24 && !recentListenUrls.has(e.url));
+const latestPerShow = sources.podcasts.map((s) => podcasts.find((e) => e.show === s.show)).filter(Boolean);
 const showCounts = {};
 for (const e of podcasts) showCounts[e.show] = (showCounts[e.show] || 0) + 1;
 const recentReadUrls = new Set(recentReads.map((r) => r.url));
-const lennyLatest = lenny.filter((p) => !recentReadUrls.has(p.url)).slice(0, 12);
+const lennyUnused = lenny.filter((p) => !recentReadUrls.has(p.url));
+const lennyNew = lennyUnused.filter((p) => p.date && daysAgo(p.date) <= NEW_LENNY_HOURS / 24);
+const lennyLatest = lennyUnused.slice(0, 12);
 
 /* ---------- Write the candidate files ---------- */
 
@@ -483,11 +592,12 @@ const out = {
   excluded_already_used: excludedUsed,
   excluded_noise: excludedNoise,
   topics,
-  podcasts: { new_episodes: newEpisodes, recent_picks: recentListens, catalogue: showCounts },
-  lenny: { recent_picks: recentReads, catalogue_count: lenny.length, latest_unused: lennyLatest }
+  podcasts: { new_episodes: newEpisodes, latest: latestPerShow, recent_picks: recentListens, catalogue: showCounts },
+  lenny: { new_posts: lennyNew, recent_picks: recentReads, catalogue_count: lenny.length, latest_unused: lennyLatest }
 };
 writeFileSync(join(ROOT, "_build", "candidates.json"), JSON.stringify(out, null, 1));
 
+const epLine = (e) => `- ${e.show} · **${e.title}** · ${e.date} · ${e.duration || "?"}${e.youtube ? " · YouTube" : ""}\n  ${e.summary ? e.summary + "\n  " : ""}${e.url}`;
 const md = [];
 md.push(`# Candidates · ${fmt(NOW, { weekday: "long", day: "numeric", month: "long", year: "numeric" })}`);
 md.push("");
@@ -507,18 +617,20 @@ for (const topic of sources.topics) {
   }
   md.push("");
 }
-md.push(`## Podcasts · new episodes in the last 7 days · ${newEpisodes.length}`);
+md.push(`## Podcasts · new since the last edition (${NEW_POD_HOURS} hours) · ${newEpisodes.length}`);
 md.push("");
-if (!newEpisodes.length) md.push("(none: pick from the back catalogue in data/podcasts.json)");
-for (const e of newEpisodes) {
-  md.push(`- ${e.show} · **${e.title}** · ${e.date} · ${e.duration || "?"}`);
-  if (e.summary) md.push(`  ${e.summary}`);
-  md.push(`  ${e.url}`);
-}
+if (!newEpisodes.length) md.push("(none: recommend a back-catalogue episode from data/podcasts.json)");
+for (const e of newEpisodes) md.push(epLine(e));
+md.push("");
+md.push("Latest episode of each show, for context:");
+for (const e of latestPerShow) md.push(`- ${e.show} · ${e.title} · ${e.date}${recentListenUrls.has(e.url) ? " · already recommended" : ""}`);
 md.push("");
 md.push(`Catalogue in data/podcasts.json: ${Object.entries(showCounts).map(([s, n]) => `${s} ${n}`).join(", ")} episodes. Search it with grep rather than reading it whole.`);
 md.push("");
 md.push(`## Lenny's Newsletter · ${lenny.length} posts in data/lenny.json`);
+md.push("");
+md.push(`New in the last ${NEW_LENNY_HOURS} hours: ${lennyNew.length ? "" : "none, so recommend a back-catalogue post."}`);
+for (const p of lennyNew) md.push(`- ${p.date} · **${p.title}** · ${p.subtitle} · ${p.audience === "only_paid" ? "paid" : "free"} · ${p.type}\n  ${p.url}`);
 md.push("");
 md.push("Newest posts not yet recommended:");
 for (const p of lennyLatest) md.push(`- ${p.date} · **${p.title}** · ${p.subtitle} · ${p.audience === "only_paid" ? "paid" : "free"} · ${p.type}\n  ${p.url}`);
@@ -532,8 +644,9 @@ md.push("");
 writeFileSync(join(ROOT, "_build", "candidates.md"), md.join("\n"));
 
 const counts = sources.topics.map((t) => `${t.title} ${topics[t.id].length}`).join(" · ");
+const withImages = Object.values(topics).flat().filter((it) => it.image).length;
 console.log(`Feeds OK ${out.feeds.ok}/${out.feeds.total}${failed.length ? ` · failed: ${failed.map((f) => f.name).join(", ")}` : ""}${undatedFeeds.length ? ` · undated: ${undatedFeeds.join(", ")}` : ""}`);
-console.log(`Candidates: ${counts}`);
+console.log(`Candidates: ${counts} · with feed images: ${withImages}`);
 console.log(`Excluded: ${excludedUsed} already used · ${excludedNoise} paywalled or noise`);
-console.log(`Lenny catalogue: ${lenny.length} posts · podcast episodes: ${podcasts.length} · new this week: ${newEpisodes.length}`);
+console.log(`Lenny catalogue: ${lenny.length} posts (${lennyNew.length} new) · podcast episodes: ${podcasts.length} (${newEpisodes.length} new, ${podcasts.filter((e) => e.youtube).length} with YouTube links)`);
 console.log("Wrote _build/candidates.md and _build/candidates.json");

@@ -8,7 +8,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4604,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/df93abba-682d-446b-a21a-5ad935867a1f_1456x970.png"
  },
  {
   "id": 212023427,
@@ -19,7 +20,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4860,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/1a88a225-3e0f-4c00-b34f-3bdcabd91bb3_1456x970.png"
  },
  {
   "id": 208730073,
@@ -30,7 +32,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 933,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!PFZn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f696879-6374-42d6-a171-47933f6eb126_1456x970.png"
  },
  {
   "id": 210403546,
@@ -41,7 +44,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5969,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/a4a1e7f9-6872-47ef-ac7f-f6b0d04612cf_1456x970.png"
  },
  {
   "id": 209417296,
@@ -52,7 +56,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4925,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!IRuH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f21b41f-e81d-4477-b3d2-3de980d64060_1456x970.png"
  },
  {
   "id": 207842013,
@@ -63,7 +68,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2163,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!zA4i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd82569d-7b1e-43f1-a487-c9cb4da0435b_1456x970.png"
  },
  {
   "id": 207182275,
@@ -74,7 +80,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5388,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!vNGP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63592fe7-75fd-4e63-9fb2-a33c9301e39f_1456x970.png"
  },
  {
   "id": 195557892,
@@ -85,18 +92,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5411,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!cqwk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15ff6297-e313-469c-b9da-6ec414b950eb_1456x970.png"
  },
  {
   "id": 203730639,
-  "title": "How top PMs increase their leverage with AI ",
+  "title": "How top PMs increase their leverage with AI",
   "subtitle": "A framework for getting the most out of AI in your day-to-day-work",
   "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
   "date": "2026-06-30",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4001,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!n04_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a3757c5-b5be-4deb-856f-e3074d2ac735_1456x970.png"
  },
  {
   "id": 202768941,
@@ -107,7 +116,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4719,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!8QDo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5c60fad-a124-4ad1-adf0-7e9743dfb824_1456x970.png"
  },
  {
   "id": 200830169,
@@ -118,7 +128,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1408,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/732aacca-9fee-4920-ae4d-449d017c3bce_2912x1940.png"
  },
  {
   "id": 198594138,
@@ -129,7 +140,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1428,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/af9115c4-7e08-458d-bfe9-1674aa5c3df2_2912x1940.png"
  },
  {
   "id": 197272146,
@@ -140,7 +152,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 542,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/ba9813c7-337f-41ee-a160-9559e11648b5_4800x2520.png"
  },
  {
   "id": 195672025,
@@ -151,7 +164,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3014,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!jX4T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dbe470a-3caf-43dd-ab76-118d515e409f_1456x970.png"
  },
  {
   "id": 195559198,
@@ -162,7 +176,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1365,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!dU7r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5169166-0761-408f-83da-a55070a2c78d_1456x970.png"
  },
  {
   "id": 165204731,
@@ -173,7 +188,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1647,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!5ZAf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9c7b10b-67b4-4d40-86c5-bce31eef2c22_1200x767.png"
  },
  {
   "id": 193512668,
@@ -184,18 +200,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4726,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!0bKY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7622271-6226-44da-926d-8fbb1e4af173_1456x970.png"
  },
  {
   "id": 193007895,
   "title": "A visual guide to getting out of a creative slump",
-  "subtitle": "On creating work like a human (and all the feelings that come with it) ",
+  "subtitle": "On creating work like a human (and all the feelings that come with it)",
   "url": "https://www.lennysnewsletter.com/p/a-visual-guide-to-getting-out-of",
   "date": "2026-04-07",
   "type": "newsletter",
   "audience": "everyone",
   "words": 1369,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!F-hp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0146677f-6753-44cf-bcc9-0d170d6dcfae_1200x555.jpeg"
  },
  {
   "id": 192645190,
@@ -206,7 +224,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4574,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!UV3b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F828cd7bf-7e57-4cc3-bb72-2bcbbf5cac9e_2912x1940.png"
  },
  {
   "id": 191595250,
@@ -217,18 +236,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1656,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!R7qT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1359e-86e1-4279-b080-ae33cff8af21_1456x970.png"
  },
  {
   "id": 189504410,
   "title": "How I built LennyRPG",
-  "subtitle": "Turning 300+ episode transcripts into a fun, playable game with AI ",
+  "subtitle": "Turning 300+ episode transcripts into a fun, playable game with AI",
   "url": "https://www.lennysnewsletter.com/p/how-i-built-lennyrpg",
   "date": "2026-03-17",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4378,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!ZbLz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9a5c1d4-371d-4bde-9429-25077e840ebc_1456x970.png"
  },
  {
   "id": 189907301,
@@ -239,7 +260,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5124,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!mQVh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9e59a6f-2b65-45e5-a1ed-aa7236060067_2912x1940.png"
  },
  {
   "id": 187984548,
@@ -250,7 +272,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2660,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!z9Ie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd7a56c2-5569-4009-b5f1-9236f147451c_1456x970.png"
  },
  {
   "id": 167926811,
@@ -261,7 +284,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2592,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!-yGA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc230bf55-47d9-4798-a01d-1d4fbb48624d_2912x1940.png"
  },
  {
   "id": 166994045,
@@ -272,18 +296,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3617,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/7ecb0858-9e41-4246-a6cc-d6630193d513_1456x970.png"
  },
  {
   "id": 166431324,
   "title": "The definitive guide to mastering analytical thinking interviews",
-  "subtitle": "A step-by-step playbook to help you ace your PM interviews ",
+  "subtitle": "A step-by-step playbook to help you ace your PM interviews",
   "url": "https://www.lennysnewsletter.com/p/the-definitive-guide-to-mastering-f81",
   "date": "2025-07-01",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4737,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!DXuD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcb9ef32-98bd-4c94-a409-978b52a87d15_2912x2494.png"
  },
  {
   "id": 153296003,
@@ -294,7 +320,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2944,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!BZCe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ded72ed-e8da-43dd-ba53-50eb67ca8518_2912x1938.png"
  },
  {
   "id": 166003506,
@@ -305,7 +332,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3046,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/2e4dfa9b-0cb2-405b-8a46-60137db43939_2401x1261.png"
  },
  {
   "id": 165205052,
@@ -316,7 +344,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4001,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/9b3f009b-0dd0-494a-8692-a36b77961620_2400x1260.jpeg"
  },
  {
   "id": 164959728,
@@ -327,7 +356,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 132,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdca89170-5e3e-4f73-b2d3-10ccb341f3e7_4032x3024.jpeg"
  },
  {
   "id": 164106705,
@@ -338,7 +368,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3627,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61641e55-6fb2-4e94-9a97-6e5a1440a234_2912x2295.jpeg"
  },
  {
   "id": 99659656,
@@ -349,7 +380,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3052,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0afba8e7-e98c-40d9-89c3-b9a1c50d5730_2912x2129.jpeg"
  },
  {
   "id": 162496793,
@@ -360,18 +392,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 982,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/99a8d727-c514-4cb1-8789-c062c30b9a40_2400x1260.jpeg"
  },
  {
   "id": 162283781,
   "title": "The ultimate guide to negotiating your comp",
-  "subtitle": "The step-by-step guide that’s helped hundreds of leaders secure life-changing compensation ",
+  "subtitle": "The step-by-step guide that’s helped hundreds of leaders secure life-changing compensation",
   "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-negotiating",
   "date": "2025-05-06",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 6332,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/b2ed0bc3-654b-4365-a233-e939ab7a793b_2401x1261.jpeg"
  },
  {
   "id": 162096097,
@@ -382,7 +416,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5207,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a2f4d73-bb94-4d79-ada4-2d7ac3b6b7c8_2913x3100.jpeg"
  },
  {
   "id": 160793735,
@@ -393,7 +428,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 476,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!xSoH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12bf3ded-1a8f-4b84-bf45-df79a8a53a07_1456x994.jpeg"
  },
  {
   "id": 160511597,
@@ -404,7 +440,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3205,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/b36cea07-5af5-4d24-8f3f-ced3769ca20b_1457x971.png"
  },
  {
   "id": 160103138,
@@ -415,7 +452,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 8797,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/6aa1ade2-c82b-4a4c-a938-4a36f32bf98d_2400x1260.jpeg"
  },
  {
   "id": 159368214,
@@ -426,7 +464,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2658,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ffe7e02-cbca-4c5d-ac5c-a146cfc40938_916x514.png"
  },
  {
   "id": 158404082,
@@ -437,7 +476,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1494,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!qL0g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F339c7fbf-6760-4478-8ed6-294565235016_2913x2374.jpeg"
  },
  {
   "id": 157497293,
@@ -448,7 +488,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3993,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/c86f237a-5163-4a2c-9fce-1fd78ae2f877_1456x970.png"
  },
  {
   "id": 157838246,
@@ -459,7 +500,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2831,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf80d241-d9c0-40ce-8766-d85d3a0a948a_2913x1530.jpeg"
  },
  {
   "id": 157019421,
@@ -470,7 +512,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4543,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2314d431-64dd-41af-9c52-905c4d5722a0_1457x1461.jpeg"
  },
  {
   "id": 154911466,
@@ -481,7 +524,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1393,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/974d70b4-6aac-40eb-83c9-b4dcf604618e_1456x970.png"
  },
  {
   "id": 156487550,
@@ -492,7 +536,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2835,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01ef6615-804e-4164-98ac-1fc8a9ace37b_1728x2304.png"
  },
  {
   "id": 155556244,
@@ -503,7 +548,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 405,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!2K0P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54950b6d-11ef-43c1-a6e2-ee33d6e3c9c4_1456x1007.jpeg"
  },
  {
   "id": 155275710,
@@ -514,7 +560,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3849,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!e6WF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe39ea34-d1a7-4df0-b51a-80a125045630_1600x993.png"
  },
  {
   "id": 155187022,
@@ -525,7 +572,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 4370,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41f1a808-8587-4451-a20e-f7757554647b_1457x1397.jpeg"
  },
  {
   "id": 154423038,
@@ -536,7 +584,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3488,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbec3635-771c-441f-9a27-6e8a8b8b4946_2912x1828.jpeg"
  },
  {
   "id": 153926764,
@@ -547,7 +596,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3831,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F263e0c31-8ed5-40d0-b3d3-2fff6ef4f129_2912x1858.jpeg"
  },
  {
   "id": 153817940,
@@ -558,7 +608,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 49,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!ivlv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bec1350-c197-4576-b7f1-15092bbbc32d_1170x1560.jpeg"
  },
  {
   "id": 153295408,
@@ -569,7 +620,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2149,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71273b2b-30bf-454d-a361-c1d1d3192d16_2912x4810.png"
  },
  {
   "id": 152814815,
@@ -580,7 +632,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1173,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e4c433e-6433-4d45-9f2b-a824dc70c517_1456x720.jpeg"
  },
  {
   "id": 151797290,
@@ -591,7 +644,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1778,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb48a89c4-4536-447a-ac26-9f3929dc0170_2912x2126.png"
  },
  {
   "id": 152251502,
@@ -602,7 +656,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2806,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4439d043-afa3-47cc-a73d-987893fb66f1_4000x2000.png"
  },
  {
   "id": 73870328,
@@ -613,7 +668,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1900,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!AHH5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf4eef87-9c76-4b89-ae03-1a0152872f3f_1456x728.png"
  },
  {
   "id": 151618716,
@@ -624,7 +680,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3615,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/767ad5b1-db70-4529-b884-c5595c9ba276_1456x970.png"
  },
  {
   "id": 151079492,
@@ -635,7 +692,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3920,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/4bd329d0-8b93-4bfb-8179-2d52f47f83ab_1456x970.png"
  },
  {
   "id": 149886958,
@@ -646,7 +704,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5229,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!8uVD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73437c28-bcdc-42a2-abf6-9a2b68d5d776_4000x2000.png"
  },
  {
   "id": 150116508,
@@ -657,7 +716,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3103,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/ff7e3497-723f-47f2-8b6e-83e4e076b073_1456x970.png"
  },
  {
   "id": 150339479,
@@ -668,7 +728,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2524,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5990e974-fb58-4f49-9a88-e2cfa1a0abfe_2592x1862.png"
  },
  {
   "id": 149468655,
@@ -679,18 +740,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5003,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9106bb7-f35d-40f8-ac5c-330a5dbf83f3_2048x1258.png"
  },
  {
   "id": 149572735,
   "title": "Why cash is king",
-  "subtitle": "The first set of results from our inaugural compensation survey reveals the need for stable income above all else ",
+  "subtitle": "The first set of results from our inaugural compensation survey reveals the need for stable income above all else",
   "url": "https://www.lennysnewsletter.com/p/why-cash-is-king",
   "date": "2024-10-08",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2488,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc338a2e-c5f3-4d77-bd1c-8b91d003d412_3246x2500.png"
  },
  {
   "id": 149069878,
@@ -701,7 +764,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2868,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82442f37-40d4-485f-ad10-50a33c0c18c7_1600x527.png"
  },
  {
   "id": 149172750,
@@ -712,7 +776,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1944,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0657f3ee-8017-4452-88b7-8237fce3ad0d_1760x1712.png"
  },
  {
   "id": 149184643,
@@ -723,7 +788,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 21,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/aedcc0b5-ad22-425d-b2dd-cbc61745b0f9_1500x1500.png"
  },
  {
   "id": 148739654,
@@ -734,7 +800,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 5161,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42e59033-f889-41bb-a667-96a83caac2b8_4000x2000.png"
  },
  {
   "id": 148273823,
@@ -745,7 +812,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4458,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b4e1be4-1b50-4b02-925b-f4640282990a_4000x2000.png"
  },
  {
   "id": 148247065,
@@ -756,7 +824,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 6397,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f7432f8-a875-4420-bb1a-093a8df40287_1456x904.png"
  },
  {
   "id": 147940255,
@@ -767,7 +836,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1846,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F455b18af-0ed9-45b8-b1d0-a2f37d08b19f_1226x1276.png"
  },
  {
   "id": 146639061,
@@ -778,7 +848,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1381,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5db0ed6-5e36-4539-803f-838510dff630_3714x2000.png"
  },
  {
   "id": 147172995,
@@ -789,7 +860,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2354,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!ixvk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1171ed6-2004-4831-9c1f-6abc9de50f38_6000x3375.png"
  },
  {
   "id": 147220968,
@@ -800,7 +872,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4464,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8567dee3-950f-45bc-ba43-4b9459ae6fb7_1504x802.png"
  },
  {
   "id": 147109019,
@@ -811,7 +884,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3341,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe531cf4e-3835-4803-8789-0b008fb9a2e7_622x399.png"
  },
  {
   "id": 146928170,
@@ -822,7 +896,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 293,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd41ed0fa-fc4b-430b-a1b9-44f583694e01_2276x1544.png"
  },
  {
   "id": 146638817,
@@ -833,7 +908,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1544,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F018b7f02-25b5-4a9d-a39a-ae6fbba1fbc0_2036x1358.png"
  },
  {
   "id": 146581320,
@@ -844,7 +920,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 170,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd969fb3d-0f6f-4835-a20e-51c633ccbd90_4032x3024.jpeg"
  },
  {
   "id": 146316676,
@@ -855,7 +932,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 6242,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!zk_N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80761805-aa31-4255-ae20-8a66abd3de16_8000x4000.png"
  },
  {
   "id": 145811841,
@@ -866,7 +944,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2986,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Qx3E!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9f3fede-958e-4db1-959e-87180174e353_4000x2000.png"
  },
  {
   "id": 146170194,
@@ -877,18 +956,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 632,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!unES!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85dd57d3-8aa8-4868-8a8a-fad267749b49_4000x2000.png"
  },
  {
   "id": 145356145,
-  "title": "General management, functional, and hybrid models: Which org design works best for top companies? ",
+  "title": "General management, functional, and hybrid models: Which org design works best for top companies?",
   "subtitle": "How stage, North Star metrics, and talent can impact this critical decision",
   "url": "https://www.lennysnewsletter.com/p/general-management-functional-and",
   "date": "2024-06-25",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2399,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66e3cb6f-aa8d-4ddc-bece-f0ee3b41824a_4000x4282.png"
  },
  {
   "id": 145424815,
@@ -899,18 +980,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3629,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F817fa641-49f8-46c0-884e-e9cf6bf878f7_3000x3000.png"
  },
  {
   "id": 144952701,
-  "title": "How to use Perplexity in your PM work ",
+  "title": "How to use Perplexity in your PM work",
   "subtitle": "27 examples (with actual prompts) of how product managers are using the AI-powered search engine today",
   "url": "https://www.lennysnewsletter.com/p/how-to-use-perplexity-in-your-pm",
   "date": "2024-06-11",
   "type": "newsletter",
   "audience": "everyone",
   "words": 895,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fde139e-dc49-4a91-ae41-7e757873532b_1920x1440.png"
  },
  {
   "id": 144951780,
@@ -921,7 +1004,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2966,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!GcG9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1902893a-35c8-449c-86cd-ff9f8c56fd3b_4000x2000.png"
  },
  {
   "id": 144998670,
@@ -932,7 +1016,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 134,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!KtPE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc47876df-9f10-40ba-9e1c-a46c273cc16f_5712x4284.jpeg"
  },
  {
   "id": 144661665,
@@ -943,7 +1028,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2857,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!9xo8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06b0cefd-f6fb-49f5-82e7-65161fb08cb8_1388x664.png"
  },
  {
   "id": 144212216,
@@ -954,7 +1040,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 6455,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc603c437-c898-4ab7-8b4d-074ad74cd7d2_2400x1350.png"
  },
  {
   "id": 144316538,
@@ -965,7 +1052,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 562,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!S5sg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1946b95-673b-4233-bb5c-e20119376d6d_6486x6966.png"
  },
  {
   "id": 144006797,
@@ -976,7 +1064,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3185,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc79f69d5-7443-4c73-870c-ab2fdf76c24c_2048x1365.webp"
  },
  {
   "id": 143794679,
@@ -987,7 +1076,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3840,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff802b3d2-a30c-4648-9b55-d0dbbcab6edb_2098x2406.png"
  },
  {
   "id": 143504121,
@@ -998,7 +1088,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3622,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e605e5-738d-477c-abba-e19c16af824f_2274x1196.png"
  },
  {
   "id": 143204698,
@@ -1009,7 +1100,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2717,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4787c26c-955b-4b20-8880-984081b34aa8_2318x4738.png"
  },
  {
   "id": 143086355,
@@ -1020,7 +1112,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4980,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a5d0692-48c4-4814-9231-a623d7053633_1171x726.png"
  },
  {
   "id": 142870504,
@@ -1031,7 +1124,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2655,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/e963e387-ed9a-4553-a208-6f3497356dc8_1456x970.png"
  },
  {
   "id": 142675139,
@@ -1042,7 +1136,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 96,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67e72f43-ac37-43f3-a872-24dca8a8669d_1080x662.png"
  },
  {
   "id": 139248091,
@@ -1053,7 +1148,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3925,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F182afc58-4051-42ff-91ad-8d8916051e31_5712x4284.jpeg"
  },
  {
   "id": 142224855,
@@ -1064,7 +1160,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4452,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!OFD4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bf62c98-6db3-433f-b344-203a92593ec9_4000x2000.png"
  },
  {
   "id": 141833234,
@@ -1075,7 +1172,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2873,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!X6L-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2043bdf1-3c2b-43d0-87cc-9a867cc3d071_2048x1024.png"
  },
  {
   "id": 141708909,
@@ -1086,7 +1184,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2661,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!6Evw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4e4e111-2096-4225-b7bd-5314f4b53128_1154x1376.png"
  },
  {
   "id": 141479121,
@@ -1097,7 +1196,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4446,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ea9f4d4-86b0-42c4-8cfe-df1fd5676fa5_1600x900.png"
  },
  {
   "id": 141209334,
@@ -1108,7 +1208,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1674,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64af5358-b6c6-440b-9120-6bd90075b310_1137x1200.png"
  },
  {
   "id": 140748471,
@@ -1119,7 +1220,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 6728,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!CTkW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cc3bbd4-3db3-43f2-92c4-c2de500fab67_2134x1934.png"
  },
  {
   "id": 140746587,
@@ -1130,7 +1232,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4465,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!ORz0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F166b5927-a571-48f5-b014-33fa2562ca8f_6000x4000.jpeg"
  },
  {
   "id": 140562499,
@@ -1141,7 +1244,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2500,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F146643fa-898f-480b-bd5b-eee6b29fef3a_2000x1500.png"
  },
  {
   "id": 140331653,
@@ -1152,7 +1256,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3902,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/c68e07de-32e6-4931-930d-d2196bf2cf37_1024x1024.png"
  },
  {
   "id": 139997759,
@@ -1163,7 +1268,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4310,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!lHtE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2600a9e-c0d9-43fc-bc20-d7c46d8069a6_4032x3024.jpeg"
  },
  {
   "id": 139943364,
@@ -1174,7 +1280,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 206,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b88b5862-9a48-4557-9f71-c5f96eb3df23_1100x220.png"
  },
  {
   "id": 139846868,
@@ -1185,7 +1292,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4414,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/youtube/w_728,c_limit/kYfNvmF0Bqw"
  },
  {
   "id": 139246365,
@@ -1196,7 +1304,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1469,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0cc98a55-f0dc-4adb-9b1d-a50340365e7f_2400x1186.png"
  },
  {
   "id": 139338814,
@@ -1207,7 +1316,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4003,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadfeaba2-6c27-4959-b7d8-77683a216a95_4000x2000.png"
  },
  {
   "id": 138994889,
@@ -1218,7 +1328,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2934,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fca0295-5da1-406a-9082-ab7a3c28715e_680x367.png"
  },
  {
   "id": 139047770,
@@ -1229,7 +1340,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1572,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Wsxd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99c6168a-bb15-42d1-abac-23ec673cc701_2048x1024.png"
  },
  {
   "id": 138559154,
@@ -1240,7 +1352,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3376,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39a46885-89dc-48ba-91d0-254bfdbbf52f_2746x9197.png"
  },
  {
   "id": 137781029,
@@ -1251,7 +1364,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2938,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0915af54-e6c9-405f-b8c0-e75abefc3409_620x488.jpeg"
  },
  {
   "id": 137198748,
@@ -1262,7 +1376,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2321,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ca917f0-4dab-4cd9-90e5-39a89d2bcb1b_8000x4000.png"
  },
  {
   "id": 137310590,
@@ -1273,7 +1388,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 6589,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae11c260-b388-4f5f-9f6a-8bd46f541682_6568x5052.png"
  },
  {
   "id": 137498211,
@@ -1284,7 +1400,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3692,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/ece7157f-8d48-4ae3-a840-0ce6599aee09_960x540.png"
  },
  {
   "id": 137818174,
@@ -1295,7 +1412,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 57,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!vUUp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4d7a419e-ac8b-41da-a7c1-99843d4f5530_2160x1425.png"
  },
  {
   "id": 135973645,
@@ -1306,7 +1424,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 7176,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F47192645-806b-4549-a383-289e0e926545_5438x11742.png"
  },
  {
   "id": 137200502,
@@ -1317,7 +1436,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3414,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b378446-b636-4932-8505-e90569cc9f70_4950x3300.jpeg"
  },
  {
   "id": 136460827,
@@ -1328,7 +1448,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5029,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/d8bba9a2-f8dc-4945-90a8-bb429aa6b333_1456x970.png"
  },
  {
   "id": 119122450,
@@ -1339,7 +1460,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 7452,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ae1275f-1b3e-49d3-afcb-f4ca9045279e_5438x6448.png"
  },
  {
   "id": 136342278,
@@ -1350,7 +1472,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2313,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa901b934-7796-448e-ae91-e941ca7b0f13_2068x1230.png"
  },
  {
   "id": 115245373,
@@ -1361,7 +1484,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 6123,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6b2a4b8-105f-42db-8916-930e1fe33fc6_2836x2084.png"
  },
  {
   "id": 113763794,
@@ -1372,7 +1496,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5995,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2b296c3-8bd6-4088-8219-c0086e8ea22b_2276x4584.png"
  },
  {
   "id": 125771301,
@@ -1383,7 +1508,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3624,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c489b8d-d512-47ac-bc63-188b91a423f9_8000x4000.png"
  },
  {
   "id": 113318037,
@@ -1394,7 +1520,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 7996,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38b68a4b-53c6-46cd-98cf-ec1024f0a886_2988x2000.png"
  },
  {
   "id": 113130490,
@@ -1405,7 +1532,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 8453,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F356b3df7-4ec3-4961-ba71-33d674a1ca92_2318x1204.png"
  },
  {
   "id": 135343061,
@@ -1416,7 +1544,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2684,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F387be486-c0c9-4dc3-8d81-3a74ea36036f_4000x2668.png"
  },
  {
   "id": 135288320,
@@ -1427,7 +1556,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4254,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!f1ad!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F586ee879-d8a7-48e0-b926-e49cd1f2378b_1066x1600.jpeg"
  },
  {
   "id": 125766360,
@@ -1438,7 +1568,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5474,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4903d09f-d04e-4666-8afe-90f3e14b732c_1137x632.png"
  },
  {
   "id": 123125579,
@@ -1449,7 +1580,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3596,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5f28ae2-ce5e-4182-af92-e535fcf9f213_1600x1200.png"
  },
  {
   "id": 123818090,
@@ -1460,7 +1592,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 4758,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c83e45-ddbf-45e9-a336-b429af8edfa0_2000x1882.png"
  },
  {
   "id": 123120223,
@@ -1471,29 +1604,32 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4349,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2561bc33-a4b2-405c-8754-73adf1765553_1600x437.png"
  },
  {
   "id": 130286695,
-  "title": "🧠 Community wisdom: Creating a customer feedback community, navigating difficult founder dynamics, how to quickly test ideas, setting up an engineering org, and much more ",
+  "title": "🧠 Community wisdom: Creating a customer feedback community, navigating difficult founder dynamics, how to quickly test ideas, setting up an engineering org, and much more",
   "subtitle": "Community wisdom 140",
   "url": "https://www.lennysnewsletter.com/p/community-wisdom-creating-a-customer",
   "date": "2023-06-23",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4684,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 120154466,
-  "title": "How to create an exceptional coverage plan for your parental leave ",
+  "title": "How to create an exceptional coverage plan for your parental leave",
   "subtitle": "A step-by-step guide and plug-and-play template for going on leave with peace of mind",
   "url": "https://www.lennysnewsletter.com/p/how-to-create-an-exceptional-coverage",
   "date": "2023-06-20",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2706,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F990fa2dc-4894-4bb5-b760-afc4616224b5_1440x1352.png"
  },
  {
   "id": 123118354,
@@ -1504,7 +1640,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4566,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F675a4f4a-add1-49c1-b6ae-b8910654b082_8000x4000.png"
  },
  {
   "id": 123115781,
@@ -1515,18 +1652,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 5712,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafc5e5d5-5f71-4952-8ae7-979f888df863_8000x4000.png"
  },
  {
   "id": 124847029,
-  "title": "What working at Figma taught me about customer obsession ",
-  "subtitle": "VP of Product Sho Kuwamoto on the importance of feel, service, and staying close to customers ",
+  "title": "What working at Figma taught me about customer obsession",
+  "subtitle": "VP of Product Sho Kuwamoto on the importance of feel, service, and staying close to customers",
   "url": "https://www.lennysnewsletter.com/p/what-working-at-figma-taught-me-about",
   "date": "2023-06-02",
   "type": "newsletter",
   "audience": "everyone",
   "words": 3053,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc84d66c3-49ab-4356-a503-1df2823ab4a2_1600x1065.png"
  },
  {
   "id": 106839388,
@@ -1537,7 +1676,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4095,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55285fb8-43cd-4321-9376-3df8387eb3dd_1920x1080.gif"
  },
  {
   "id": 122125031,
@@ -1548,7 +1688,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5095,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!7TX8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d2b8f3d-53e1-4f80-9c15-f340d3548403_492x512.png"
  },
  {
   "id": 120376966,
@@ -1559,7 +1700,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2290,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!3Zsx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b7a16ca-0992-46df-8547-c4cc100e3e7c_2172x1214.jpeg"
  },
  {
   "id": 119505392,
@@ -1570,7 +1712,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3295,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22bec7f1-a52c-4964-ab49-93995f8dc675_1280x726.png"
  },
  {
   "id": 119508526,
@@ -1581,7 +1724,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4666,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 118179133,
@@ -1592,7 +1736,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3055,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62413fa0-3d80-411c-af93-ebd0f096a26a_1042x644.png"
  },
  {
   "id": 117749317,
@@ -1603,7 +1748,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5446,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 116101167,
@@ -1614,7 +1760,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1861,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea04b963-e170-4270-ba5a-206873d71b8e_480x304.gif"
  },
  {
   "id": 106822699,
@@ -1625,7 +1772,8 @@
   "type": "thread",
   "audience": "only_paid",
   "words": 72,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/3eded88c-31fe-4c73-b725-20ede3f25a17_2048x1024.png"
  },
  {
   "id": 114810777,
@@ -1636,7 +1784,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4795,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 111708404,
@@ -1647,7 +1796,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 730,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/1137e2b3-9361-4c82-9ce1-c658f5583b7c_1456x970.png"
  },
  {
   "id": 111936960,
@@ -1658,7 +1808,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 119,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!euTY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8bd8c6e-e344-4b08-8fc4-678293a21db8_640x480.gif"
  },
  {
   "id": 107886686,
@@ -1669,7 +1820,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3049,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!aU4g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd89355d6-b033-4fa0-bb08-d8816fd1593d_8000x4000.png"
  },
  {
   "id": 106863976,
@@ -1680,7 +1832,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4168,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85175ce1-1cfb-4725-84f3-9d12409f405d_1600x901.png"
  },
  {
   "id": 107284127,
@@ -1691,7 +1844,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 937,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!bBZp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f6a702d-30d9-43d0-8464-102363115533_2048x1024.png"
  },
  {
   "id": 106833953,
@@ -1702,7 +1856,8 @@
   "type": "thread",
   "audience": "only_paid",
   "words": 52,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/dd9929a6-3e65-400e-93d8-35adc95d1bb4_2048x1024.png"
  },
  {
   "id": 104096876,
@@ -1713,7 +1868,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 4561,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/acd78b4f-7ef1-4ab9-84a3-903e83308449_1456x970.png"
  },
  {
   "id": 103392134,
@@ -1724,7 +1880,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1144,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ed07e2c-f7ed-4ab9-a21d-9f1136d91e4f_1044x348.png"
  },
  {
   "id": 101715830,
@@ -1735,7 +1892,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4344,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8caac5aa-d8dc-4c06-a730-a4ee4f515fcf_2318x1159.png"
  },
  {
   "id": 100905558,
@@ -1746,7 +1904,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3987,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/952c95b4-4e7e-4d65-b627-7bea91ab5516_2996x1498.png"
  },
  {
   "id": 100688370,
@@ -1757,7 +1916,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5064,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 99658953,
@@ -1768,7 +1928,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4566,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabe75d02-1842-4472-8c14-dc00937113f4_5133x2766.png"
  },
  {
   "id": 71826923,
@@ -1779,7 +1940,8 @@
   "type": "thread",
   "audience": "only_paid",
   "words": 80,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/019cf032-3b42-4fd0-928e-e5080d311888_4096x2048.png"
  },
  {
   "id": 39167273,
@@ -1790,7 +1952,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2237,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc527577d-3b53-409b-9a50-1bd2c2fe8d4c_4000x2000.png"
  },
  {
   "id": 96501971,
@@ -1801,7 +1964,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4817,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 89869825,
@@ -1812,7 +1976,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 4394,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/af832b0f-4950-4374-9b51-c154e9050fd9_4000x2000.png"
  },
  {
   "id": 89288290,
@@ -1823,7 +1988,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3194,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3570f124-f412-4d61-bd7d-d8d84bc80334_1278x994.png"
  },
  {
   "id": 91055755,
@@ -1834,7 +2000,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 921,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/f8a16bd4-7b9a-48f3-a4da-1c143caf4d98_2048x1024.png"
  },
  {
   "id": 89254140,
@@ -1845,7 +2012,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 810,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d4358235-5304-46d4-ac8d-058190e3226d_4096x2048.png"
  },
  {
   "id": 91013232,
@@ -1856,7 +2024,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3608,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 74497783,
@@ -1867,7 +2036,8 @@
   "type": "thread",
   "audience": "only_paid",
   "words": 158,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a6ceaf68-9478-454e-bc8f-7d78de8e3c23_4096x2048.png"
  },
  {
   "id": 89570448,
@@ -1878,7 +2048,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4857,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 84365046,
@@ -1889,7 +2060,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3521,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F336ef919-fa0d-410d-af63-72887ee5946e_8000x4000.png"
  },
  {
   "id": 88239420,
@@ -1900,7 +2072,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4077,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 85442309,
@@ -1911,7 +2084,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1513,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F34d18c07-2f47-44d6-9e81-6dff45571f29_2048x1024.png"
  },
  {
   "id": 83164262,
@@ -1922,7 +2096,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 5453,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!OkDY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F881aee89-b7a8-4ff0-a4af-5c2f7bb6e141_4096x1368.png"
  },
  {
   "id": 85352601,
@@ -1933,18 +2108,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4178,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 80853286,
   "title": "How Figma builds product",
-  "subtitle": "Yuhki Yamashita, Chief Product Officer at Figma, shares lessons learned, plug-and-play templates, and fresh insights into how Figma builds product ",
+  "subtitle": "Yuhki Yamashita, Chief Product Officer at Figma, shares lessons learned, plug-and-play templates, and fresh insights into how Figma builds product",
   "url": "https://www.lennysnewsletter.com/p/how-figma-builds-product",
   "date": "2022-11-15",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2097,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbd5513-892a-4a64-9a26-f25ab638bde9_3000x3000.jpeg"
  },
  {
   "id": 83942917,
@@ -1955,7 +2132,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3798,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 82414210,
@@ -1966,7 +2144,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3613,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/560fe6d0-fde6-46c0-ba36-cda8752980c7_2400x3556.png"
  },
  {
   "id": 82513349,
@@ -1977,7 +2156,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4608,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 74497810,
@@ -1988,7 +2168,8 @@
   "type": "thread",
   "audience": "only_paid",
   "words": 86,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f6774573-de89-48ce-a26e-eda9bc1fc87e_4096x2048.png"
  },
  {
   "id": 81163278,
@@ -1999,7 +2180,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3884,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 77646597,
@@ -2010,7 +2192,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2747,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F42297308-812a-496b-97c4-9b58ce6a2af5_2792x3166.png"
  },
  {
   "id": 79746309,
@@ -2021,7 +2204,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2470,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 75301748,
@@ -2032,7 +2216,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1150,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fda08427f-3cd6-4a15-bb11-11d93c68ac0b_2400x1186.png"
  },
  {
   "id": 78392188,
@@ -2043,7 +2228,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3720,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 75292796,
@@ -2054,7 +2240,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1350,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!66GE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2b763a14-9134-4246-812d-0cbc65fdbbaf_8966x4492.png"
  },
  {
   "id": 77008487,
@@ -2065,7 +2252,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2505,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 75447479,
@@ -2076,7 +2264,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 59,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!gXb-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0353ba9b-fa61-4553-83d2-0a6caa6df917_4032x3024.jpeg"
  },
  {
   "id": 75564649,
@@ -2087,7 +2276,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4393,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 73870983,
@@ -2098,7 +2288,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2754,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6409bef2-c40e-433c-a7b4-2d7aa1bead87_1447x1323.png"
  },
  {
   "id": 74584925,
@@ -2109,7 +2300,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3217,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 73401125,
@@ -2120,7 +2312,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2253,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F878661f2-8aa0-4b19-8a03-5d25b7dee9ac_3436x1938.png"
  },
  {
   "id": 73599631,
@@ -2131,7 +2324,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4005,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 59650018,
@@ -2142,7 +2336,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1618,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd731508b-6025-4fa2-9707-e41cf415b4e7_480x360.webp"
  },
  {
   "id": 72551940,
@@ -2153,7 +2348,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4635,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Bvxi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc588ae03-aaab-466c-9a91-ca25a957ab06_1456x728.png"
  },
  {
   "id": 71836652,
@@ -2164,7 +2360,8 @@
   "type": "thread",
   "audience": "only_paid",
   "words": 91,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1b276a1f-3132-47d4-adc3-af23b6987ebb_4096x2048.png"
  },
  {
   "id": 70174617,
@@ -2175,7 +2372,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3674,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F788ee8c2-6fc8-44fc-968b-ce92ac45c32c_2318x1112.png"
  },
  {
   "id": 31258917,
@@ -2186,18 +2384,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1823,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7fb7ff7-aabb-416a-9069-be1aa8a3ca07_2411x2260.png"
  },
  {
   "id": 57395431,
   "title": "Kickstarting and scaling a consumer business—Step 6: SCALE: Build your growth engine",
-  "subtitle": "How products grow, how your product will grow, and the GTM motions of today’s biggest consumer apps ",
+  "subtitle": "How products grow, how your product will grow, and the GTM motions of today’s biggest consumer apps",
   "url": "https://www.lennysnewsletter.com/p/growth-engines",
   "date": "2022-08-16",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4707,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F00309642-b56d-4e24-9ba9-8e2539fea5ce_4096x2048.png"
  },
  {
   "id": 48314350,
@@ -2208,7 +2408,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 8666,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f3dd93c-edb3-4c01-a676-052d62d985b8_4096x2048.png"
  },
  {
   "id": 66713428,
@@ -2219,7 +2420,8 @@
   "type": "thread",
   "audience": "only_paid",
   "words": 169,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0855e721-34a2-408b-80eb-cc1754c47911_4096x2048.png"
  },
  {
   "id": 66229769,
@@ -2230,7 +2432,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4142,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!qTku!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59c637a-d1d9-4bb8-affe-1d68aea7ab59_1456x728.png"
  },
  {
   "id": 38506758,
@@ -2241,7 +2444,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 10275,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9e45e594-1125-49bf-b1ab-29105de8865d_4096x2048.png"
  },
  {
   "id": 65222281,
@@ -2252,7 +2456,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3114,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!qTku!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59c637a-d1d9-4bb8-affe-1d68aea7ab59_1456x728.png"
  },
  {
   "id": 38501162,
@@ -2263,7 +2468,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1955,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cabdf61-9abf-4dac-b647-71f5761c0ca2_4096x2048.png"
  },
  {
   "id": 64179428,
@@ -2274,7 +2480,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2747,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!qTku!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59c637a-d1d9-4bb8-affe-1d68aea7ab59_1456x728.png"
  },
  {
   "id": 38459103,
@@ -2285,7 +2492,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3113,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F618b5342-04d5-402f-8106-81bc9c8ca596_4096x2048.png"
  },
  {
   "id": 63129560,
@@ -2296,7 +2504,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2112,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!qTku!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59c637a-d1d9-4bb8-affe-1d68aea7ab59_1456x728.png"
  },
  {
   "id": 48316625,
@@ -2307,7 +2516,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 13441,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F722783c1-e10d-46fe-b570-36428239de53_4096x2048.png"
  },
  {
   "id": 62025931,
@@ -2318,7 +2528,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1976,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!qTku!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59c637a-d1d9-4bb8-affe-1d68aea7ab59_1456x728.png"
  },
  {
   "id": 57094295,
@@ -2329,7 +2540,8 @@
   "type": "thread",
   "audience": "only_paid",
   "words": 93,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9c3bd1e2-685a-4313-9e1c-e53bcbde4b1f_4096x2048.png"
  },
  {
   "id": 60206245,
@@ -2340,7 +2552,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 289,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Hfve!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbdd6c0bc-0150-4dfe-83c8-d80babc3d3e5_1536x2048.jpeg"
  },
  {
   "id": 59870588,
@@ -2351,7 +2564,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4782,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!qTku!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59c637a-d1d9-4bb8-affe-1d68aea7ab59_1456x728.png"
  },
  {
   "id": 58726498,
@@ -2362,7 +2576,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2965,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86681d67-0ad2-495b-aadc-4f4034492da2_3456x1870.png"
  },
  {
   "id": 58882066,
@@ -2373,7 +2588,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2995,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59c637a-d1d9-4bb8-affe-1d68aea7ab59_1456x728.png"
  },
  {
   "id": 57980524,
@@ -2384,7 +2600,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 541,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!obaz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b37edcc-a067-422e-8567-603209266a64_4000x4000.png"
  },
  {
   "id": 57826892,
@@ -2395,7 +2612,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4041,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!qTku!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59c637a-d1d9-4bb8-affe-1d68aea7ab59_1456x728.png"
  },
  {
   "id": 57094326,
@@ -2406,7 +2624,8 @@
   "type": "thread",
   "audience": "only_paid",
   "words": 79,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e068373f-03a9-4343-bbb7-84b40d859589_4096x2048.png"
  },
  {
   "id": 55964974,
@@ -2417,7 +2636,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 677,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F647c0676-ca07-4b58-b4a2-6804b26ec1e0_2422x1194.png"
  },
  {
   "id": 55791508,
@@ -2428,7 +2648,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4060,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!qTku!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59c637a-d1d9-4bb8-affe-1d68aea7ab59_1456x728.png"
  },
  {
   "id": 54922394,
@@ -2439,7 +2660,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4181,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F63b45077-5325-4e87-a600-2d1d50e2bfb6_4096x2048.png"
  },
  {
   "id": 53209563,
@@ -2450,18 +2672,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 12121,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36b5a61c-6d44-4ceb-a2f0-3616f8b1d5dd_5888x6676.png"
  },
  {
   "id": 53722361,
-  "title": "Community Wisdom: Feeling like product management is not for you, advice for first-time managers, determining the right product lead to product manager ratio, career leveling templates, and more ",
+  "title": "Community Wisdom: Feeling like product management is not for you, advice for first-time managers, determining the right product lead to product manager ratio, career leveling templates, and more",
   "subtitle": "Community issue 83",
   "url": "https://www.lennysnewsletter.com/p/community-wisdom-feeling-like-product",
   "date": "2022-05-06",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3781,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!qTku!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa59c637a-d1d9-4bb8-affe-1d68aea7ab59_1456x728.png"
  },
  {
   "id": 52780953,
@@ -2472,7 +2696,8 @@
   "type": "thread",
   "audience": "only_paid",
   "words": 131,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0eb84384-f20e-4c6e-b1b4-24b4a27acf6e_4096x2048.png"
  },
  {
   "id": 53094118,
@@ -2483,7 +2708,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4634,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!hClC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9f80b3d-0372-478b-b3fc-cc81db846529_1456x728.png"
  },
  {
   "id": 52690260,
@@ -2494,7 +2720,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2535,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5ed934c-1a10-422c-aaff-6c50b56e685a_4636x3456.png"
  },
  {
   "id": 52674014,
@@ -2505,7 +2732,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2196,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!hClC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9f80b3d-0372-478b-b3fc-cc81db846529_1456x728.png"
  },
  {
   "id": 52420566,
@@ -2516,7 +2744,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 908,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!7Ova!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F82c20790-61d8-4c5a-8037-5e5314ed1ec9_4096x2048.png"
  },
  {
   "id": 52261816,
@@ -2527,7 +2756,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4006,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!hClC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9f80b3d-0372-478b-b3fc-cc81db846529_1456x728.png"
  },
  {
   "id": 51552047,
@@ -2538,18 +2768,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 5453,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F611886f9-c577-4b0a-89cd-70d15719db3f_1012x916.png"
  },
  {
   "id": 51856709,
-  "title": "Community Wisdom: Dealing with impostor syndrome as a PM, interviewing UX/UI designers, roadmap frameworks, feedback for stellar reports, transactional email vendors, doing competition research, more ",
+  "title": "Community Wisdom: Dealing with impostor syndrome as a PM, interviewing UX/UI designers, roadmap frameworks, feedback for stellar reports, transactional email vendors, doing competition research, more",
   "subtitle": "Community issue 79",
   "url": "https://www.lennysnewsletter.com/p/community-wisdom-dealing-with-impostor",
   "date": "2022-04-08",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3432,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!fLCA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F25218e54-225e-4741-848f-6ec51f780f59_1456x728.png"
  },
  {
   "id": 51543159,
@@ -2560,7 +2792,8 @@
   "type": "thread",
   "audience": "only_paid",
   "words": 160,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/b4ff0a85-5cb6-4bcd-9885-9b475bc94dfe_4096x2048.png"
  },
  {
   "id": 51435941,
@@ -2571,7 +2804,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4209,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!mcqO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F35420670-d3fc-44a8-b24f-106bc4991fc0_1456x728.png"
  },
  {
   "id": 50706212,
@@ -2582,7 +2816,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2130,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!rpIK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F218a00e3-049a-4882-93e9-732f27a83ed5_4096x2048.png"
  },
  {
   "id": 51020667,
@@ -2593,7 +2828,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5265,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!OebM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9dc3d7b3-a079-4ed4-b4df-2eee7c26141d_1456x728.png"
  },
  {
   "id": 50610355,
@@ -2604,7 +2840,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4049,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c4ede2f-8f42-4730-aa3a-db1d66227f69_2024x1012.png"
  },
  {
   "id": 50587604,
@@ -2615,7 +2852,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3822,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6d9f8960-7353-407a-96e8-78cdf357a7d2_1456x728.png"
  },
  {
   "id": 49421098,
@@ -2626,7 +2864,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3648,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9a440cde-98a4-4954-a5b4-365ba9df0786_1600x534.png"
  },
  {
   "id": 50154723,
@@ -2637,7 +2876,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2608,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!2M8a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F52982782-360c-49ab-a43e-7316c97b9f29_1456x728.png"
  },
  {
   "id": 49038786,
@@ -2648,7 +2888,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1673,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8e319f3b-19d5-495d-8806-1f7567c24da7_4468x2116.png"
  },
  {
   "id": 49422446,
@@ -2659,7 +2900,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1373,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea770875-7574-4e22-a9a7-ca5ad8b25b2a_3768x2512.png"
  },
  {
   "id": 49350706,
@@ -2670,7 +2912,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3102,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!3d8a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe893362d-9750-45ed-b11b-e46e9ff5003f_1456x728.png"
  },
  {
   "id": 49122174,
@@ -2681,7 +2924,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 692,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!C3M5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F10f8a557-9c33-4676-9f98-72b8f91923dc_1080x576.png"
  },
  {
   "id": 48170673,
@@ -2692,7 +2936,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 4843,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F518222ac-b5b0-4105-ab38-551acd759fc9_1000x500.png"
  },
  {
   "id": 48594746,
@@ -2703,18 +2948,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5685,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!qKc1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F593bb52a-720f-4ef0-83d3-7646f8abf384_1456x728.png"
  },
  {
   "id": 48239909,
   "title": "What is good monthly churn",
-  "subtitle": "Benchmarks for good and great monthly churn, broken down by segment and price point ",
+  "subtitle": "Benchmarks for good and great monthly churn, broken down by segment and price point",
   "url": "https://www.lennysnewsletter.com/p/monthly-churn-benchmarks",
   "date": "2022-02-08",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2009,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa15abbdc-c994-4688-bb26-3d75ee3d0366_2728x2320.png"
  },
  {
   "id": 48217474,
@@ -2725,7 +2972,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3660,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!I6_O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F42100983-e6b7-40ef-b4c6-1ef9a86ce864_1456x728.png"
  },
  {
   "id": 44031038,
@@ -2736,7 +2984,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1917,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3591173f-c598-44ce-aac2-6807c6ef4e35_950x306.png"
  },
  {
   "id": 47139065,
@@ -2747,7 +2996,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5432,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb0ab761-f578-44a0-aa17-ad4fd02039de_2114x1304.png"
  },
  {
   "id": 47177062,
@@ -2758,7 +3008,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3065,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa64a9018-b4d0-4834-88ca-b3ac179cd9fb_4096x1368.png"
  },
  {
   "id": 47118267,
@@ -2769,7 +3020,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4122,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!p4d9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1a7f0b12-ea25-4158-a3fb-3ac3c05885d0_1456x728.png"
  },
  {
   "id": 46774937,
@@ -2780,7 +3032,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1699,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F48d11ccf-9699-44ce-b565-e0b7acdbdfba_4636x4600.png"
  },
  {
   "id": 46748774,
@@ -2791,7 +3044,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 6235,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!rtiA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4e31b897-f55c-4015-b7dc-239c19a3656a_1456x728.png"
  },
  {
   "id": 46373194,
@@ -2802,7 +3056,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2164,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/caa67beb-2dcd-4c22-8174-d1a689ddd68d_500x270.gif"
  },
  {
   "id": 45782921,
@@ -2813,7 +3068,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 470,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!-jej!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F96bd9b5a-c887-45e0-95fc-5ed06b69dbc9_4096x2048.png"
  },
  {
   "id": 45970205,
@@ -2824,18 +3080,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3854,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!zyrT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc79372bb-a79f-4cad-ac04-701f7ca7e424_1456x728.png"
  },
  {
   "id": 45791662,
-  "title": "Taking the week off ",
+  "title": "Taking the week off",
   "subtitle": "Back next week!",
   "url": "https://www.lennysnewsletter.com/p/taking-the-week-off-655",
   "date": "2021-12-21",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 36,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!avBc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7c591b9-0443-4677-a216-8df1b962adcd"
  },
  {
   "id": 45643238,
@@ -2846,7 +3104,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4579,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!8thE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cb95175-887b-4da4-82df-dce09ce89dcf_1456x728.png"
  },
  {
   "id": 44350950,
@@ -2857,7 +3116,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2117,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd37cfdbc-e3d1-4cab-86c5-e76da0bc3557_3836x4000.png"
  },
  {
   "id": 45347132,
@@ -2868,7 +3128,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2571,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!WTxC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfc1164f-1ea6-41e1-963a-4b00d5b7f879_3836x2568.png"
  },
  {
   "id": 45280870,
@@ -2879,7 +3140,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3029,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!uUpM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5acf78c3-3952-481f-abf6-788d5e136202_1456x728.png"
  },
  {
   "id": 45094224,
@@ -2890,7 +3152,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2124,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d550f6d-b4fb-46d9-9297-4d392d778c48_2048x1024.png"
  },
  {
   "id": 44030982,
@@ -2901,7 +3164,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1473,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!5fd0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3fdfe00-4f3e-4f46-b66a-e3a3d59e7c85_2048x1024.png"
  },
  {
   "id": 44637258,
@@ -2912,7 +3176,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 6750,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fed8e5a3a-a4d7-4d5d-89ce-f7a44f2e4fed_2048x684.png"
  },
  {
   "id": 44601514,
@@ -2923,7 +3188,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4094,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!JFY-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7e457587-c80a-40e7-90d0-25120803428f_1456x728.png"
  },
  {
   "id": 44521923,
@@ -2934,7 +3200,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1196,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!XW4T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F626a513e-ea93-473c-b8ef-1645fc476803_2048x1024.png"
  },
  {
   "id": 44351725,
@@ -2945,7 +3212,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 835,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!cZn-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2536735b-cb9c-4b4b-ac87-cf73a753c183_3038x5834.png"
  },
  {
   "id": 44290086,
@@ -2956,7 +3224,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5425,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!po9D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7feeead1-3f92-4524-b2b4-70814a15c66d_1456x728.png"
  },
  {
   "id": 44031543,
@@ -2967,7 +3236,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1167,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!-MbD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff20f2147-5cc4-453e-ac6a-8c274d5931ff_2400x1350.png"
  },
  {
   "id": 43956500,
@@ -2978,7 +3248,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3994,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!SrvR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26439b9e-5de2-45fa-be2e-3c653bfcf9bc_1456x728.png"
  },
  {
   "id": 43620057,
@@ -2989,7 +3260,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3112,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8e9aca2d-57f8-4049-915b-cdd23bb9b177_2048x1102.png"
  },
  {
   "id": 43611526,
@@ -3000,7 +3272,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2495,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!QGjJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F261ee018-3b5d-48e6-8977-c78c736da738_1456x728.png"
  },
  {
   "id": 42101535,
@@ -3011,7 +3284,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1169,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/74969bfb-0636-4a74-919a-ffabf663950a_2048x1024.png"
  },
  {
   "id": 43274824,
@@ -3022,7 +3296,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 7109,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!QWTT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0b82104-ca77-47a3-8fa6-5410e89c86fb_1456x728.png"
  },
  {
   "id": 42720359,
@@ -3033,7 +3308,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2507,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb36d496a-c006-40e4-b773-8f8e604a5864_3038x5686.png"
  },
  {
   "id": 42961017,
@@ -3044,7 +3320,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2398,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!kaEo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84667c74-986e-4bf4-9cee-675d86312336_1456x728.png"
  },
  {
   "id": 42719921,
@@ -3055,7 +3332,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 47,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!3cRC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1704354d-084c-4e8f-a0fb-a8dbe2ee0041_4032x3024.jpeg"
  },
  {
   "id": 42643914,
@@ -3066,7 +3344,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5593,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5eb0dc8a-5f63-4ccb-84d3-cefdcfc458f5_1456x728.png"
  },
  {
   "id": 40915593,
@@ -3077,18 +3356,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2348,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfe06853-957c-46f4-b29f-d4b79a91ede0_2318x2328.png"
  },
  {
   "id": 42336043,
-  "title": "Community Wisdom: Setting up a family leave policy, creating an LLC for your consulting business, prioritizing buyer vs. user, maintaining a healthy work-life balance, and much more ",
+  "title": "Community Wisdom: Setting up a family leave policy, creating an LLC for your consulting business, prioritizing buyer vs. user, maintaining a healthy work-life balance, and much more",
   "subtitle": "Community issue 56",
   "url": "https://www.lennysnewsletter.com/p/community-wisdom-setting-up-a-family",
   "date": "2021-10-08",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3707,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!knPb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff35b9875-b1ae-4edf-a8f5-eef1f31e5915_1456x728.png"
  },
  {
   "id": 42101762,
@@ -3099,18 +3380,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2159,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!xHGu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9654246-b8b0-432c-bdd9-12776264fa26_2048x1024.png"
  },
  {
   "id": 42051880,
-  "title": "Community Wisdom: Working with teammates in different time zones, decision-making templates, improving your verbal communication, transitioning into the head of product, planning a rebrand, more ",
+  "title": "Community Wisdom: Working with teammates in different time zones, decision-making templates, improving your verbal communication, transitioning into the head of product, planning a rebrand, more",
   "subtitle": "Community issue 55",
   "url": "https://www.lennysnewsletter.com/p/community-wisdom-working-with-teammates",
   "date": "2021-10-01",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 7672,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!JR5S!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb469009e-3f07-428a-9978-8d891ca12014_1456x728.png"
  },
  {
   "id": 41378701,
@@ -3121,7 +3404,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2653,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb44c7af-edce-433e-996f-e69ba4ad7359_2048x770.png"
  },
  {
   "id": 41750317,
@@ -3132,7 +3416,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3187,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Z-0X!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F805f0d62-1938-4deb-9ff5-8139f00f1980_1456x728.png"
  },
  {
   "id": 40878472,
@@ -3143,7 +3428,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2419,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!tSyA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1c89c41d-0c4a-4f0d-ab1a-68f26e896821_2048x1340.png"
  },
  {
   "id": 41371152,
@@ -3154,7 +3440,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 955,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F87031309-b5be-48a6-a9dd-56b741888d05_2400x1350.png"
  },
  {
   "id": 41442112,
@@ -3165,7 +3452,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3654,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!dFKv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd31db8c-63e5-4583-903a-8f322f771e96_1456x728.png"
  },
  {
   "id": 40915843,
@@ -3176,7 +3464,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2619,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1584c90-8344-4464-90f1-088fee2c2da6_890x714.png"
  },
  {
   "id": 40875523,
@@ -3187,7 +3476,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 4566,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b6662ab-bb41-4979-99a6-88b7882e10b0_1368x1238.png"
  },
  {
   "id": 41148532,
@@ -3198,7 +3488,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2495,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!yQ0K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8f66d070-9c0c-4e48-b494-eac12bc66978_1456x728.png"
  },
  {
   "id": 40782297,
@@ -3209,18 +3500,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3416,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f59fe10-32ed-431b-8d22-e0f45d662965_3038x2754.png"
  },
  {
   "id": 40864748,
   "title": "Community Wisdom: Home video setup, celebrating the end of a big project, interview questions to discover jerks, dealing with an ever-changing roadmap, announcing new features, and more",
-  "subtitle": "Community issue 51 ",
+  "subtitle": "Community issue 51",
   "url": "https://www.lennysnewsletter.com/p/community-wisdom-home-video-setup",
   "date": "2021-09-03",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3963,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!bgJB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6bad0039-3b3d-44a8-a4a1-7d91cdc26873_1456x728.png"
  },
  {
   "id": 40530838,
@@ -3231,7 +3524,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1007,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f7674b62-5e5e-4802-9a0d-f10da464c631_1312x750.png"
  },
  {
   "id": 40547607,
@@ -3242,7 +3536,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2293,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!ArV3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1db8341f-e832-4a1e-8d04-c46f9c9e345b_1400x400.jpeg"
  },
  {
   "id": 40198424,
@@ -3253,7 +3548,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2430,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!ddVS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2774061-76f6-487f-a7f2-1cb6974cb040_2400x9912.png"
  },
  {
   "id": 39980852,
@@ -3264,18 +3560,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 732,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5d0529d9-b608-44e5-8711-76a3a7b74735_2048x1024.png"
  },
  {
   "id": 39975131,
-  "title": "Community Wisdom: Reforge, getting buy-in on strategy, examples of great product specs,  the best way to quit your job, best note-taking/TODO app, hiring a Head of People, keeping track of who’s away",
+  "title": "Community Wisdom: Reforge, getting buy-in on strategy, examples of great product specs, the best way to quit your job, best note-taking/TODO app, hiring a Head of People, keeping track of who’s away",
   "subtitle": "Community issue 48",
   "url": "https://www.lennysnewsletter.com/p/community-wisdom-reforge-getting",
   "date": "2021-08-13",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3963,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Cols!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc05bd65-2876-4a5f-a1d1-d87f57811af8_1456x728.png"
  },
  {
   "id": 39653967,
@@ -3286,7 +3584,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1462,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/23814ac5-8ef3-42d7-957b-e5fce91c64c9_390x259.gif"
  },
  {
   "id": 39687255,
@@ -3297,7 +3596,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3153,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!XgKe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5f2671a6-92d3-43d5-803b-262aea3f8572_1456x728.png"
  },
  {
   "id": 36998333,
@@ -3308,18 +3608,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1350,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F654b8d2b-149b-45e5-8528-7f0eee654858_2048x1180.png"
  },
  {
   "id": 39406124,
-  "title": "Community Wisdom: Transitioning from IC to PM manager, visualizing your product  flows, negotiating salary, efficient customer interviews, the value of self-serve product demos, and more",
+  "title": "Community Wisdom: Transitioning from IC to PM manager, visualizing your product flows, negotiating salary, efficient customer interviews, the value of self-serve product demos, and more",
   "subtitle": "Issue 45",
   "url": "https://www.lennysnewsletter.com/p/community-wisdom-transitioning-from",
   "date": "2021-07-30",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3002,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf9d42d8-25ab-4f2c-a789-3b4f9590a279_1456x728.png"
  },
  {
   "id": 39139067,
@@ -3330,7 +3632,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1551,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F09e22b76-32e0-42aa-8344-c152437b014d_356x200.gif"
  },
  {
   "id": 39113097,
@@ -3341,7 +3644,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3591,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!x30C!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf9d42d8-25ab-4f2c-a789-3b4f9590a279_1456x728.png"
  },
  {
   "id": 38922563,
@@ -3352,7 +3656,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1914,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F854d849d-6b5f-4108-b7d5-71e9219dcfd7_2362x6260.png"
  },
  {
   "id": 38834063,
@@ -3363,7 +3668,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4888,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!TPsW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8693cc57-60af-4cb4-b4af-81c0c728c802_1456x728.png"
  },
  {
   "id": 38584004,
@@ -3374,7 +3680,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2151,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe964627-5ac4-49c4-a8e6-e576f33292fb_2400x1704.png"
  },
  {
   "id": 38280596,
@@ -3385,7 +3692,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2038,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!jAhN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F78d74b98-dac2-4f66-b822-2170a48a8bee_2048x1024.png"
  },
  {
   "id": 38306456,
@@ -3396,7 +3704,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 6021,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F618661f2-7e89-42fd-8ce2-e93047bc92d8_1456x728.png"
  },
  {
   "id": 37995641,
@@ -3407,7 +3716,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1087,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faf1f960c-c174-4f0f-a140-11ff36678237_2400x1350.png"
  },
  {
   "id": 38029198,
@@ -3418,7 +3728,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5539,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8f1f178d-e2d5-4fca-87cb-5d209a500c32_1456x728.png"
  },
  {
   "id": 37770028,
@@ -3429,7 +3740,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1567,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F05eda3e6-d918-41db-a87e-eb0d9a3bfe8e_2400x2742.png"
  },
  {
   "id": 37750957,
@@ -3440,7 +3752,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 6066,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Xflj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ae572a6-4daa-43ea-b81e-38c8fadcf580_1456x728.png"
  },
  {
   "id": 37647393,
@@ -3451,7 +3764,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 113,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!ke9u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd620a8b9-4042-460d-a130-61948c17211f_4000x11160.jpeg"
  },
  {
   "id": 37550987,
@@ -3462,7 +3776,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1524,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!pflu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7abc6cd1-f2a2-48de-ad7d-3bea8f1d0a6c_2048x1654.png"
  },
  {
   "id": 37486222,
@@ -3473,7 +3788,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3366,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Eh-T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6be6828c-cfe9-41aa-ab32-7311f338acac_1456x728.png"
  },
  {
   "id": 36930523,
@@ -3484,7 +3800,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1706,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93f614f7-0f11-4381-aece-363ec56e1c5a_500x636.jpeg"
  },
  {
   "id": 36959202,
@@ -3495,18 +3812,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1586,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1c5ca2ff-3f0f-47e1-846c-1fbdbea7c64a_2048x1086.png"
  },
  {
   "id": 37182163,
-  "title": "Community Wisdom: Supporting your team through hard times, up-leveling your team, keeping documentation up to date,  involving engineers early on, describing a PMs job, jamming on ideas",
+  "title": "Community Wisdom: Supporting your team through hard times, up-leveling your team, keeping documentation up to date, involving engineers early on, describing a PMs job, jamming on ideas",
   "subtitle": "Issue 38",
   "url": "https://www.lennysnewsletter.com/p/community-wisdom-supporting-your",
   "date": "2021-06-04",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3607,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!xE0z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc3b4f13-f1d0-4a5a-9cf3-4b483e630c08_1456x728.png"
  },
  {
   "id": 36885293,
@@ -3517,7 +3836,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2003,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!xRJ6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0105c78f-8ab0-482d-8a0d-b8b066c1b44c_2400x4674.png"
  },
  {
   "id": 36945853,
@@ -3528,7 +3848,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3832,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!OPzp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd1c6a3b-c570-43dd-9392-7061fc867bd7_1456x728.png"
  },
  {
   "id": 36750145,
@@ -3539,7 +3860,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3181,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7abc6cd1-f2a2-48de-ad7d-3bea8f1d0a6c_2048x1654.png"
  },
  {
   "id": 35885561,
@@ -3550,7 +3872,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2186,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6bde66e5-3cf6-48d6-b771-b95cba1f892e_1600x1067.jpeg"
  },
  {
   "id": 36407990,
@@ -3561,7 +3884,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3794,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!duIS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1b6cd921-dba3-4ffa-93c1-c00e0dfd2549_1456x728.png"
  },
  {
   "id": 35857273,
@@ -3572,7 +3896,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1562,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d658aa6-a5b7-45cd-a53e-cb893bef9927_2400x3064.png"
  },
  {
   "id": 36152019,
@@ -3583,7 +3908,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4520,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!miD4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F540decc0-0e3e-4edf-8a82-f27d5455a5d5_1456x728.png"
  },
  {
   "id": 33702655,
@@ -3594,7 +3920,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2206,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!GfMJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb394b161-ce55-4a6e-aa1f-fe2685e72c98_2048x1024.png"
  },
  {
   "id": 35583435,
@@ -3605,7 +3932,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3116,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F08488344-0949-41c8-b8a8-0c16a9754f9f_1200x1600.jpeg"
  },
  {
   "id": 35522415,
@@ -3616,7 +3944,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3213,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2e106096-eb75-4e88-b792-9d697ed1cc17_2048x1024.png"
  },
  {
   "id": 35016806,
@@ -3627,7 +3956,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2529,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe00f4337-2f57-4d72-99bb-0df779595c5c_1080x809.jpeg"
  },
  {
   "id": 35211897,
@@ -3638,7 +3968,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4555,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 35030392,
@@ -3649,7 +3980,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2766,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0205a3ca-8644-49ff-9de3-302b0feea6c4_2048x1024.png"
  },
  {
   "id": 34944671,
@@ -3660,7 +3992,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3945,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 34777548,
@@ -3671,7 +4004,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1421,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2487a11-7404-40d7-b74d-b12b363ec73e_3932x8192.png"
  },
  {
   "id": 34679262,
@@ -3682,7 +4016,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4076,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!kQ80!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FExibjEvUYAALOFt.png"
  },
  {
   "id": 34436631,
@@ -3693,7 +4028,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1809,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F17d07007-8a40-492c-8af0-58ca9ed3baab_2048x1024.png"
  },
  {
   "id": 34358162,
@@ -3704,18 +4040,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3634,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 33820795,
   "title": "The PM 🤝 Design Partnership",
-  "subtitle": "Five tips for PMs working with designers — guest post by Katie Dill",
+  "subtitle": "Five tips for PMs working with designers — guest post by Katie Dill",
   "url": "https://www.lennysnewsletter.com/p/design-product-management-partnership",
   "date": "2021-03-23",
   "type": "newsletter",
   "audience": "everyone",
   "words": 2597,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fab7ae3aa-1728-47ce-a85c-e5275f2e09ba_4898x3265.jpeg"
  },
  {
   "id": 33922522,
@@ -3726,7 +4064,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3600,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 33704175,
@@ -3737,7 +4076,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1016,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F68ce757d-e4fe-4d01-b247-8087645e0e68_953x315.png"
  },
  {
   "id": 33577281,
@@ -3748,7 +4088,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3149,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!jJQk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff1cdf83-e03b-4b04-a452-cd1587070102_785x558.png"
  },
  {
   "id": 33360838,
@@ -3759,7 +4100,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 849,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a7078f7-f22a-45ed-bd0c-bc431be3f2ea_2088x1514.png"
  },
  {
   "id": 33281726,
@@ -3770,18 +4112,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2628,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!y92T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FEqgS2TyVgAEcnQk.jpg"
  },
  {
   "id": 32645483,
-  "title": "Content-driven growth ",
+  "title": "Content-driven growth",
   "subtitle": "Advice from HubSpot, Ahrefs, Intercom, Slidebean, and Webflow",
   "url": "https://www.lennysnewsletter.com/p/content-driven-growth-strategy",
   "date": "2021-03-02",
   "type": "newsletter",
   "audience": "everyone",
   "words": 4165,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbfdcf754-87e8-4801-abb4-f6a114462d81_2048x1024.png"
  },
  {
   "id": 32695333,
@@ -3792,7 +4136,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 831,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0063abfd-7ae8-4aa0-ad69-cc17da374c06_1530x1404.png"
  },
  {
   "id": 32693403,
@@ -3803,7 +4148,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2110,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 32042482,
@@ -3814,7 +4160,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2902,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!BeRf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fb2cb1b-e4e0-4382-9007-9c0cacecffbc_1600x900.png"
  },
  {
   "id": 32458087,
@@ -3825,7 +4172,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3879,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FEhCWiSQU8AAvobg.jpg"
  },
  {
   "id": 32038368,
@@ -3836,7 +4184,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2155,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc66bd7bc-d901-4ddf-9f91-61c65da26c11_4000x2666.jpeg"
  },
  {
   "id": 32042335,
@@ -3847,7 +4196,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2343,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1b44cff-f5ad-4c50-9fba-e9e72b3a5834_2048x1250.png"
  },
  {
   "id": 31982892,
@@ -3858,7 +4208,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3828,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 31110574,
@@ -3869,7 +4220,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3780,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc597ea0-acf1-4a8b-b18e-30c59d2f9616_1593x912.png"
  },
  {
   "id": 31755897,
@@ -3880,7 +4232,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2641,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!_aI4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F421aaa12-ee79-43d4-b664-3d4f14898fa7_1158x772.png"
  },
  {
   "id": 31618335,
@@ -3891,7 +4244,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1112,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F49b1bea7-35e2-440c-aa08-93272dd55981_1200x675.png"
  },
  {
   "id": 31501725,
@@ -3902,7 +4256,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3970,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 31106647,
@@ -3913,7 +4268,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 741,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b0bc019-0cc9-4de8-922d-ec269f325afb_2400x1350.png"
  },
  {
   "id": 28471614,
@@ -3924,7 +4280,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3988,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!mbIa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd8bef02-1d56-4319-89a8-60b7c0e5a976_1828x950.png"
  },
  {
   "id": 29542257,
@@ -3935,7 +4292,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1157,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd93beb0-ff08-4e3e-b7f4-81ed959c56af_2048x1024.png"
  },
  {
   "id": 30324768,
@@ -3946,7 +4304,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3447,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 26784339,
@@ -3957,18 +4316,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 609,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb0eb167-1e70-47f1-ad15-e7d799f0632e_1546x1038.png"
  },
  {
   "id": 28471680,
-  "title": "🤩 Community Wisdom: Leaving your job without another gig lined up, running user interviews, creative job descriptions, making sure everyone knows the vision and mission,  and much more",
+  "title": "🤩 Community Wisdom: Leaving your job without another gig lined up, running user interviews, creative job descriptions, making sure everyone knows the vision and mission, and much more",
   "subtitle": "Issue 15",
   "url": "https://www.lennysnewsletter.com/p/-community-wisdom-leaving-your-job",
   "date": "2020-12-25",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4422,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 25666728,
@@ -3979,18 +4340,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 979,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4fa63552-3497-492b-a8aa-06a75ce38eaf_2400x1256.png"
  },
  {
   "id": 26000182,
-  "title": "🤩 Community Wisdom: Increasing your team’s velocity, calculating CAC, negotiating equity, interview questions, PM titles, Marty Cagan, and much more",
+  "title": "🤩 Community Wisdom: Increasing your team’s velocity, calculating CAC, negotiating equity, interview questions, PM titles, Marty Cagan, and much more",
   "subtitle": "Issue 14",
   "url": "https://www.lennysnewsletter.com/p/-community-wisdom-increasing-your",
   "date": "2020-12-18",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3211,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!TGDO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fcdn.substack.com%2Fimage%2Fupload%2Fw_728%2Cc_limit%2Fth5m54lgs9lsdroxdenk"
  },
  {
   "id": 18171065,
@@ -4001,7 +4364,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3358,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0f2d437-89d3-44c7-bd04-e6e7d2ea224b_2400x1350.png"
  },
  {
   "id": 24537256,
@@ -4012,7 +4376,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 4205,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 21779937,
@@ -4023,7 +4388,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1044,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff8bd15f-c93c-409b-9119-ab0e5c6c13f8_2400x1350.png"
  },
  {
   "id": 21257124,
@@ -4034,7 +4400,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3759,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fae068e3d-940f-4c37-8d4d-a32b2da86152_800x1034.jpeg"
  },
  {
   "id": 20149350,
@@ -4045,18 +4412,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1308,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F763227f6-e383-464e-b2a4-8ddad794414b_1678x1144.png"
  },
  {
   "id": 19901012,
-  "title": "🤩 Community wisdom – Issue 11",
+  "title": "🤩 Community wisdom – Issue 11",
   "subtitle": "PMing during COVID, keeping track of everyone's projects, working with PR, ideal team ratios, startup job titles, fireside chat with Shreyas, and much more",
   "url": "https://www.lennysnewsletter.com/p/-community-wisdom-issue-11",
   "date": "2020-11-27",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2563,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 18947521,
@@ -4067,7 +4436,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 6134,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F91b85976-c55f-4f8a-9d16-2b3807f40e6a_2150x1171.png"
  },
  {
   "id": 19286949,
@@ -4078,7 +4448,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2903,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!OUbG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4ba3b156-c955-4d65-8efe-d325456c9725_1600x909.png"
  },
  {
   "id": 18145107,
@@ -4089,18 +4460,20 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1612,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc24de615-f021-4c53-a9c3-f2792c424750_2400x1350.png"
  },
  {
   "id": 18513588,
-  "title": "🤩 Community wisdom – Issue 9",
+  "title": "🤩 Community wisdom – Issue 9",
   "subtitle": "Running monthly business reviews, best PM software, prioritizing eng work, frameworks for getting feedback, sprint planning guides, and much more",
   "url": "https://www.lennysnewsletter.com/p/-community-wisdom-issue-9",
   "date": "2020-11-13",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 5399,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!rZyL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc08c5c2a-a0aa-4e90-9747-8daa452f1ca8_1570x882.png"
  },
  {
   "id": 16528616,
@@ -4111,7 +4484,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1030,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F58b977ec-8d94-4340-8c7a-b82faddd1a79_2400x1768.png"
  },
  {
   "id": 17731731,
@@ -4122,7 +4496,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3573,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/youtube/w_728,c_limit/cWxX1bCZjac"
  },
  {
   "id": 94056,
@@ -4133,7 +4508,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 568,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2561209b-884e-4159-8ebd-060af4c43c6f_1372x704.png"
  },
  {
   "id": 15891240,
@@ -4144,7 +4520,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2804,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 13905476,
@@ -4155,7 +4532,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3580,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F971baee8-62bc-4007-8a62-b2179faef927_1600x900.png"
  },
  {
   "id": 13904044,
@@ -4166,7 +4544,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1870,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 9509086,
@@ -4177,7 +4556,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1018,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86028c4d-446a-4e74-8295-9d492c391358_1200x874.jpeg"
  },
  {
   "id": 12229470,
@@ -4188,7 +4568,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1919,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 6011661,
@@ -4199,7 +4580,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1702,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a55faa2-7e01-4bbc-8f06-7eabb8cc530e_4368x2912.jpeg"
  },
  {
   "id": 8533015,
@@ -4210,7 +4592,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1711,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 6807332,
@@ -4221,7 +4604,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1465,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fffa33a62-d5d7-4f77-a8e7-d3ddd0eaff25_1462x1256.png"
  },
  {
   "id": 6010894,
@@ -4232,7 +4616,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1700,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 3111833,
@@ -4243,18 +4628,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3708,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fddea5493-43b6-4017-93b5-47a3b37e38b6_1766x994.png"
  },
  {
   "id": 3111995,
   "title": "🤩 Community wisdom – Issue 2",
-  "subtitle": "Designing a review system, measuring developer productivity, and GTM plans ",
+  "subtitle": "Designing a review system, measuring developer productivity, and GTM plans",
   "url": "https://www.lennysnewsletter.com/p/-community-wisdom-issue-2",
   "date": "2020-09-25",
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1575,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!PnF0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F51bed8e4-9ad9-4494-9f46-129d85205796_1524x1014.png"
  },
  {
   "id": 2109440,
@@ -4265,7 +4652,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2141,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd28fa7c7-727c-482e-bfa0-d92ebaf07147_1024x424.png"
  },
  {
   "id": 2441970,
@@ -4276,7 +4664,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 963,
-  "minutes": null
+  "minutes": null,
+  "image": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f68d4a33-273d-45cb-95b7-3b0377f4d50e_256x256.png"
  },
  {
   "id": 1654706,
@@ -4287,7 +4676,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1198,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F46c9cb6d-ace9-4bbb-95b1-9154e556f2ff_2400x1350.png"
  },
  {
   "id": 1225083,
@@ -4298,7 +4688,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2464,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fee01028f-17de-40e3-8171-32dfb21a3c3f_490x367.gif"
  },
  {
   "id": 919134,
@@ -4309,7 +4700,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 4426,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!9ETz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb73196fa-0f52-4d09-b034-0b984fbcc6e7_550x458.jpeg"
  },
  {
   "id": 854784,
@@ -4320,7 +4712,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2517,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc41dd98d-2ab1-4e94-bff6-ee3d889228d3_2400x1350.png"
  },
  {
   "id": 839116,
@@ -4331,7 +4724,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1371,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb410eab2-e4cc-4a3f-a243-cfcfef3dc94e_600x382.jpeg"
  },
  {
   "id": 813042,
@@ -4342,7 +4736,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1577,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8029ae6c-4b34-44c2-9da4-18cfddbb9eac_1280x1280.jpeg"
  },
  {
   "id": 683946,
@@ -4353,7 +4748,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 545,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F39598850-5c8f-4928-90bd-d56799dba39b_6016x4016.jpeg"
  },
  {
   "id": 683989,
@@ -4364,7 +4760,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 3839,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!z508!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F10044eef-b69f-40f0-a04b-33a4b4f10c20_3000x1687.png"
  },
  {
   "id": 683985,
@@ -4375,7 +4772,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1917,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F590d1f49-4b0b-471b-ba85-99e597104349_1668x2096.jpeg"
  },
  {
   "id": 683502,
@@ -4386,7 +4784,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2774,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F450697ec-a0d8-4bc8-9a36-733241cecdf4_2171x1094.png"
  },
  {
   "id": 605405,
@@ -4397,7 +4796,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3054,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdac51716-54f1-48dd-bec3-5f9c820abbc1_6000x4074.png"
  },
  {
   "id": 572142,
@@ -4408,7 +4808,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2032,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/youtube/w_728,c_limit/0EygqL--RW4"
  },
  {
   "id": 442008,
@@ -4419,7 +4820,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2118,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cceb08b-4d55-4e47-a403-f8862121959b_1288x1224.png"
  },
  {
   "id": 420940,
@@ -4430,7 +4832,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 627,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!XEhg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc96a0197-a991-40f8-a4a4-f51f7e7caf17_480x360.gif"
  },
  {
   "id": 465580,
@@ -4441,7 +4844,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2240,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F56c42120-3472-426c-bc68-6498d214944a_2550x2944.png"
  },
  {
   "id": 442620,
@@ -4452,7 +4856,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1451,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13d140ed-05f7-4fc5-96d7-38628da30ded_480x362.gif"
  },
  {
   "id": 412023,
@@ -4463,7 +4868,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1196,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!bKi7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F02b8548b-fd22-4962-87b1-176b3a934688_500x359.gif"
  },
  {
   "id": 448368,
@@ -4474,7 +4880,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 910,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!hexi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3498eef1-7284-4770-8e4b-384ceaeeaefe_480x480.gif"
  },
  {
   "id": 403632,
@@ -4485,7 +4892,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 4350,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1d94cc3-03fb-4b32-b2f2-ef5146b70615_3000x1687.png"
  },
  {
   "id": 382957,
@@ -4496,7 +4904,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 2141,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6649583-e090-4910-b4c6-f99c4c04c89c_534x300.gif"
  },
  {
   "id": 403468,
@@ -4507,7 +4916,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1459,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a4e1311-6020-4065-aab6-f49350e63212_1280x960.png"
  },
  {
   "id": 368222,
@@ -4518,7 +4928,8 @@
   "type": "newsletter",
   "audience": "only_paid",
   "words": 1460,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa36e2b3c-729a-40f4-8ccc-737494a6ca94_1140x645.jpeg"
  },
  {
   "id": 337944,
@@ -4529,7 +4940,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1337,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1fd859-81ee-4daf-b544-ab4603a1118b.tiff"
  },
  {
   "id": 304947,
@@ -4540,7 +4952,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 719,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F838e31ff-4934-49e8-863d-f891f2c551ab_480x320.gif"
  },
  {
   "id": 336768,
@@ -4551,7 +4964,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2836,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F45161af5-8e0a-4256-b366-c01c70037ba9_960x540.png"
  },
  {
   "id": 308565,
@@ -4562,7 +4976,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 752,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!SUDX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5b2d4565-503c-4df4-8702-837290cecd56_600x338.jpeg"
  },
  {
   "id": 315231,
@@ -4573,7 +4988,8 @@
   "type": "thread",
   "audience": "everyone",
   "words": 86,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!m0Vb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9633058f-2cc4-42d2-81b4-6d4d3e6a0bf6_1280x720.jpeg"
  },
  {
   "id": 302018,
@@ -4584,7 +5000,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1224,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!SGqS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6f24c672-b826-4790-b010-83ade4e29cdc_1080x743.jpeg"
  },
  {
   "id": 295936,
@@ -4595,7 +5012,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1240,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!3AVn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe351fe9b-d582-4ce3-a353-4cf38056dc9b_1910x988.png"
  },
  {
   "id": 281254,
@@ -4606,7 +5024,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 742,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!FR8i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F95c88ce9-6bea-46fe-a102-790030f43cad_625x460.png"
  },
  {
   "id": 275650,
@@ -4617,7 +5036,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 843,
-  "minutes": null
+  "minutes": null,
+  "image": "https://res.cloudinary.com/hhsslviub/image/fetch/h_600/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1141876-962d-4512-a28b-22e31bd7fc86_614x343.png"
  },
  {
   "id": 261046,
@@ -4628,7 +5048,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 862,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!0leJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7ea8d5c6-8fe6-45a3-a7d1-f7a20c059693_1940x900.jpeg"
  },
  {
   "id": 238804,
@@ -4639,29 +5060,32 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1298,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!RatL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F533d8d94-07d6-4389-9bb0-1dd823ac830d_5184x2576.jpeg"
  },
  {
   "id": 240863,
   "title": "How to know if you've got product-market fit",
-  "subtitle": "Insights from Marc Andreessen, Elad Gil, Steve Blank, Andy Rachleff, Michael Seibel, and many more ",
+  "subtitle": "Insights from Marc Andreessen, Elad Gil, Steve Blank, Andy Rachleff, Michael Seibel, and many more",
   "url": "https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket",
   "date": "2020-01-28",
   "type": "newsletter",
   "audience": "everyone",
   "words": 1614,
-  "minutes": null
+  "minutes": null,
+  "image": "https://cdn.substack.com/image/upload/w_728,c_limit/rjfxmqt4aocmcw0aczm8"
  },
  {
   "id": 220153,
   "title": "This Week #11: What should new PMs over-index on, and empowering product in a sales-driven org",
-  "subtitle": "With guest contributor Jackie Bavaro - author of Cracking the PM Interview ",
+  "subtitle": "With guest contributor Jackie Bavaro - author of Cracking the PM Interview",
   "url": "https://www.lennysnewsletter.com/p/this-week-11-what-should-new-pms",
   "date": "2020-01-21",
   "type": "newsletter",
   "audience": "everyone",
   "words": 1724,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!nZSV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4543d6ab-4579-4d18-ab04-940444a3ad33_6000x4000.jpeg"
  },
  {
   "id": 206539,
@@ -4672,18 +5096,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1808,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!POGJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F57d7e70e-3b88-43e3-bfcf-4fee2fdbbd3d_4272x2848.jpeg"
  },
  {
   "id": 206532,
   "title": "This Week #9: Breaking into growth, leading with influence, and (not) stepping on toes 🦶",
-  "subtitle": "With special guest contributor Brian Balfour – Founder and CEO of Reforge",
+  "subtitle": "With special guest contributor Brian Balfour – Founder and CEO of Reforge",
   "url": "https://www.lennysnewsletter.com/p/this-week-9-breaking-into-growth",
   "date": "2020-01-07",
   "type": "newsletter",
   "audience": "everyone",
   "words": 2315,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!lpwS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4417d797-40ad-4780-846f-9176566d9e05_480x360.gif"
  },
  {
   "id": 201285,
@@ -4694,7 +5120,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2431,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 198993,
@@ -4705,7 +5132,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2970,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 194271,
@@ -4716,18 +5144,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1642,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!l2Br!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8c15f9c-db9f-43f5-a7a8-a686c3b69215_2136x761.png"
  },
  {
   "id": 184139,
-  "title": "How To Know If You're Supply or Demand Constrained 🤹‍♂️ - Phase 2 of Kickstarting and Scaling a Marketplace Business",
+  "title": "How To Know If You're Supply or Demand Constrained 🤹♂️ - Phase 2 of Kickstarting and Scaling a Marketplace Business",
   "subtitle": "Insights from today's biggest marketplaces, including Airbnb, DoorDash, Thumbtack, Etsy, Uber and many more",
   "url": "https://www.lennysnewsletter.com/p/how-to-know-if-youre-supply-or-demand",
   "date": "2019-12-10",
   "type": "newsletter",
   "audience": "everyone",
   "words": 1902,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!-pqi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2be334c8-f415-4c04-bddb-c16eca2c9874_2134x1532.png"
  },
  {
   "id": 181137,
@@ -4738,7 +5168,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 4938,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 176567,
@@ -4749,7 +5180,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2895,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 159750,
@@ -4760,7 +5192,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1179,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!2NLk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37785dd7-4990-401e-ab49-de771179a6fd_1898x990.png"
  },
  {
   "id": 162491,
@@ -4771,7 +5204,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2261,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!jg7j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7da5fd8-bbf4-4c66-af5e-cf03056d575f_2135x1686.png"
  },
  {
   "id": 165045,
@@ -4782,18 +5216,20 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1730,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!JjOv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6aae58cd-80dd-4cce-8ddf-484427814d99_2078x828.png"
  },
  {
   "id": 153433,
-  "title": "Share one thing that you’ve changed within your organization that has made your team meaningfully more effective ",
+  "title": "Share one thing that you’ve changed within your organization that has made your team meaningfully more effective",
   "subtitle": "",
   "url": "https://www.lennysnewsletter.com/p/-share-one-thing-that-youve-changed",
   "date": "2019-11-05",
   "type": "thread",
   "audience": "everyone",
   "words": 90,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 150958,
@@ -4804,7 +5240,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2167,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 149312,
@@ -4815,7 +5252,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2104,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 140480,
@@ -4826,7 +5264,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3074,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 135837,
@@ -4837,7 +5276,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2312,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 133509,
@@ -4848,7 +5288,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1700,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 131932,
@@ -4859,7 +5300,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 570,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!zFMs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F68431cce-3598-4a7e-a172-7021f24087ef_1000x694.png"
  },
  {
   "id": 126895,
@@ -4870,7 +5312,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1440,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 124698,
@@ -4881,7 +5324,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1187,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 94058,
@@ -4892,7 +5336,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 990,
-  "minutes": null
+  "minutes": null,
+  "image": ""
  },
  {
   "id": 89073,
@@ -4903,7 +5348,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1188,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!bJVo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4bcf3d5-b8b0-4913-8c01-0b0012a9076e_640x1027.jpeg"
  },
  {
   "id": 77868,
@@ -4914,7 +5360,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 5366,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!MvA5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F08b2c1a3-c557-418a-9872-b743c1b6e1d7_1920x1280.jpeg"
  },
  {
   "id": 72630,
@@ -4925,7 +5372,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 203,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!Qty1!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2d1fab9-9ee8-49d4-920d-33bdc6d0d8c6_2600x1966.jpeg"
  },
  {
   "id": 72627,
@@ -4936,7 +5384,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 3140,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!hTra!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca1f772a-0fac-45d7-a303-ca0d4db7edf4_2400x1600.jpeg"
  },
  {
   "id": 72626,
@@ -4947,7 +5396,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 1724,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!3q3A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb237910d-fa7d-453c-b37e-58abd0d8b596_1600x1199.jpeg"
  },
  {
   "id": 72624,
@@ -4958,7 +5408,8 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2367,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!z_HZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fec85cabc-5222-4a71-9e48-159f1981c07e_1600x800.png"
  },
  {
   "id": 72617,
@@ -4969,6 +5420,7 @@
   "type": "newsletter",
   "audience": "everyone",
   "words": 2686,
-  "minutes": null
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!yFro!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9433a380-7255-4054-acb7-afae7b3d1165_3103x1813.png"
  }
 ]

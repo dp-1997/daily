@@ -417,21 +417,27 @@
       "host": "David Senra",
       "feed": "https://feeds.megaphone.fm/DSLLC6297708582",
       "apple": "https://podcasts.apple.com/gb/podcast/founders/id1141877104",
-      "site": "https://www.founderspodcast.com"
+      "site": "https://www.founderspodcast.com",
+      "youtube_channel": "UCYOU289oQio3E7jerlJP5Jg",
+      "youtube": "https://www.youtube.com/@FoundersPodcast"
     },
     {
       "show": "David Senra",
       "host": "David Senra",
       "feed": "https://feeds.megaphone.fm/david-senra",
       "apple": "https://podcasts.apple.com/gb/podcast/david-senra/id1836497887",
-      "site": "https://podcasts.apple.com/gb/podcast/david-senra/id1836497887"
+      "site": "https://podcasts.apple.com/gb/podcast/david-senra/id1836497887",
+      "youtube_channel": "UCy2FPslt0LLPsIV0iukvHpQ",
+      "youtube": "https://www.youtube.com/@DavidSenra"
     },
     {
       "show": "Acquired",
       "host": "Ben Gilbert and David Rosenthal",
       "feed": "https://feeds.transistor.fm/acquired",
       "apple": "https://podcasts.apple.com/gb/podcast/acquired/id1050462261",
-      "site": "https://www.acquired.fm"
+      "site": "https://www.acquired.fm",
+      "youtube_channel": "UCyFqFYfTW2VoIQKylJ04Rtw",
+      "youtube": "https://www.youtube.com/@AcquiredFM"
     }
   ],
   "summary_chars": 200,
@@ -479,5 +485,7 @@
     "what you need to know",
     "open thread",
     "morning lineup"
-  ]
+  ],
+  "podcast_new_hours": 36,
+  "lenny_new_hours": 36
 }
