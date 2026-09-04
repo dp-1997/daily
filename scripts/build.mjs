@@ -278,8 +278,15 @@ function validate(ed, file) {
   }
   if (!ed.read || typeof ed.read !== "object") errs.push("read (Lenny's Newsletter pick) is required");
   else for (const k of ["title", "url", "why"]) if (!ed.read[k]) errs.push(`read: missing "${k}"`);
-  if (!Array.isArray(ed.listen) || ed.listen.length < 1) errs.push("listen needs at least one episode");
-  else ed.listen.forEach((l, i) => { for (const k of ["show", "title", "url", "why"]) if (!l[k]) errs.push(`listen[${i}]: missing "${k}"`); });
+  const SHOWS = sources.podcasts.map((p) => p.show);
+  if (!Array.isArray(ed.listen) || ed.listen.length < 1) errs.push(`listen needs one episode per show (${SHOWS.join(", ")})`);
+  else {
+    ed.listen.forEach((l, i) => { for (const k of ["show", "title", "url", "why"]) if (!l[k]) errs.push(`listen[${i}]: missing "${k}"`); });
+    const shows = ed.listen.map((l) => l.show).filter(Boolean);
+    for (const sh of SHOWS) if (!shows.includes(sh)) errs.push(`listen: no episode for ${sh}`);
+    for (const sh of shows) if (!SHOWS.includes(sh)) errs.push(`listen: unknown show "${sh}"`);
+    if (new Set(shows).size !== shows.length) errs.push("listen: a show appears twice; one episode per show");
+  }
   if (ed.finally) story(ed.finally, "finally");
   if (ed.note && typeof ed.note !== "string") errs.push("note must be a string");
   return errs;
@@ -464,7 +471,7 @@ function editionHtml(ed, number, feedCount, { editionPage = false } = {}) {
     <section id="picks" class="section picks fade-in" style="--d: 2" aria-labelledby="h-picks">
       <h2 class="section-h" id="h-picks">Read and listen</h2>
       <div class="picks-grid">${pickReadHtml(ed.read)}
-        <div class="picks-listen">${ed.listen.map(pickListenHtml).join("")}
+        <div class="picks-listen">${[...ed.listen].sort((a, b) => sources.podcasts.findIndex((p) => p.show === a.show) - sources.podcasts.findIndex((p) => p.show === b.show)).map(pickListenHtml).join("")}
         </div>
       </div>
     </section>

@@ -50,7 +50,7 @@ Work from the repository root.
 
 **Selection.** Prefer launches, product decisions, breakthroughs, craft, performances, wins, design and human stories. Avoid layoffs, lawsuits, politics, outrage, culture-war framing, rumour without substance, deals and discount posts, listicles, live blogs, "everything we know" round-ups and trailer-of-a-trailer filler. Sport: results, notable performances, signings with substance, previews of today's game; injuries only if they matter. Film: releases, reviews of note, festival news, craft, box-office milestones, retrospectives; not celebrity gossip. Rumours about unreleased Apple products may appear in event weeks if they come from a named outlet with a track record, and the TLDR must say it is a report, not a fact.
 
-**Counts.** Front page: exactly 3. AI: 3 to 5. Technology: 3 to 5. Apple: 2 to 4, more in an event week. Film: 3 to 5. Sport: 0 to 3 per team, in the order Celtics, Manchester United, Patriots, F1, Red Sox. And finally: 1. Fewer is fine when the day is thin; padding is not. A section with nothing worth reading is omitted entirely (leave its `stories` empty and the page hides it).
+**Counts.** Front page: exactly 3. Listen: exactly 3, one per show. Read: 1. AI: 3 to 5. Technology: 3 to 5. Apple: 2 to 4, more in an event week. Film: 3 to 5. Sport: 0 to 3 per team, in the order Celtics, Manchester United, Patriots, F1, Red Sox. And finally: 1. Fewer is fine when the day is thin; padding is not. A section with nothing worth reading is omitted entirely (leave its `stories` empty and the page hides it).
 
 **Front page.** The three stories that best represent the day across every topic. The lead goes first. At least two of the three are not sport unless it is a genuinely big sporting day. A front-page story does not appear again in its section.
 
@@ -74,15 +74,18 @@ Prefer written posts (`"type": "newsletter"`) over podcast episodes. Do not repe
 
 ## Today's listen
 
-Three shows: Founders (David Senra's book podcast), David Senra (his interview show) and Acquired.
+Three cards every day, one for each show, in this order: Founders (David Senra's book podcast), David Senra (his interview show) and Acquired.
 
-- Check first whether any of the three released an episode in the last 24 hours: the candidates file lists them under "new since the last edition". If one did, recommend it. If two or three did, recommend up to two.
-- If none did, recommend one back-catalogue episode for relevance to the day's news, Damian's interests or the Lenny's post:
+For each show:
+
+- If it released an episode in the last 24 hours, that is the pick. The candidates file lists new episodes under "new since the last edition".
+- Otherwise pick a back-catalogue episode of that show for relevance to the day's news, Damian's interests or the Lenny's post. The candidates file lists each show's latest episodes; for anything older, search the catalogue:
 
       grep -i "steve jobs\|disney" data/podcasts.json | head -40
 
-- Rotate: avoid the same show three days running unless it released something new.
-- In the edition you give the episode's `url` (exactly as it appears in the catalogue or the candidates file) and a one-sentence `why`; the build fills in the show, title, date, duration, artwork, Apple Podcasts link and, when the show's YouTube channel has the episode, the YouTube link. Damian listens on YouTube, so the card links there when it can and offers a YouTube search otherwise. Nothing for you to do.
+- Do not repeat anything listed under "Already recommended" (the last 30 days). If every episode of a show has been recommended in that window, take the one recommended longest ago.
+
+In the edition you give each episode's `url` (exactly as it appears in the catalogue or the candidates file) and a one-sentence `why`; the build fills in the show, title, date, duration, artwork, Apple Podcasts link and, when the show's YouTube channel has the episode, the YouTube link. Damian listens on YouTube, so the card links there when it can and offers a YouTube search otherwise. Nothing for you to do.
 
 ## The edition file
 
@@ -106,7 +109,9 @@ Three shows: Founders (David Senra's book podcast), David Senra (his interview s
   ],
   "read": { "url": "https://www.lennysnewsletter.com/p/…", "why": "…" },
   "listen": [
-    { "url": "https://…", "why": "…" }
+    { "url": "https://… (Founders)", "why": "…" },
+    { "url": "https://… (David Senra)", "why": "…" },
+    { "url": "https://… (Acquired)", "why": "…" }
   ],
   "finally": { "title": "…", "url": "…", "tldr": "…" }
 }

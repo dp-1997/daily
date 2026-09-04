@@ -339,7 +339,7 @@ const usedStoryUrls = new Set();
 for (const ed of editions.slice(-7)) for (const s of storiesOf(ed)) if (s?.url) usedStoryUrls.add(normUrl(s.url));
 const recentReads = editions.filter((e) => daysAgo(e.date) <= 120 && e.read?.url).map((e) => ({ date: e.date, url: e.read.url, title: e.read.title || "" }));
 const recentListens = [];
-for (const e of editions.filter((e) => daysAgo(e.date) <= 60)) for (const l of e.listen || []) recentListens.push({ date: e.date, show: l.show || "", title: l.title || "", url: l.url });
+for (const e of editions.filter((e) => daysAgo(e.date) <= 30)) for (const l of e.listen || []) recentListens.push({ date: e.date, show: l.show || "", title: l.title || "", url: l.url });
 
 /* ---------- Fetch the feeds ---------- */
 
@@ -640,8 +640,12 @@ md.push("");
 if (!newEpisodes.length) md.push("(none: recommend a back-catalogue episode from data/podcasts.json)");
 for (const e of newEpisodes) md.push(epLine(e));
 md.push("");
-md.push("Latest episode of each show, for context:");
-for (const e of latestPerShow) md.push(`- ${e.show} · ${e.title} · ${e.date}${recentListenUrls.has(e.url) ? " · already recommended" : ""}`);
+md.push("Latest episodes of each show not yet recommended, newest first:");
+for (const show of sources.podcasts) {
+  const eps = podcasts.filter((e) => e.show === show.show && !recentListenUrls.has(e.url)).slice(0, 4);
+  md.push(`- ${show.show}:`);
+  for (const e of eps) md.push(`  - ${e.date} · **${e.title}** · ${e.duration || "?"}${e.youtube ? " · YouTube" : ""} · ${e.url}`);
+}
 md.push("");
 md.push(`Catalogue in data/podcasts.json: ${Object.entries(showCounts).map(([s, n]) => `${s} ${n}`).join(", ")} episodes. Search it with grep rather than reading it whole.`);
 md.push("");

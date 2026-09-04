@@ -413,11 +413,6 @@ main .pick-meta a:hover {
 /* Wider screens: the read is a feature with its cover beside the text,
    the listens sit side by side. */
 @media (min-width: 660px) {
-  .picks-listen {
-    grid-template-columns: 1fr 1fr;
-    align-items: stretch;
-  }
-
   .pick-read.has-cover {
     display: grid;
     grid-template-columns: 232px minmax(0, 1fr);
