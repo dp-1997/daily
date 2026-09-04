@@ -228,23 +228,41 @@ const fixZone = (s) => s.replace(/\s(BST|IST|CET|CEST|WET|WEST|EET|EEST)$/i, (m,
 
 /* ---------- Network ---------- */
 
+/* Some publishers refuse a browser-like user agent from a data centre
+   but accept a plain feed-reader one, or the reverse, so a 403 is
+   retried down a short ladder of identities before giving up. */
+const AGENTS = [
+  UA,
+  "TheDaily/1.0 (+https://daily.damianpickett.com; personal RSS reader; damianpickett.com)",
+  "Mozilla/5.0 (compatible; FeedFetcher-TheDaily/1.0; +https://daily.damianpickett.com)"
+];
+
 async function get(url, { timeout = 20000, accept } = {}) {
-  const ctrl = new AbortController();
-  const t = setTimeout(() => ctrl.abort(), timeout);
-  try {
-    const res = await fetch(url, {
-      headers: {
-        "user-agent": UA,
-        accept: accept || "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.9, application/json;q=0.8, */*;q=0.5"
-      },
-      signal: ctrl.signal,
-      redirect: "follow"
-    });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    return await res.text();
-  } finally {
-    clearTimeout(t);
+  let lastErr = null;
+  for (const [i, agent] of AGENTS.entries()) {
+    const ctrl = new AbortController();
+    const t = setTimeout(() => ctrl.abort(), timeout);
+    try {
+      const res = await fetch(url, {
+        headers: {
+          "user-agent": agent,
+          accept: accept || "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.9, application/json;q=0.8, */*;q=0.5",
+          "accept-language": "en-GB,en;q=0.9"
+        },
+        signal: ctrl.signal,
+        redirect: "follow"
+      });
+      if (res.ok) return await res.text();
+      lastErr = new Error(`HTTP ${res.status}`);
+      if (![403, 429, 503].includes(res.status) || i === AGENTS.length - 1) throw lastErr;
+    } catch (err) {
+      lastErr = err;
+      if (i === AGENTS.length - 1 || !/HTTP (403|429|503)/.test(String(err.message))) throw err;
+    } finally {
+      clearTimeout(t);
+    }
   }
+  throw lastErr;
 }
 
 async function pool(items, limit, fn) {

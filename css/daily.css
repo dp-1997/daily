@@ -202,15 +202,15 @@ main .story-title a:visited {
 
 .story.has-media {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 84px;
-  gap: 18px;
+  grid-template-columns: minmax(0, 1fr) 156px;
+  gap: 22px;
   align-items: start;
 }
 
 .story-media {
-  margin: 0;
-  width: 84px;
-  aspect-ratio: 1;
+  margin: 4px 0 0;
+  width: 156px;
+  aspect-ratio: 3 / 2;
   border-radius: 10px;
   overflow: hidden;
   background: rgba(255, 255, 255, 0.05);
@@ -226,47 +226,23 @@ main .story-title a:visited {
   display: block;
 }
 
-/* Front page and the closing story carry their pictures wide. */
+/* The front page, the first story of each section and the closing
+   story carry their pictures wide. */
 .front .story.has-media,
-.finally .story.has-media {
+.finally .story.has-media,
+.section .story-lead.has-media {
   grid-template-columns: minmax(0, 1fr);
-  gap: 14px;
+  gap: 16px;
 }
 
 .front .story-media,
-.finally .story-media {
+.finally .story-media,
+.section .story-lead .story-media {
   order: -1;
   width: 100%;
+  margin: 0;
   aspect-ratio: 16 / 9;
   border-radius: 12px;
-}
-
-.pick-media {
-  margin: -2px 0 18px;
-  aspect-ratio: 3 / 2;
-  border-radius: 10px;
-  overflow: hidden;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.06);
-}
-
-.pick-art {
-  position: absolute;
-  top: 22px;
-  right: 24px;
-  width: 60px;
-  height: 60px;
-  margin: 0;
-  border-radius: 12px;
-  overflow: hidden;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
-}
-
-.pick.has-art .pick-kicker,
-.pick.has-art .pick-title {
-  padding-right: 76px;
 }
 
 /* ---------- Picks: today's read and listen ---------- */
@@ -277,16 +253,67 @@ main .story-title a:visited {
   margin-top: 20px;
 }
 
-@media (min-width: 660px) {
-  .picks-grid {
-    grid-template-columns: 1fr 1fr;
-    align-items: stretch;
-  }
+.picks-listen {
+  display: grid;
+  gap: 16px;
 }
 
 .pick {
   position: relative;
   padding: 24px 26px 22px;
+}
+
+.pick-body {
+  min-width: 0;
+}
+
+.pick-media {
+  margin: 0 0 18px;
+  aspect-ratio: 3 / 2;
+  border-radius: 10px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.pick-listen {
+  display: grid;
+  grid-template-columns: 72px minmax(0, 1fr);
+  gap: 14px 18px;
+  align-items: start;
+  align-content: start;
+}
+
+.pick-listen:not(.has-art) {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.pick-art {
+  width: 72px;
+  height: 72px;
+  margin: 0;
+  border-radius: 14px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.35);
+}
+
+.pick-head {
+  min-width: 0;
+}
+
+.pick-listen .pick-why,
+.pick-listen .pick-meta {
+  grid-column: 1 / -1;
+}
+
+.pick-listen .pick-why {
+  margin-top: 0;
+}
+
+.pick-listen .pick-meta {
+  margin-top: 0;
 }
 
 .pick-kicker {
@@ -296,6 +323,16 @@ main .story-title a:visited {
   letter-spacing: 0.1em;
   color: var(--sage-deep);
   margin-bottom: 12px;
+}
+
+.pick-head .pick-kicker {
+  margin-bottom: 7px;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+}
+
+.pick-listen .pick-art {
+  margin-top: 2px;
 }
 
 .pick-title {
@@ -371,6 +408,26 @@ main .pick-meta a:hover {
   letter-spacing: 0.02em;
   color: var(--muted);
   vertical-align: 1px;
+}
+
+/* Wider screens: the read is a feature with its cover beside the text,
+   the listens sit side by side. */
+@media (min-width: 660px) {
+  .picks-listen {
+    grid-template-columns: 1fr 1fr;
+    align-items: stretch;
+  }
+
+  .pick-read.has-cover {
+    display: grid;
+    grid-template-columns: 232px minmax(0, 1fr);
+    gap: 26px;
+    align-items: start;
+  }
+
+  .pick-read.has-cover .pick-media {
+    margin: 2px 0 0;
+  }
 }
 
 /* ---------- Colophon ---------- */
@@ -555,28 +612,24 @@ main .edition-date a {
   }
 
   .story.has-media {
-    grid-template-columns: minmax(0, 1fr) 76px;
-    gap: 14px;
+    grid-template-columns: minmax(0, 1fr) 108px;
+    gap: 16px;
   }
 
   .story-media {
-    width: 76px;
+    width: 108px;
+    margin-top: 3px;
+  }
+
+  .pick-listen {
+    grid-template-columns: 64px minmax(0, 1fr);
+    gap: 12px 14px;
   }
 
   .pick-art {
-    top: 20px;
-    right: 20px;
-    width: 54px;
-    height: 54px;
-  }
-
-  .pick.has-art .pick-kicker,
-  .pick.has-art .pick-title {
-    padding-right: 66px;
-  }
-
-  .pick-title {
-    font-size: 19px;
+    width: 64px;
+    height: 64px;
+    border-radius: 12px;
   }
 
   .menu {

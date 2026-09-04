@@ -328,13 +328,15 @@ function pickReadHtml(r) {
   if (r.words) meta.push(`${Number(r.words).toLocaleString("en-GB")} words`);
   if (r.minutes) meta.push(`${r.minutes} min`);
   return `
-        <article class="card glass pick pick-read">
+        <article class="card glass pick pick-read${r.image ? " has-cover" : ""}">
           ${r.image ? img(r.image, "pick-media") : ""}
-          <p class="pick-kicker">Today's read · Lenny's Newsletter</p>
-          <h3 class="pick-title"><a href="${esc(r.url)}" rel="noopener">${t(r.title)}</a></h3>
-          ${r.subtitle ? `<p class="pick-sub">${t(r.subtitle)}</p>` : ""}
-          <p class="pick-why">${t(r.why)}</p>
-          <p class="pick-meta">${meta.map(esc).join(" · ")}${r.paid ? `${meta.length ? " · " : ""}<span class="tag">Paid</span>` : ""}</p>
+          <div class="pick-body">
+            <p class="pick-kicker">Read · Lenny's Newsletter</p>
+            <h3 class="pick-title"><a href="${esc(r.url)}" rel="noopener">${t(r.title)}</a></h3>
+            ${r.subtitle ? `<p class="pick-sub">${t(r.subtitle)}</p>` : ""}
+            <p class="pick-why">${t(r.why)}</p>
+            <p class="pick-meta">${meta.map(esc).join(" · ")}${r.paid ? `${meta.length ? " · " : ""}<span class="tag">Paid</span>` : ""}</p>
+          </div>
         </article>`;
 }
 
@@ -356,8 +358,10 @@ function pickListenHtml(l) {
   return `
         <article class="card glass pick pick-listen${l.artwork ? " has-art" : ""}">
           ${l.artwork ? img(l.artwork, "pick-art") : ""}
-          <p class="pick-kicker">Today's listen · ${esc(l.show)}</p>
-          <h3 class="pick-title"><a href="${esc(primary)}" rel="noopener">${t(l.title)}</a></h3>
+          <div class="pick-head">
+            <p class="pick-kicker">Listen · ${esc(l.show)}</p>
+            <h3 class="pick-title"><a href="${esc(primary)}" rel="noopener">${t(l.title)}</a></h3>
+          </div>
           <p class="pick-why">${t(l.why)}</p>
           <p class="pick-meta">${[...meta, ...links].join(" · ")}</p>
         </article>`;
@@ -440,7 +444,7 @@ function editionHtml(ed, number, feedCount, { editionPage = false } = {}) {
     return `
     <section id="${def.id}" class="section" aria-labelledby="h-${def.id}">
       <h2 class="section-h" id="h-${def.id}">${esc(def.title)}</h2>
-      ${storiesHtml(sec.stories, day, { grouped: def.id === "sport" })}
+      ${storiesHtml(sec.stories, day, { grouped: def.id === "sport", lead: def.id !== "sport" })}
     </section>`;
   }).join("");
 
@@ -459,7 +463,9 @@ function editionHtml(ed, number, feedCount, { editionPage = false } = {}) {
 
     <section id="picks" class="section picks fade-in" style="--d: 2" aria-labelledby="h-picks">
       <h2 class="section-h" id="h-picks">Read and listen</h2>
-      <div class="picks-grid">${pickReadHtml(ed.read)}${ed.listen.map(pickListenHtml).join("")}
+      <div class="picks-grid">${pickReadHtml(ed.read)}
+        <div class="picks-listen">${ed.listen.map(pickListenHtml).join("")}
+        </div>
       </div>
     </section>
 ${sections}
