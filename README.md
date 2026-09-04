@@ -2,7 +2,13 @@
 
 Damian Pickett's morning paper, named for Damian Jr. Live at [daily.damianpickett.com](https://daily.damianpickett.com).
 
-![The DJ on a phone: masthead, date and the day's lead story with its picture](docs/the-dj-phone.jpg) Once a morning an editor (Claude, running as a scheduled routine) reads the last day's news from a fixed list of ungated sources, picks what matters across film, AI, technology, Apple and five teams, writes a two-sentence summary of each, chooses a Lenny's Newsletter post and a podcast episode for the day, and publishes a static page in the style of [damianpickett.com](https://damianpickett.com).
+![The DJ on a phone: masthead, date and the day's lead story with its picture](docs/the-dj-phone.jpg)
+
+**The problem.** News apps decide what you see with feeds, algorithms and paywalls, and the things I follow (film, AI, technology, Apple, five teams) never sit in one place.
+
+**The act.** Every morning at six, an AI editor reads 55 sources I chose, all free to read, and publishes one calm page: three front-page stories, one thing to read, three things to listen to, and each section in two sentences and a link. The editorial rules it follows are written down in [`ROUTINE.md`](ROUTINE.md), which doubles as the prompt.
+
+**What I learned building it.** A written editorial spec beats a clever prompt; a validator that refuses bad output beats trust; and the right unit of product is one memorable act, finished. Once a morning an editor (Claude, running as a scheduled routine) reads the last day's news from a fixed list of ungated sources, picks what matters across film, AI, technology, Apple and five teams, writes a two-sentence summary of each, chooses a Lenny's Newsletter post and a podcast episode for the day, and publishes a static page in the style of [damianpickett.com](https://damianpickett.com).
 
 No framework, no database, no dependencies. Two Node scripts, some JSON and static HTML on Vercel.
 
