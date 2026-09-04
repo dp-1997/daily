@@ -33,7 +33,7 @@ Node 18 or newer. `node scripts/build.mjs --check` validates without writing.
 
 ## Deploy
 
-The repository root is the site. Vercel deploys `main` on push; `.vercelignore` keeps the scripts, data and notes out of the deployment. Manual deploy: `npx vercel deploy --prod`.
+The repository root is the site, served at https://daily.damianpickett.com. Vercel deploys `main` on push; `.vercelignore` keeps the scripts, data and notes out of the deployment. Manual deploy: `npx vercel deploy --prod`.
 
 ## The routine
 
