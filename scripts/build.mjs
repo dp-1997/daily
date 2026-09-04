@@ -42,12 +42,22 @@ const esc = (s) =>
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;");
 
+/* Straight quotes become typographic ones in rendered copy. */
+function typo(s) {
+  return String(s ?? "")
+    .replace(/(^|[\s(\[\u201C\u2018])"/g, "$1\u201C")
+    .replace(/"/g, "\u201D")
+    .replace(/(^|[\s(\[\u201C])'/g, "$1\u2018")
+    .replace(/'/g, "\u2019");
+}
+const t = (s) => esc(typo(s));
+
 const fmt = (d, opts) => new Intl.DateTimeFormat("en-GB", { timeZone: TZ, ...opts }).format(d).replace(/\bSept\b/, "Sep");
 const isoDay = (d) => new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit" }).format(d);
 const noon = (day) => new Date(day + "T12:00:00Z");
 
 function longDate(day) {
-  return fmt(noon(day), { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+  return fmt(noon(day), { weekday: "long", day: "numeric", month: "long", year: "numeric" }).replace(",", "");
 }
 function shortDate(day) {
   return fmt(noon(day), { weekday: "short", day: "numeric", month: "short", year: "numeric" }).replace(",", "");
@@ -212,8 +222,8 @@ function storyHtml(s, editionDay, opts = {}) {
   const when = whenLabel(s.published, editionDay);
   return `
         <li class="story${opts.lead ? " story-lead" : ""}">
-          <h3 class="story-title"><a href="${esc(s.url)}" rel="noopener">${esc(s.title)}</a></h3>
-          <p class="story-tldr">${esc(s.tldr)}</p>
+          <h3 class="story-title"><a href="${esc(s.url)}" rel="noopener">${t(s.title)}</a></h3>
+          <p class="story-tldr">${t(s.tldr)}</p>
           <p class="story-meta"><span class="story-source">${esc(s.source)}</span>${when ? `<span class="story-time">${esc(when)}</span>` : ""}</p>
         </li>`;
 }
@@ -246,9 +256,9 @@ function pickReadHtml(r) {
   return `
         <article class="card glass pick">
           <p class="pick-kicker">Today's read · Lenny's Newsletter</p>
-          <h3 class="pick-title"><a href="${esc(r.url)}" rel="noopener">${esc(r.title)}</a></h3>
-          ${r.subtitle ? `<p class="pick-sub">${esc(r.subtitle)}</p>` : ""}
-          <p class="pick-why">${esc(r.why)}</p>
+          <h3 class="pick-title"><a href="${esc(r.url)}" rel="noopener">${t(r.title)}</a></h3>
+          ${r.subtitle ? `<p class="pick-sub">${t(r.subtitle)}</p>` : ""}
+          <p class="pick-why">${t(r.why)}</p>
           <p class="pick-meta">${meta.map(esc).join(" · ")}${r.paid ? `${meta.length ? " · " : ""}<span class="tag">Paid</span>` : ""}</p>
         </article>`;
 }
@@ -263,8 +273,8 @@ function pickListenHtml(l) {
   return `
         <article class="card glass pick">
           <p class="pick-kicker">Today's listen · ${esc(l.show)}</p>
-          <h3 class="pick-title"><a href="${esc(l.url)}" rel="noopener">${esc(l.title)}</a></h3>
-          <p class="pick-why">${esc(l.why)}</p>
+          <h3 class="pick-title"><a href="${esc(l.url)}" rel="noopener">${t(l.title)}</a></h3>
+          <p class="pick-why">${t(l.why)}</p>
           <p class="pick-meta">${meta.map(esc).join(" · ")}${apple ? `${meta.length ? " · " : ""}${apple}` : ""}</p>
         </article>`;
 }
@@ -355,7 +365,7 @@ function editionHtml(ed, number, feedCount, { editionPage = false } = {}) {
       <p class="masthead-kicker"><a href="${esc(site.owner_url)}">${esc(site.owner)}</a> · No. ${number}</p>
       <h1 class="page-title">${esc(site.name)}</h1>
       <p class="dateline">${esc(longDate(day))}</p>
-      ${ed.note ? `<p class="standfirst">${esc(ed.note)}</p>` : ""}
+      ${ed.note ? `<p class="standfirst">${t(ed.note)}</p>` : ""}
     </header>
 
     <section id="front" class="section front fade-in" style="--d: 1" aria-labelledby="h-front">
@@ -391,7 +401,7 @@ function archiveHtml(editions, feedCount) {
       (e) => `
         <li class="edition-row">
           <h2 class="edition-date"><a href="/editions/${esc(e.ed.date)}">${esc(longDate(e.ed.date))}</a></h2>
-          <p class="edition-lead">No. ${e.number} · ${esc(e.ed.front.map((s) => s.title).slice(0, 2).join(" · "))}</p>
+          <p class="edition-lead">No. ${e.number} · ${t(e.ed.front.map((s) => s.title).slice(0, 2).join(" · "))}</p>
         </li>`
     )
     .join("");
