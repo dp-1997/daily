@@ -3,6 +3,8 @@ data
 scripts
 node_modules
 ROUTINE.md
+CLAUDE.md
+AGENTS.md
 README.md
 package.json
 .gitignore

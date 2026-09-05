@@ -12,6 +12,10 @@ Damian Pickett's morning paper, named for Damian Jr. Live at [daily.damianpicket
 
 No framework, no database, no dependencies. Two Node scripts, some JSON and static HTML on Vercel.
 
+## Make your own
+
+Use **Use this template** on GitHub to create a separate paper in your own account, then give your Claude Code the [starter prompt](docs/STARTER-PROMPT.md). The [customisation guide](docs/MAKE-YOUR-OWN.md) maps sources, sections, recommendations, design and scheduling to the files that control them. It also covers a first preview and setting up your own hosting and routine. `CLAUDE.md` is the entry point for the coding assistant; `ROUTINE.md` remains the daily editorial specification.
+
 ## How it works
 
 ```
