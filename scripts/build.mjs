@@ -41,6 +41,8 @@ const SECTIONS = [
   { id: "sport", title: "Sport" }
 ];
 const SPORT_ORDER = ["Celtics", "Manchester United", "Patriots", "F1", "Red Sox"];
+const ASSET_VERSION = "20260905-sections";
+const sportId = (tag) => `sport-${tag.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`;
 
 /* ---------- Helpers ---------- */
 
@@ -323,7 +325,7 @@ function storiesHtml(stories, editionDay, { grouped = false, lead = false } = {}
   return [...groups.entries()]
     .sort((a, b) => order.indexOf(a[0]) - order.indexOf(b[0]))
     .map(([tag, list]) => `
-      <h3 class="group-h">${esc(tag)}</h3>
+      <h3 class="group-h" id="${sportId(tag)}" tabindex="-1">${esc(tag)}</h3>
       <ol class="stories">${list.map((s) => storyHtml(s, editionDay)).join("")}
       </ol>`)
     .join("");
@@ -375,6 +377,7 @@ function pickListenHtml(l) {
 }
 
 function menuHtml(ed, { editionPage = false } = {}) {
+  if (ed) return editionNavigationHtml(ed, { editionPage });
   const links = [];
   const anchor = (id, label) => links.push(`<a href="#${id}">${label}</a>`);
   if (ed) {
@@ -399,6 +402,35 @@ function menuHtml(ed, { editionPage = false } = {}) {
   </nav>`;
 }
 
+function sectionLinksHtml(ed) {
+  return SECTIONS.map((def) => {
+    const sec = ed.sections.find((s) => s.id === def.id);
+    if (!sec?.stories.length) return "";
+    return `<a href="#${def.id}" data-view-link><span>${esc(def.title)}</span><span class="section-count">${sec.stories.length}<span class="sr-only"> stories</span></span></a>`;
+  }).join("\n");
+}
+
+function editionNavigationHtml(ed, { editionPage = false } = {}) {
+  const sport = ed.sections.find((s) => s.id === "sport");
+  const teams = SPORT_ORDER.filter((tag) => sport?.stories.some((s) => s.tag === tag));
+  return `
+  <nav class="edition-dock" aria-label="Edition navigation">
+    <a href="#front" data-view-link>Highlights</a>
+    <a href="#listen" data-view-link>Listen</a>
+    <button type="button" class="sections-trigger" aria-haspopup="dialog" aria-controls="section-picker" aria-expanded="false" hidden>Sections</button>
+    <a href="#edition-sections" class="sections-fallback">Sections</a>
+  </nav>
+  <dialog id="section-picker" class="section-picker" aria-labelledby="picker-title">
+    <div class="picker-head"><div><p class="masthead-kicker">${esc(shortDate(ed.date))}</p><h2 id="picker-title">Your paper</h2></div><button type="button" class="picker-close" autofocus>Close</button></div>
+    <nav aria-label="Choose a section">
+      <div class="picker-primary"><a href="#front" data-view-link>Highlights</a><a href="#picks" data-view-link>Read</a><a href="#listen" data-view-link>Listen</a></div>
+      <div class="section-grid">${sectionLinksHtml(ed)}${ed.finally ? '<a href="#finally" data-view-link><span>And finally</span><span class="section-count">1<span class="sr-only"> story</span></span></a>' : ""}</div>
+      ${teams.length ? `<p class="picker-label">Straight to your team</p><div class="team-links">${teams.map((tag) => `<a href="#${sportId(tag)}" data-view-link>${esc(tag)}</a>`).join("")}</div>` : ""}
+      <div class="picker-footer"><a href="#all" data-view-link>Whole edition</a><a href="/archive">Archive</a><a href="/sources">Sources</a>${editionPage ? '<a href="/">Latest edition</a>' : ""}</div>
+    </nav>
+  </dialog>`;
+}
+
 function page({ title, description, path, body, menu }) {
   return `<!doctype html>
 <html lang="en-GB" class="dark">
@@ -420,8 +452,8 @@ function page({ title, description, path, body, menu }) {
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="${esc(site.name)}" />
-  <link rel="stylesheet" href="/css/site.css" />
-  <link rel="stylesheet" href="/css/daily.css" />
+  <link rel="stylesheet" href="/css/site.css?v=${ASSET_VERSION}" />
+  <link rel="stylesheet" href="/css/daily.css?v=${ASSET_VERSION}" />
 </head>
 <body>
 
@@ -429,7 +461,7 @@ function page({ title, description, path, body, menu }) {
   </main>
 ${menu}
 
-  <script src="/js/daily.js"></script>
+  <script src="/js/daily.js?v=${ASSET_VERSION}"></script>
 </body>
 </html>
 `;
@@ -449,8 +481,8 @@ function editionHtml(ed, number, feedCount, { editionPage = false } = {}) {
     const sec = ed.sections.find((x) => x.id === def.id);
     if (!sec || !sec.stories.length) return "";
     return `
-    <section id="${def.id}" class="section" aria-labelledby="h-${def.id}">
-      <h2 class="section-h" id="h-${def.id}">${esc(def.title)}</h2>
+    <section id="${def.id}" class="section" data-edition-panel aria-labelledby="h-${def.id}">
+      <h2 class="section-h" id="h-${def.id}" tabindex="-1">${esc(def.title)} <span class="heading-count">${sec.stories.length} stories</span></h2>
       ${storiesHtml(sec.stories, day, { grouped: def.id === "sport", lead: def.id !== "sport" })}
     </section>`;
   }).join("");
@@ -463,22 +495,27 @@ function editionHtml(ed, number, feedCount, { editionPage = false } = {}) {
       ${ed.note ? `<p class="standfirst">${t(ed.note)}</p>` : ""}
     </header>
 
-    <section id="front" class="section front fade-in" style="--d: 1" aria-labelledby="h-front">
-      <h2 class="section-h" id="h-front">Front page</h2>
+    <nav id="edition-sections" class="edition-sections" aria-label="In this edition" data-overview>
+      <p class="section-index-label">In this edition</p>
+      <div class="section-shortcuts">${sectionLinksHtml(ed)}</div>
+    </nav>
+
+    <section id="front" class="section front" data-edition-panel aria-labelledby="h-front">
+      <h2 class="section-h" id="h-front" tabindex="-1">Today’s highlights <span class="heading-count">${ed.front.length} stories</span></h2>
       ${storiesHtml(ed.front, day, { lead: true })}
     </section>
 
-    <section id="picks" class="section picks fade-in" style="--d: 2" aria-labelledby="h-picks">
-      <h2 class="section-h" id="h-picks">Read and listen</h2>
+    <section id="picks" class="section picks" data-edition-panel aria-labelledby="h-picks">
+      <h2 class="section-h" id="h-picks" tabindex="-1">Read and listen</h2>
       <div class="picks-grid">${pickReadHtml(ed.read)}
-        <div class="picks-listen">${[...ed.listen].sort((a, b) => sources.podcasts.findIndex((p) => p.show === a.show) - sources.podcasts.findIndex((p) => p.show === b.show)).map(pickListenHtml).join("")}
+        <div class="picks-listen" id="listen"><h3 class="section-index-label" tabindex="-1">Today’s listens</h3>${[...ed.listen].sort((a, b) => sources.podcasts.findIndex((p) => p.show === a.show) - sources.podcasts.findIndex((p) => p.show === b.show)).map(pickListenHtml).join("")}
         </div>
       </div>
     </section>
 ${sections}
 ${ed.finally ? `
-    <section id="finally" class="section finally" aria-labelledby="h-finally">
-      <h2 class="section-h" id="h-finally">And finally</h2>
+    <section id="finally" class="section finally" data-edition-panel aria-labelledby="h-finally">
+      <h2 class="section-h" id="h-finally" tabindex="-1">And finally</h2>
       ${storiesHtml([ed.finally], day)}
     </section>` : ""}
 ${colophon(feedCount)}`;

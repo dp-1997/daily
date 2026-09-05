@@ -43,6 +43,8 @@ npx serve -l 3456 .           # open http://localhost:3456
 
 Node 18 or newer. `node scripts/build.mjs --check` validates without writing.
 
+`npm test` checks generated navigation, preservation of stories, quiet-day sections and editions without images. It uses a frozen edition in `tests/fixtures/`, so the tests do not depend on the current news or a network connection.
+
 ## Deploy
 
 The repository root is the site, served at https://daily.damianpickett.com. Vercel deploys `main` on push; `.vercelignore` keeps the scripts, data and notes out of the deployment. Manual deploy: `npx vercel deploy --prod`.
@@ -55,7 +57,11 @@ The cloud environment the routine runs in must allow outbound HTTPS to the feed 
 
 ## Design notes
 
-- Mobile first: the paper is read on a phone before anything else. One column, the site's type scale, the glass sections menu for jumping around.
-- Stories are a title, two sentences, the source and, where the outlet offers one, a picture: wide on the front page and the closing story, a small square elsewhere. The whole row is the link. Read stories fade.
-- The front page is the three stories that best represent the day. Read and listen come next, because they are the two things to carry into the day. Sections follow. The last item is always something good, in the BBC tradition of "and finally".
+- Mobile first: the paper opens on three highlights and the closing good story. Topic shortcuts near the masthead show each section's story count. The fixed bottom bar keeps Highlights, Listen and Sections in reach.
+- A topic opens on its own. The section picker also has direct team links, the daily read, archive, sources and a Whole edition option. Listen jumps directly to the podcasts, with the read above them. Empty topics and teams have no shortcut.
+- Stories retain their source, two-sentence summary and picture. The lead highlight, section leads and closing story have wide pictures; supporting highlights use thumbnails. The whole story row remains the link, and visited stories fade.
+- Section URLs use hashes (`#ai`, `#listen`, `#sport-f1`). Back and Forward restore the selected view. The picker supports keyboard navigation, traps focus and closes with Escape. Switching sections does not animate a long scroll.
+- Every article stays in the generated HTML. Without JavaScript, the original continuous paper and anchor links remain usable. Printing includes all sections. The source JSON and morning editorial routine keep their existing schema and counts.
 - Add to Home Screen on iPhone and it opens full screen, with the masthead kept clear of the status bar.
+
+Navigation lives in `sectionLinksHtml()` / `editionNavigationHtml()` in `scripts/build.mjs`, the edition-view block in `js/daily.js`, and the final section of `css/daily.css`. Bump `ASSET_VERSION` in the build script when changing shared CSS or JavaScript, then rebuild all editions to avoid stale cached controls.

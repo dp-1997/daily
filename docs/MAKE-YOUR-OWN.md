@@ -45,6 +45,7 @@ Choose whether to keep the front page, a daily read, podcast picks and the closi
 | Listening destination | `pickListenHtml()` in `scripts/build.mjs` prefers YouTube, then the episode URL, with Apple Podcasts links. Change the preference if you listen elsewhere. |
 | Editorial voice | `ROUTINE.md`: replace the audience biography, interests, selection, exclusions, summary style and recommendation rules. Its 45-word target is stricter than the current validator's 60-word ceiling. Its front-page count is also stricter than the validator's minimum of one. Keep prose rules and any changed checks consistent. |
 | Appearance | `css/site.css` and `css/daily.css`; `js/daily.js` for menu behaviour. The page template has `class="dark"` and a fixed theme colour in `scripts/build.mjs`; update these, the manifest colours and icons together for a different theme. Keep phone safe areas and reduced-motion behaviour. |
+| Section navigation | `sectionLinksHtml()` and `editionNavigationHtml()` in `scripts/build.mjs`, the edition-view block in `js/daily.js`, and the navigation styles in `css/daily.css`. Shortcuts and counts follow non-empty `SECTIONS`; sport links also use `SPORT_ORDER`. Keep hash links and the full-paper fallback working. |
 | Date and schedule | `TZ` in both scripts, the date command and completion rules in `ROUTINE.md`, and your own scheduler setting. Confirm the next displayed run time and daylight-saving behaviour rather than copying Damian's cron. |
 | Site address and publishing | `site.json`, your hosting project's GitHub connection and production branch, and the publish step in your own `ROUTINE.md`. The copied `vercel.json` and `.vercelignore` describe routing and exclusions, not an account connection. |
 
@@ -57,6 +58,8 @@ If replacing the newsletter, start a fresh catalogue or clear only the old `data
 Fetch your chosen sources with `node scripts/fetch.mjs`. Inspect `_build/candidates.md`, write one edition using your adapted routine, then run `node scripts/build.mjs` and `node scripts/build.mjs --check`. Check that the output has your sections, working source links, correct read/listen labels and your identity throughout. Keep the existing page until a replacement builds successfully.
 
 Preview at phone and desktop widths. Check long headlines, missing images, an empty section, the archive, sources page, keyboard menu operation and reduced motion. Then check it on your actual phone.
+
+Run `npm test` for the navigation regression checks. Update their frozen fixture in `tests/fixtures/` and expectations if you change the edition schema, sections or shows. Bump `ASSET_VERSION` in the builder after CSS or JavaScript changes and rebuild so deployed pages use the new assets.
 
 For the same deployment approach, import **your** repository as a new Vercel static-site project. The published pages are committed at the repository root. Configure it to serve that root with no install or build step, and use `main` as the production branch. Do not configure Vercel to curate a paper: Claude generates and commits the finished pages before deployment. Verify `/`, `/archive`, `/sources` and an edition URL on your new domain. Update `site.json` to that address and rebuild so canonical and share links are yours.
 

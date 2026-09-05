@@ -18,8 +18,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="The DJ" />
-  <link rel="stylesheet" href="/css/site.css" />
-  <link rel="stylesheet" href="/css/daily.css" />
+  <link rel="stylesheet" href="/css/site.css?v=20260905-sections" />
+  <link rel="stylesheet" href="/css/daily.css?v=20260905-sections" />
 </head>
 <body>
 
@@ -31,8 +31,17 @@
       <p class="standfirst">F1 qualifies today at Monza ahead of tomorrow’s Italian Grand Prix.</p>
     </header>
 
-    <section id="front" class="section front fade-in" style="--d: 1" aria-labelledby="h-front">
-      <h2 class="section-h" id="h-front">Front page</h2>
+    <nav id="edition-sections" class="edition-sections" aria-label="In this edition" data-overview>
+      <p class="section-index-label">In this edition</p>
+      <div class="section-shortcuts"><a href="#ai" data-view-link><span>AI</span><span class="section-count">4<span class="sr-only"> stories</span></span></a>
+<a href="#technology" data-view-link><span>Technology</span><span class="section-count">4<span class="sr-only"> stories</span></span></a>
+<a href="#apple" data-view-link><span>Apple</span><span class="section-count">4<span class="sr-only"> stories</span></span></a>
+<a href="#film" data-view-link><span>Film</span><span class="section-count">4<span class="sr-only"> stories</span></span></a>
+<a href="#sport" data-view-link><span>Sport</span><span class="section-count">10<span class="sr-only"> stories</span></span></a></div>
+    </nav>
+
+    <section id="front" class="section front" data-edition-panel aria-labelledby="h-front">
+      <h2 class="section-h" id="h-front" tabindex="-1">Today’s highlights <span class="heading-count">3 stories</span></h2>
       <ol class="stories">
         <li class="story story-lead has-media">
           <div class="story-body">
@@ -58,8 +67,8 @@
       </ol>
     </section>
 
-    <section id="picks" class="section picks fade-in" style="--d: 2" aria-labelledby="h-picks">
-      <h2 class="section-h" id="h-picks">Read and listen</h2>
+    <section id="picks" class="section picks" data-edition-panel aria-labelledby="h-picks">
+      <h2 class="section-h" id="h-picks" tabindex="-1">Read and listen</h2>
       <div class="picks-grid">
         <article class="card glass pick pick-read has-cover">
           <figure class="pick-media"><img src="https://substack-post-media.s3.amazonaws.com/public/images/a4a1e7f9-6872-47ef-ac7f-f6b0d04612cf_1456x970.png" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></figure>
@@ -71,7 +80,7 @@
             <p class="pick-meta">August 2026 · 5,969 words · <span class="tag">Paid</span></p>
           </div>
         </article>
-        <div class="picks-listen">
+        <div class="picks-listen" id="listen"><h3 class="section-index-label" tabindex="-1">Today’s listens</h3>
         <article class="card glass pick pick-listen has-art">
           <figure class="pick-art"><img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></figure>
           <div class="pick-head">
@@ -103,8 +112,8 @@
       </div>
     </section>
 
-    <section id="ai" class="section" aria-labelledby="h-ai">
-      <h2 class="section-h" id="h-ai">AI</h2>
+    <section id="ai" class="section" data-edition-panel aria-labelledby="h-ai">
+      <h2 class="section-h" id="h-ai" tabindex="-1">AI <span class="heading-count">4 stories</span></h2>
       <ol class="stories">
         <li class="story story-lead has-media">
           <div class="story-body">
@@ -136,8 +145,8 @@
         </li>
       </ol>
     </section>
-    <section id="technology" class="section" aria-labelledby="h-technology">
-      <h2 class="section-h" id="h-technology">Technology</h2>
+    <section id="technology" class="section" data-edition-panel aria-labelledby="h-technology">
+      <h2 class="section-h" id="h-technology" tabindex="-1">Technology <span class="heading-count">4 stories</span></h2>
       <ol class="stories">
         <li class="story story-lead has-media">
           <div class="story-body">
@@ -169,8 +178,8 @@
         </li>
       </ol>
     </section>
-    <section id="apple" class="section" aria-labelledby="h-apple">
-      <h2 class="section-h" id="h-apple">Apple</h2>
+    <section id="apple" class="section" data-edition-panel aria-labelledby="h-apple">
+      <h2 class="section-h" id="h-apple" tabindex="-1">Apple <span class="heading-count">4 stories</span></h2>
       <ol class="stories">
         <li class="story story-lead has-media">
           <div class="story-body">
@@ -202,8 +211,8 @@
         </li>
       </ol>
     </section>
-    <section id="film" class="section" aria-labelledby="h-film">
-      <h2 class="section-h" id="h-film">Film</h2>
+    <section id="film" class="section" data-edition-panel aria-labelledby="h-film">
+      <h2 class="section-h" id="h-film" tabindex="-1">Film <span class="heading-count">4 stories</span></h2>
       <ol class="stories">
         <li class="story story-lead has-media">
           <div class="story-body">
@@ -235,10 +244,10 @@
         </li>
       </ol>
     </section>
-    <section id="sport" class="section" aria-labelledby="h-sport">
-      <h2 class="section-h" id="h-sport">Sport</h2>
+    <section id="sport" class="section" data-edition-panel aria-labelledby="h-sport">
+      <h2 class="section-h" id="h-sport" tabindex="-1">Sport <span class="heading-count">10 stories</span></h2>
       
-      <h3 class="group-h">Celtics</h3>
+      <h3 class="group-h" id="sport-celtics" tabindex="-1">Celtics</h3>
       <ol class="stories">
         <li class="story has-media">
           <div class="story-body">
@@ -248,7 +257,7 @@
           </div><figure class="story-media"><img src="https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/06/gettyimages-2272872438.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></figure>
         </li>
       </ol>
-      <h3 class="group-h">Manchester United</h3>
+      <h3 class="group-h" id="sport-manchester-united" tabindex="-1">Manchester United</h3>
       <ol class="stories">
         <li class="story has-media">
           <div class="story-body">
@@ -258,7 +267,7 @@
           </div><figure class="story-media"><img src="https://ichef.bbci.co.uk/images/ic/240x135/p0p81d5m.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></figure>
         </li>
       </ol>
-      <h3 class="group-h">Patriots</h3>
+      <h3 class="group-h" id="sport-patriots" tabindex="-1">Patriots</h3>
       <ol class="stories">
         <li class="story has-media">
           <div class="story-body">
@@ -282,7 +291,7 @@
           </div><figure class="story-media"><img src="https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2288238671.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></figure>
         </li>
       </ol>
-      <h3 class="group-h">F1</h3>
+      <h3 class="group-h" id="sport-f1" tabindex="-1">F1</h3>
       <ol class="stories">
         <li class="story has-media">
           <div class="story-body">
@@ -306,7 +315,7 @@
           </div><figure class="story-media"><img src="https://e2.365dm.com/26/09/1920x1080/skysports-george-russell-mercedes_7341003.jpg?20260904160419" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></figure>
         </li>
       </ol>
-      <h3 class="group-h">Red Sox</h3>
+      <h3 class="group-h" id="sport-red-sox" tabindex="-1">Red Sox</h3>
       <ol class="stories">
         <li class="story has-media">
           <div class="story-body">
@@ -325,8 +334,8 @@
       </ol>
     </section>
 
-    <section id="finally" class="section finally" aria-labelledby="h-finally">
-      <h2 class="section-h" id="h-finally">And finally</h2>
+    <section id="finally" class="section finally" data-edition-panel aria-labelledby="h-finally">
+      <h2 class="section-h" id="h-finally" tabindex="-1">And finally</h2>
       <ol class="stories">
         <li class="story has-media">
           <div class="story-body">
@@ -344,23 +353,26 @@
     </footer>
   </main>
 
-  <nav class="menu glass" aria-label="Sections">
-    <div class="menu-inner">
-      <div class="menu-links" inert>
-        <a href="#front">Front page</a>
-        <a href="#picks">Read and listen</a>
-        <a href="#ai">AI</a>
-        <a href="#technology">Technology</a>
-        <a href="#apple">Apple</a>
-        <a href="#film">Film</a>
-        <a href="#sport">Sport</a>
-        <a href="/archive">Archive</a>
-        <span class="menu-divider" role="presentation"></span>
-      </div>
-      <button class="menu-trigger" type="button" aria-expanded="false">Sections</button>
-    </div>
+  <nav class="edition-dock" aria-label="Edition navigation">
+    <a href="#front" data-view-link>Highlights</a>
+    <a href="#listen" data-view-link>Listen</a>
+    <button type="button" class="sections-trigger" aria-haspopup="dialog" aria-controls="section-picker" aria-expanded="false" hidden>Sections</button>
+    <a href="#edition-sections" class="sections-fallback">Sections</a>
   </nav>
+  <dialog id="section-picker" class="section-picker" aria-labelledby="picker-title">
+    <div class="picker-head"><div><p class="masthead-kicker">Sat 5 Sep 2026</p><h2 id="picker-title">Your paper</h2></div><button type="button" class="picker-close" autofocus>Close</button></div>
+    <nav aria-label="Choose a section">
+      <div class="picker-primary"><a href="#front" data-view-link>Highlights</a><a href="#picks" data-view-link>Read</a><a href="#listen" data-view-link>Listen</a></div>
+      <div class="section-grid"><a href="#ai" data-view-link><span>AI</span><span class="section-count">4<span class="sr-only"> stories</span></span></a>
+<a href="#technology" data-view-link><span>Technology</span><span class="section-count">4<span class="sr-only"> stories</span></span></a>
+<a href="#apple" data-view-link><span>Apple</span><span class="section-count">4<span class="sr-only"> stories</span></span></a>
+<a href="#film" data-view-link><span>Film</span><span class="section-count">4<span class="sr-only"> stories</span></span></a>
+<a href="#sport" data-view-link><span>Sport</span><span class="section-count">10<span class="sr-only"> stories</span></span></a><a href="#finally" data-view-link><span>And finally</span><span class="section-count">1<span class="sr-only"> story</span></span></a></div>
+      <p class="picker-label">Straight to your team</p><div class="team-links"><a href="#sport-celtics" data-view-link>Celtics</a><a href="#sport-manchester-united" data-view-link>Manchester United</a><a href="#sport-patriots" data-view-link>Patriots</a><a href="#sport-f1" data-view-link>F1</a><a href="#sport-red-sox" data-view-link>Red Sox</a></div>
+      <div class="picker-footer"><a href="#all" data-view-link>Whole edition</a><a href="/archive">Archive</a><a href="/sources">Sources</a></div>
+    </nav>
+  </dialog>
 
-  <script src="/js/daily.js"></script>
+  <script src="/js/daily.js?v=20260905-sections"></script>
 </body>
 </html>

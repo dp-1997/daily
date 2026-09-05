@@ -10,6 +10,7 @@
     "fetch": "node scripts/fetch.mjs",
     "build": "node scripts/build.mjs",
     "check": "node scripts/build.mjs --check",
+    "test": "node --test tests/*.test.mjs",
     "serve": "npx serve -l 3456 ."
   }
 }

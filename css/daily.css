@@ -639,3 +639,136 @@ main .edition-date a {
     scroll-behavior: auto;
   }
 }
+
+/* ---------- A paper to open by section ---------- */
+
+[hidden] { display: none !important; }
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.edition-reader { scroll-behavior: auto; }
+/* Section changes are instant. Avoid cross-page snapshots fighting a
+   changed viewport or a deep link when moving through the archive. */
+@view-transition { navigation: none; }
+.picker-open { overflow: hidden; }
+.heading-count {
+  float: right;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--muted);
+}
+.edition-sections { margin: -14px 0 30px; }
+.section-index-label, .picker-label {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+.section-shortcuts { display: flex; flex-wrap: wrap; gap: 7px; }
+.section-shortcuts a {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 44px;
+  padding: 8px 13px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 550;
+}
+.section-count { font-size: 12px; font-weight: 500; color: var(--sage-deep); }
+.section-shortcuts a:hover, .section-grid a:hover, .team-links a:hover { background: var(--glass-bg-strong); }
+.edition-dock {
+  position: fixed;
+  z-index: 20;
+  bottom: max(16px, calc(env(safe-area-inset-bottom, 0px) + 8px));
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(440px, calc(100% - 32px));
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 5px;
+  border: 1px solid var(--glass-border);
+  border-radius: 18px;
+  background: var(--paper);
+  box-shadow: var(--glass-shadow);
+}
+.edition-dock a, .edition-dock button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  border-radius: 12px;
+  font-size: 14px;
+  font-weight: 550;
+  color: var(--muted);
+  text-align: center;
+}
+.edition-dock [aria-current], .edition-dock .is-current {
+  color: var(--ink);
+  background: var(--glass-bg-strong);
+  box-shadow: inset 0 0 0 1px var(--line);
+}
+.edition-dock a:hover, .edition-dock button:hover { color: var(--ink); }
+.section-picker {
+  position: fixed;
+  inset: auto 0 0;
+  margin: 0 auto;
+  width: min(520px, 100%);
+  max-width: 100%;
+  max-height: calc(100dvh - max(24px, env(safe-area-inset-top, 0px)));
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 26px 24px max(26px, calc(env(safe-area-inset-bottom, 0px) + 14px));
+  border: 1px solid var(--line);
+  border-radius: 24px 24px 0 0;
+  background: var(--paper);
+  color: var(--ink);
+  box-shadow: 0 -15px 60px #0005;
+}
+.section-picker::backdrop { background: #0008; }
+.picker-head { display: flex; justify-content: space-between; align-items: start; gap: 12px; margin-bottom: 20px; }
+.picker-head .masthead-kicker { margin: 0 0 4px; font-size: 11px; }
+.picker-head h2 { font-size: 26px; line-height: 1.25; letter-spacing: -.02em; }
+.picker-close { min-height: 44px; min-width: 60px; font-size: 14px; color: var(--sage-deep); }
+.picker-primary { display: flex; gap: 4px; margin: 0 -12px 16px; }
+.picker-primary a { min-height: 44px; display: flex; align-items: center; padding: 0 12px; border-radius: 10px; font-size: 15px; }
+.section-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.section-grid a { display: flex; justify-content: space-between; gap: 8px; align-items: center; min-height: 54px; padding: 12px 15px; border: 1px solid var(--line); border-radius: 12px; font-size: 16px; }
+.section-picker [aria-current] { background: var(--glass-bg-strong); border-color: var(--sage-deep); color: var(--sage-deep); }
+.picker-label { margin-top: 22px; }
+.team-links { display: flex; flex-wrap: wrap; gap: 4px; margin: 0 -8px; }
+.team-links a { display: flex; align-items: center; justify-content: center; min-height: 44px; min-width: 44px; padding: 0 8px; font-size: 14px; border-radius: 6px; }
+.picks-listen > .section-index-label { margin: 20px 0 0; }
+.picker-footer { display: flex; flex-wrap: wrap; gap: 4px 22px; border-top: 1px solid var(--line); margin-top: 20px; padding-top: 14px; }
+.picker-footer a { display: flex; align-items: center; min-height: 44px; color: var(--muted); font-size: 14px; }
+.group-h[id] { scroll-margin-top: 24px; }
+
+/* One lead image; supporting highlights retain pictures at row scale. */
+.front .story.has-media:not(.story-lead) { grid-template-columns: minmax(0, 1fr) 108px; gap: 16px; }
+.front .story:not(.story-lead) .story-media { order: 0; width: 108px; aspect-ratio: 3 / 2; margin-top: 4px; border-radius: 10px; }
+.front .story:not(.story-lead) .story-title { font-size: 20px; }
+.front .story:not(.story-lead) .story-tldr { font-size: 16.5px; }
+
+@media (max-width: 420px) {
+  .edition-dock a, .edition-dock button { font-size: 13px; }
+  .section-picker { padding-left: 20px; padding-right: 20px; }
+  .front .story.has-media:not(.story-lead) { grid-template-columns: minmax(0, 1fr) 88px; gap: 13px; }
+  .front .story:not(.story-lead) .story-media { width: 88px; }
+}
+@media print {
+  [data-edition-panel][hidden] { display: block !important; }
+  .edition-dock, .section-picker, .edition-sections { display: none !important; }
+}

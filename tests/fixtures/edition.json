@@ -1,0 +1,328 @@
+{
+  "date": "2026-09-05",
+  "note": "F1 qualifies today at Monza ahead of tomorrow's Italian Grand Prix.",
+  "front": [
+    {
+      "title": "New profile of John Ternus offers insight into life and reputation of Apple CEO",
+      "url": "https://9to5mac.com/2026/09/04/new-profile-of-john-ternus-offers-insight-into-life-and-reputation-of-apple-ceo",
+      "tldr": "The Financial Times profiled John Ternus, who became Apple's chief executive this week after Tim Cook's departure, offering rare insight into how colleagues and partners see the company's new leader.",
+      "source": "9to5Mac",
+      "published": "2026-09-04T19:17:00.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-01.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "OpenAI releases major upgrade to ChatGPT and Codex with GPT-6 Astra",
+      "url": "https://9to5mac.com/2026/09/04/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here",
+      "tldr": "OpenAI has begun rolling out GPT-6 Astra, a major model upgrade, to Business and Pro subscribers on its $100 and $200 monthly plans, with wider access to follow.",
+      "source": "9to5Mac",
+      "published": "2026-09-04T18:52:35.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600"
+    },
+    {
+      "title": "Andrew Scott is 'powerfully moving' in Elsinore, playing Chariots of Fire star Ian Charleson's final Hamlet",
+      "url": "https://variety.com/2026/film/reviews/elsinore-review-andrew-scott-1236852070",
+      "tldr": "Andrew Scott plays Ian Charleson, the Chariots of Fire actor who took on Hamlet at the National Theatre while dying of AIDS, in a Telluride premiere critics are calling deeply moving.",
+      "source": "Variety",
+      "published": "2026-09-05T05:00:33.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/07/elsinore.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "The Pelican comparison grid for Astra is pretty interesting",
+          "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans",
+          "tldr": "Developer Simon Willison tested OpenAI's new GPT-6 Astra by generating SVGs of pelicans on bicycles at each reasoning level, a quirky but revealing way to compare model quality.",
+          "source": "Simon Willison",
+          "published": "2026-09-04T23:59:05.000Z",
+          "image": "https://static.simonwillison.net/static/2026/astra-grid-3.webp"
+        },
+        {
+          "title": "Robot data startup XDOF in talks for $1.2bn Series B just three months out of stealth",
+          "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
+          "tldr": "XDOF, a robot data startup, is raising a Series B at a $1.2 billion valuation only three months after leaving stealth, reflecting investor appetite for robotics data infrastructure.",
+          "source": "TechCrunch",
+          "published": "2026-09-04T23:36:14.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800"
+        },
+        {
+          "title": "Google's Gemini Spark can now manage your Google Photos library",
+          "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library",
+          "tldr": "Gemini Spark can now edit and curate photo albums, build shared collections and turn photos into calendar events for Google's AI Pro and Ultra subscribers.",
+          "source": "TechCrunch",
+          "published": "2026-09-04T14:47:11.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
+        },
+        {
+          "title": "AI compute provider Nscale seeks $3.5bn in pre-IPO financing",
+          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
+          "tldr": "Nscale, which struck a $45 billion deal with Anthropic, is in talks to raise fresh funding ahead of an expected IPO, a sign of how much capital AI infrastructure now demands.",
+          "source": "TechCrunch",
+          "published": "2026-09-04T21:12:11.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen",
+          "url": "https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html",
+          "tldr": "Adobe has named Anil Chakravarthy as its next president and chief executive, succeeding Shantanu Narayen, who announced his departure earlier this year.",
+          "source": "Daring Fireball",
+          "published": "2026-09-05T00:05:47.000Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108355107-1787834424220-gettyimages-2291687986-schneider-adobeoff260826_nppiC.jpeg?v=1787834460&w=1920&h=1080"
+        },
+        {
+          "title": "Microsoft announces Project Zenith, a clutter-free Windows experience for developers",
+          "url": "https://www.engadget.com/2251018/microsoft-announces-project-zenith-clutter-free-windows-experience",
+          "tldr": "Microsoft has unveiled Project Zenith, a stripped-down Windows interface aimed at developers, though it requires a powerful machine with 64GB of RAM to run.",
+          "source": "Engadget",
+          "published": "2026-09-04T14:05:32.000Z",
+          "image": "https://www.engadget.com/img/gallery/microsoft-announces-project-zenith-a-clutter-free-windows-experience-meant-to-entice-developers/l-intro-1788530489.jpg"
+        },
+        {
+          "title": "Nintendo announces two Direct livestream events for next week",
+          "url": "https://www.engadget.com/2251134/nintendo-announced-two-direct-livestream-events-for-next-week",
+          "tldr": "Nintendo will hold a Zelda-focused Direct on 8 September, followed by a broader one the next day, timed to overlap with Apple's own hardware event.",
+          "source": "Engadget",
+          "published": "2026-09-04T15:32:50.000Z",
+          "image": "https://www.engadget.com/img/gallery/nintendo-just-announced-two-direct-livestream-events-for-next-week/l-intro-1788535661.jpg"
+        },
+        {
+          "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+          "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom",
+          "tldr": "US CD revenue jumped 58.6% in the first half of 2026, reversing last year's decline as interest in retro tech and physical media keeps growing.",
+          "source": "TechCrunch",
+          "published": "2026-09-04T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/compact-discs-and-headphones.jpg?resize=1200,402"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "iPhone Ultra, iPhone 18 Pro, and more: Apple's September 9 event preview",
+          "url": "https://www.macrumors.com/guide/apple-september-2026-what-to-expect",
+          "tldr": "Apple holds its September event on Wednesday, unveiling its 2026 iPhone lineup, including the long-rumoured foldable model alongside the standard slab-style phones.",
+          "source": "MacRumors",
+          "published": "2026-09-04T22:26:17.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/08/iPhone-Ultra-Fold-Feature.jpg"
+        },
+        {
+          "title": "CarPlay now works with five major chatbot apps",
+          "url": "https://9to5mac.com/2026/09/04/carplay-now-works-with-five-major-chatbot-apps",
+          "tldr": "Anthropic's Claude has become the fifth major AI chatbot to add CarPlay support this week, letting drivers talk to it through their car's infotainment system.",
+          "source": "9to5Mac",
+          "published": "2026-09-04T21:17:46.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600"
+        },
+        {
+          "title": "Apple planning AI home security camera and service for 2027",
+          "url": "https://www.macrumors.com/2026/09/04/apple-home-security-camera-2027",
+          "tldr": "Apple is designing a privacy-focused home security camera and service for 2027 that uses AI to monitor surroundings, according to a Bloomberg report.",
+          "source": "MacRumors",
+          "published": "2026-09-04T22:05:37.000Z",
+          "image": "https://images.macrumors.com/article-new/2024/11/homekit-showdown-redux.jpg"
+        },
+        {
+          "title": "Leaked iPhone roadmap reveals plans for larger foldable and 'biggest overhaul' yet",
+          "url": "https://9to5mac.com/2026/09/04/leaked-iphone-roadmap-reveals-plans-for-larger-foldable-biggest-overhaul-more",
+          "tldr": "A Bloomberg report details Apple's roadmap through 2028, including a larger foldable iPhone, beyond next week's launch of this year's lineup.",
+          "source": "9to5Mac",
+          "published": "2026-09-04T15:48:03.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tim-cook-iphone-15-launch.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Danny Boyle's 'Ink' makes tabloid headlines at Telluride",
+          "url": "https://deadline.com/2026/09/ink-premiere-telluride-danny-boyle-1237068784",
+          "tldr": "Danny Boyle brought Ink, his drama about Rupert Murdoch's launch of a British tabloid, to Telluride for its North American premiere after debuting at Venice.",
+          "source": "Deadline",
+          "published": "2026-09-05T04:11:41.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/Ink.png"
+        },
+        {
+          "title": "Tender Loving Care may be Mike Leigh's final film, and one of his best",
+          "url": "https://deadline.com/2026/09/tender-loving-care-review-kate-oflynn-mike-leigh-telluride-1237068530",
+          "tldr": "Kate O'Flynn stars in Mike Leigh's Telluride drama about two London social workers, a film reviewers say could be his last but ranks among his finest.",
+          "source": "Deadline",
+          "published": "2026-09-05T01:47:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/07/img_54050.jpg"
+        },
+        {
+          "title": "A Long Winter: Andrew Haigh's moody Rockies drama is a sweeping act of storytelling",
+          "url": "https://variety.com/2026/film/reviews/a-long-winter-review-andrew-haigh-1236850173",
+          "tldr": "Adapted from a Colm Toibin novella, Andrew Haigh's austere 1950s-set drama premiered at Telluride starring Fred Hechinger and Ebon Moss-Bachrach.",
+          "source": "Variety",
+          "published": "2026-09-05T02:30:02.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/a-long-winter_dd58ee.jpg"
+        },
+        {
+          "title": "Kenneth Branagh hosts Judi Dench, Anthony Hopkins, Ian McKellen, Gary Oldman and Helen Mirren in Telluride-bound doc 'Into the Breach'",
+          "url": "https://deadline.com/2026/09/into-the-breach-kenneth-branagh-judi-dench-anthony-hopkins-1237068669",
+          "tldr": "Judi Dench recalls how postwar stage stars such as Richard Burton and Anthony Hopkins were treated like rock stars, in Kenneth Branagh's documentary heading to Telluride.",
+          "source": "Deadline",
+          "published": "2026-09-05T01:28:46.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/Into-the-Breach-set.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "The Celtics offense could use a little more chaos this season",
+          "url": "https://www.celticsblog.com/celtics-analysis/146000/the-celtics-offense-could-use-a-little-more-chaos-this-season",
+          "tldr": "A season preview argues Boston's offense, built on discipline and margins, could benefit from more improvisation and chaos to complement its structure.",
+          "source": "CelticsBlog",
+          "published": "2026-09-04T10:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/06/gettyimages-2272872438.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Manchester United",
+          "title": "Carrick on Manchester United's transfer business and Zirkzee staying",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p81d3w",
+          "tldr": "Head coach Michael Carrick discusses United's transfer window dealings and confirms that Joshua Zirkzee is staying at the club.",
+          "source": "BBC Sport",
+          "published": "2026-09-04T15:24:00.000Z",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p81d5m.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Drake Maye and A.J. Brown sit down with Devin McCourty ahead of season opener",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/04/nfl-patriots-season-opener-drake-maye-aj-brown-interview",
+          "tldr": "Maye and Brown spoke with former Patriot Devin McCourty about their growing on-field relationship as New England prepares to open its title defence against Seattle.",
+          "source": "Boston.com",
+          "published": "2026-09-05T00:47:35.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/drakeemaye-6a9b61259a42c-scaled-e1788567876185-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Pro Football Hall of Fame makes sweeping changes after Bill Belichick fiasco",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/136159/pro-football-hall-of-fame-sweeping-bill-belichick-fiasco",
+          "tldr": "The Hall of Fame has overhauled its election process following the widely criticised handling of eight-time Super Bowl champion Bill Belichick's case.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-04T22:41:40.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2198255149.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots news: rebuilt roster, new fits, high expectations",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/136137/patriots-news-rebuilt-roster-new-fits-high-expectations",
+          "tldr": "With week one approaching, expectations are rising for how well general manager Eliot Wolf and coach Mike Vrabel have rebuilt New England's roster for year two.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-04T13:38:22.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2288238671.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Gasly loses Monaco GP podium as penalties reinstated after McLaren and Red Bull appeal",
+          "url": "https://www.autosport.com/f1/news/pierre-gasly-loses-monaco-gp-podium-fias-court-of-appeal-rules/10852139",
+          "tldr": "The FIA's Court of Appeal reinstated Pierre Gasly's pitlane speeding penalties from Monaco, stripping him of his podium and shifting Alpine's championship standing.",
+          "source": "Autosport",
+          "published": "2026-09-04T11:02:03.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/2GdwP7lY/s6/pierre-gasly-alpine-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "The early verdict on Ferrari's Italian GP engine upgrade",
+          "url": "https://www.the-race.com/formula-1/ferrari-f1-engine-upgrade-italian-gp-early-verdict",
+          "tldr": "Ferrari brought a second engine upgrade of the season to its home race at Monza, and drivers and engineers are giving their first assessment of its impact.",
+          "source": "The Race",
+          "published": "2026-09-04T19:35:25.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/09/XPB_1432802_HiRes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Russell tops second practice as Mercedes respond to Ferrari at Monza",
+          "url": "https://www.skysports.com/f1/news/12433/13581162/italian-gp-george-russell-fastest-in-practice-two-as-mercedes-edge-ahead-of-fast-starting-ferrari-at-monza",
+          "tldr": "George Russell beat Charles Leclerc to the fastest time in second practice at Monza, as Mercedes hit back after Ferrari's early pace on home soil.",
+          "source": "Sky Sports",
+          "published": "2026-09-04T15:00:00.000Z",
+          "image": "https://e2.365dm.com/26/09/1920x1080/skysports-george-russell-mercedes_7341003.jpg?20260904160419"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Gasper plays homer hero again to back Suarez's strong start",
+          "url": "https://www.mlb.com/redsox/news/mickey-gasper-ranger-suarez-lead-red-sox-s-win-vs-orioles",
+          "tldr": "Mickey Gasper homered again, extending his hot streak to eight home runs in 16 games, backing a strong outing from Ranger Suarez in Boston's win over Baltimore.",
+          "source": "MLB.com",
+          "published": "2026-09-05T03:22:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/mrxqqum3xiu7cdlq9f1h.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Crochet throws off mound for first time since injury as Houck and Oviedo progress",
+          "url": "https://www.mlb.com/redsox/news/garrett-crochet-tanner-houck-working-toward-returning-to-red-sox",
+          "tldr": "Garrett Crochet threw off a mound for the first time since his injury, while Tanner Houck and Oviedo continue progressing well toward a return.",
+          "source": "MLB.com",
+          "published": "2026-09-04T22:55:10.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/jh6tzulpgqxx1gpqj0vs.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+    "why": "Three founder archetypes and how to turn an origin story into a communications strategy, exactly the storytelling craft Damian applies to product launches.",
+    "title": "How to make people care about your startup",
+    "subtitle": "Three founder archetypes—and how to turn your origin story into a communications strategy",
+    "published": "2026-08-11",
+    "words": 5969,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/a4a1e7f9-6872-47ef-ac7f-f6b0d04612cf_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/431-how-henry-singleton-worked/id1141877104?i=1000786905410&uo=4",
+      "why": "Henry Singleton's ruthless capital discipline is a sharp lens for thinking about how a new operator like John Ternus might run Apple.",
+      "show": "Founders",
+      "title": "#431 How Henry Singleton Worked",
+      "published": "2026-08-31",
+      "duration": "49m",
+      "apple": "https://podcasts.apple.com/us/podcast/431-how-henry-singleton-worked/id1141877104?i=1000786905410&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/sam-altman",
+      "why": "With GPT-6 Astra rolling out today, this conversation with Sam Altman on building OpenAI and betting big feels timely.",
+      "show": "David Senra",
+      "title": "Sam Altman on Building OpenAI & Betting on the Impossible",
+      "published": "2026-08-23",
+      "duration": "1h 18m",
+      "apple": "https://podcasts.apple.com/us/podcast/sam-altman-on-building-openai-betting-on-the-impossible/id1836497887?i=1000785201420&uo=4",
+      "page": "https://www.davidsenra.com/episode/sam-altman",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/37/bc/e137bcb2-8dcc-f672-326f-35291e532ea9/mza_15456070769090341917.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=kG8AoExkX40"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-walt-disney-company",
+      "why": "Damian studies Disney's operators closely, and this deep dive on the Walt Disney Company is exactly that kind of story.",
+      "show": "Acquired",
+      "title": "The Walt Disney Company",
+      "published": "2026-06-22",
+      "duration": "4h 31m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-walt-disney-company/id1050462261?i=1000773687734&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-walt-disney-company",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/09/41/c0/0941c036-555e-80aa-af76-860826211540/mza_17592569476655460113.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Go behind the scenes of Blackwing Pencils' ode to analog creativity",
+    "url": "https://www.thisiscolossal.com/2026/09/how-blackwing-pencils-are-made-video",
+    "tldr": "A short film follows the multi-step process behind Blackwing pencils, made in factories in Japan and California, a quiet celebration of analog craft in a digital age.",
+    "source": "Colossal",
+    "published": "2026-09-04T16:30:00.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/blackwing-2.jpeg"
+  }
+}

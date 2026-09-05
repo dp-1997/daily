@@ -1,4 +1,4 @@
-/* The DJ: the glass sections menu, lifted from damianpickett.com. */
+/* The DJ: focused edition views, section picker and the archive menu. */
 
 (function () {
   "use strict";
@@ -22,22 +22,117 @@
   });
 
   /* A picture that fails to load takes its frame with it. */
-  document.addEventListener(
-    "error",
-    function (e) {
-      var el = e.target;
+  function removeBrokenImage(el) {
       if (!el || el.tagName !== "IMG") return;
       var fig = el.closest(".story-media, .pick-media, .pick-art");
       if (!fig) return;
-      var owner = fig.closest(".has-media, .has-art");
+      var owner = fig.closest(".has-media, .has-art, .has-cover");
       fig.parentNode.removeChild(fig);
       if (owner) {
         owner.classList.remove("has-media");
         owner.classList.remove("has-art");
+        owner.classList.remove("has-cover");
       }
-    },
-    true
-  );
+  }
+  document.addEventListener("error", function (e) { removeBrokenImage(e.target); }, true);
+  document.querySelectorAll("img").forEach(function (el) {
+    if (el.complete && !el.naturalWidth) removeBrokenImage(el);
+  });
+
+  /* The HTML remains a complete paper without JavaScript. Enhance it
+     into views only when the whole navigation surface is available. */
+  var panels = Array.from(document.querySelectorAll("[data-edition-panel]"));
+  var dock = document.querySelector(".edition-dock");
+  var picker = document.querySelector("#section-picker");
+  var pickerTrigger = document.querySelector(".sections-trigger");
+  if (panels.length && dock && picker && pickerTrigger && typeof picker.showModal === "function") {
+    var overview = document.querySelector("[data-overview]");
+    var positions = new Map();
+    var current = null;
+    var viewLinks = document.querySelectorAll("[data-view-link]");
+
+    function route() {
+      var id;
+      try { id = decodeURIComponent(location.hash.slice(1)); } catch (err) { id = ""; }
+      if (id === "all") return { id: "all", panel: null, target: document.querySelector("#front") };
+      var target = id && document.getElementById(id);
+      var panel = target && target.closest("[data-edition-panel]");
+      if (!panel) return { id: "front", panel: panels[0], target: panels[0] };
+      return { id: id, panel: panel, target: target };
+    }
+
+    function renderView(options) {
+      options = options || {};
+      var next = route();
+      if (current && current !== next.id) positions.set(current, window.scrollY);
+      panels.forEach(function (panel) {
+        panel.hidden = next.id !== "all" && panel !== next.panel && !(next.id === "front" && panel.id === "finally");
+      });
+      overview.hidden = next.id !== "front" && next.id !== "all";
+      viewLinks.forEach(function (link) {
+        var selected = link.hash === "#" + next.id || (next.panel && link.hash === "#" + next.panel.id) || (link.closest(".edition-dock") && link.hash === "#listen" && next.panel && next.panel.id === "picks");
+        if (selected) link.setAttribute("aria-current", "location");
+        else link.removeAttribute("aria-current");
+      });
+      var isSection = next.id !== "front" && (!next.panel || next.panel.id !== "picks");
+      pickerTrigger.classList.toggle("is-current", isSection);
+      pickerTrigger.setAttribute("aria-label", isSection && next.panel ? "Sections, " + next.panel.querySelector("h2").textContent.trim() + " selected" : "Sections");
+      current = next.id;
+      if (options.initial && !location.hash) return;
+
+      var heading = next.target.matches("h2, h3") ? next.target : next.target.querySelector("h2, h3");
+      if (options.focus && heading) heading.focus({ preventScroll: true });
+      var top = options.restore && positions.has(next.id) ? positions.get(next.id) :
+        next.id === "front" || next.id === "all" ? 0 : next.target.getBoundingClientRect().top + window.scrollY - 24;
+      window.scrollTo({ top: Math.max(0, top), behavior: "auto" });
+    }
+
+    function closePicker() {
+      picker.close();
+      pickerTrigger.setAttribute("aria-expanded", "false");
+      document.documentElement.classList.remove("picker-open");
+    }
+
+    pickerTrigger.hidden = false;
+    document.querySelector(".sections-fallback").hidden = true;
+    document.documentElement.classList.add("edition-reader");
+    pickerTrigger.addEventListener("click", function () {
+      picker.showModal();
+      pickerTrigger.setAttribute("aria-expanded", "true");
+      document.documentElement.classList.add("picker-open");
+    });
+    picker.querySelector(".picker-close").addEventListener("click", closePicker);
+    picker.addEventListener("keydown", function (e) {
+      if (e.key !== "Tab") return;
+      /* Keep every section reachable even when the platform's default
+         Tab behaviour skips links. The native dialog makes the page inert. */
+      var controls = Array.from(picker.querySelectorAll("button:not([disabled]), a[href]"));
+      var index = controls.indexOf(document.activeElement);
+      var next = (index + (e.shiftKey ? -1 : 1) + controls.length) % controls.length;
+      e.preventDefault();
+      controls[next].focus();
+    });
+    picker.addEventListener("close", function () {
+      pickerTrigger.setAttribute("aria-expanded", "false");
+      document.documentElement.classList.remove("picker-open");
+    });
+    picker.addEventListener("click", function (e) {
+      if (e.target !== picker) return;
+      var rect = picker.getBoundingClientRect();
+      if (e.clientX < rect.left || e.clientX > rect.right || e.clientY < rect.top || e.clientY > rect.bottom) closePicker();
+    });
+    document.addEventListener("click", function (e) {
+      var link = e.target.closest("[data-view-link]");
+      if (!link || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+      e.preventDefault();
+      if (picker.open) closePicker();
+      if (link.hash !== location.hash) history.pushState(null, "", link.hash);
+      renderView({ focus: true });
+    });
+    window.addEventListener("popstate", function () { renderView({ restore: true }); });
+    window.addEventListener("hashchange", function () { renderView({ restore: true }); });
+    renderView({ initial: true });
+  }
 
   var menu = document.querySelector(".menu");
   var trigger = menu && menu.querySelector(".menu-trigger");

@@ -1,6 +1,7 @@
 _build
 data
 scripts
+tests
 node_modules
 ROUTINE.md
 CLAUDE.md
