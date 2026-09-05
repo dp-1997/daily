@@ -778,11 +778,11 @@ main .edition-date a {
 .picker-head { display: flex; justify-content: space-between; align-items: start; gap: 12px; margin-bottom: 20px; }
 .picker-head .masthead-kicker { margin: 0 0 4px; font-size: 11px; }
 .picker-head h2 { font-size: 26px; line-height: 1.25; letter-spacing: -.02em; }
-.picker-close { min-height: 44px; min-width: 60px; font-size: 14px; color: var(--sage-deep); }
+.picker-close { min-height: 44px; min-width: 60px; border-radius: 999px; font-size: 14px; color: var(--sage-deep); }
 .picker-primary { display: flex; gap: 4px; margin: 0 -12px 16px; }
-.picker-primary a { min-height: 44px; display: flex; align-items: center; padding: 0 12px; border-radius: 10px; font-size: 15px; }
+.picker-primary a { min-height: 44px; display: flex; align-items: center; padding: 0 12px; border-radius: 999px; font-size: 15px; }
 .section-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
-.section-grid a { display: flex; justify-content: space-between; gap: 8px; align-items: center; min-height: 54px; padding: 12px 15px; border: 1px solid var(--line); border-radius: 12px; font-size: 16px; }
+.section-grid a { display: flex; justify-content: space-between; gap: 8px; align-items: center; min-height: 54px; padding: 12px 15px; border: 1px solid var(--line); border-radius: 999px; font-size: 16px; }
 .section-grid a, .picker-primary a, .team-links a, .picker-close {
   transition: transform 540ms var(--spring-w-expand), background-color 160ms ease;
 }
@@ -794,7 +794,7 @@ main .edition-date a {
 .section-picker [aria-current] { background: var(--glass-bg-strong); border-color: var(--sage-deep); color: var(--sage-deep); }
 .picker-label { margin-top: 22px; }
 .team-links { display: flex; flex-wrap: wrap; gap: 4px; margin: 0 -8px; }
-.team-links a { display: flex; align-items: center; justify-content: center; min-height: 44px; min-width: 44px; padding: 0 8px; font-size: 14px; border-radius: 6px; }
+.team-links a { display: flex; align-items: center; justify-content: center; min-height: 44px; min-width: 44px; padding: 0 8px; font-size: 14px; border-radius: 999px; }
 .picks-listen > .section-index-label { margin: 20px 0 0; }
 .picker-footer { display: flex; flex-wrap: wrap; gap: 4px 22px; border-top: 1px solid var(--line); margin-top: 20px; padding-top: 14px; }
 .picker-footer a { display: flex; align-items: center; min-height: 44px; color: var(--muted); font-size: 14px; }

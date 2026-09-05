@@ -41,7 +41,7 @@ const SECTIONS = [
   { id: "sport", title: "Sport" }
 ];
 const SPORT_ORDER = ["Celtics", "Manchester United", "Patriots", "F1", "Red Sox"];
-const ASSET_VERSION = "20260905-spring";
+const ASSET_VERSION = "20260905-pills";
 const sportId = (tag) => `sport-${tag.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`;
 
 /* ---------- Helpers ---------- */
