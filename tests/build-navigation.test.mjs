@@ -36,7 +36,9 @@ function checkDestinations(html) {
 test("every section and team shortcut has a unique real destination", () => {
   const { html } = render();
   checkDestinations(html);
-  assert.match(html, /href="#listen" data-view-link>Listen/);
+  const dock = html.match(/<nav class="edition-dock"[\s\S]*?<\/nav>/)[0];
+  assert.match(dock, /href="#picks" data-view-link>Read &amp; listen/);
+  assert.doesNotMatch(dock, /href="#listen"/, "the main tab must not skip the daily read");
   assert.match(html, /id="sport-manchester-united"/);
 });
 

@@ -50,10 +50,22 @@
     var positions = new Map();
     var current = null;
     var viewLinks = document.querySelectorAll("[data-view-link]");
+    var reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    var selectedTab = 0;
+    var pickerAnimation = null;
+    var collapsedPicker = "none";
+    var afterPickerClose = null;
 
     function route() {
       var id;
       try { id = decodeURIComponent(location.hash.slice(1)); } catch (err) { id = ""; }
+      // Old Listen bookmarks also start at the daily read, above the podcasts.
+      if (id === "listen") {
+        id = "picks";
+        // Update the native anchor too, so the browser's load-time jump
+        // cannot override our position after pictures have loaded.
+        history.replaceState(null, "", "#picks");
+      }
       if (id === "all") return { id: "all", panel: null, target: document.querySelector("#front") };
       var target = id && document.getElementById(id);
       var panel = target && target.closest("[data-edition-panel]");
@@ -70,13 +82,15 @@
       });
       overview.hidden = next.id !== "front" && next.id !== "all";
       viewLinks.forEach(function (link) {
-        var selected = link.hash === "#" + next.id || (next.panel && link.hash === "#" + next.panel.id) || (link.closest(".edition-dock") && link.hash === "#listen" && next.panel && next.panel.id === "picks");
+        var selected = link.hash === "#" + next.id || (next.panel && link.hash === "#" + next.panel.id);
         if (selected) link.setAttribute("aria-current", "location");
         else link.removeAttribute("aria-current");
       });
       var isSection = next.id !== "front" && (!next.panel || next.panel.id !== "picks");
       pickerTrigger.classList.toggle("is-current", isSection);
       pickerTrigger.setAttribute("aria-label", isSection && next.panel ? "Sections, " + next.panel.querySelector("h2").textContent.trim() + " selected" : "Sections");
+      selectedTab = isSection ? 2 : next.panel && next.panel.id === "picks" ? 1 : 0;
+      updateDock();
       current = next.id;
       if (options.initial && !location.hash) return;
 
@@ -87,21 +101,93 @@
       window.scrollTo({ top: Math.max(0, top), behavior: "auto" });
     }
 
-    function closePicker() {
+    function updateDock() {
+      dock.style.setProperty("--active-tab", picker.open && !picker.classList.contains("is-closing") ? 2 : selectedTab);
+    }
+
+    function spring(name) {
+      var easing = getComputedStyle(picker).getPropertyValue(name).trim();
+      return CSS.supports("animation-timing-function", easing) ? easing : "cubic-bezier(.2,.8,.2,1)";
+    }
+
+    function cancelPickerAnimation() {
+      if (pickerAnimation) pickerAnimation.cancel();
+      pickerAnimation = null;
+    }
+
+    function finishPickerClose() {
+      cancelPickerAnimation();
+      var after = afterPickerClose;
+      afterPickerClose = null;
       picker.close();
+      picker.classList.remove("is-opening", "is-closing");
       pickerTrigger.setAttribute("aria-expanded", "false");
       document.documentElement.classList.remove("picker-open");
+      updateDock();
+      // Move focus only after the modal releases the reading surface.
+      if (after) after();
+    }
+
+    function closePicker(after) {
+      if (picker.classList.contains("is-closing")) return;
+      afterPickerClose = typeof after === "function" ? after : null;
+      if (!picker.open || reducedMotion.matches || typeof picker.animate !== "function") {
+        finishPickerClose();
+        return;
+      }
+      // Closing mid-bounce starts from its current shape, without a snap.
+      var transform = getComputedStyle(picker).transform;
+      var opacity = getComputedStyle(picker).opacity;
+      cancelPickerAnimation();
+      picker.classList.remove("is-opening");
+      picker.classList.add("is-closing");
+      pickerTrigger.setAttribute("aria-expanded", "false");
+      updateDock();
+      var animation = picker.animate([
+        { transform: transform, opacity: opacity },
+        { transform: collapsedPicker, opacity: 0 }
+      ], { duration: 240, easing: spring("--spring-w-retract"), fill: "forwards" });
+      pickerAnimation = animation;
+      animation.finished.then(function () {
+        if (pickerAnimation === animation) finishPickerClose();
+      }, function () { /* Interrupted motion is deliberately cancelled. */ });
+    }
+
+    function openPicker() {
+      if (picker.open) return;
+      picker.showModal();
+      picker.scrollTop = 0;
+      pickerTrigger.setAttribute("aria-expanded", "true");
+      document.documentElement.classList.add("picker-open");
+      updateDock();
+      if (reducedMotion.matches || typeof picker.animate !== "function") return;
+
+      // Grow out of the Sections tab using the original glass menu's spring.
+      var from = pickerTrigger.getBoundingClientRect();
+      var to = picker.getBoundingClientRect();
+      collapsedPicker = "translate(" + (from.right - to.right) + "px," + (from.bottom - to.bottom) + "px) scale(" + from.width / to.width + "," + from.height / to.height + ")";
+      picker.classList.add("is-opening");
+      var animation = picker.animate([
+        { transform: collapsedPicker, opacity: .3 },
+        { transform: "none", opacity: 1 }
+      ], { duration: 540, easing: spring("--spring-w-expand") });
+      pickerAnimation = animation;
+      animation.finished.then(function () {
+        if (pickerAnimation !== animation) return;
+        pickerAnimation = null;
+        picker.classList.remove("is-opening");
+      }, function () { /* Closing can interrupt the opening spring. */ });
     }
 
     pickerTrigger.hidden = false;
     document.querySelector(".sections-fallback").hidden = true;
     document.documentElement.classList.add("edition-reader");
-    pickerTrigger.addEventListener("click", function () {
-      picker.showModal();
-      pickerTrigger.setAttribute("aria-expanded", "true");
-      document.documentElement.classList.add("picker-open");
-    });
+    pickerTrigger.addEventListener("click", openPicker);
     picker.querySelector(".picker-close").addEventListener("click", closePicker);
+    picker.addEventListener("cancel", function (e) {
+      e.preventDefault();
+      closePicker();
+    });
     picker.addEventListener("keydown", function (e) {
       if (e.key !== "Tab") return;
       /* Keep every section reachable even when the platform's default
@@ -113,8 +199,12 @@
       controls[next].focus();
     });
     picker.addEventListener("close", function () {
+      if (picker.open) return;
+      cancelPickerAnimation();
+      picker.classList.remove("is-opening", "is-closing");
       pickerTrigger.setAttribute("aria-expanded", "false");
       document.documentElement.classList.remove("picker-open");
+      updateDock();
     });
     picker.addEventListener("click", function (e) {
       if (e.target !== picker) return;
@@ -125,13 +215,32 @@
       var link = e.target.closest("[data-view-link]");
       if (!link || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
       e.preventDefault();
-      if (picker.open) closePicker();
-      if (link.hash !== location.hash) history.pushState(null, "", link.hash);
-      renderView({ focus: true });
+      function navigate() {
+        if (link.hash !== location.hash) history.pushState(null, "", link.hash);
+        renderView({ focus: true });
+      }
+      if (picker.open) closePicker(navigate);
+      else navigate();
     });
-    window.addEventListener("popstate", function () { renderView({ restore: true }); });
-    window.addEventListener("hashchange", function () { renderView({ restore: true }); });
+    function restoreView() {
+      if (picker.open) {
+        afterPickerClose = null;
+        finishPickerClose();
+      }
+      renderView({ restore: true });
+    }
+    window.addEventListener("popstate", restoreView);
+    window.addEventListener("hashchange", restoreView);
+    reducedMotion.addEventListener("change", function () {
+      if (!reducedMotion.matches) return;
+      if (picker.classList.contains("is-closing")) finishPickerClose();
+      else {
+        cancelPickerAnimation();
+        picker.classList.remove("is-opening");
+      }
+    });
     renderView({ initial: true });
+    requestAnimationFrame(function () { dock.classList.add("is-ready"); });
   }
 
   var menu = document.querySelector(".menu");

@@ -41,7 +41,7 @@ const SECTIONS = [
   { id: "sport", title: "Sport" }
 ];
 const SPORT_ORDER = ["Celtics", "Manchester United", "Patriots", "F1", "Red Sox"];
-const ASSET_VERSION = "20260905-sections";
+const ASSET_VERSION = "20260905-spring";
 const sportId = (tag) => `sport-${tag.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`;
 
 /* ---------- Helpers ---------- */
@@ -416,14 +416,14 @@ function editionNavigationHtml(ed, { editionPage = false } = {}) {
   return `
   <nav class="edition-dock" aria-label="Edition navigation">
     <a href="#front" data-view-link>Highlights</a>
-    <a href="#listen" data-view-link>Listen</a>
+    <a href="#picks" data-view-link>Read &amp; listen</a>
     <button type="button" class="sections-trigger" aria-haspopup="dialog" aria-controls="section-picker" aria-expanded="false" hidden>Sections</button>
     <a href="#edition-sections" class="sections-fallback">Sections</a>
   </nav>
   <dialog id="section-picker" class="section-picker" aria-labelledby="picker-title">
     <div class="picker-head"><div><p class="masthead-kicker">${esc(shortDate(ed.date))}</p><h2 id="picker-title">Your paper</h2></div><button type="button" class="picker-close" autofocus>Close</button></div>
     <nav aria-label="Choose a section">
-      <div class="picker-primary"><a href="#front" data-view-link>Highlights</a><a href="#picks" data-view-link>Read</a><a href="#listen" data-view-link>Listen</a></div>
+      <div class="picker-primary"><a href="#front" data-view-link>Highlights</a><a href="#picks" data-view-link>Read &amp; listen</a></div>
       <div class="section-grid">${sectionLinksHtml(ed)}${ed.finally ? '<a href="#finally" data-view-link><span>And finally</span><span class="section-count">1<span class="sr-only"> story</span></span></a>' : ""}</div>
       ${teams.length ? `<p class="picker-label">Straight to your team</p><div class="team-links">${teams.map((tag) => `<a href="#${sportId(tag)}" data-view-link>${esc(tag)}</a>`).join("")}</div>` : ""}
       <div class="picker-footer"><a href="#all" data-view-link>Whole edition</a><a href="/archive">Archive</a><a href="/sources">Sources</a>${editionPage ? '<a href="/">Latest edition</a>' : ""}</div>

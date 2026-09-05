@@ -57,10 +57,11 @@ The cloud environment the routine runs in must allow outbound HTTPS to the feed 
 
 ## Design notes
 
-- Mobile first: the paper opens on three highlights and the closing good story. Topic shortcuts near the masthead show each section's story count. The fixed bottom bar keeps Highlights, Listen and Sections in reach.
-- A topic opens on its own. The section picker also has direct team links, the daily read, archive, sources and a Whole edition option. Listen jumps directly to the podcasts, with the read above them. Empty topics and teams have no shortcut.
+- Mobile first: the paper opens on three highlights and the closing good story. Topic shortcuts near the masthead show each section's story count. The floating glass bar keeps Highlights, Read & listen and Sections in reach.
+- A topic opens on its own. The section picker also has direct team links, the daily read, archive, sources and a Whole edition option. Read & listen opens at the daily read, followed by the podcasts. Empty topics and teams have no shortcut.
 - Stories retain their source, two-sentence summary and picture. The lead highlight, section leads and closing story have wide pictures; supporting highlights use thumbnails. The whole story row remains the link, and visited stories fade.
-- Section URLs use hashes (`#ai`, `#listen`, `#sport-f1`). Back and Forward restore the selected view. The picker supports keyboard navigation, traps focus and closes with Escape. Switching sections does not animate a long scroll.
+- Section URLs use hashes (`#ai`, `#picks`, `#sport-f1`). Old `#listen` links resolve to `#picks`, so they also start above the daily read. Back and Forward restore the selected view. The picker supports keyboard navigation, traps focus and closes with Escape. Switching sections does not animate a long scroll.
+- The tab indicator and button presses use the original menu's spring curves. The section picker grows from its tab into a floating glass panel and retracts on close. Interrupted motion settles cleanly; focus moves to the chosen heading after the dialog closes. Reduced-motion preferences make these interactions instant.
 - Every article stays in the generated HTML. Without JavaScript, the original continuous paper and anchor links remain usable. Printing includes all sections. The source JSON and morning editorial routine keep their existing schema and counts.
 - Add to Home Screen on iPhone and it opens full screen, with the masthead kept clear of the status bar.
 
