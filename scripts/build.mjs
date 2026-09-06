@@ -167,11 +167,22 @@ const candByUrl = new Map();
 if (candidates) for (const list of Object.values(candidates.topics || {})) for (const it of list) candByUrl.set(urlKey(it.url), it);
 const lennyByUrl = new Map(loadJson(join(ROOT, "data", "lenny.json"), []).map((p) => [urlKey(p.url), p]));
 const podByUrl = new Map();
-for (const e of loadJson(join(ROOT, "data", "podcasts.json"), [])) {
-  podByUrl.set(urlKey(e.url), e);
-  if (e.apple) podByUrl.set(urlKey(e.apple), e);
-  if (e.page) podByUrl.set(urlKey(e.page), e);
-  if (e.youtube) podByUrl.set(urlKey(e.youtube), e);
+{
+  /* A brand-new episode without its own Apple Podcasts link yet falls back
+     to the show's generic URL in the catalogue, and many older episodes
+     share that same fallback from when they too were new. On that
+     collision, keep whichever shares the key AND is most recently
+     published, so a fresh pick resolves to itself, not an old episode. */
+  const setPreferRecent = (key, e) => {
+    const existing = podByUrl.get(key);
+    if (!existing || (e.date || "") >= (existing.date || "")) podByUrl.set(key, e);
+  };
+  for (const e of loadJson(join(ROOT, "data", "podcasts.json"), [])) {
+    setPreferRecent(urlKey(e.url), e);
+    if (e.apple) setPreferRecent(urlKey(e.apple), e);
+    if (e.page) setPreferRecent(urlKey(e.page), e);
+    if (e.youtube) setPreferRecent(urlKey(e.youtube), e);
+  }
 }
 
 function allStories(ed) {

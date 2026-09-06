@@ -1,0 +1,294 @@
+{
+  "date": "2026-09-06",
+  "note": "The Italian Grand Prix is run at Monza this afternoon, with Pierre Gasly starting from a shock pole for Alpine.",
+  "front": [
+    {
+      "title": "Alpine's Gasly beats Russell to stunning Monza pole",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8d31qrg2neo",
+      "tldr": "Pierre Gasly claimed his first Formula 1 pole position at the Italian Grand Prix, beating Mercedes' George Russell by six hundredths of a second at Monza. The sport's usual frontrunners, including Verstappen and both Ferraris, had scrappy qualifying laps.",
+      "source": "BBC Sport",
+      "published": "2026-09-05T16:46:01.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44b4/live/56deb6f0-a945-11f1-9167-99717d2756e1.jpg"
+    },
+    {
+      "title": "Julianne Moore is astonishing in Jesse Eisenberg's 'The Debut'",
+      "url": "https://variety.com/2026/film/reviews/the-debut-review-julianne-moore-jesse-eisenberg-1236852779",
+      "tldr": "Julianne Moore gives what critics at the Telluride Film Festival are calling an astonishing performance in Jesse Eisenberg's community-theatre comedy 'The Debut', his third film as a director.",
+      "source": "Variety",
+      "published": "2026-09-06T02:59:36.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Debut.jpg"
+    },
+    {
+      "title": "Liam and Noel Gallagher's Oasis documentary gets an eight-minute ovation in Venice",
+      "url": "https://variety.com/2026/film/festivals/oasis-documentary-premiere-liam-noel-gallagher-venice-ovation-1236845853",
+      "tldr": "Liam and Noel Gallagher's reunion documentary 'Don't Look Back in Anger' had its world premiere at the Venice Film Festival, drawing an eight-minute standing ovation from the crowd.",
+      "source": "Variety",
+      "published": "2026-09-05T22:08:16.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/09/Oasis_Premiere_GiuliaParmigiani_027.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Introducing GPT-6 Astra for developers",
+          "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers",
+          "tldr": "OpenAI has released GPT-6 Astra for developers. Simon Willison highlights improved attention to detail and a better grasp of user intent, going by early impressions.",
+          "source": "Simon Willison",
+          "published": "2026-09-05T23:27:48.000Z",
+          "image": "https://static.simonwillison.net/static/2026-09-05/astra-video-pelican.webp"
+        },
+        {
+          "title": "Using Blender with coding agents on macOS",
+          "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos",
+          "tldr": "Simon Willison found it easy to get AI coding agents like ChatGPT Codex working inside Blender on a Mac, opening up 3D modelling as a new playground for agentic coding tools.",
+          "source": "Simon Willison",
+          "published": "2026-09-05T15:51:09.000Z",
+          "image": "https://static.simonwillison.net/static/2026/astra-blender-pelican.jpg"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Clucky's new alarm app wakes you up with a crowing rooster",
+          "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster",
+          "tldr": "A new alarm app called Clucky wakes users with a crowing rooster, then sets a small mission to complete before it will stop, a playful twist on the snooze button.",
+          "source": "TechCrunch",
+          "published": "2026-09-05T17:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Clucky.png?w=1200"
+        },
+        {
+          "title": "Oura is going public, but rivals are circling its crown",
+          "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown",
+          "tldr": "As Oura prepares to go public, a growing field of smart ring makers is racing to challenge its dominance of the category with new approaches to health tracking.",
+          "source": "TechCrunch",
+          "published": "2026-09-05T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800"
+        },
+        {
+          "title": "Is the Steam Deck still worth it in 2026?",
+          "url": "https://www.engadget.com/2248094/is-steam-deck-still-worth-it",
+          "tldr": "Valve's Steam Deck remains a solid handheld, but Engadget notes it now faces stronger competitors and higher prices than when it launched, making the buying decision less clear-cut.",
+          "source": "Engadget",
+          "published": "2026-09-05T22:30:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/is-the-steam-deck-still-worth-it-in-2026/l-intro-1788208373.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple previews 'Surprise and Shine' event as John Ternus takes over",
+          "url": "https://www.macrumors.com/2026/09/05/top-stories-suprise-and-shine-preview",
+          "tldr": "MacRumors rounds up expectations for Apple's next event, including the long-rumoured foldable iPhone, as John Ternus takes on a bigger public role. This is a report of expectations, not confirmed detail.",
+          "source": "MacRumors",
+          "published": "2026-09-05T13:00:10.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/top-stories-2026-09-05.jpg"
+        },
+        {
+          "title": "Report: MacBook Ultra pricing rumour points to a costlier redesign",
+          "url": "https://9to5mac.com/2026/09/05/macbook-ultra-pricing-lineup-rumor",
+          "tldr": "9to5Mac reports that Apple's next MacBook Pro redesign, referred to as the MacBook Ultra, may carry a higher price alongside OLED, a thinner chassis and the first touchscreen on a Mac. This is a report, not a confirmed price.",
+          "source": "9to5Mac",
+          "published": "2026-09-06T03:02:03.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/macbook-ultra-mockup-FI.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "What Apple's M6 chip hints about the next iPhone's A20",
+          "url": "https://www.macrumors.com/2026/09/05/what-m6-tells-us-about-a20",
+          "tldr": "MacRumors reads Apple's new M6 chip for clues about the A20 processor expected in the iPhone 18 Pro, arguing Apple's chip generations increasingly move in step across product lines.",
+          "source": "MacRumors",
+          "published": "2026-09-05T16:00:13.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/m6-a20-pro-chips.jpg"
+        },
+        {
+          "title": "Report: how the iPhone Ultra's fold compares to other Apple devices",
+          "url": "https://9to5mac.com/2026/09/05/iphone-ultra-form-factor-comparison",
+          "tldr": "9to5Mac compares the rumoured iPhone Ultra's 5.5-inch outer and 7.6-inch inner displays with other Apple products, ahead of its expected unveiling. This is a report based on rumours, not a confirmed design.",
+          "source": "9to5Mac",
+          "published": "2026-09-05T19:15:18.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/iphone-fold-mockup-red.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Elsinore' revisits Daniel Day-Lewis' infamous Hamlet walk-off",
+          "url": "https://variety.com/2026/film/news/elsinore-andrew-scott-daniel-day-lewis-hamlet-1236853006",
+          "tldr": "Andrew Scott's acclaimed Telluride premiere in 'Elsinore' also revisits Daniel Day-Lewis' famous walk-off during a 1980s stage production of Hamlet, Variety reports.",
+          "source": "Variety",
+          "published": "2026-09-06T02:02:20.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/DDL-Elsinore.jpeg"
+        },
+        {
+          "title": "Danny Boyle on returning to Telluride and fighting to make 'Ink'",
+          "url": "https://www.indiewire.com/features/interviews/danny-boyle-interview-ink-1235215117",
+          "tldr": "Danny Boyle tells IndieWire he struggled to raise funding for 'Ink', his film about the launch of The Sun, because backers feared its theatrical roots and its brush with Rupert Murdoch.",
+          "source": "IndieWire",
+          "published": "2026-09-06T00:45:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_9930.jpeg?w=650"
+        },
+        {
+          "title": "Robert Pattinson's 'Primetime' gets a near eight-minute ovation in Venice",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-primetime-a24-movie-venice-film-festival-1236691614",
+          "tldr": "Lance Oppenheim's A24 film 'Primetime', starring Robert Pattinson as Chris Hansen, premiered at Venice to a near eight-minute standing ovation ahead of its September cinema release.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-05T17:17:48.000Z",
+          "image": ""
+        },
+        {
+          "title": "Eleanor Coppola's tender documentary doubles as a self-portrait",
+          "url": "https://www.indiewire.com/criticism/movies/making-marie-antoinette-documentary-movie-review-1235214956",
+          "tldr": "IndieWire calls 'Making Marie Antoinette', Eleanor Coppola's documentary built from 80 hours of behind-the-scenes footage of her daughter's film, a wistful self-portrait of two generations of women.",
+          "source": "IndieWire",
+          "published": "2026-09-06T00:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MA_800dpi_8_Credit_Sofia-Coppola.jpeg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Manchester United",
+          "title": "Carrick: Manchester United can compete without more spending",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p82l2r",
+          "tldr": "Manchester United head coach Michael Carrick says the squad can compete this season even without further transfer spending, BBC Sport reports.",
+          "source": "BBC Sport",
+          "published": "2026-09-05T21:30:00.000Z",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p82l4c.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "A.J. Brown ready to make his mark with the Patriots",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/05/new-england-patriots-a-j-brown-nfl-football-mike-vrabel-drake-maye-2",
+          "tldr": "After months of anticipation, wide receiver A.J. Brown says he is grateful and 'still in awe' to be a Patriot, ahead of New England's season opener.",
+          "source": "Boston.com",
+          "published": "2026-09-05T22:52:27.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Eagles_Patriots_Football_39_44-6a9c989ec3bed-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Drake Maye excited about his rebuilt receiver room",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/136266/drake-maye-hard-not-to-be-excited-patriots-wide-receiver-group",
+          "tldr": "Quarterback Drake Maye says he is excited about the Patriots' revamped wide receiver group, a stark upgrade from the unit he had for his last game.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-05T22:49:50.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/07/gettyimages-2280560973.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots preview their Week 1 trip to Seattle",
+          "url": "https://www.patriots.com/news/game-preview-patriots-at-seahawks-week-1",
+          "tldr": "New England opens its season on the road against the Seahawks on Wednesday 9 September at 8.20pm ET, per Patriots.com's preview.",
+          "source": "Patriots.com",
+          "published": "2026-09-05T15:55:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ltqdeoah3jvffhoksh9h.png"
+        },
+        {
+          "tag": "F1",
+          "title": "Piastri dropped three places on the grid for impeding Lawson",
+          "url": "https://www.racefans.net/2026/09/05/piastri-handed-three-place-grid-drop-for-impeding-lawson",
+          "tldr": "Oscar Piastri lost three grid places for the Italian Grand Prix after stewards ruled he impeded Liam Lawson in qualifying, dropping the McLaren driver from third to sixth.",
+          "source": "RaceFans",
+          "published": "2026-09-05T16:27:27.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-05-12-54-25-7-14-saturday-monza-2026.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Hamilton frustrated with Ferrari's qualifying tactics at Monza",
+          "url": "https://www.the-race.com/formula-1/hamilton-sends-ferrari-a-clear-team-orders-plea",
+          "tldr": "Lewis Hamilton says Ferrari's handling of the final stage of Italian Grand Prix qualifying put the team's fading title hopes at further risk, The Race reports.",
+          "source": "The Race",
+          "published": "2026-09-05T17:07:32.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/09/XPB_1433992_HiRes.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Sonny Gray delivers seven scoreless innings in his return",
+          "url": "https://www.mlb.com/redsox/news/sonny-gray-pitches-seven-scoreless-innings-in-red-sox-s-win",
+          "tldr": "Sonny Gray returned from ten days out to pitch seven scoreless innings against Baltimore, helping the Red Sox to a second straight shutout of the Orioles.",
+          "source": "MLB.com",
+          "published": "2026-09-06T03:37:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/vwb1ihk0iycwbrvysvns.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Garrett Crochet takes a step toward returning in 2026",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/05/garrett-crochet-red-sox-injury-update",
+          "tldr": "Garrett Crochet threw his first bullpen session since May, a meaningful step in his recovery as the Red Sox push through the stretch run.",
+          "source": "Boston.com",
+          "published": "2026-09-05T23:14:25.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/UHBDYINLZV6UJZNVYYEYSIEXWE-6a9c9627c61fd-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Mickey Gasper's power surge continues with another home run",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/04/mickey-gasper-home-run-red-sox",
+          "tldr": "Mickey Gasper has now hit eight home runs in his last 16 games, a hot streak Boston.com likens to a personal 'Linsanity' run.",
+          "source": "Boston.com",
+          "published": "2026-09-05T00:28:05.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/PBNM5PRZ4AXNS4NGVMQU66JWZY-6a9b5c4b613f4-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
+    "why": "Six essential questions for weighing what's next, worth sitting with whenever a launch cycle ends and the question of your own next move comes up.",
+    "title": "How to figure out your next career move",
+    "subtitle": "Six essential questions to help you navigate change",
+    "published": "2026-08-25",
+    "words": 4860,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/1a88a225-3e0f-4c00-b34f-3bdcabd91bb3_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/gb/podcast/founders/id1141877104",
+      "why": "Senra's read of Napoleon's mind fits a Monza morning: relentless focus and rewriting your own rules, the same instincts behind Gasly's shock pole.",
+      "show": "Founders",
+      "title": "#432 The Mind of Napoleon",
+      "published": "2026-09-05",
+      "duration": "56m",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/torsten-reil",
+      "why": "A founder building defence technology from first principles, in the same searching, obsessive mode Senra keeps returning to.",
+      "show": "David Senra",
+      "title": "Building Defense Technologies to Protect Democracies | Torsten Reil, Helsing",
+      "published": "2026-08-26",
+      "duration": "1h 24m",
+      "apple": "https://podcasts.apple.com/us/podcast/building-defense-technologies-to-protect-democracies/id1836497887?i=1000785968395&uo=4",
+      "page": "https://www.davidsenra.com/episode/torsten-reil",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fd/1e/1d/fd1e1db1-67d3-8d4f-3402-baac47e426bd/mza_14139572383731533495.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=OduvOCrVpgo"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/ferrari",
+      "why": "With Ferrari under pressure again at its home race in Monza, Acquired's deep history of the marque is the perfect companion listen.",
+      "show": "Acquired",
+      "title": "Ferrari",
+      "published": "2026-04-13",
+      "duration": "3h 59m",
+      "apple": "https://podcasts.apple.com/us/podcast/ferrari/id1050462261?i=1000761027849&uo=4",
+      "page": "https://www.acquired.fm/episodes/ferrari",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/7a/34/157a34e3-d93a-c379-71a9-5ea867627df1/mza_11606811380157897165.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "A brutalist Quebec bank becomes a calming animal clinic",
+    "url": "https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec",
+    "tldr": "Montreal's Ivy Studio converted a 1970s brutalist bank in Laval into a soothing veterinary clinic for exotic animals, using minimalist interiors and soft lighting.",
+    "source": "Dezeen",
+    "published": "2026-09-05T17:00:58.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/09/fauna_ivy-studio_dezeen_sq1ex-411x411.jpg"
+  }
+}
