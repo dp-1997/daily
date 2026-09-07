@@ -1,10 +1,23 @@
 [
  {
+  "show": "David Senra",
+  "title": "Zach Dell on Base Power, Energy Abundance & Building a Company for Life",
+  "url": "https://www.davidsenra.com/zach-dell",
+  "page": "https://www.davidsenra.com/zach-dell",
+  "apple": "https://podcasts.apple.com/us/podcast/zach-dell-on-base-power-energy-abundance-building-a/id1836497887?i=1000788108719&uo=4",
+  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b2/14/9c/b2149cec-550e-9c79-6b15-b551d99989b3/mza_12846453047352593332.jpg/600x600bb.jpg",
+  "guid": "49a51026-a93e-11f1-b730-cf206b1c2e56",
+  "date": "2026-09-06",
+  "duration": "1h 16m",
+  "summary": "Zach Dell is the co-founder of Base Power, an energy company on a mission to make electricity more affordable and reliable. His starting insight was that home batteries had the wrong business model. Companies sold expensive backup systems that sat idle most of the time. Base installs batteries at…",
+  "youtube": "https://www.youtube.com/watch?v=QFk6g5PQtqs"
+ },
+ {
   "show": "Founders",
   "title": "#432 The Mind of Napoleon",
-  "url": "https://podcasts.apple.com/gb/podcast/founders/id1141877104",
+  "url": "https://podcasts.apple.com/us/podcast/432-the-mind-of-napoleon/id1141877104?i=1000788032837&uo=4",
   "page": "",
-  "apple": "",
+  "apple": "https://podcasts.apple.com/us/podcast/432-the-mind-of-napoleon/id1141877104?i=1000788032837&uo=4",
   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg",
   "guid": "6da070c2-a945-11f1-9294-0b8c75e1a778",
   "date": "2026-09-05",
@@ -3889,7 +3902,7 @@
  {
   "show": "Founders",
   "title": "#253 Henry Goldman (Goldman Sachs)",
-  "url": "https://podcasts.apple.com/us/podcast/253-henry-goldman-goldman-sachs/id1141877104?i=1000567327011&uo=4",
+  "url": "https://podcasts.apple.com/gb/podcast/founders/id1141877104",
   "guid": "8e319b6a-7230-4315-a05d-3ec975940530",
   "date": "2022-06-22",
   "duration": "56m",

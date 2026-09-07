@@ -1,0 +1,285 @@
+{
+  "date": "2026-09-07",
+  "front": [
+    {
+      "title": "Antonelli takes stunning Monza win from 19th on grid",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/clyl3l325g6o",
+      "tldr": "Kimi Antonelli won the Italian Grand Prix from 19th on the grid, an astonishing recovery on home soil for Mercedes. He leads the championship by 66 points with ten rounds left.",
+      "source": "BBC Sport",
+      "published": "2026-09-06T19:34:53.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aaa/live/7f6c1a00-aa07-11f1-afb5-a367f96884d3.jpg"
+    },
+    {
+      "title": "Research acceleration: the view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "tldr": "OpenAI has published early data on how coding agents are changing its own research: more experiments, faster iteration, and more complex tasks handled without an engineer in the loop.",
+      "source": "OpenAI",
+      "published": "2026-09-06T08:00:00.000Z",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/CKNTAkrFq7W0JOjXP5np2/c26e2323a05dec6bd41f6515c5d6be0f/SEO_Card__11_.png?w=1600&h=900&fit=fill"
+    },
+    {
+      "title": "Spider-Man: Brand New Day tops the box office for a sixth weekend",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-ruling-box-office-for-sixth-weekend-1236691340",
+      "tldr": "Spider-Man: Brand New Day has topped the US box office for six weekends running and is closing in on the record for the highest-grossing domestic release of all time.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-06T21:36:00.000Z",
+      "image": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
+          "tldr": "OpenAI's chief research officer Jakub Pachocki argues AI is becoming genuinely alien in its capabilities, and calls for stronger safeguards and international coordination to keep it aligned.",
+          "source": "OpenAI",
+          "published": "2026-09-06T09:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Meta AI now has a native Mac app",
+          "url": "https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac",
+          "tldr": "Meta's AI assistant has a Mac app in beta, a 16MB native build rather than a wrapped website. Early impressions call it decent, if still version 1.0.",
+          "source": "Daring Fireball",
+          "published": "2026-09-06T20:44:27.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/meta-ai-mac-app.webp?resize=1200,628"
+        },
+        {
+          "title": "Travis Kalanick's Atoms might be getting into the robotaxi business",
+          "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
+          "tldr": "The Uber founder's new venture, Atoms, is reportedly eyeing robotaxis, an echo of the business he built and left. He has called it \"unfinished business\".",
+          "source": "TechCrunch",
+          "published": "2026-09-06T16:45:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Phil Schiller's App Store exit reportedly driven by wariness over future plans",
+          "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans",
+          "tldr": "Phil Schiller reportedly had reservations about new App Store chief John Ternus's push for more recurring revenue, a factor said to have shaped his exit.",
+          "source": "TechCrunch",
+          "published": "2026-09-06T21:41:06.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675"
+        },
+        {
+          "title": "Tesla Cybercab hits the road, and a snag",
+          "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag",
+          "tldr": "TechCrunch's mobility newsletter covers Tesla's Cybercab reaching public roads, and a setback along the way.",
+          "source": "TechCrunch",
+          "published": "2026-09-06T16:08:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800"
+        },
+        {
+          "title": "What is vibe coding, and why does it get so much hate?",
+          "url": "https://www.engadget.com/2247892/what-is-vibe-coding-explained",
+          "tldr": "Engadget traces where the term \"vibe coding\" came from and why AI-assisted, low-scrutiny coding has earned a reputation as lazy rather than efficient.",
+          "source": "Engadget",
+          "published": "2026-09-06T18:30:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/what-is-vibe-coding-and-why-does-it-get-so-much-hate/l-intro-1788184434.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple might soon make App Store changes to raise revenue",
+          "url": "https://9to5mac.com/2026/09/06/apple-might-soon-make-app-store-changes-to-raise-revenue-increase-margins-report",
+          "tldr": "Mark Gurman reports Apple is considering App Store changes aimed at higher revenue and margins. It is a report, not a confirmed plan.",
+          "source": "9to5Mac",
+          "published": "2026-09-06T14:53:21.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "title": "The car industry A/B tested selling cars with and without CarPlay",
+          "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking",
+          "tldr": "Honda's Prologue EV is sold with and without CarPlay under different badges, an unplanned A/B test of how much the feature matters to buyers.",
+          "source": "Daring Fireball",
+          "published": "2026-09-06T19:04:12.000Z",
+          "image": "https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/08/image.gen.png"
+        },
+        {
+          "title": "iPadOS 27 still needs simpler multitasking",
+          "url": "https://9to5mac.com/2026/09/05/ipados-27-still-needs-simpler-multitasking-heres-what-id-like-to-see",
+          "tldr": "A 9to5Mac column argues iPadOS still needs a simpler multitasking mode, a year after windowing arrived and Split View's simplicity was removed.",
+          "source": "9to5Mac",
+          "published": "2026-09-06T00:26:17.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/m4-ipad-pro-hero-image.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary revealed as Telluride's secret screening",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/elizabeth-holmes-documentary-trailer-teaser-watch-1236692828",
+          "tldr": "Telluride's mystery screening turned out to be Nathan Fielder and Lance Oppenheim's documentary about Theranos founder Elizabeth Holmes, \"You Can See Everything\", out in October.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-07T00:56:23.000Z",
+          "image": ""
+        },
+        {
+          "title": "May el-Toukhy stops Venice screening over subtitle error, film earns 7 1/2-minute ovation",
+          "url": "https://deadline.com/2026/09/woman-unknown-female-venice-competition-xx-minute-ovation-1237069513",
+          "tldr": "Director May el-Toukhy halted her own Golden Lion contender's premiere to fix a subtitle problem. The restarted screening of Woman Unknown still earned a lengthy standing ovation.",
+          "source": "Deadline",
+          "published": "2026-09-07T01:02:18.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293861050.jpg"
+        },
+        {
+          "title": "Andrea Pallaoro's The Echo Chamber earns eight-minute Venice ovation",
+          "url": "https://deadline.com/2026/09/andrea-pallaoro-echo-chamber-susan-sarandon-ovation-1237069498",
+          "tldr": "Andrea Pallaoro's Golden Lion contender, starring Susan Sarandon, Alicia Vikander and Luca Marinelli, premiered at Venice to an eight-minute standing ovation.",
+          "source": "Deadline",
+          "published": "2026-09-07T00:08:35.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2293840009.jpg"
+        },
+        {
+          "title": "John Turturro has waited 40 years for an Oscar nomination",
+          "url": "https://variety.com/2026/film/awards/john-turturro-oscars-only-living-pickpocket-telluride-1236847544",
+          "tldr": "Forty years into a distinguished career, John Turturro is making a fresh case for his first Oscar nomination with The Only Living Pickpocket in New York.",
+          "source": "Variety",
+          "published": "2026-09-06T21:40:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/01/The_Only_Living_Pickpocket_in_New_York.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Patriots",
+          "title": "Sunday Patriots notes: tough love shaped A.J. Brown's leadership",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/136280/sunday-patriots-notes-tough-love-aj-brown-leadership",
+          "tldr": "With the season opener days away, Pats Pulpit looks at how a tougher approach has shaped A.J. Brown into more of a leader in New England.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-06T17:52:22.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2292033644.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Will Campbell praises Marcus Jones as X-factor punt returner",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/05/patriots-will-campbell-praises-marcus-jones-punt-returner",
+          "tldr": "Patriots lineman Will Campbell says Marcus Jones's punt-return ability could be an X-factor for New England as the season opener nears.",
+          "source": "Boston.com",
+          "published": "2026-09-06T02:29:03.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/JGAVREEJRANIRPLYI5DXH5IIYA-6a9ccc7f3d544-e1788660877110-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Max Verstappen's wholesome Monza moment with Kimi Antonelli's father goes viral",
+          "url": "https://www.motorsport.com/f1/news/max-verstappens-wholesome-monza-moment-with-kimi-antonellis-father-goes-viral-class-act/10853232",
+          "tldr": "Footage of Max Verstappen greeting Kimi Antonelli's father, Marco, in the Monza paddock after the race has gone viral, praised as a class act.",
+          "source": "Motorsport.com",
+          "published": "2026-09-06T22:56:24.000Z",
+          "image": "https://cdn-6.motorsport.com/images/amp/YK15jVk0/s6/andrea-kimi-antonelli-mercedes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Hamilton says Ferrari has left it 'too late' to back him in the title fight",
+          "url": "https://www.autosport.com/f1/news/hamilton-says-ferrari-has-left-it-too-late-to-back-him-in-f1-title-fight/10853218",
+          "tldr": "Lewis Hamilton says Ferrari's failure to set clear team rules cost it at Monza, where he and team-mate Charles Leclerc clashed and Hamilton finished a distant sixth.",
+          "source": "Autosport",
+          "published": "2026-09-06T20:03:58.000Z",
+          "image": "https://cdn-2.motorsport.com/images/amp/YN7vdWJ6/s6/gettyimages-2293800333-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "After Antonelli's Italian GP win, is the F1 title fight over?",
+          "url": "https://www.autosport.com/f1/news/after-kimi-antonellis-italian-gp-win-is-the-f1-world-title-fight-over-our-writers-have-their-say/10853110",
+          "tldr": "Autosport's writers debate whether Antonelli's Monza win has all but decided the championship, with results now heavily in his favour.",
+          "source": "Autosport",
+          "published": "2026-09-06T16:44:21.000Z",
+          "image": "https://cdn-4.motorsport.com/images/amp/25dLa5E0/s6/andrea-kimi-antonelli-mercedes-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox pitching dominates Orioles to complete four-game sweep",
+          "url": "https://www.overthemonster.com/red-sox-scores-standings/108217/red-sox-pitching-dominates-orioles-to-complete-sweep",
+          "tldr": "Boston's pitching staff shut down Baltimore to complete a four-game sweep, results with little playoff stake for a team all but locked into the postseason.",
+          "source": "Over the Monster",
+          "published": "2026-09-06T20:40:04.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2293833407.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Chapman uses signature heat to become ninth pitcher in 400-saves club",
+          "url": "https://www.mlb.com/redsox/news/aroldis-chapman-earns-400th-save",
+          "tldr": "Aroldis Chapman recorded his 400th career save, becoming only the ninth pitcher in MLB history to reach the mark.",
+          "source": "MLB.com",
+          "published": "2026-09-06T22:33:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/julymp3xbcmsgrakhepe.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Sonny Gray throws seven shutout innings in 5-0 Red Sox win",
+          "url": "https://www.overthemonster.com/red-sox-scores-standings/108154/sonny-gray-buries-the-birds-behind-seven-shutout-innings-in-5-0-red-sox-win",
+          "tldr": "Sonny Gray pitched seven shutout innings against Baltimore, a strong final tune-up as Boston heads towards the postseason.",
+          "source": "Over the Monster",
+          "published": "2026-09-06T03:45:47.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2293258190.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
+    "why": "On a day full of AI news, a practical framework for getting real leverage from AI in product marketing work, rather than just talking about it.",
+    "title": "How top PMs increase their leverage with AI",
+    "subtitle": "A framework for getting the most out of AI in your day-to-day-work",
+    "published": "2026-06-30",
+    "words": 4001,
+    "image": "https://substackcdn.com/image/fetch/$s_!n04_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a3757c5-b5be-4deb-856f-e3074d2ac735_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/430-how-to-write-ads-that-sell/id1141877104?i=1000785306106&uo=4",
+      "why": "A book on ad writing pairs naturally with today's read on getting more leverage in product marketing work.",
+      "show": "Founders",
+      "title": "#430 How to Write Ads That Sell",
+      "published": "2026-08-23",
+      "duration": "1h 04m",
+      "apple": "https://podcasts.apple.com/us/podcast/430-how-to-write-ads-that-sell/id1141877104?i=1000785306106&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/zach-dell",
+      "why": "Base Power's rethink of the home-battery business, selling utility rather than backup hardware, is the kind of business-model idea David Senra loves.",
+      "show": "David Senra",
+      "title": "Zach Dell on Base Power, Energy Abundance & Building a Company for Life",
+      "published": "2026-09-06",
+      "duration": "1h 16m",
+      "apple": "https://podcasts.apple.com/us/podcast/zach-dell-on-base-power-energy-abundance-building-a/id1836497887?i=1000788108719&uo=4",
+      "page": "https://www.davidsenra.com/zach-dell",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b2/14/9c/b2149cec-550e-9c79-6b15-b551d99989b3/mza_12846453047352593332.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=QFk6g5PQtqs"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/formula-1",
+      "why": "With Antonelli's stunning Monza win topping today's news, a look at the business built around Formula 1 feels timely.",
+      "show": "Acquired",
+      "title": "Formula 1",
+      "published": "2026-03-02",
+      "duration": "4h 19m",
+      "apple": "https://podcasts.apple.com/us/podcast/formula-1/id1050462261?i=1000752750417&uo=4",
+      "page": "https://www.acquired.fm/episodes/formula-1",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b2/85/d7/b285d768-2c75-4ad6-e89d-c14ab2fdadb5/mza_320358113452779533.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Hudson Architects turns a neglected nightclub into King's Lynn's new library",
+    "url": "https://www.dezeen.com/2026/09/06/hudson-architects-kings-lynn-library",
+    "tldr": "UK studio Hudson Architects converted a disused commercial building in Norfolk into a public library, wrapping the existing concrete structure in cement shingles.",
+    "source": "Dezeen",
+    "published": "2026-09-06T10:00:32.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/08/kings-lynn-library-hudson-architects-architecture-public-space-norfolk_dezeen_2364_sq2-411x411.jpg"
+  }
+}
