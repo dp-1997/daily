@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-08",
+  "note": "Apple's iPhone 18 event is Wednesday, and the Patriots open their season against the Seahawks the same day.",
+  "front": [
+    {
+      "title": "Summer Box Office Breaks All-Time Record With $4.67 Billion",
+      "url": "https://variety.com/2026/film/box-office/summer-box-office-breaks-all-time-record-1236854175",
+      "tldr": "The 2026 summer box office took $4.67 billion, making it the highest-grossing summer on record and the best since cinemas reopened after 2020. It is another sign mainstream cinema-going is recovering.",
+      "source": "Variety",
+      "published": "2026-09-07T18:10:59.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP145_caa72f.jpg"
+    },
+    {
+      "title": "Groupwork completes 'world-first' high-rise held up by stone exoskeleton",
+      "url": "https://www.dezeen.com/2026/09/07/stone-high-rise-petra-heights-finchley-road-groupwork-webb-yates",
+      "tldr": "A thousand tons of volcanic rock replace concrete and steel in Petra Heights, a new north London apartment building by Groupwork and engineer Webb Yates, described as the world's first high-rise held up by a stone exoskeleton.",
+      "source": "Dezeen",
+      "published": "2026-09-07T10:45:03.000Z",
+      "image": "http://static.dezeen.com/uploads/2026/09/sq2-finchley-road-groupwork-webb-yates_dezeen_2364_col_0-411x411.jpg"
+    },
+    {
+      "title": "Patriots Gameplan: 3 keys to victory in Super Bowl rematch vs. the Seahawks",
+      "url": "https://www.patriots.com/news/patriots-gameplan-3-keys-to-victory-in-super-bowl-rematch-vs-the-seahawks-in-week-1",
+      "tldr": "The Patriots and Seahawks meet again in New England's season opener, the first Super Bowl rematch to open a season in a decade, seven months after Seattle won Super Bowl LX.",
+      "source": "Patriots.com",
+      "published": "2026-09-07T10:00:30.000Z",
+      "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/xbghzgjjhavjvmr0zqa3.png"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Video compressor",
+          "url": "https://simonwillison.net/2026/Sep/7/video-compressor",
+          "tldr": "Simon Willison built a small video compressor tool with Claude Fable to publish an optimised demo video of his Equal Earth map animation on his blog, using FFmpeg under the hood.",
+          "source": "Simon Willison",
+          "published": "2026-09-07T18:29:07.000Z",
+          "image": "https://static.simonwillison.net/static/2026-09-07/video-compressor.webp"
+        },
+        {
+          "title": "Mercator ↔ Equal Earth",
+          "url": "https://simonwillison.net/2026/Sep/7/equal-earth",
+          "tldr": "Curious about the Equal Earth map projection recently adopted by the UN, Simon Willison had GPT-6 Astra in ChatGPT build him an animated transition between the Mercator and Equal Earth projections.",
+          "source": "Simon Willison",
+          "published": "2026-09-07T16:24:16.000Z",
+          "image": ""
+        },
+        {
+          "title": "Supporting independent journalism in Ukraine",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+          "tldr": "OpenAI, AIRPPU and WAN-IFRA have launched an AI programme to help Ukrainian news organisations strengthen innovation, resilience and independent journalism.",
+          "source": "OpenAI",
+          "published": "2026-09-07T00:00:00.000Z",
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/4EIHNZJQDBZf3Op2ZWbU1g/eafc9b864cc26c505ecca0f8eadb8f78/supporting-independent-journalism-in-ukraine-seo-option-029.png?w=1600&h=900&fit=fill"
+        },
+        {
+          "title": "llm 0.35",
+          "url": "https://simonwillison.net/2026/Sep/7/llm",
+          "tldr": "Simon Willison's llm command-line tool reached version 0.35, adding support for OpenAI's new gpt-6-astra model.",
+          "source": "Simon Willison",
+          "published": "2026-09-07T23:54:54.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Eric Wu's newest company, out of stealth since May, is going after construction's labor crunch",
+          "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch",
+          "tldr": "Eric Wu, who built and ran Opendoor before leaving in 2022, has a new company called NavigateAI building AI copilots that give construction workers real-time guidance, aiming to ease the industry's labour crunch.",
+          "source": "TechCrunch",
+          "published": "2026-09-08T02:16:39.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800"
+        },
+        {
+          "title": "Capcom is reviving more dormant franchises after the success of Onimusha: Way of the Sword",
+          "url": "https://www.engadget.com/2252274/capcom-to-revive-dormant-franchises-after-onimusha-way-of-the-sword-sells-a-million-copies-at-launch",
+          "tldr": "After Onimusha: Way of the Sword sold more than a million copies at launch, Capcom says it plans to revive more of its dormant game franchises.",
+          "source": "Engadget",
+          "published": "2026-09-07T19:31:56.000Z",
+          "image": "https://www.engadget.com/img/gallery/capcom-to-revive-dormant-franchises-after-onimusha-way-of-the-sword-sells-a-million-copies-at-launch/l-intro-1788809621.jpg"
+        },
+        {
+          "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+          "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo",
+          "tldr": "Arm's chief executive says modelling how a DNA marker affects cancer cannot be done with today's computing power, but that more chips would let AI eventually help solve it.",
+          "source": "BBC",
+          "published": "2026-09-07T23:05:12.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "McKinley 1.0",
+          "url": "https://mckinleysymbols.com/",
+          "tldr": "Developer Amy Worrall has released McKinley 1.0, a new Mac app for drawing and annotating custom SF Symbols, bundling vector tools built specifically for Apple's icon system.",
+          "source": "Daring Fireball",
+          "published": "2026-09-07T20:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Xiaomi Announces Foldable iPhone Rival",
+          "url": "https://www.macrumors.com/2026/09/07/xiaomi-announces-foldable-iphone-rival",
+          "tldr": "Xiaomi has officially unveiled the 18 Fold, its first wide-format foldable phone, two days before Apple is expected to reveal its own first foldable iPhone.",
+          "source": "MacRumors",
+          "published": "2026-09-07T15:26:23.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/Xiaomi-18-Fold-image.jpeg"
+        },
+        {
+          "title": "Tim Cook Won't Appear in Apple's September 9 Event Video",
+          "url": "https://www.macrumors.com/2026/09/07/tim-cook-wont-appear-apple-sept-9-event-video",
+          "tldr": "Tim Cook will attend the screening for Wednesday's Surprise and Shine event but will not appear in the event video itself, according to a report citing Bloomberg's Mark Gurman.",
+          "source": "MacRumors",
+          "published": "2026-09-07T09:27:45.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/Tim-Cook-Executive-Chair-16x9-1.jpg"
+        },
+        {
+          "title": "Apple invites developers to submit browser interoperability ideas for Interop 2027",
+          "url": "https://9to5mac.com/2026/09/07/apple-invites-developers-to-submit-browser-interoperability-ideas-for-interop-2027",
+          "tldr": "Apple's WebKit team is asking developers to submit ideas for Interop 2027, the next round of the cross-browser initiative aimed at improving compatibility across the web.",
+          "source": "9to5Mac",
+          "published": "2026-09-07T20:31:22.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Hirokazu Koreeda Opens Up About His Tender Coming-of-Age Drama 'Look Back'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/hirokazu-koreeda-look-back-interview-venice-1236693421",
+          "tldr": "Hirokazu Koreeda says he was tearful throughout making 'Look Back', his live-action adaptation of Tatsuki Fujimoto's manga, premiering in competition at Venice with performances from its young leads praised as remarkable.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-07T20:15:18.000Z",
+          "image": ""
+        },
+        {
+          "title": "Ellen Burstyn Talks Future Direction Of U.S. As She Receives Venice Career Award",
+          "url": "https://deadline.com/2026/09/ellen-burstyn-venice-lifetime-award-future-us-1237070152",
+          "tldr": "Jury president Maggie Gyllenhaal paid tribute to Ellen Burstyn as 'brilliant and brave' while presenting her with a Golden Lion for lifetime achievement at the Venice Film Festival.",
+          "source": "Deadline",
+          "published": "2026-09-07T19:45:18.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/MAB_5965-e1788801699945.jpg"
+        },
+        {
+          "title": "'Alpha Gang' review: Cate Blanchett and Chris Pine play space aliens in an endearingly goofy sci-fi spoof",
+          "url": "https://variety.com/2026/film/reviews/alpha-gang-review-1236854144",
+          "tldr": "Cate Blanchett and Chris Pine lead an all-star cast as space aliens in David and Nathan Zellner's 'Alpha Gang', a deliberately goofy, DIY sci-fi spoof reviewed at the festival.",
+          "source": "Variety",
+          "published": "2026-09-07T17:36:42.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/07/Alpha_Gang_Still_Hero.jpg"
+        },
+        {
+          "title": "Venice Home Crowd Gives Italian Horror 'The Spiral' 9-Minute Standing Ovation",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/venice-premiere-italian-horror-the-spiral-1236693484",
+          "tldr": "Valeria Bruni Tedeschi shines as a devilish femme fatale in Paolo Strippoli's campy thriller 'The Spiral', which earned a nine-minute standing ovation from its home crowd at Venice.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-07T23:59:56.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Payton Pritchard: starter or sixth man?",
+          "url": "https://www.celticsblog.com/boston-celtics-discussion-topics/145824/payton-pritchard-starter-or-sixth-man",
+          "tldr": "Payton Pritchard has emerged as one of Boston's top five players heading into 2026-27, prompting debate over whether he should start or continue creating instant offence as Boston's sixth man.",
+          "source": "CelticsBlog",
+          "published": "2026-09-07T10:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2273711531.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "3 to Watch: Patriots Kick Off 2026 NFL Season in Seattle",
+          "url": "https://www.patriots.com/news/3-to-watch-patriots-kick-off-2026-nfl-season-in-seattle",
+          "tldr": "Patriots.com highlights three critical areas to watch as New England and Seattle kick off the 2026 NFL season in a rematch of the Super Bowl played just seven months ago.",
+          "source": "Patriots.com",
+          "published": "2026-09-07T16:00:50.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/etuulnhullqnpnvtwvzz.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Schefter: 'Talks are nowhere' between Christian Gonzalez, Patriots",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/07/new-england-patriots-christian-gonzalez-nfl-football-contract-update-adam-schefter",
+          "tldr": "Contract talks between the Patriots and cornerback Christian Gonzalez are far apart, Adam Schefter reports, making it hard to see a deal getting done before opening night.",
+          "source": "Boston.com",
+          "published": "2026-09-08T00:36:26.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Patriots_Football_9_837-6a9f1c6f10071-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots issue discouraging injury update about TreVeyon Henderson before Seahawks game",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/07/new-england-patriots-treveyon-henderson-nfl-football-injury-update-seahawks",
+          "tldr": "The Patriots gave a discouraging update on running back TreVeyon Henderson's injury ahead of the season opener against Seattle, saying only that he continues working hard to return.",
+          "source": "Boston.com",
+          "published": "2026-09-07T21:59:41.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackipatriots557-6a9f2bb5e0afa-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Lando Norris: Oscar Piastri move complaint made 'in the heat of the moment' in Italian GP",
+          "url": "https://www.motorsport.com/f1/news/lando-norris-oscar-piastri-move-complaint-made-in-the-heat-of-the-moment-in-italian-gp/10853505",
+          "tldr": "McLaren's Lando Norris accepted that his Italian Grand Prix battle with Oscar Piastri, which saw him put two wheels on the grass, was fair, saying his in-race complaint came in the heat of the moment.",
+          "source": "Motorsport.com",
+          "published": "2026-09-07T16:10:17.000Z",
+          "image": "https://cdn-5.motorsport.com/images/amp/6zoDPZe0/s6/oscar-piastri-mclaren-lando-no.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "The pivotal choices Ferrari is now facing",
+          "url": "https://www.the-race.com/formula-1/ferrari-now-facing-pivotal-f1-choices",
+          "tldr": "A disappointing Italian Grand Prix result, and the fallout since, has turned into a crisis for Ferrari, leaving the team facing pivotal choices about its Formula 1 future.",
+          "source": "The Race",
+          "published": "2026-09-07T20:38:39.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/09/260905_R13_ITALIA_DP_EAR12373_58c99b3d-e6bd-48ee-8e62-40ad88b76354.JPG"
+        },
+        {
+          "tag": "F1",
+          "title": "Lawson and Tsunoda called up again as injury keeps Hadjar out for third weekend",
+          "url": "https://www.racefans.net/2026/09/07/lawson-and-tsunoda-continue-for-another-weekend-as-injury-keeps-hadjar-out-for-third-round",
+          "tldr": "Isack Hadjar will miss a third consecutive grand prix because of a wrist injury, with Liam Lawson remaining at Red Bull and Yuki Tsunoda continuing at Racing Bulls in Madrid.",
+          "source": "RaceFans",
+          "published": "2026-09-07T19:17:13.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-07-23-14-26-23-2-SI202607230348_hires_jpeg_24bit_rgb.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Adley Rutschman's three-run HR off Pesky Pole carries Red Sox past Angels, 5-2",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/07/adley-rutschmans-three-run-hr-off-pesky-pole-carries-red-sox-past-angels-5-2",
+          "tldr": "Adley Rutschman's three-run homer off the Pesky Pole beat the Angels 5-2, extending Boston's MLB-best record to 34-17 since the All-Star break and closing the gap on the Yankees to two games for the top wild-card spot.",
+          "source": "Boston.com",
+          "published": "2026-09-07T20:49:41.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Red-Sox-6a9f221523833-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "In 1st start since June 4, Bello blanks Angels for Red Sox's 5th straight win",
+          "url": "https://www.mlb.com/redsox/news/brayan-bello-scoreless-start-red-sox-beat-angels",
+          "tldr": "Brayan Bello threw a scoreless start in his first outing since 4 June, helping the Red Sox beat the Angels for a fifth straight win.",
+          "source": "MLB.com",
+          "published": "2026-09-07T22:19:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1788816587/mlb/t4ujotegv2ftpkqxh3m5.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Joe Morgan, Red Sox manager who led team to 2 division titles, dies at 95",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/07/joe-morgan-red-sox-manager-who-led-team-to-2-division-titles-dies-at-95",
+          "tldr": "Joe Morgan, who managed the Red Sox to two division titles after taking over in 1988, has died at 95. Team chairman Tom Werner said 'Morgan Magic' is forever part of Red Sox lore.",
+          "source": "Boston.com",
+          "published": "2026-09-07T21:14:22.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Morgan-6a9f28a5a4153-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
+    "why": "A playbook for building an unfair advantage as AI reshapes work, timely for a builder navigating the same shift himself.",
+    "title": "The new inner game: Your unfair advantage in the age of AI",
+    "subtitle": "A playbook for the biggest upheaval of work we’ll see in our lifetime",
+    "published": "2026-06-23",
+    "words": 4719,
+    "image": "https://substackcdn.com/image/fetch/$s_!8QDo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5c60fad-a124-4ad1-adf0-7e9743dfb824_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/429-bob-dylans-autobiography/id1141877104?i=1000783536703&uo=4",
+      "why": "A case study in an artist's reinvention pairs with today's read on building an unfair advantage as the ground shifts.",
+      "show": "Founders",
+      "title": "#429 Bob Dylan's Autobiography",
+      "published": "2026-08-16",
+      "duration": "1h 00m",
+      "apple": "https://podcasts.apple.com/us/podcast/429-bob-dylans-autobiography/id1141877104?i=1000783536703&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/lulu-cheng-meservey",
+      "why": "A conversation with a communications and positioning specialist, squarely in Damian's own craft as a product marketer.",
+      "show": "David Senra",
+      "title": "Lulu Cheng Meservey, Founder of Rostra",
+      "published": "2026-08-12",
+      "duration": "1h 18m",
+      "apple": "https://podcasts.apple.com/us/podcast/lulu-cheng-meservey-founder-of-rostra/id1836497887?i=1000782903883&uo=4",
+      "page": "https://www.davidsenra.com/episode/lulu-cheng-meservey",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/6e/7d/d66e7da6-f44a-d34f-ad8c-3eccb6521a42/mza_7053976884331272004.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=DFImJfJGXl0"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-nfl",
+      "why": "With the Patriots opening their season in a Super Bowl rematch this week, the business behind the league feels timely.",
+      "show": "Acquired",
+      "title": "The NFL",
+      "published": "2026-01-27",
+      "duration": "4h 08m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-nfl/id1050462261?i=1000746788889&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-nfl",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/b1/9e/adb19ea5-b6b7-e42a-1f97-db9c336bb519/mza_16418780272218086998.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Badweather converts derelict canal boat into London's first off-grid bathhouse",
+    "url": "https://www.dezeen.com/2026/09/07/soak-bathhouse-canal-boat-london-badweather",
+    "tldr": "Architecture collective Badweather has turned a 17-metre derelict canal boat into Soak, an off-grid bathhouse that moves to a new spot along London's waterways every two weeks.",
+    "source": "Dezeen",
+    "published": "2026-09-07T09:00:55.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/09/soak-bathhouse-london-canals-badweather-sq_dezeen_2364_col_0-411x411.jpg"
+  }
+}
