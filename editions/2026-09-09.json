@@ -1,0 +1,309 @@
+{
+  "date": "2026-09-09",
+  "note": "Apple's 'Surprise and Shine' event is today, expected to unveil the first foldable iPhone.",
+  "front": [
+    {
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o",
+      "tldr": "OpenAI says an unreleased model resolved the Navier-Stokes Millennium Prize problem in under four days, but mathematicians and rivals dispute how much credit the company deserves.",
+      "source": "BBC",
+      "published": "2026-09-08T20:57:09.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg"
+    },
+    {
+      "title": "'Bunker' dazzles Venice with a record 15.5-minute ovation for Penélope Cruz and Javier Bardem",
+      "url": "https://variety.com/2026/film/festivals/penelope-cruz-javier-bardem-bunker-venice-premiere-1236844863",
+      "tldr": "Penélope Cruz and Javier Bardem's new thriller received a 15.5-minute standing ovation at its Venice premiere, one of the festival's longest. Cruz was seen in tears embracing her husband and co-star.",
+      "source": "Variety",
+      "published": "2026-09-08T19:49:32.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2294177216.jpg"
+    },
+    {
+      "title": "Patriots sign CB Christian Gonzalez to record-breaking contract extension",
+      "url": "https://www.patriots.com/news/report-patriots-sign-star-cb-christian-gonzalez-to-record-breaking-contract-extension",
+      "tldr": "The Patriots agreed a four-year, $135 million extension with cornerback Christian Gonzalez, making him the highest-paid corner in NFL history, a day before New England's season opener against Seattle.",
+      "source": "Patriots.com",
+      "published": "2026-09-08T13:49:00.000Z",
+      "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/hivabw6wmbarrpgy1m2t.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Cognition hits $48 billion valuation as AI coding investors bet against a winner-take-all market",
+          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
+          "tldr": "Coding startup Cognition raised at a $48 billion valuation, a higher multiple than Cursor's before its sale, suggesting investors expect several AI coding tools to coexist rather than one clear winner.",
+          "source": "TechCrunch",
+          "published": "2026-09-08T21:04:06.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024"
+        },
+        {
+          "title": "Mistral raises €3 billion as sovereign AI becomes big business",
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+          "tldr": "French AI lab Mistral raised €3 billion at a €21 billion valuation in a round led by Samsung, Scaleup Europe and PSG Equity, underlining investor appetite for AI built outside the US.",
+          "source": "TechCrunch",
+          "published": "2026-09-08T14:17:48.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800"
+        },
+        {
+          "title": "DeepMind's AlphaGenome Atlas maps every possible DNA letter change in the human genome",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "tldr": "Google DeepMind released AlphaGenome Atlas, mapping the molecular effects of 9 billion single-letter DNA variants across the human genome, a resource intended to speed up disease research.",
+          "source": "Google DeepMind",
+          "published": "2026-09-08T14:00:15.000Z",
+          "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w528-h297-n-nu-rw-lo"
+        },
+        {
+          "title": "Meta launches Muse, a personal AI agent with access to email, calendars and payments",
+          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+          "tldr": "Meta's new Muse app is a personal AI agent that can access users' email, calendars, payments and health services, the company's biggest consumer AI bet yet, testing how much people will hand over.",
+          "source": "TechCrunch",
+          "published": "2026-09-08T19:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "CloudNC raises $20 million to automate manufacturing bottlenecks",
+          "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks",
+          "tldr": "UK manufacturing software startup CloudNC raised a $20 million extension round, taking its lifetime funding to $128 million, to keep automating factory production bottlenecks.",
+          "source": "TechCrunch",
+          "published": "2026-09-09T04:01:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Theo-Saville-CloudNC.jpg?resize=1200,675"
+        },
+        {
+          "title": "Stoke Space raises another $1 billion to rival SpaceX at reflying rockets",
+          "url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets",
+          "tldr": "Rocket startup Stoke Space closed the first tranche of a $1 billion Series E to reach orbit and build a larger, fully reusable rocket, aiming to compete directly with SpaceX.",
+          "source": "TechCrunch",
+          "published": "2026-09-08T09:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Stage2.jpg?resize=1200,800"
+        },
+        {
+          "title": "The Exploration Company raises $450 million to challenge SpaceX",
+          "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex",
+          "tldr": "French startup The Exploration Company raised $450 million, the largest-ever Series C by a European space company, to build reusable spacecraft.",
+          "source": "TechCrunch",
+          "published": "2026-09-08T20:47:34.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1794387622.jpg?resize=1200,800"
+        },
+        {
+          "title": "Google's revived Iowa nuclear plant gets $1.9 billion US government loan",
+          "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government",
+          "tldr": "The Iowa nuclear plant Google pledged to bring back online has secured a $1.9 billion loan from the US Energy Department, backing the tech industry's push for more power to run AI.",
+          "source": "TechCrunch",
+          "published": "2026-09-08T15:25:35.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "AirPods turn 10 years old",
+          "url": "https://www.macrumors.com/2026/09/08/airpods-turn-10",
+          "tldr": "Apple unveiled the first AirPods on 7 September 2016, though they did not go on sale until that December, marking a decade of the wireless earbuds that reshaped the category.",
+          "source": "MacRumors",
+          "published": "2026-09-08T16:37:49.000Z",
+          "image": "https://images.macrumors.com/article-new/2022/12/Original-AirPods-iPhone-7.jpeg"
+        },
+        {
+          "title": "Apple reportedly set to unveil a new 'Readiness' app today",
+          "url": "https://www.macrumors.com/2026/09/08/apple-to-announce-readiness-app",
+          "tldr": "Bloomberg's Mark Gurman reports Apple plans to unveil a new 'Readiness' app at today's event, according to a social media post. Apple has not confirmed this itself.",
+          "source": "MacRumors",
+          "published": "2026-09-08T15:55:52.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/08/apple-watch-series-12-activity-rings-fitness.png"
+        },
+        {
+          "title": "iPhone Ultra is coming, according to the final rumours before today's Apple event",
+          "url": "https://9to5mac.com/2026/09/08/iphone-ultra-is-coming-heres-what-the-final-rumors-are-saying",
+          "tldr": "9to5Mac rounds up last-minute reports ahead of today's Apple event, where the company is expected to announce its first foldable iPhone, said to be called the iPhone Ultra. This is a report, not a confirmed fact.",
+          "source": "9to5Mac",
+          "published": "2026-09-09T02:15:37.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/iphone-ultra-fold-mockup.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple Watch SE 3 goes unavailable ahead of today's event",
+          "url": "https://www.macrumors.com/2026/09/08/apple-watch-se-3-currently-unavailable",
+          "tldr": "Nearly every configuration of the Apple Watch SE 3 has disappeared from Apple's online store in the US and elsewhere, for reasons unknown, hours before today's product event.",
+          "source": "MacRumors",
+          "published": "2026-09-08T17:00:37.000Z",
+          "image": "https://images.macrumors.com/article-new/2025/09/Apple-Watch-SE-3-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Summer box office hits an all-time high in 2026",
+          "url": "https://www.indiewire.com/news/box-office/summer-box-office-all-time-high-2026-takeaways-1235215694",
+          "tldr": "The 2026 summer box office reached $4.765 billion, a record, powered as much by Spider-Man and Christopher Nolan as by Obsession and A24, according to IndieWire's takeaways.",
+          "source": "IndieWire",
+          "published": "2026-09-08T22:10:26.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/07/MON1420_TRL_comp_SPI_v0153.1270-copy.jpg?w=650"
+        },
+        {
+          "title": "Original Star Wars heads to IMAX for the saga's 50th anniversary",
+          "url": "https://www.slashfilm.com/2253227/star-wars-a-new-hope-1977-imax-release-50-year-anniversary",
+          "tldr": "The 1977 original Star Wars will get an IMAX theatrical release in 2027 to mark the saga's 50th anniversary, /Film reports.",
+          "source": "/Film",
+          "published": "2026-09-08T19:39:28.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/the-original-star-wars-is-heading-to-imax-to-celebrate-the-sagas-biggest-milestone-yet/l-intro-1788896196.jpg"
+        },
+        {
+          "title": "Telluride festival takeaways: Julianne Moore, Paul Giamatti and Nathan Fielder's awards contenders",
+          "url": "https://variety.com/2026/film/awards/telluride-takeaways-julianne-moore-nathan-fielder-oscars-1236855247",
+          "tldr": "Variety's Telluride wrap highlights Julianne Moore and Paul Giamatti's Debut and Nathan Fielder's documentary dare as early contenders heading into awards season, with Toronto up next.",
+          "source": "Variety",
+          "published": "2026-09-09T00:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/The-Debut-Club-Kid-You-Can-See-Everything.jpg"
+        },
+        {
+          "title": "Casey Affleck's 'Company' gets a four-minute standing ovation at Venice",
+          "url": "https://variety.com/2026/film/festivals/casey-affleck-company-venice-premiere-1236838162",
+          "tldr": "Casey Affleck's gothic thriller Company received a four-minute standing ovation at its Venice premiere, with Nick Nolte and Ben Affleck among those on hand. Reviews of the film have been mixed.",
+          "source": "Variety",
+          "published": "2026-09-08T22:06:53.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2293697253.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "CelticsBlog sizes up young Celtics players who could break out next season",
+          "url": "https://www.celticsblog.com/celtics-analysis/146006/which-young-celtics-player-will-break-out-in-the-2026-27-season",
+          "tldr": "CelticsBlog runs through Boston's young core, including Baylor Scheierman, Hugo Gonzalez, Jordan Walsh, Ron Harper Jr. and Amari Williams, weighing who could take a step forward in 2026-27.",
+          "source": "CelticsBlog",
+          "published": "2026-09-08T10:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/02/gettyimages-2258181705.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots rule out RB TreVeyon Henderson for season opener with ankle injury",
+          "url": "https://www.patriots.com/news/injury-report-analysis-patriots-rb-treveyon-henderson-ankle-ruled-out-for-season-opener-vs-seahawks",
+          "tldr": "Running back TreVeyon Henderson, who racked up over 1,100 all-purpose yards as a rookie, has been ruled out for tonight's season opener against Seattle after missing all three practices this week.",
+          "source": "Patriots.com",
+          "published": "2026-09-08T20:51:56.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/r3cgvmcx2dfayowvdvoa.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots say revenge is not on their minds for Super Bowl rematch with Seahawks",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/136409/revenge-patriots-vs-seahawks-super-bowl-rematch",
+          "tldr": "New England face Seattle tonight, 214 days after their Super Bowl loss to the Seahawks, in a season-opening rematch at Lumen Field.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-08T18:06:50.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2262752911.jpg?quality=90&strip=all&crop=0,0,95.113342285156,100"
+        },
+        {
+          "tag": "F1",
+          "title": "McLaren to review team orders after Norris accuses Piastri of forcing him off track",
+          "url": "https://www.motorsport.com/f1/news/mclaren-to-review-racing-between-lando-norris-and-oscar-piastri-following-italian-gp/10853620",
+          "tldr": "McLaren says it will review its rules of engagement between Lando Norris and Oscar Piastri after Norris accused his teammate of forcing him off track at the Italian Grand Prix.",
+          "source": "Motorsport.com",
+          "published": "2026-09-08T14:58:16.000Z",
+          "image": "https://cdn-6.motorsport.com/images/amp/0JXRKyEY/s6/oscar-piastri-mclaren-lando-no.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Toto Wolff likens Kimi Antonelli to an 'AI agent' that keeps improving",
+          "url": "https://www.motorsport.com/f1/news/kimi-antonelli-like-an-ai-agent-that-continuously-improves-says-toto-wolff/10853636",
+          "tldr": "Mercedes boss Toto Wolff says he has been surprised by Kimi Antonelli's rapid growth this season, comparing the rookie to an AI agent that is constantly getting better.",
+          "source": "Motorsport.com",
+          "published": "2026-09-08T15:30:47.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/0JXReQpY/s6/andrea-kimi-antonelli-mercedes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Vettel reflects on driving Schumacher's title-winning Ferrari",
+          "url": "https://www.formula1.com/en/latest/article/a-very-emotional-moment-vettel-reflects-on-driving-schumachers-2002-ferrari-ahead-of-italian-gp.7vGyxG44y0JXBAlz4MACtE",
+          "tldr": "Sebastian Vettel called it 'a very emotional moment' to drive Michael Schumacher's 2002 title-winning Ferrari F2002 ahead of last weekend's Italian Grand Prix.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Italy/2293786328.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Angels end Red Sox win streak with 6-1 victory behind Reid Detmers' 9 strikeouts",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/08/reid-detmers-strikes-out-9-as-angels-beat-red-sox-6-1-ending-bostons-streak",
+          "tldr": "Reid Detmers struck out nine as the Angels beat Boston 6-1, outhitting the Red Sox 15-4 to end their winning streak and secure just their third win in 15 games.",
+          "source": "Boston.com",
+          "published": "2026-09-09T02:38:52.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Angels_Red_Sox_Baseball_57_66-6aa0c4ae4c3df-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Garrett Crochet throws second side session, could return in relief role for playoffs",
+          "url": "https://www.mlb.com/redsox/news/garrett-crochet-could-return-in-relief-role-for-playoffs",
+          "tldr": "Garrett Crochet completed a second side session and the Red Sox are hopeful he could pitch out of the bullpen if Boston reaches the postseason.",
+          "source": "MLB.com",
+          "published": "2026-09-09T01:47:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/xfnfipz4mkbzlnheymys.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal",
+    "why": "Today's news is full of AI agents, from Meta's Muse to Antonelli being compared to one, so a framework for telling a useful one from hype feels timely.",
+    "title": "Not all AI agents are created equal",
+    "subtitle": "A framework for categorizing and prioritizing your agent initiatives",
+    "published": "2026-04-14",
+    "words": 4726,
+    "image": "https://substackcdn.com/image/fetch/$s_!0bKY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7622271-6226-44da-926d-8fbb1e4af173_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/426-how-obsession-built-christopher-nolan/id1141877104?i=1000778364358&uo=4",
+      "why": "Nolan's name is all over today's box-office and Telluride coverage, so this is a good look at the obsession behind his films.",
+      "show": "Founders",
+      "title": "#426 How Obsession Built Christopher Nolan",
+      "published": "2026-07-26",
+      "duration": "51m",
+      "apple": "https://podcasts.apple.com/us/podcast/426-how-obsession-built-christopher-nolan/id1141877104?i=1000778364358&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/michael-ovitz-2",
+      "why": "With Venice and Telluride dominating film news today, Ovitz's story of building CAA is a sharp look at how Hollywood deals get made.",
+      "show": "David Senra",
+      "title": "Michael Ovitz, Co-founder of CAA",
+      "published": "2026-08-09",
+      "duration": "1h 07m",
+      "apple": "https://podcasts.apple.com/us/podcast/michael-ovitz-co-founder-of-caa/id1836497887?i=1000781174011&uo=4",
+      "page": "https://www.davidsenra.com/episode/michael-ovitz-2",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/6d/e7/316de7cd-9000-7869-da40-a812de08a3e5/mza_13016933703227782249.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=SHh03lzOJz0"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/rolex",
+      "why": "Rolex is F1's official timekeeper, and today's F1 news on Antonelli and Vettel driving Schumacher's Ferrari makes this a fitting listen.",
+      "show": "Acquired",
+      "title": "Rolex",
+      "published": "2026-03-05",
+      "duration": "4h 51m",
+      "apple": "https://podcasts.apple.com/us/podcast/rolex/id1050462261?i=1000695429676&uo=4",
+      "page": "https://www.acquired.fm/episodes/rolex",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a9/1c/46a91cba-ae7a-cda8-3997-21c7386e4d2e/mza_9296017867932731636.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "A new book celebrates the world of fungi in over 200 works",
+    "url": "https://www.thisiscolossal.com/2026/09/spanning-200-works-a-new-book-celebrates-the-world-of-fungi",
+    "tldr": "Phaidon's next survey book, following volumes on butterflies, birds, oceans and trees, turns its attention to fungi this October, gathering more than 200 works on the subject.",
+    "source": "Colossal",
+    "published": "2026-09-08T22:01:29.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/fungi-7.jpg"
+  }
+}
