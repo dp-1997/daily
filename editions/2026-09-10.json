@@ -1,0 +1,281 @@
+{
+  "date": "2026-09-10",
+  "front": [
+    {
+      "title": "John Ternus enters, with folding phones and AI watches",
+      "url": "https://sixcolors.com/post/2026/09/john-ternus-enters-with-folding-phones-and-ai-watches",
+      "tldr": "John Ternus gave his first keynote as Apple CEO, opening with a nod from Tim Cook and echoes of Steve Jobs before unveiling the iPhone Duo, Apple's first foldable, alongside new AI-equipped Apple Watches.",
+      "source": "Six Colors",
+      "published": "2026-09-10T00:39:17.000Z",
+      "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/09/iphone-duo-hero-6c.jpg?ssl=1"
+    },
+    {
+      "title": "Avengers: Doomsday has already made $50 million in pre-sales, three months before release",
+      "url": "https://variety.com/2026/film/news/avengers-doomsday-pre-sales-50-million-1236856525",
+      "tldr": "Disney says the next Avengers film has taken $50 million in advance ticket sales a full three months ahead of its cinema release, an early sign of demand for Marvel's next big crossover.",
+      "source": "Variety",
+      "published": "2026-09-09T22:16:17.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/09/doomsday.png"
+    },
+    {
+      "tag": "Patriots",
+      "title": "Final: Seahawks 13, Patriots 10: Maye throws 3 picks in ugly loss",
+      "url": "https://www.boston.com/new-england-patriots/live/patriots-seahawks-score-update-live-blog-nfl-football-new-england-seattle",
+      "tldr": "New England lost their season opener 13-10 in a rematch of last season's Super Bowl, with quarterback Drake Maye throwing three interceptions against Seattle.",
+      "source": "Boston.com",
+      "published": "2026-09-09T22:41:25.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/09/Patriots_Seahawks_Football_73639-6aa22451d6dca-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "GPT-6 Astra: the next generation in intelligence for work",
+          "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "tldr": "OpenAI launched GPT-6 Astra, a model built for business use with stronger reasoning, computer use and writing and design judgement.",
+          "source": "OpenAI",
+          "published": "2026-09-09T11:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "On the Navier-Stokes Millennium Prize Problem",
+          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+          "tldr": "An unreleased OpenAI model produced a resolution to the Navier-Stokes existence and smoothness problem, one of mathematics' seven Millennium Prize problems.",
+          "source": "Simon Willison",
+          "published": "2026-09-08T23:55:12.000Z",
+          "image": ""
+        },
+        {
+          "title": "Recreating a 70-year love story frame by frame",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+          "tldr": "Filmmakers worked with Google DeepMind to use AI to recreate a couple's unrecorded past for the short film Love, Rendered, turning memory into moving images that never existed.",
+          "source": "Google",
+          "published": "2026-09-09T16:00:00.000Z",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp"
+        },
+        {
+          "title": "Introducing ChatGPT Images 2.5",
+          "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25",
+          "tldr": "OpenAI released ChatGPT Images 2.5, the latest version of its image generation model, which the company says has now produced more than 3 billion images across ChatGPT and the API.",
+          "source": "Simon Willison",
+          "published": "2026-09-08T22:46:33.000Z",
+          "image": "https://static.simonwillison.net/static/2026/racoon-chart.webp"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Google picks Finland for its largest single investment in Europe",
+          "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o",
+          "tldr": "Google will build a €13bn data centre in Finland, its largest single investment in Europe, which it says will create tens of thousands of jobs.",
+          "source": "BBC",
+          "published": "2026-09-09T17:06:48.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg"
+        },
+        {
+          "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+          "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent",
+          "tldr": "The rock band Muse lost control of its social media handles after Meta executives appear to have accidentally tagged the band instead of the company's new Muse AI agent.",
+          "source": "Engadget",
+          "published": "2026-09-09T22:52:49.000Z",
+          "image": "https://www.engadget.com/img/gallery/muse-the-band-lost-its-social-media-handles-to-muse-metas-new-ai-agent/l-intro-1788993799.jpg"
+        },
+        {
+          "title": "Motorola teases new compact foldable Razr",
+          "url": "https://www.engadget.com/2254380/motorola-teases-new-compact-foldable-razr",
+          "tldr": "Motorola teased a new, wider foldable Razr timed to Apple's iPhone Duo launch, setting up more competition in the foldable phone market alongside Samsung's Galaxy Z Fold 8.",
+          "source": "Engadget",
+          "published": "2026-09-09T21:40:03.000Z",
+          "image": "https://www.engadget.com/img/gallery/motorola-teases-new-compact-foldable-razr/l-intro-1788989915.jpg"
+        },
+        {
+          "title": "UK needs new laws for AI in healthcare, says watchdog",
+          "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo",
+          "tldr": "The UK's medicines regulator says new laws are needed as AI becomes routinely used within the NHS, according to its chief executive Lawrence Tallon.",
+          "source": "BBC",
+          "published": "2026-09-10T00:48:35.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4b9/live/69dbfa80-ac63-11f1-be57-03729df1d736.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max",
+          "tldr": "Apple announced the iPhone 18 Pro and Pro Max, with an updated pro camera system and improved battery life and performance.",
+          "source": "Apple Newsroom",
+          "published": "2026-09-09T17:30:06.059Z",
+          "image": "https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/tile/Apple-iPhone-18-Pro-2up-260909-lp.jpg.og.jpg?202609091909"
+        },
+        {
+          "title": "Hands-on with the iPhone Duo: the crease is still there, but barely",
+          "url": "https://www.macrumors.com/2026/09/09/iphone-duo-hands-on",
+          "tldr": "After the event, MacRumors got hands-on time with the iPhone Duo, Apple's first foldable, and found the fold crease much less noticeable than on rival devices.",
+          "source": "MacRumors",
+          "published": "2026-09-10T01:44:32.000Z",
+          "image": "https://images.macrumors.com/t/XcyYKzBqhcESfLZ4XKVZRyMr73I=/2500x/article-new/2026/09/iPhone-Duo-Hands-On-Thumb.jpg"
+        },
+        {
+          "title": "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+          "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system",
+          "tldr": "Apple Watch Series 12 arrives with a new Health Sensing System that Apple says delivers the most accurate heart rate sensing yet in a wearable.",
+          "source": "Apple Newsroom",
+          "published": "2026-09-09T17:50:47.609Z",
+          "image": "https://www.apple.com/newsroom/images/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/tile/Apple-Watch-Series-12-2up-260909-lp.jpg.og.jpg?202609091909"
+        },
+        {
+          "title": "Apple introduces AirPods 5 with best-in-class open-ear Active Noise Cancellation",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation",
+          "tldr": "Apple launched AirPods 5, its first open-ear earbuds with active noise cancellation, alongside improved sound quality, starting at $129.",
+          "source": "Apple Newsroom",
+          "published": "2026-09-09T17:34:55.485Z",
+          "image": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609091908"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Imax tops $600M in Q3 box office so far on The Odyssey",
+          "url": "https://deadline.com/2026/09/imax-q3-box-office-booming-the-odyssey-1237072841",
+          "tldr": "Imax has passed $600 million in global box office receipts this quarter, with CEO Rich Gelfond noting there are still weeks left to run in the studio's third quarter.",
+          "source": "Deadline",
+          "published": "2026-09-09T22:20:39.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/07/christopher-nolan-imax-the-odyssey.jpg"
+        },
+        {
+          "title": "Laika's Wildwood to open AFI Fest 2026",
+          "url": "https://deadline.com/2026/09/wildwood-afi-fest-2026-opening-film-1237072469",
+          "tldr": "AFI Fest has selected Laika's stop-motion animated feature Wildwood as its opening-night film for the festival's 40th edition, launching in October.",
+          "source": "Deadline",
+          "published": "2026-09-09T18:00:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/05/Wildwood.jpg"
+        },
+        {
+          "title": "Israel's Tell Me Everything tops Ophir Awards, becomes country's Oscar submission",
+          "url": "https://deadline.com/2026/09/oscars-2027-israel-tell-me-everything-1237072910",
+          "tldr": "Moshe Rosenthal's Tell Me Everything won Best Picture at Israel's Ophir Awards and will be the country's official submission for the 2027 Best International Feature Oscar.",
+          "source": "Deadline",
+          "published": "2026-09-09T23:33:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/Tell-Me-Everything.jpg"
+        },
+        {
+          "title": "Beyond Fest 2026 lineup includes Primetime, V/H/S/Mixtape and Your Mother Your Mother Your Mother",
+          "url": "https://deadline.com/2026/09/beyond-fest-2026-lineup-movies-1237073055",
+          "tldr": "Los Angeles genre festival Beyond Fest will open with Lance Oppenheim's Primetime and close with Bassam Tariq's Your Mother Your Mother Your Mother in its full 2026 lineup.",
+          "source": "Deadline",
+          "published": "2026-09-10T01:02:14.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/Beyond-Fest-2026.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Patriots",
+          "title": "A.J. Brown spotted in walking boot after suffering ankle injury",
+          "url": "https://www.patspulpit.com/new-england-patriots-injuries/136746/a-j-brown-leaving-seahawks-game-with-ankle-injury",
+          "tldr": "Patriots receiver A.J. Brown left Wednesday night's season opener in a walking boot after appearing to injure his ankle against Seattle.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-10T03:55:31.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2293869345.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Drake Maye shares lessons learned from Tom Brady, health regimen entering 3rd season",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/09/new-england-patriots-drake-maye-ann-michael-nfl-football-tom-brady-health",
+          "tldr": "Ahead of his third season, Drake Maye described what he has taken from Tom Brady and the health routine he has built as he enters the year as New England's starting quarterback.",
+          "source": "Boston.com",
+          "published": "2026-09-09T22:12:52.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/BGHOHVZ5HD7OVMQ2PKGZZMAVTM-1-6aa1d26c0b820-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Kimi Raikkonen's son Robin, 11, signs for Red Bull",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c3v437155e3o",
+          "tldr": "Robin Raikkonen, the 11-year-old son of 2007 world champion Kimi Raikkonen, has signed for Red Bull's driver development programme.",
+          "source": "BBC Sport",
+          "published": "2026-09-09T13:20:04.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a06/live/642ddd70-ac4e-11f1-96a2-2f464854ded4.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Charles Leclerc to avoid F1 Spanish GP engine penalty despite Monza crash",
+          "url": "https://www.motorsport.com/f1/news/charles-leclerc-avoiding-spanish-gp-penalty/10853820",
+          "tldr": "Charles Leclerc avoided engine damage in his high-speed Monza crash, so will not carry a grid penalty into this weekend's Spanish Grand Prix.",
+          "source": "Motorsport.com",
+          "published": "2026-09-09T10:21:39.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/6zoDPjk0/s6/charles-leclerc-ferrari-3.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Anthony breaks slump with HR, but Sox fall to Halos",
+          "url": "https://www.mlb.com/redsox/news/roman-anthony-homers-but-red-sox-lose-to-angels",
+          "tldr": "Roman Anthony ended his slump with a home run, but Boston still lost to the Angels as the Red Sox dropped the series.",
+          "source": "MLB.com",
+          "published": "2026-09-10T01:38:10.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1789003074/mlb/lbdtwu1nptpzlfsslcn3.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
+    "why": "Written the week Apple's John Ternus stepped into his first keynote as CEO, this makes the case for letting a career emerge rather than plotting it years in advance.",
+    "title": "What if you’re not supposed to have a long-term plan?",
+    "subtitle": "The case for career emergence",
+    "published": "2026-08-04",
+    "words": 4925,
+    "image": "https://substackcdn.com/image/fetch/$s_!IRuH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f21b41f-e81d-4477-b3d2-3de980d64060_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/428-how-claude-shannon-worked/id1141877104?i=1000781268416&uo=4",
+      "why": "As OpenAI's models resolve century-old maths problems this week, Claude Shannon built the mathematical foundations that made intelligent computing possible in the first place.",
+      "show": "Founders",
+      "title": "#428 How Claude Shannon Worked",
+      "published": "2026-08-09",
+      "duration": "51m",
+      "apple": "https://podcasts.apple.com/us/podcast/428-how-claude-shannon-worked/id1141877104?i=1000781268416&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidenra.com/mati-staniszewski",
+      "why": "A fresh interview with ElevenLabs' co-founder fits a week when AI voice, images and reasoning all made news.",
+      "show": "David Senra",
+      "title": "Mati Staniszewski on ElevenLabs, Voice AI & Building the Communication Layer for AI",
+      "published": "2026-09-09",
+      "duration": "1h 11m",
+      "page": "https://www.davidenra.com/mati-staniszewski",
+      "artwork": "https://megaphone.imgix.net/podcasts/f22d28be-a93e-11f1-9476-b7d871e971a0/image/c9dd4607d40882804f7a0f8d5d284449.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/vanguard",
+      "why": "Vanguard's founder-led, unglamorous playbook is a good contrast to today's flashy Apple product cycle.",
+      "show": "Acquired",
+      "title": "Vanguard",
+      "published": "2026-05-18",
+      "duration": "3h 48m",
+      "apple": "https://podcasts.apple.com/us/podcast/vanguard/id1050462261?i=1000768328125&uo=4",
+      "page": "https://www.acquired.fm/episodes/vanguard",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/ce/91/5fce91ea-be85-67a3-5053-62f49c75315f/mza_4700417078932584699.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Steelers coach Mike Tomlin has built a Minecraft city over 12 years",
+    "url": "https://kottke.org/26/09/0049559-has-built-a-minecraft-cit",
+    "tldr": "Super Bowl-winning coach Mike Tomlin has spent the past 12 years building a city in Minecraft, a hobby he took up the same way many parents do: to spend time with his kids.",
+    "source": "Kottke",
+    "published": "2026-09-10T00:24:00.000Z",
+    "image": ""
+  }
+}
