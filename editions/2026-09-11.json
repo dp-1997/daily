@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-11",
+  "note": "Today is the 25th anniversary of 9/11.",
+  "front": [
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "tldr": "César de la Fuente's lab is using Codex and ChatGPT to mine living and extinct genomes for antimicrobial candidates to fight drug-resistant infections, one of medicine's biggest looming threats.",
+      "source": "OpenAI",
+      "published": "2026-09-10T16:00:00.000Z",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/1HcfBzw01zs1RY58HL1Mvz/7ea8123794aa15e29e4e4509ae39c0d9/index-codex-chatgpt-antimicrobials--seo-v001.png?w=1600&h=900&fit=fill"
+    },
+    {
+      "title": "Apple extends free iPhone satellite access for another year",
+      "url": "https://9to5mac.com/2026/09/10/apple-extends-free-iphone-satellite-access-for-another-year",
+      "tldr": "Apple is giving existing iPhone owners another free year of satellite features, revealed quietly in a footnote to the iPhone 18 Pro press release.",
+      "source": "9to5Mac",
+      "published": "2026-09-11T01:38:07.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/10/iPhone-satellite.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "Being Heumann Review: Siân Heder's CODA Follow-Up Is an Essential Biopic",
+      "url": "https://www.indiewire.com/criticism/movies/being-heumann-review-sian-heder-biopic-judy-1235213657",
+      "tldr": "Siân Heder's first film since CODA is a biopic of disability rights activist Judy Heumann, praised at Toronto for being life-affirming and boasting a strong lead performance from Ruth Madeley.",
+      "source": "IndieWire",
+      "published": "2026-09-11T03:44:41.000Z",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/08/images-3-1.jpeg?w=632"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Introducing the Agents API",
+          "url": "https://openai.com/index/introducing-the-agents-api",
+          "tldr": "OpenAI has launched the Agents API, a managed service built on its Codex harness for orchestrating cloud agents, long-running sessions and tool use.",
+          "source": "OpenAI",
+          "published": "2026-09-10T00:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Build more natural voice experiences with GPT-Live-1 in the API",
+          "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+          "tldr": "OpenAI's new GPT-Live-1 model brings full-duplex voice conversations to the API, with better instruction-following, custom voices and telephony support.",
+          "source": "OpenAI",
+          "published": "2026-09-10T00:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Meta's AI agent Muse is now the No. 2 app in the US",
+          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us",
+          "tldr": "Meta's new AI agent app Muse has climbed to number two on the US app charts, though it is off to a slower start than Meta AI or Threads.",
+          "source": "TechCrunch",
+          "published": "2026-09-10T19:50:04.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
+        },
+        {
+          "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+          "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand",
+          "tldr": "OpenAI has paused new sign-ups for its Pro subscription tier because Astra demand is straining its systems, while it adds more capacity.",
+          "source": "TechCrunch",
+          "published": "2026-09-10T20:59:51.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+        },
+        {
+          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+          "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year",
+          "tldr": "Nvidia's Jensen Huang expects another year of strong growth, around 70%, and insists the company's web of AI deals is not circular despite scepticism.",
+          "source": "TechCrunch",
+          "published": "2026-09-10T21:51:59.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "A native Gemini app is finally available for Windows PCs",
+          "url": "https://www.engadget.com/2255197/a-native-gemini-app-is-finally-available-for-windows-pcs",
+          "tldr": "Google has launched a native Gemini app for Windows, complete with a keyboard shortcut to open it, matching the Mac version.",
+          "source": "Engadget",
+          "published": "2026-09-10T18:30:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/a-native-gemini-app-is-finally-available-for-windows-pcs/l-intro-1789064836.jpg"
+        },
+        {
+          "title": "The Boring Company raises $3B in round led by UAE",
+          "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae",
+          "tldr": "Elon Musk's Boring Company has raised $3 billion in a round led by the UAE, and plans to dig more than 150 kilometres of tunnels there.",
+          "source": "TechCrunch",
+          "published": "2026-09-10T15:07:27.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1311710604.jpg?resize=1200,770"
+        },
+        {
+          "title": "Google is making it easier to switch between password managers on Android",
+          "url": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android",
+          "tldr": "Google's new Android feature lets users move their passkeys when switching password managers, removing a longstanding lock-in headache.",
+          "source": "TechCrunch",
+          "published": "2026-09-10T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hero-Image.jpeg?resize=1200,675"
+        },
+        {
+          "title": "Yoto just announced two new audio devices for kids",
+          "url": "https://www.engadget.com/2254860/yoto-just-announced-two-new-audio-devices-for-kids",
+          "tldr": "Yoto has announced two new audio devices for children, with upgrades that make them more capable and easier for small hands to use.",
+          "source": "Engadget",
+          "published": "2026-09-10T15:47:08.000Z",
+          "image": "https://www.engadget.com/img/gallery/yoto-just-announced-two-new-audio-devices-for-kids/l-intro-1789055145.jpg"
+        },
+        {
+          "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
+          "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers",
+          "tldr": "Fusion startup Proxima Fusion plans to build a €140 million factory making a key superconducting material, reducing its reliance on Asian suppliers.",
+          "source": "TechCrunch",
+          "published": "2026-09-10T18:38:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Proxima-Manufacturing-7.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple now accepting App Store submissions built for iOS 27, macOS 27, more",
+          "url": "https://9to5mac.com/2026/09/10/apple-now-accepting-app-store-submissions-built-for-ios-27-macos-27-more",
+          "tldr": "Apple has opened App Store submissions for apps built for iOS 27 and its other new operating systems, ahead of their public release next Monday.",
+          "source": "9to5Mac",
+          "published": "2026-09-10T21:35:08.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios27-app-submissions.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple's OS 27 Updates Will Be Released on Monday, 14 September",
+          "url": "https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch-date-september-14",
+          "tldr": "Apple has confirmed that iOS 27, macOS 27 and its other operating system updates will launch on Monday 14 September.",
+          "source": "Daring Fireball",
+          "published": "2026-09-10T20:15:52.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-golden-gate-wallpaper-bridge.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "title": "T-Mobile to Charge $5 a Month for iOS 27 iPhone Handoff",
+          "url": "https://www.macrumors.com/2026/09/10/ios-27-iphone-handoff-cost",
+          "tldr": "T-Mobile will charge $5 a month for iPhone Handoff, the new iOS 27 feature that lets one phone number work across two iPhones over eSIM.",
+          "source": "MacRumors",
+          "published": "2026-09-10T22:58:32.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-iOS-27-Feature.jpeg"
+        },
+        {
+          "title": "Apple Rates iPhone 18 Pro Slightly Easier to Repair Than 17 Pro",
+          "url": "https://www.macrumors.com/2026/09/10/iphone-18-pro-eu-repair-rating",
+          "tldr": "Apple's own repairability scores rate the iPhone 18 Pro and 18 Pro Max as slightly easier to repair than last year's iPhone 17 Pro models.",
+          "source": "MacRumors",
+          "published": "2026-09-10T19:49:41.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/iPhone-17-Pro-vs-18-Pro-Buyers-Guide-Feature.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "The Criterion Collection Just Got Its First Physical Outpost in Toronto",
+          "url": "https://www.indiewire.com/news/general-news/criterion-collection-physical-outpost-toronto-cinema-cellar-1235216142",
+          "tldr": "The Criterion Collection has opened its first physical shop, Cinema Cellar, in Toronto to coincide with the film festival there.",
+          "source": "IndieWire",
+          "published": "2026-09-10T22:41:07.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/09/IMG_4582-2.jpg?w=650"
+        },
+        {
+          "title": "Rapinoe Review: Doc Portrait of American Soccer Icon Is Engaging and Inspiring",
+          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/rapinoe-review-megan-rapinoe-documentary-1236696927",
+          "tldr": "A new documentary on Megan Rapinoe, debuting at the Toronto Film Festival, is engaging and inspiring as it reflects on her career since retiring in 2023.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-11T03:45:02.000Z",
+          "image": ""
+        },
+        {
+          "title": "Steve Carell Almost Played The Office Creator Greg Daniels' Dad in Biopic About the 1968 Olympics",
+          "url": "https://variety.com/2026/film/columns/steve-carell-the-office-creator-greg-daniels-dad-biopic-olympics-1236857975",
+          "tldr": "Steve Carell nearly played the father of The Office creator Greg Daniels in a biopic about the 1968 Olympics, after the two grew close making the show.",
+          "source": "Variety",
+          "published": "2026-09-10T21:46:02.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/IMG_9919-1.jpg"
+        },
+        {
+          "title": "Toronto's New Film Market Opens With Werner Herzog, Tom Hanks and a Zack Snyder Passion Project",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tiff-hot-list-zack-snyder-werner-herzog-michelle-yeoh-films-1236695660",
+          "tldr": "Toronto's new film market has launched, with buzz around a Werner Herzog and Tom Hanks project and a Zack Snyder passion project among the titles for sale.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-10T19:00:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Manchester United",
+          "title": "Michael Carrick reflects on Manchester United's 4-0 Champions League return",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p9263p",
+          "tldr": "Manchester United manager Michael Carrick discussed the club's 4-0 win in their return to the Champions League.",
+          "source": "BBC Sport",
+          "published": "2026-09-10T22:16:00.000Z",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p92699.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Christian Gonzalez reacts to record-breaking contract extension: I love Boston",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/10/christian-gonzalez-contarct-extension-comments-patriots",
+          "tldr": "Patriots cornerback Christian Gonzalez said he loves Boston and wants to stay, after signing a record-breaking contract extension with New England.",
+          "source": "Boston.com",
+          "published": "2026-09-10T12:57:55.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/CYWNDP6NZ7PS5H4IBGS7C7RZMI-6aa2a3b71f38a-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Robert Kraft Elected to Sports Broadcasting Hall of Fame",
+          "url": "https://www.patriots.com/news/robert-kraft-elected-to-sports-broadcasting-hall-of-fame",
+          "tldr": "Patriots chairman and CEO Robert Kraft has been elected to the Sports Broadcasting Hall of Fame, recognising decades of leadership that reshaped the NFL's media landscape.",
+          "source": "Patriots.com",
+          "published": "2026-09-10T13:29:32.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ixw0aaaiwy449ygawmvv.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Leclerc takes blame for Hamilton clash at Monza after Ferrari talks",
+          "url": "https://www.skysports.com/f1/news/12433/13583901/charles-leclerc-takes-blame-for-lewis-hamilton-clash-at-monza-after-pair-hold-talks-ahead-of-spanish-grand-prix-in-madrid",
+          "tldr": "Charles Leclerc has admitted he didn't behave as he should have towards Ferrari team mate Lewis Hamilton at Monza, and the pair have since talked it through.",
+          "source": "Sky Sports",
+          "published": "2026-09-10T15:00:00.000Z",
+          "image": "https://e2.365dm.com/26/09/1920x1080/skysports-lewis-hamilton-charles-leclerc_7347191.jpg?20260910155029"
+        },
+        {
+          "tag": "F1",
+          "title": "Max Verstappen makes Red Bull seat joke after Robin Raikkonen signing",
+          "url": "https://www.motorsport.com/f1/news/max-verstappen-makes-red-bull-seat-joke-after-robin-raikkonen-signing-maybe-ill-move-aside/10854260",
+          "tldr": "Max Verstappen joked he might eventually have to give up his Red Bull seat, after the team signed junior driver Robin Raikkonen.",
+          "source": "Motorsport.com",
+          "published": "2026-09-10T16:07:18.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/68VwKQ42/s6/max-verstappen-red-bull-racing.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "First pictures of the Madring, Spain's new Formula 1 circuit",
+          "url": "https://www.racefans.net/2026/09/10/first-pictures-of-the-madring-spains-new-formula-1-circuit",
+          "tldr": "F1 drivers got their first look at the completed Madring circuit in Madrid, ahead of practice for the sport's inaugural Spanish Grand Prix there this weekend.",
+          "source": "RaceFans",
+          "published": "2026-09-10T15:32:50.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-09-15-46-11-11-SG023356_RnqlT3Ru_20260909053136.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "5 story lines to follow as the Red Sox move toward the end of the regular season",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/10/red-sox-postseason-push-story-lines-roman-anthony-sonny-gray",
+          "tldr": "With the Red Sox easing toward the end of the regular season, Boston.com highlights the trends worth following, including Roman Anthony and Sonny Gray.",
+          "source": "Boston.com",
+          "published": "2026-09-10T20:56:10.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Roman-Anthony-6aa312f9e1730-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building",
+    "why": "OpenAI launched its Agents API today, so this back-catalogue guide to building and living with a team of personal AI agents feels timely.",
+    "title": "OpenClaw: The complete guide to building, training, and living with your personal AI agent",
+    "subtitle": "I built a team of 9 AI agents that run my work and life. Here's how you can too.",
+    "published": "2026-03-31",
+    "words": 4574,
+    "image": "https://substackcdn.com/image/fetch/$s_!UV3b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F828cd7bf-7e57-4cc3-bb72-2bcbbf5cac9e_2912x1940.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/424-peter-thiel-on-how-to-build-a-creative-monopoly/id1141877104?i=1000776309638&uo=4",
+      "why": "Thiel's playbook for building a monopoly through a genuinely different product is a fitting listen on a day full of competing AI agent launches.",
+      "show": "Founders",
+      "title": "#424 Peter Thiel on How to Build a Creative Monopoly",
+      "published": "2026-07-10",
+      "duration": "54m",
+      "apple": "https://podcasts.apple.com/us/podcast/424-peter-thiel-on-how-to-build-a-creative-monopoly/id1141877104?i=1000776309638&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/david-heinemeier-hansson",
+      "why": "DHH on building a profitable company without losing control speaks directly to running small software products your own way.",
+      "show": "David Senra",
+      "title": "DHH: How to Build a Profitable Company Without Losing Control",
+      "published": "2026-07-26",
+      "duration": "1h 42m",
+      "apple": "https://podcasts.apple.com/us/podcast/dhh-how-to-build-a-profitable-company-without/id1836497887?i=1000778390525&uo=4",
+      "page": "https://www.davidsenra.com/episode/david-heinemeier-hansson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/c5/28/07c5288a-6148-036b-c0c3-78cc526e288a/mza_11308594220271943362.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=76rR68ktQvo"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/costco",
+      "why": "Acquired's deep dive into Costco is a masterclass in the kind of disciplined, product-first operating Damian studies.",
+      "show": "Acquired",
+      "title": "Costco",
+      "published": "2026-03-04",
+      "duration": "2h 53m",
+      "apple": "https://podcasts.apple.com/us/podcast/costco/id1050462261?i=1000625088063&uo=4",
+      "page": "https://www.acquired.fm/episodes/costco",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7d/1c/80/7d1c8085-9fc7-45da-bdab-9487e6917bcf/mza_677492021207196652.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "2,977 drones used to recreate Twin Towers for 9/11 anniversary",
+    "url": "https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary",
+    "tldr": "Design studio Drift and architect Shigeru Ban recreated the Twin Towers using 2,977 drones, one light for each life lost, to mark the 25th anniversary of 9/11.",
+    "source": "Dezeen",
+    "published": "2026-09-10T14:30:47.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/09/studio-drift-drone-commemoration_dezeen_2364_sq2-411x411.jpg"
+  }
+}

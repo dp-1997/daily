@@ -256,7 +256,8 @@
       "published": "2026-09-09",
       "duration": "1h 11m",
       "page": "https://www.davidenra.com/mati-staniszewski",
-      "artwork": "https://megaphone.imgix.net/podcasts/f22d28be-a93e-11f1-9476-b7d871e971a0/image/c9dd4607d40882804f7a0f8d5d284449.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+      "artwork": "https://megaphone.imgix.net/podcasts/f22d28be-a93e-11f1-9476-b7d871e971a0/image/c9dd4607d40882804f7a0f8d5d284449.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "apple": "https://podcasts.apple.com/us/podcast/mati-staniszewski-on-elevenlabs-voice-ai-building-the/id1836497887?i=1000788628928&uo=4"
     },
     {
       "url": "https://www.acquired.fm/episodes/vanguard",
