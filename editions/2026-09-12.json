@@ -1,0 +1,328 @@
+{
+  "date": "2026-09-12",
+  "note": "iPhone 18 Pro pre-orders open today, and the Spanish Grand Prix qualifies this evening at the new Madring circuit.",
+  "front": [
+    {
+      "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5",
+      "tldr": "Apple's iPhone 18 Pro and Pro Max go up for pre-order on Saturday 12 September, alongside the new Apple Watch lineup and AirPods 5, ahead of general release on Monday.",
+      "source": "Apple Newsroom",
+      "published": "2026-09-11T16:00:08.631Z",
+      "image": "https://www.apple.com/newsroom/images/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/tile/Apple-iPhone-18-Pro-lineup-Apple-Watch-Series-12-Apple-Watch-Ultra-4-Airpods-5-lp.jpg.og.jpg?202609112114"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "tldr": "OpenAI has published how it scaled its storage system, Habitat, from a single Python library into infrastructure serving 1 billion ChatGPT users and 22 million requests a second.",
+      "source": "OpenAI",
+      "published": "2026-09-11T10:00:00.000Z",
+      "image": ""
+    },
+    {
+      "title": "'The Julia Set' Review: Chase Infiniti Confirms Her Movie-Star Mettle",
+      "url": "https://variety.com/2026/film/reviews/the-julia-set-review-chase-infiniti-1236858794",
+      "tldr": "Chase Infiniti has been singled out by Variety for her performance as a maths prodigy in Niki Byrne's coming-of-age drama The Julia Set, which premiered at the Toronto Film Festival this week.",
+      "source": "Variety",
+      "published": "2026-09-12T02:54:48.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/09/the_julia_set_01.webp"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Cognition helps Devin test its own work with GPT-6 Astra",
+          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "tldr": "Cognition has used OpenAI's new GPT-6 Astra model to improve how its Devin coding agent tests its own work, aiming to let engineers review less code while shipping more.",
+          "source": "OpenAI",
+          "published": "2026-09-11T16:00:00.000Z",
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/3lud5ZFEQSmggpw69KBl6l/07c5d333914a26516ca5470c72a214e9/cognition-seo-image-option-b.png?w=1600&h=900&fit=fill"
+        },
+        {
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data",
+          "tldr": "Robotics data startup Mecka AI is closing a Sequoia-led round that values it near $500 million, two years after founding, as investors chase companies training robots on real-world data.",
+          "source": "TechCrunch",
+          "published": "2026-09-11T22:58:17.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857"
+        },
+        {
+          "title": "Quoting Boris Cherny",
+          "url": "https://simonwillison.net/2026/Sep/11/boris-cherny",
+          "tldr": "Anthropic engineer Boris Cherny says code written by Claude should meet a higher bar than human-written code, backed by lint rules and guardrails: a small window into how the company holds its own tools to account.",
+          "source": "Simon Willison",
+          "published": "2026-09-11T17:47:11.000Z",
+          "image": ""
+        },
+        {
+          "title": "So you want to use OpenRouter?",
+          "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter",
+          "tldr": "Simon Willison explains why developers reach for OpenRouter, a single API that routes requests across AI models and automatically picks the cheapest option for each one, and where that convenience has limits.",
+          "source": "Simon Willison",
+          "published": "2026-09-11T22:49:18.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "New images show a detailed view of Meta's upcoming mixed reality headset",
+          "url": "https://www.engadget.com/2256177/new-images-show-a-detailed-view-of-metas-upcoming-mixed-reality-headset",
+          "tldr": "New images give the clearest look yet at Meta's unreleased mixed reality headset, codenamed Project Phoenix, suggesting the company is moving toward a fresh form factor beyond its existing Quest line.",
+          "source": "Engadget",
+          "published": "2026-09-11T17:28:11.000Z",
+          "image": "https://www.engadget.com/img/gallery/new-images-show-a-detailed-view-of-metas-upcoming-mixed-reality-headset/l-intro-1789147626.jpg"
+        },
+        {
+          "title": "Roblox is making it easier to build games with AI, and play them outside Roblox",
+          "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox",
+          "tldr": "Roblox unveiled new AI tools at its developer conference that let creators build games faster, add smarter non-player characters, and publish experiences that can be played outside the Roblox app itself.",
+          "source": "TechCrunch",
+          "published": "2026-09-11T19:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675"
+        },
+        {
+          "title": "Packard Bell is back, but there's a catch",
+          "url": "https://www.engadget.com/2252026/packard-bell-acer-back-only-available-europe",
+          "tldr": "Acer is reviving the Packard Bell name for a new line of budget PCs, available in Europe only, bringing back a brand many will remember from beige 1990s desktop towers.",
+          "source": "Engadget",
+          "published": "2026-09-11T12:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/packard-bell-is-back-but-theres-a-catch/l-intro-1788782801.jpg"
+        },
+        {
+          "title": "Bose QuietComfort Headphones (2nd gen) review: Upgraded in all the right places",
+          "url": "https://www.engadget.com/2253293/bose-quietcomfort-headphones-2nd-gen-review",
+          "tldr": "Engadget's review of Bose's second-generation QuietComfort Headphones finds the refreshed design and features a genuine upgrade, keeping them among the best noise-cancelling options on the market.",
+          "source": "Engadget",
+          "published": "2026-09-11T13:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/bose-quietcomfort-headphones-2nd-gen-review-upgraded-in-all-the-right-places/l-intro-1788899173.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "iPhone 18 Pro First Look: Same Design, Big Changes Inside",
+          "url": "https://www.macrumors.com/2026/09/11/iphone-18-pro-hands-on",
+          "tldr": "MacRumors got early hands-on time with the iPhone 18 Pro after Wednesday's event, reporting the design looks familiar from outside but the changes inside are substantial, from chip to camera.",
+          "source": "MacRumors",
+          "published": "2026-09-11T19:37:47.000Z",
+          "image": "https://images.macrumors.com/t/a8L9aVxErE9eP7lG2OpXIwKv00s=/1920x/article-new/2026/09/iPhone-18-Pro-Hands-On-Thumb-1.jpg"
+        },
+        {
+          "title": "Apple Watch Series 12 makes a big change to a small complication",
+          "url": "https://9to5mac.com/2026/09/11/apple-watch-series-12-makes-a-big-change-to-a-small-complication-that-im-excited-about",
+          "tldr": "9to5Mac highlights a small but meaningful change to a health complication on the new Apple Watch Series 12, part of a broader upgrade to its Health Sensing System and heart rate monitor.",
+          "source": "9to5Mac",
+          "published": "2026-09-11T19:50:23.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-heart.webp?w=1600"
+        },
+        {
+          "title": "Apple ranks third on TIME's World's Best Companies list after last year's absence",
+          "url": "https://9to5mac.com/2026/09/11/apple-ranks-third-on-times-worlds-best-companies-list-after-last-years-absence",
+          "tldr": "Apple has returned to third place on TIME's World's Best Companies 2026 list after dropping off the ranking entirely last year, a modest sign of recovering reputation ahead of its biggest product cycle in years.",
+          "source": "9to5Mac",
+          "published": "2026-09-11T20:59:16.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Mac-hardware-is-great-but-macOS-26-is-a-disaster-say-pundits.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Clarus the Dogcow Easter Egg in Apple's OS 27 Settings",
+          "url": "https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-ios-27-settings-app",
+          "tldr": "Apple has hidden a nod to Clarus the Dogcow, a classic Mac mascot, inside the Settings app in iOS 27, a small return of the whimsy longtime users have said Apple's design language had lost.",
+          "source": "Daring Fireball",
+          "published": "2026-09-11T20:33:03.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-ios-27-dogcow-moof.jpg?quality=82&strip=all&resize=1200,628"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "A24 Boards SCP Foundation Movie From Spooky Pictures & Image Nation, Sets 2027 Release",
+          "url": "https://deadline.com/2026/09/scp-foundation-movie-a24-theaters-2027-1237099512",
+          "tldr": "A24 is teaming with Spooky Pictures and Image Nation Studios to adapt the SCP Foundation, one of the internet's largest fan-built horror universes, into a film for release in 2027.",
+          "source": "Deadline",
+          "published": "2026-09-11T21:00:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/SCP-Foundation-and-A24.jpg"
+        },
+        {
+          "title": "HBO Buys Megan Rapinoe Doc, Betting on the Outspoken Soccer Legend",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hbo-megan-rapinoe-documentary-tiff-watch-1236697858",
+          "tldr": "HBO has acquired Rebecca Huntt's documentary about US women's football icon Megan Rapinoe, which premiered at the Toronto Film Festival this week, betting on the outspoken former star's crossover appeal.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-11T21:10:10.000Z",
+          "image": ""
+        },
+        {
+          "title": "'River' Review: Joshua Giuliano Makes Directorial Debut With Tragic Family Drama Wrapped In Atmospheric Slasher",
+          "url": "https://deadline.com/2026/09/river-review-joshua-giuliano-directorial-debut-atmospheric-slasher-1237073327",
+          "tldr": "Joshua Giuliano's directorial debut River, in which three siblings reunite to scatter their late father's ashes, is being praised at Toronto as an atmospheric slasher that doubles as a heavy family drama.",
+          "source": "Deadline",
+          "published": "2026-09-11T20:05:55.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/River_PRImage34-Shannon-Attaway.jpg"
+        },
+        {
+          "title": "'Faith' Review: Erin Doherty and James McAvoy Excel in a Sensitive Drama That Goes Off the Rails in the Final Reel",
+          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/faith-review-erin-doherty-james-mcavoy-1236696608",
+          "tldr": "Erin Doherty and James McAvoy earn strong reviews for their performances as a working-class couple navigating a new relationship in Faith, Paul Andrew Williams' supernatural drama premiering at Toronto.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-11T20:30:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "What does it mean to get a key to the city?",
+          "url": "https://www.boston.com/community/wickedpedia/2026/09/11/what-does-it-mean-to-have-a-key-to-the-city",
+          "tldr": "Boston officials gave Jaylen Brown a ceremonial key to the 5th Suffolk District this week, a tradition dating back to medieval Europe and now a mark of civic recognition for the Celtics star.",
+          "source": "Boston.com",
+          "published": "2026-09-11T15:50:14.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/08/CWKNCGKQN4E27FMDJHEXFGDDCE-6a95b7219947d-850x638.jpg"
+        },
+        {
+          "tag": "Manchester United",
+          "title": "Michael Carrick understands Elliott Anderson calling Manchester City 'kings of Manchester'",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p93r7h",
+          "tldr": "Former United midfielder Michael Carrick says he understands why Elliott Anderson called Manchester City the kings of Manchester, ahead of this weekend's derby, rather than taking it as a slight.",
+          "source": "BBC Sport",
+          "published": "2026-09-11T12:30:00.000Z",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p81d5m.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "What placing A.J. Brown on IR, signing DaQuan Jones means for the Patriots",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/137054/aj-brown-injured-reserve-daquan-jones-signing-roster-impact",
+          "tldr": "The Patriots have placed wide receiver A.J. Brown on injured reserve with a high-ankle sprain, ruling him out for at least four games, and signed veteran defensive tackle DaQuan Jones for depth.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-11T18:21:12.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/reuters-tagreuters.com2026newsml_MT1USATODAY2977733856595211.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Gabe Jacas shows improvement in regular season debut",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/136962/gabe-jacas-shows-improvement-in-regular-season-debut",
+          "tldr": "Second-round rookie Gabe Jacas played 19 defensive snaps in his NFL debut and drew praise from head coach Mike Vrabel, an early sign the Patriots' draft pick is developing as hoped.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-11T13:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2293890282.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "The Day Football Returned: How 9/11, Joe Andruzzi and an Unforgettable Afternoon Changed Patriots History",
+          "url": "https://www.patriots.com/news/the-day-football-returned-how-9-11-joe-andruzzi-and-an-unforgettable-afternoon-changed-patriots-history",
+          "tldr": "Twenty-five years on from 9/11, Patriots.com revisits the emotional afternoon Joe Andruzzi and his teammates played through, a game that helped shape the franchise's identity.",
+          "source": "Patriots.com",
+          "published": "2026-09-11T14:37:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/tley2sv0k5eeti4xpzdj.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "David Coulthard says Kimi Antonelli proved he is an F1 'phenomenon' at Monza",
+          "url": "https://www.motorsport.com/f1/news/david-coulthard-says-kimi-antonelli-proved-he-is-an-f1-phenomenon-at-monza/10854748",
+          "tldr": "Former F1 driver David Coulthard says Kimi Antonelli's charge from 19th to victory at the Italian Grand Prix ranks alongside the sport's greatest drives, and could make him F1's youngest world champion.",
+          "source": "Motorsport.com",
+          "published": "2026-09-11T21:24:20.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/24QGqX4Y/s6/andrea-kimi-antonelli-mercedes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "The surprise plan to keep Alonso in F1",
+          "url": "https://www.the-race.com/formula-1/the-surprise-plan-to-keep-fernando-alonso-in-f1",
+          "tldr": "FIA president Mohammed Ben Sulayem is drawing up rules concessions to help Honda's power unit progress faster, in a push to keep Fernando Alonso competitive enough to remain in Formula 1.",
+          "source": "The Race",
+          "published": "2026-09-11T20:47:42.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/09/Spacesuit-AS-F1-SGP-10-09-26-144.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "'High risk' and a chance of 'chaos' - drivers open up on F1's new Madring circuit",
+          "url": "https://www.motorsport.com/f1/news/very-high-risk-and-the-best-race-in-europe-f1-drivers-share-first-madring-impressions/10854690",
+          "tldr": "Drivers gave mixed early verdicts on the brand-new Madring circuit in Madrid, calling it high risk and unpredictable, after its first Formula 1 practice session produced a heavy crash for Arvid Lindblad.",
+          "source": "Motorsport.com",
+          "published": "2026-09-11T18:12:35.000Z",
+          "image": "https://cdn-5.motorsport.com/images/amp/0rVP7ZJ0/s6/gabriel-bortoleto-audi-f1-team.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Crochet takes another crucial step toward return to Red Sox",
+          "url": "https://www.mlb.com/redsox/news/garrett-crochet-throws-off-pitchers-mound-at-fenway-park",
+          "tldr": "Left-hander Garrett Crochet threw another bullpen session at Fenway Park, the latest step in his recovery, as the Red Sox look to get him back for a playoff run.",
+          "source": "MLB.com",
+          "published": "2026-09-11T22:37:47.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/dylgqvuixcaug6parqca.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox top prospect Arias leading Triple-A circuit in hitting since his promotion",
+          "url": "https://www.mlb.com/redsox/news/red-sox-prospect-franklin-arias-hot-streak-triple-a-2026",
+          "tldr": "Red Sox prospect Franklin Arias has kept hitting since his promotion, now leading Triple-A in batting, giving Boston fans another reason for optimism about the farm system.",
+          "source": "MLB.com",
+          "published": "2026-09-11T03:52:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/ecryws469njvbluya4ig.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/why-saas-freemium-playbooks-dont",
+    "why": "Freemium doesn't transfer cleanly to AI products, directly relevant to your product marketing work as more launches lean on AI-first monetisation.",
+    "title": "Why SaaS freemium playbooks don’t work in AI, and what to do instead",
+    "subtitle": "How to build an AI monetization strategy that actually works",
+    "published": "2026-05-05",
+    "words": 3014,
+    "image": "https://substackcdn.com/image/fetch/$s_!jX4T!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dbe470a-3caf-43dd-ab76-118d515e409f_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/427-how-raymond-plank-built-a-%2450-billion-oil-company/id1141877104?i=1000779471100&uo=4",
+      "why": "A founder who built a $50 billion company on contrarian conviction, the kind of operator study you like.",
+      "show": "Founders",
+      "title": "#427 How Raymond Plank Built a $50 Billion Oil Company",
+      "published": "2026-08-01",
+      "duration": "38m",
+      "apple": "https://podcasts.apple.com/us/podcast/427-how-raymond-plank-built-a-%2450-billion-oil-company/id1141877104?i=1000779471100&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/travis-kalanick",
+      "why": "Kalanick on building Uber through relentless conflict, then starting over with Atoms.",
+      "show": "David Senra",
+      "title": "Travis Kalanick, Founder of Uber & Atoms",
+      "published": "2026-08-16",
+      "duration": "1h 49m",
+      "apple": "https://podcasts.apple.com/us/podcast/travis-kalanick-founder-of-uber-atoms/id1836497887?i=1000783566781&uo=4",
+      "page": "https://www.davidsenra.com/episode/travis-kalanick",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/19/22/d2/1922d243-0c7d-c8c8-b8af-7bd568ff955e/mza_17854511174282367109.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=QVnU5lGlKE8"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis",
+      "why": "A milestone episode with Michael Lewis, on the craft of narrating business history.",
+      "show": "Acquired",
+      "title": "10 Years of Acquired (with Michael Lewis)",
+      "published": "2025-12-15",
+      "duration": "2h 38m",
+      "apple": "https://podcasts.apple.com/us/podcast/10-years-of-acquired-with-michael-lewis/id1050462261?i=1000741297651&uo=4",
+      "page": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/b3/bf/5bb3bf66-cb58-d65c-f994-74f680e2bb34/mza_10419917004390918792.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Bring Blockbuster Video back to your town/city by setting up a little free library of VHS tapes & DVDs",
+    "url": "https://kottke.org/26/09/0049567-setting-up-a-little-free-",
+    "tldr": "A project is encouraging people to set up little free libraries stocked with VHS tapes and DVDs, complete with a Blockbuster-style logo, so neighbours can borrow a film the old-fashioned way.",
+    "source": "Kottke",
+    "published": "2026-09-10T23:45:00.000Z",
+    "image": ""
+  }
+}
