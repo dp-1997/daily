@@ -1,0 +1,290 @@
+{
+  "date": "2026-09-13",
+  "front": [
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
+      "tldr": "Anthropic's Dario Amodei and OpenAI's Sam Altman both say it is time to \"pace the frontier\" of AI development, though neither has detailed what slowing down would actually mean in practice.",
+      "source": "TechCrunch",
+      "published": "2026-09-12T19:34:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024"
+    },
+    {
+      "title": "iPhone 18 Pro pre-orders open, some shipping dates already slipping",
+      "url": "https://9to5mac.com/2026/09/12/iphone-18-pro-pre-orders-heres-what-still-arrives-on-launch-day",
+      "tldr": "Apple's iPhone 18 Pro and Pro Max went up for pre-order on Saturday, ahead of the 18 September launch. By Saturday evening, shipping estimates for some configurations were already sliding past launch day.",
+      "source": "9to5Mac",
+      "published": "2026-09-13T00:38:49.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "Norris takes Madrid pole with 'gorgeous' lap",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c8r60g7nrn6o",
+      "tldr": "Lando Norris denied championship leader Kimi Antonelli pole position by 0.011 seconds at Formula 1's first race at Spain's new Madring circuit, calling it one of the best laps of his career.",
+      "source": "BBC Sport",
+      "published": "2026-09-12T17:00:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ff/live/d42b5e60-aebd-11f1-ae38-d350b022f499.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+          "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes",
+          "tldr": "Simon Willison had ChatGPT Work with GPT-6 Astra plan 5K and 10K running routes from his house using OpenStreetMap data, a small but concrete example of agentic AI doing real, useful work.",
+          "source": "Simon Willison",
+          "published": "2026-09-12T23:56:42.000Z",
+          "image": "https://static.simonwillison.net/static/2026/5k-route.webp"
+        },
+        {
+          "title": "OpenAI agents attacked RubyGems back in May",
+          "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems",
+          "tldr": "A new report says OpenAI's own agents carried out an undisclosed attack on RubyGems in May, months before the separate incident involving Hugging Face came to light.",
+          "source": "Simon Willison",
+          "published": "2026-09-12T00:42:25.000Z",
+          "image": ""
+        },
+        {
+          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
+          "tldr": "OpenAI has filed confidentially for an IPO, but chief executive Sam Altman says the company will not go public this year.",
+          "source": "TechCrunch",
+          "published": "2026-09-12T20:19:16.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800"
+        },
+        {
+          "title": "Quoting Paul Ford",
+          "url": "https://simonwillison.net/2026/Sep/12/paul-ford",
+          "tldr": "Paul Ford writes that developer jobs once looked doomed by AI, but the industry is slowly realising that making software well still takes more than tireless robots.",
+          "source": "Simon Willison",
+          "published": "2026-09-12T18:00:21.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+          "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board",
+          "tldr": "Automattic says Matt Mullenweg is back as chairman and chief executive after an attempted board ouster, with what the company calls the full support of the board.",
+          "source": "TechCrunch",
+          "published": "2026-09-12T23:25:38.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799"
+        },
+        {
+          "title": "Tesla says it will finally unveil the second-generation Roadster on October 1",
+          "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1",
+          "tldr": "Tesla will unveil the second-generation Roadster on 1 October, nine years after the halo sports car was first announced in November 2017.",
+          "source": "TechCrunch",
+          "published": "2026-09-12T19:21:19.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822"
+        },
+        {
+          "title": "Blizzard is reviving StarCraft as an open-world shooter, but it'll be a long wait",
+          "url": "https://www.engadget.com/2256750/blizzard-is-reviving-starcraft-as-an-open-world-shooter-but-itll-be-a-long-wait",
+          "tldr": "Blizzard announced a new open-world StarCraft shooter at BlizzCon 2026, though it won't arrive until spring 2030.",
+          "source": "Engadget",
+          "published": "2026-09-12T21:28:36.000Z",
+          "image": "https://www.engadget.com/img/gallery/blizzard-is-reviving-starcraft-as-an-open-world-shooter-but-itll-be-a-long-wait/l-intro-1789248367.jpg"
+        },
+        {
+          "title": "PlayStation bets on an 18-rated Wolverine game from Spider-Man's makers",
+          "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo",
+          "tldr": "Insomniac, the studio behind Marvel's Spider-Man, is betting on an 18-rated Wolverine game, a rare mature-rated gamble for a major PlayStation exclusive.",
+          "source": "BBC",
+          "published": "2026-09-12T00:35:50.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple nailed iPhone Duo split screen, even as iPad multitasking feels convoluted",
+          "url": "https://9to5mac.com/2026/09/12/apple-nailed-iphone-duo-split-screen-even-as-ipad-multitasking-feels-convoluted",
+          "tldr": "9to5Mac argues Apple's new foldable iPhone Duo handles split-screen multitasking better than the iPad does, even in the software's first outing.",
+          "source": "9to5Mac",
+          "published": "2026-09-12T16:47:34.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-14.16.28.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "iPhone Duo can add fake bezel to the outside screen for better case compatibility",
+          "url": "https://9to5mac.com/2026/09/12/iphone-duo-fake-bezel-case-compatibility",
+          "tldr": "Blogger Nicolas Lellouche found a \"Shift Left Edge\" display option on the iPhone Duo that adds a fake bezel to its outside screen, making it compatible with more cases.",
+          "source": "9to5Mac",
+          "published": "2026-09-12T15:32:31.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-shift-left-edge-setting.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Unread 5.0",
+          "url": "https://www.goldenhillsoftware.com/2026/09/unread-50",
+          "tldr": "Indie RSS reader Unread has shipped version 5.0, with improvements to hero images, article list thumbnails, widget thumbnails and syncing.",
+          "source": "Daring Fireball",
+          "published": "2026-09-12T19:27:37.000Z",
+          "image": "https://cdn.goldenhillsoftware.com/media/unread-50/ogimage.png"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Zack Snyder goes indie: no green screen, no video village, no slow motion",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/zack-snyder-dc-filmmaker-the-last-photograph-interview-1236699109",
+          "tldr": "Known for CGI-heavy spectacle, Zack Snyder stripped it all back for 'The Last Photograph': no green screen, no video village, no slow motion, shot over a week in the Amazon.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-12T20:14:33.000Z",
+          "image": ""
+        },
+        {
+          "title": "Mahershala Ali finally made his 'Blade' film, as 'Your Mother Your Mother Your Mother'",
+          "url": "https://variety.com/2026/film/news/mahershala-ali-blade-your-mother-your-mother-your-mother-tiff-adia-bassam-tariq-1236860243",
+          "tldr": "Mahershala Ali and director Bassam Tariq have finally made the 'Blade' film they long wanted, premiering instead as 'Your Mother Your Mother Your Mother' at the Toronto Film Festival.",
+          "source": "Variety",
+          "published": "2026-09-13T04:01:23.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2294913085.jpg"
+        },
+        {
+          "title": "Michelle Yeoh goes full John Wick with a scalpel in 'The Surgeon'",
+          "url": "https://deadline.com/2026/09/the-surgeon-review-michelle-yeoh-toronto-film-festival-1237099602",
+          "tldr": "Michelle Yeoh takes her first true leading role since her Everything Everywhere All At Once Oscar win in 'The Surgeon', premiering at the Toronto Film Festival.",
+          "source": "Deadline",
+          "published": "2026-09-13T02:05:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/the_surgeon_01.webp"
+        },
+        {
+          "title": "Maggie Gyllenhaal on why Venice's Golden Lion went to 'Woman Unknown'",
+          "url": "https://variety.com/2026/film/festivals/maggie-gyllenhaal-woman-unknown-venice-win-not-statement-1236859872",
+          "tldr": "Venice jury president Maggie Gyllenhaal said the festival's Golden Lion win for 'Woman Unknown' was based purely on merit, not a statement about the lack of women in competition this year.",
+          "source": "Variety",
+          "published": "2026-09-12T20:55:35.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2294923099.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics reportedly interested in signing free agent guard Devin Carter",
+          "url": "https://www.celticsblog.com/boston-celtics-news/146193/celtics-devin-carter-free-agency",
+          "tldr": "The Celtics are reportedly interested in signing free agent guard Devin Carter, the 13th pick in the 2024 draft who was waived by the Atlanta Hawks on Friday.",
+          "source": "CelticsBlog",
+          "published": "2026-09-12T12:18:53.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2270893432.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots place WR A.J. Brown on injured reserve, sign DT DaQuan Jones",
+          "url": "https://www.patriots.com/news/patriots-sign-veteran-dt-daquan-jones-and-place-wr-a-j-brown-on-ir",
+          "tldr": "The Patriots have placed wide receiver A.J. Brown on injured reserve, ruling him out for at least four games, and signed veteran defensive tackle DaQuan Jones.",
+          "source": "Patriots.com",
+          "published": "2026-09-12T20:00:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/gnatzcpqynoo5s2umeal.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Undisciplined football cost the Patriots against the Seahawks",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/136907/patriots-vs-seahawks-undisciplined-football-nfl-week-1",
+          "tldr": "Seven second-half penalties and three fourth-quarter interceptions from Drake Maye undid a third-quarter lead as the Patriots opened their season with a loss to the Seattle Seahawks.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-12T11:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/reuters-tagreuters.com2026newsml_MT1USATODAY29776011824286903.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Race director issued 'formal request' for Hamilton to stop driving damaged car",
+          "url": "https://www.racefans.net/2026/09/12/race-director-issued-formal-request-for-hamilton-to-stop-driving-damaged-car",
+          "tldr": "F1's race director issued a formal request to have Lewis Hamilton stop driving his damaged Ferrari in final practice for the Spanish Grand Prix, after the team initially let him continue.",
+          "source": "RaceFans",
+          "published": "2026-09-12T13:02:15.000Z",
+          "image": ""
+        },
+        {
+          "tag": "F1",
+          "title": "Verstappen explains focus for Spanish GP from P3",
+          "url": "https://www.formula1.com/en/latest/article/verstappen-explains-focus-for-spanish-grand-prix-as-he-reacts-to-p3-in-qualifying.14Y1ULK3y8Jx3sUohov7Nb",
+          "tldr": "Max Verstappen will start today's first-ever Spanish Grand Prix at the Madring from third on the grid, behind pole-sitter Lando Norris and Mercedes' Kimi Antonelli.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Spain___Qualifying/2294893919.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Ranger Suarez goes 7 innings, Wilyer Abreu hits key 2-run double as Red Sox beat Royals 5-1",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/12/red-sox-royals-ranger-suarez",
+          "tldr": "Ranger Suarez pitched seven innings and Wilyer Abreu hit a key two-run double as the Red Sox beat the Royals 5-1, ending a three-game losing streak.",
+          "source": "Boston.com",
+          "published": "2026-09-12T23:08:33.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Royals_Red_Sox_Baseball_36784-6aa5d6a8d3d23-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Latest injury updates on several key Red Sox players",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/11/red-sox-injury-updates-garrett-crochet-rafaela-contreras",
+          "tldr": "Interim manager Chad Tracy gave positive updates on Willson Contreras, Garrett Crochet and Ceddanne Rafaela as the Red Sox push for a playoff spot.",
+          "source": "Boston.com",
+          "published": "2026-09-11T23:44:42.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/FVDAMQETUCKS2EBV2OBQVA66DM-6aa48977017d3-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai",
+    "why": "With agentic AI doing real work today, like planning running routes, and the frontier-pacing debate in the news, a step-by-step guide to building an AI habit feels timely.",
+    "title": "Your Couch-to-5K for AI",
+    "subtitle": "A step-by-step guide to building an AI habit that sticks",
+    "published": "2026-04-28",
+    "words": 1365,
+    "image": "https://substackcdn.com/image/fetch/$s_!dU7r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5169166-0761-408f-83da-a55070a2c78d_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/423-soichiro-honda/id1141877104?i=1000774523761&uo=4",
+      "why": "Given today's craft-over-spectacle story about Zack Snyder and the iPhone Duo's engineering detail, Soichiro Honda's obsession with building things right feels apt.",
+      "show": "Founders",
+      "title": "#423 Soichiro Honda",
+      "published": "2026-06-28",
+      "duration": "48m",
+      "apple": "https://podcasts.apple.com/us/podcast/423-soichiro-honda/id1141877104?i=1000774523761&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/jonathan-ross",
+      "why": "With Anthropic and OpenAI both talking about pacing the AI frontier today, Jonathan Ross's story of building Groq's AI chips is a good complement.",
+      "show": "David Senra",
+      "title": "Jonathan Ross, Founder of Groq",
+      "published": "2026-07-05",
+      "duration": "1h 12m",
+      "apple": "https://podcasts.apple.com/us/podcast/jonathan-ross-founder-of-groq/id1836497887?i=1000775505304&uo=4",
+      "page": "https://www.davidsenra.com/episode/jonathan-ross",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/4f/59/954f5947-cd92-1684-74e7-29ad8a348eec/mza_2635725368845158042.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/google-the-ai-company",
+      "why": "Ties directly to today's AI news: with OpenAI's IPO plans and Anthropic's pacing debate in the headlines, Google's own AI bet is a natural companion listen.",
+      "show": "Acquired",
+      "title": "Google Part III: The AI Company",
+      "published": "2025-10-06",
+      "duration": "3h 56m",
+      "apple": "https://podcasts.apple.com/us/podcast/google-part-iii-the-ai-company/id1050462261?i=1000730326283&uo=4",
+      "page": "https://www.acquired.fm/episodes/google-the-ai-company",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/d4/eb/77d4eb2e-a30c-44f5-2cca-383d10a86df8/mza_1526797956128173393.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "New York beach home by BAAO contains a \"house within a house\"",
+    "url": "https://www.dezeen.com/2026/09/12/breezy-point-house-queens-new-york-baao-studio",
+    "tldr": "Brooklyn studio BAAO has completed a 2,655-square-foot beach house in Queens, New York, built as a \"house within a house\" with slices and indents that let in natural light.",
+    "source": "Dezeen",
+    "published": "2026-09-12T17:00:18.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/09/breezy-point_baao-studio_dezeen_sq1ex-411x411.jpg"
+  }
+}
