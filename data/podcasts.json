@@ -1,5 +1,31 @@
 [
  {
+  "show": "Acquired",
+  "title": "Home Depot",
+  "url": "https://www.acquired.fm/episodes/home-depot",
+  "page": "https://www.acquired.fm/episodes/home-depot",
+  "apple": "https://podcasts.apple.com/us/podcast/home-depot/id1050462261?i=1000789467893&uo=4",
+  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e5/4b/eb/e54bebd6-32db-0a46-bb4b-f2acd3a8464b/mza_8660330428363636018.jpg/600x600bb.jpg",
+  "guid": "68b66323-6e74-4c90-8157-ef3f1ed0d042",
+  "date": "2026-09-14",
+  "duration": "3h 35m",
+  "summary": "Home Depot's founding story is like an Avengers movie… if the Avengers got fired, went broke, and stacked empty paint cans ten feet high to look legitimate. After being unceremoniously fired from their previous hardware chain at ages 48 and 35, Bernie Marcus and Arthur Blank took the words of their…",
+  "youtube": ""
+ },
+ {
+  "show": "David Senra",
+  "title": "Luca Ferrari on Building Bending Spoons: Extreme Ownership, Talent Science & Relentless Simplification",
+  "url": "https://davidsenra.com/episode/luca-ferrari",
+  "page": "https://davidsenra.com/episode/luca-ferrari",
+  "apple": "https://podcasts.apple.com/us/podcast/luca-ferrari-on-building-bending-spoons-extreme-ownership/id1836497887?i=1000789287660&uo=4",
+  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/61/52/6d6152f4-19d7-46ea-032b-ac81c01be6ed/mza_10680068299434896450.jpg/600x600bb.jpg",
+  "guid": "2fca5144-af14-11f1-a7e2-dfa14381c3c1",
+  "date": "2026-09-13",
+  "duration": "2h 01m",
+  "summary": "Luca Ferrari is a co-founder of Bending Spoons, the technology company he built with his partners by rethinking how software businesses should hire, operate and allocate capital. He explains why Bending Spoons aspires to build “the best company there ever was,” why it favors raw talent and drive…",
+  "youtube": ""
+ },
+ {
   "show": "David Senra",
   "title": "Mati Staniszewski on ElevenLabs, Voice AI & Building the Communication Layer for AI",
   "url": "https://www.davidenra.com/mati-staniszewski",
@@ -9050,7 +9076,7 @@
  {
   "show": "Acquired",
   "title": "Midroll + Stitcher (acquired by Scripps)",
-  "url": "https://podcasts.apple.com/us/podcast/midroll-stitcher-acquired-by-scripps/id1050462261?i=1000428067458&uo=4",
+  "url": "https://podcasts.apple.com/gb/podcast/acquired/id1050462261",
   "guid": "f59fb0d63ec187c0409fe9d82c003964",
   "date": "2016-07-12",
   "duration": "56m",

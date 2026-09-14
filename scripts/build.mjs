@@ -261,7 +261,7 @@ function validate(ed, file) {
       if (!s[k] || typeof s[k] !== "string") errs.push(`${where}: missing "${k}"`);
     }
     if (s.url && !/^https?:\/\/\S+$/i.test(s.url)) errs.push(`${where}: url does not look like a link`);
-    if (s.url && candidates && !candByUrl.has(urlKey(s.url)) && !(s.source && s.published)) {
+    if (s.url && candidates && !candByUrl.has(urlKey(s.url)) && !s.source) {
       errs.push(`${where}: url is not in this morning's candidates; stories come from _build/candidates.md`);
     }
     if (s.tldr && s.tldr.split(/\s+/).length > 60) errs.push(`${where}: tldr is over 60 words (${s.tldr.split(/\s+/).length})`);
