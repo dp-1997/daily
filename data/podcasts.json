@@ -1,7 +1,7 @@
 [
  {
   "show": "Acquired",
-  "title": "Home Depot",
+  "title": "The Home Depot",
   "url": "https://www.acquired.fm/episodes/home-depot",
   "page": "https://www.acquired.fm/episodes/home-depot",
   "apple": "https://podcasts.apple.com/us/podcast/home-depot/id1050462261?i=1000789467893&uo=4",
@@ -9,7 +9,20 @@
   "guid": "68b66323-6e74-4c90-8157-ef3f1ed0d042",
   "date": "2026-09-14",
   "duration": "3h 35m",
-  "summary": "Home Depot's founding story is like an Avengers movie… if the Avengers got fired, went broke, and stacked empty paint cans ten feet high to look legitimate. After being unceremoniously fired from their previous hardware chain at ages 48 and 35, Bernie Marcus and Arthur Blank took the words of their…",
+  "summary": "The Home Depot's founding story is like an Avengers movie… if the Avengers got fired, went broke, and stacked empty paint cans ten feet high to look legitimate. After being unceremoniously fired from their previous hardware chain at ages 48 and 35, Bernie Marcus and Arthur Blank took the words of…",
+  "youtube": ""
+ },
+ {
+  "show": "Founders",
+  "title": "How Michael Bloomberg Works",
+  "url": "https://podcasts.apple.com/gb/podcast/founders/id1141877104",
+  "page": "",
+  "apple": "",
+  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg",
+  "guid": "d0c3c534-b069-11f1-bc61-4345073b86a6",
+  "date": "2026-09-14",
+  "duration": "49m",
+  "summary": "",
   "youtube": ""
  },
  {

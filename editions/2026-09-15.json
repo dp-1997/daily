@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-15",
+  "front": [
+    {
+      "title": "Siri AI, a more capable and personal assistant, arrives",
+      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here",
+      "tldr": "Apple shipped iOS 27, iPadOS 27, macOS 27 and watchOS 27 yesterday, headlined by the Siri AI overhaul it had long promised, alongside new Apple Intelligence features across the lineup.",
+      "source": "Apple Newsroom",
+      "published": "2026-09-14T17:09:41.324Z",
+      "image": "https://www.apple.com/newsroom/images/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/tile/Apple-Siri-AI-hero-video-lp.jpg.og.jpg?202609141711"
+    },
+    {
+      "title": "Matthew Rhys makes Emmy history with a double win",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo",
+      "tldr": "Matthew Rhys became the first person to win two lead acting prizes in one night at the Emmys, capping a big evening for Widow's Bay.",
+      "source": "BBC",
+      "published": "2026-09-15T03:50:06.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c355/live/3fadea80-b0a9-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "title": "Payton Tolle throws an immaculate inning as the Red Sox beat the Royals 4-1",
+      "url": "https://www.overthemonster.com/red-sox-scores-standings/108598/immaculate-tolle-and-the-sox-roll-the-royals-4-1",
+      "tldr": "Rookie Payton Tolle threw the eighth immaculate inning in Red Sox history, the sixth immaculate first inning ever recorded in MLB, as Boston beat Kansas City 4-1.",
+      "source": "Over the Monster",
+      "published": "2026-09-14T01:55:45.000Z",
+      "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2294678172.jpg?quality=90&strip=all&crop=0,0,100,100"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says",
+          "tldr": "OpenAI has acquired camera startup Glass Imaging, founded by former Apple engineers who helped build Portrait Mode, for $300 million, according to a report.",
+          "source": "TechCrunch",
+          "published": "2026-09-14T20:44:14.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1252369470.jpg?resize=1200,802"
+        },
+        {
+          "title": "Superhuman acquires notetaker Fathom as productivity apps chase agentic work",
+          "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work",
+          "tldr": "Superhuman has bought YC-backed meeting notetaker Fathom, which has more than 400,000 monthly users and has recorded over a million meetings to date.",
+          "source": "TechCrunch",
+          "published": "2026-09-14T14:45:44.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/fathom_product-graphic_my-calls.jpeg?resize=1200,675"
+        },
+        {
+          "title": "Microsoft publishes an AI code of conduct barring models from hacking or tricking people",
+          "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans",
+          "tldr": "Microsoft's new code of conduct sets principles for its AI models, including supporting rather than replacing humans and not deceiving or hacking systems.",
+          "source": "TechCrunch",
+          "published": "2026-09-14T16:27:53.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800"
+        },
+        {
+          "title": "With iOS 27, Siri finally feels worth using again",
+          "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again",
+          "tldr": "Apple's long-delayed Siri overhaul has arrived with iOS 27, and TechCrunch's review says it changes how useful the assistant feels day to day.",
+          "source": "TechCrunch",
+          "published": "2026-09-14T17:10:30.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Waymo opens robotaxi service in Las Vegas",
+          "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas",
+          "tldr": "Waymo has launched commercial robotaxi rides in Las Vegas, its 15th market for the driverless service.",
+          "source": "TechCrunch",
+          "published": "2026-09-14T16:04:16.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-street.jpg?resize=1200,801"
+        },
+        {
+          "title": "Volkswagen's new efficiency-focused EV borrows an idea from Slate",
+          "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate",
+          "tldr": "Volkswagen's new efficiency-minded halo car is nearly twice as efficient as the Lucid Air, currently the most efficient production car.",
+          "source": "TechCrunch",
+          "published": "2026-09-14T17:41:20.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/volkswagen-mission-efficiency-side.jpeg?resize=1200,800"
+        },
+        {
+          "title": "AI infrastructure startup Cornelis raises $205 million to challenge Nvidia",
+          "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance",
+          "tldr": "Cornelis raised $205 million and unveiled Active Compute Fabric, a networking technology aimed at cutting the GPU idle time caused by data waiting to arrive.",
+          "source": "TechCrunch",
+          "published": "2026-09-14T20:07:37.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2236865789.jpg?resize=1200,600"
+        },
+        {
+          "title": "Valve's Steam Frame headset is excellent, but its price tests whether VR is still too expensive",
+          "url": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o",
+          "tldr": "The BBC's hands-on review calls Valve's new Steam Frame VR headset excellent, though its price of more than £1,000 raises the question of whether VR remains too costly.",
+          "source": "BBC",
+          "published": "2026-09-14T17:05:31.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe3/live/2c24b1a0-b05f-11f1-9902-771b6dd8af6a.png"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "New Apple CEO John Ternus attends the Emmys, demoing iPhone Duo",
+          "url": "https://9to5mac.com/2026/09/14/new-apple-ceo-john-ternus-attending-emmy-awards-and-sporting-iphone-duo",
+          "tldr": "John Ternus, who took over as Apple's CEO two weeks ago, attended the Emmy Awards and gave iPhone Duo demos to stars and press.",
+          "source": "9to5Mac",
+          "published": "2026-09-15T00:23:33.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "macOS 27 Golden Gate fixes what Tahoe got wrong, Six Colors review finds",
+          "url": "https://sixcolors.com/post/2026/09/macos-27-golden-gate-review-bridging-the-tahoe-gap",
+          "tldr": "Six Colors's review says macOS 27 Golden Gate addresses the half-baked interface changes of last year's Tahoe release while keeping its solid productivity additions.",
+          "source": "Six Colors",
+          "published": "2026-09-14T17:17:13.000Z",
+          "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/09/golden-gate-frame-6c.png?ssl=1"
+        },
+        {
+          "title": "watchOS 27 is the most exciting Apple Watch update in years, MacStories says",
+          "url": "https://www.macstories.net/stories/watchos-27-the-macstories-review",
+          "tldr": "MacStories's review calls watchOS 27 its most exciting Apple Watch update in a long time, arriving alongside the new Series 12 and Ultra 4 hardware.",
+          "source": "MacStories",
+          "published": "2026-09-14T16:00:04.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/09/12/watches-1-1789215264465-8c139879bc.png"
+        },
+        {
+          "title": "AppZapper Mac uninstaller relaunches as AppZapper 3000",
+          "url": "https://www.macrumors.com/2026/09/14/appzapper-3000-for-mac",
+          "tldr": "The Mac uninstaller AppZapper has been rebuilt with a new design and name, AppZapper 3000, offering a quicker way to remove apps and their leftover files.",
+          "source": "MacRumors",
+          "published": "2026-09-14T23:58:29.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/appzapper3000.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "The Pitt wins a second consecutive Emmy for outstanding drama series",
+          "url": "https://www.indiewire.com/awards/results/the-pitt-wins-emmy-outstanding-drama-series-1235216383",
+          "tldr": "HBO Max's The Pitt won outstanding drama series at the Emmys again, cementing itself as the show to beat in the category.",
+          "source": "IndieWire",
+          "published": "2026-09-15T02:42:09.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/04/The-Pitt-Season-2-Episode-15-Shawn-Hatosy-Noah-Wyle.jpg?w=650"
+        },
+        {
+          "title": "Widow's Bay wins the Emmy for outstanding comedy series",
+          "url": "https://www.indiewire.com/awards/results/widows-bay-wins-emmy-outstanding-comedy-series-1235216400",
+          "tldr": "Widow's Bay took the Emmy for outstanding comedy series, with the TV Academy recognising a show where no two episodes were alike.",
+          "source": "IndieWire",
+          "published": "2026-09-15T02:55:51.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Widows_Bay_Photo_010603.jpg?w=650"
+        },
+        {
+          "title": "Helen Mirren on researching the private Patricia Highsmith for A Talent for Murder",
+          "url": "https://deadline.com/video/a-talent-for-murder-helen-mirren-anton-corbijn-tiff",
+          "tldr": "Helen Mirren discusses researching the reclusive author Patricia Highsmith to play her in A Talent for Murder, set in 1995 as Highsmith lived out her final years in ill health.",
+          "source": "Deadline",
+          "published": "2026-09-14T23:26:26.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/Helen-Mirren01090.jpg"
+        },
+        {
+          "title": "Stephen Colbert gives an update on the Lord of the Rings movie after his Emmy win",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/stephen-colbert-update-lord-of-the-rings-movie-emmy-win-1236701051",
+          "tldr": "Stephen Colbert, whose CBS late-night show ended earlier this year, won big at the Emmys and used the moment to share news on his upcoming Lord of the Rings film.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-15T02:58:04.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics sign former Providence standout Devin Carter to a tryout contract",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/09/14/celtics-reportedly-sign-former-providence-college-standout-to-tryout-contract",
+          "tldr": "The Celtics have reportedly signed Devin Carter, a former Big East Player of the Year at Providence and a lottery pick, to a training camp tryout contract.",
+          "source": "Boston.com",
+          "published": "2026-09-15T00:55:41.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Kings_Basketball_83311-6aa8906550bdb-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "A.J. Brown set to miss more than a month with a high-ankle sprain",
+          "url": "https://www.patspulpit.com/new-england-patriots-injuries/137172/aj-brown-injury-patriots-receiver-to-miss-6-weeks-high-ankle-sprain",
+          "tldr": "Patriots receiver A.J. Brown, the offseason's high-profile trade addition, will miss more than four games on injured reserve with a high-ankle sprain.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-14T14:38:20.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2294808928.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots get good news on TreVeyon Henderson's health after Week 1",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/14/new-england-patriots-treveyon-henderson-practice-nfl-football",
+          "tldr": "TreVeyon Henderson returned to practice after New England managed just 3.5 yards per carry in its Week 1 loss to Seattle.",
+          "source": "Boston.com",
+          "published": "2026-09-14T23:45:14.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Patriots_Football_5267_-6aa88320d8725-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Drake Maye vows to be better after a rough Week 1 in Seattle",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/14/drake-maye-new-england-patriots-nfl-football-weei-seattle-pittsburgh",
+          "tldr": "Drake Maye said he has to be better after a difficult performance in the Patriots' Week 1 loss, with the team now turning its focus to Pittsburgh.",
+          "source": "Boston.com",
+          "published": "2026-09-15T02:06:10.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_ryanpats6spts-6aa8a07d39a84-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Lando Norris completes his first full test in McLaren's Le Mans hypercar",
+          "url": "https://www.motorsport.com/wec/news/lando-norris-completes-first-full-test-in-mclarens-le-mans-hypercar/10855952",
+          "tldr": "Reigning F1 champion Lando Norris completed his first full test of McLaren's MCL-HY Le Mans hypercar at Portimao, days after the Spanish Grand Prix.",
+          "source": "Motorsport.com",
+          "published": "2026-09-14T18:20:49.000Z",
+          "image": "https://cdn-9.motorsport.com/images/amp/2dEoVJ5Y/s6/lando-norris-mclaren.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Five winners and five losers from the Spanish Grand Prix",
+          "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-madrid-2026-spanish-grand-prix.EHx7H0e24uJ5ZwVXZD90q",
+          "tldr": "Formula1.com picks its winners and losers from the Spanish Grand Prix weekend at Madrid's new Madring circuit.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Spain%20(Madrid)/Winners%20&%20Losers%20header%20template%20(7).webp"
+        },
+        {
+          "tag": "F1",
+          "title": "Madrid's F1 circuit set for changes after criticism",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/ckwyzllzdq43o",
+          "tldr": "Organisers of the Spanish Grand Prix are set to change the new Madring circuit after criticism of its debut race at the weekend.",
+          "source": "BBC Sport",
+          "published": "2026-09-14T14:11:04.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d477/live/9ea62f10-b041-11f1-bb36-29bb24d8b9b8.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "The Red Sox will finish above .500 in 2026, Over the Monster predicts",
+          "url": "https://www.overthemonster.com/red-sox-discussion/108620/the-red-sox-will-finish-over-500-in-2026",
+          "tldr": "Over the Monster argues Boston's recent form, including Sunday's win over Kansas City, points to the Red Sox finishing the season above .500.",
+          "source": "Over the Monster",
+          "published": "2026-09-14T13:34:06.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2294683932.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "How should the Red Sox use Tanner Houck down the stretch?",
+          "url": "https://www.overthemonster.com/red-sox-analysis/108593/how-should-the-red-sox-use-tanner-houck-down-the-stretch",
+          "tldr": "Tanner Houck hasn't pitched for Boston since July 2025 after right-UCL reconstruction and flexor tendon surgery, and the site considers how to use him as he returns.",
+          "source": "Over the Monster",
+          "published": "2026-09-14T11:30:46.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2269097634.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/a-visual-guide-to-getting-out-of",
+    "why": "Today's Emmy wins and Apple's big software launch are both about creative craft, and this is Lenny's visual guide to working through a creative slump.",
+    "title": "A visual guide to getting out of a creative slump",
+    "subtitle": "On creating work like a human (and all the feelings that come with it)",
+    "published": "2026-04-07",
+    "words": 1369,
+    "image": "https://substackcdn.com/image/fetch/$s_!F-hp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0146677f-6753-44cf-bcc9-0d170d6dcfae_1200x555.jpeg",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/421-jony-ive/id1141877104?i=1000772060625&uo=4",
+      "why": "With Apple's new CEO and its Siri AI overhaul dominating today's news, Senra's take on Jony Ive's design philosophy feels timely.",
+      "show": "Founders",
+      "title": "#421 Jony Ive",
+      "published": "2026-06-10",
+      "duration": "53m",
+      "apple": "https://podcasts.apple.com/us/podcast/421-jony-ive/id1141877104?i=1000772060625&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/scott-wu",
+      "why": "Scott Wu's story of building the AI coding startup Cognition pairs well with today's flurry of AI acquisitions and product launches.",
+      "show": "David Senra",
+      "title": "Scott Wu, Cognition",
+      "published": "2026-06-28",
+      "duration": "1h 05m",
+      "apple": "https://podcasts.apple.com/us/podcast/scott-wu-cognition/id1836497887?i=1000774533148&uo=4",
+      "page": "https://www.davidsenra.com/episode/scott-wu",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/56/5f/01/565f01c1-c7da-a443-3dbc-7dd52214ce12/mza_10994771088807369856.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=PYobZzjW_ic"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/alphabet-inc",
+      "why": "Google's AI work threads through today's news, making this a good moment for the Alphabet deep dive.",
+      "show": "Acquired",
+      "title": "Google Part II: Alphabet",
+      "published": "2025-08-26",
+      "duration": "4h 02m",
+      "apple": "https://podcasts.apple.com/us/podcast/google-part-ii-alphabet/id1050462261?i=1000723582204&uo=4",
+      "page": "https://www.acquired.fm/episodes/alphabet-inc",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/e2/9f/84e29f13-dc8c-7bab-e12d-326bd02a4875/mza_17192775422872785600.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "The NES Tetris world record jumps to 40.26 million points",
+    "url": "https://kottke.org/26/09/0049585-previous-record",
+    "tldr": "A new NES Tetris world record of 40.26 million points has been set, beating the previous record of 29 million, in a run that took two hours and 20 minutes.",
+    "source": "Kottke",
+    "published": "2026-09-14T16:46:00.000Z",
+    "image": ""
+  }
+}
