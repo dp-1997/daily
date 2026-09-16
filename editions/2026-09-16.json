@@ -1,0 +1,317 @@
+{
+  "date": "2026-09-16",
+  "front": [
+    {
+      "title": "Thoughts and observations on Apple's Surprise and Shine event",
+      "url": "https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event",
+      "tldr": "John Gruber's rundown of Apple's iPhone 18 Pro, AirPods 5 and Apple Watch Series 12 launches, and what the event says about where the company goes next.",
+      "source": "Daring Fireball",
+      "published": "2026-09-15T17:54:09.000Z",
+      "image": "https://daringfireball.net/misc/2026/09/craig.jpeg"
+    },
+    {
+      "title": "Apple explains how Reference Image proves a photo is real",
+      "url": "https://security.apple.com/blog/apple-reference-image",
+      "tldr": "Apple's security team has published a detailed explanation of Reference Image, the iPhone 18 Pro feature that cryptographically verifies a photo hasn't been altered. Worth reading in full.",
+      "source": "Daring Fireball",
+      "published": "2026-09-16T02:38:24.000Z",
+      "image": "https://security.apple.com/assets/image/seo-image.jpg"
+    },
+    {
+      "title": "Five takeaways from Paul George and Mike Conley's introductory press conference",
+      "url": "https://www.boston.com/sports/boston-celtics/2026/09/15/celtics-takeaways-paul-george-mike-conley-analysis",
+      "tldr": "The Celtics introduced free-agent signings Paul George and Mike Conley on Tuesday, with early notes on fit, health and how they see their roles alongside Boston's core this season.",
+      "source": "Boston.com",
+      "published": "2026-09-16T01:25:27.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/09/TUD42AMXF6FJDDFEGC67SMELGI-6aa9de6eae982-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Google releases Gemini Live audio, two new speech-to-speech models",
+          "url": "https://simonwillison.net/2026/Sep/15/gemini-live",
+          "tldr": "Google shipped Gemini 3.8 Live and Live Extended Thinking, speech-to-speech models similar in shape to OpenAI's GPT-Live family. Simon Willison tested them against GPT-6 and shares his notes.",
+          "source": "Simon Willison",
+          "published": "2026-09-15T22:47:07.000Z",
+          "image": "https://static.simonwillison.net/static/2026/gemini-live-tool.webp"
+        },
+        {
+          "title": "Meta lets AI agents handle WhatsApp Business setup",
+          "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup",
+          "tldr": "A new WhatsApp Business MCP server lets developers point coding agents like Claude, Cursor and Codex at setup, messaging templates and troubleshooting, cutting the manual configuration work.",
+          "source": "TechCrunch",
+          "published": "2026-09-15T20:12:53.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800"
+        },
+        {
+          "title": "AEO startup Profound hits unicorn valuation with $180m Series D",
+          "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round",
+          "tldr": "Profound, which helps brands track how they appear in AI answers, raised $180 million at a $1.8 billion valuation, just seven months after its last round closed.",
+          "source": "TechCrunch",
+          "published": "2026-09-15T15:22:48.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Profound-founders.jpg?resize=1200,798"
+        },
+        {
+          "title": "Ex-TikTok execs built an AI app that teaches you how to pose for photos",
+          "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo",
+          "tldr": "Superpose analyses a selfie or photo and generates four suggested poses using AI, built by a team of former TikTok executives turning their attention to camera apps.",
+          "source": "TechCrunch",
+          "published": "2026-09-15T14:42:37.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/PressKit_Superpose_Hero.jpeg?resize=1200,677"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "SpaceX will try to put Starship in orbit for the first time on 22 September",
+          "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22",
+          "tldr": "Elon Musk's company will attempt its first full orbital Starship flight next week and also try to deploy the first V3 Starlink satellites into its internet constellation.",
+          "source": "TechCrunch",
+          "published": "2026-09-15T18:16:07.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800"
+        },
+        {
+          "title": "Canon's R8 II camera borrows its styling from a classic SLR",
+          "url": "https://www.engadget.com/2259755/canon-r8-ii-camera-borrowed-styling-from-a-classic-slr-film-camera",
+          "tldr": "Canon's new full-frame R8 II leans on retro film-camera design cues, a break from its recent focus on vlogging-first cameras.",
+          "source": "Engadget",
+          "published": "2026-09-16T01:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/canons-r8-ii-camera-borrowed-its-styling-from-a-classic-slr-film-camera/l-intro-1789518131.jpg"
+        },
+        {
+          "title": "Microsoft to hold a Windows and Surface event on 7 October",
+          "url": "https://www.engadget.com/2259695/microsoft-will-hold-a-windows-event-on-october-7",
+          "tldr": "Satya Nadella and Nvidia's Jensen Huang are among the speakers at Microsoft's October event, which will focus on Windows, Nvidia's RTX Spark and the wider Surface and PC lineup.",
+          "source": "Engadget",
+          "published": "2026-09-15T22:18:07.000Z",
+          "image": "https://www.engadget.com/img/gallery/microsoft-will-hold-a-windows-event-on-october-7/l-intro-1789510407.jpg"
+        },
+        {
+          "title": "Wonder scores a $425m partnership with DoorDash as it builds its food empire",
+          "url": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire",
+          "tldr": "Marc Lore's restaurant and delivery company Wonder struck a $425 million partnership with DoorDash, another step in building out its multi-brand food business.",
+          "source": "TechCrunch",
+          "published": "2026-09-15T15:21:10.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/wonder.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "AirPods 5 hands-on: better noise cancellation, lower price",
+          "url": "https://www.macrumors.com/2026/09/15/airpods-5-hands-on",
+          "tldr": "MacRumors spent a week with the new AirPods 5 and found improved noise cancellation at a lower starting price than the outgoing model.",
+          "source": "MacRumors",
+          "published": "2026-09-15T18:19:59.000Z",
+          "image": "https://images.macrumors.com/t/mysLQ_fJ3ocQdeEOZJz-ETJgiHQ=/2500x/article-new/2026/09/AirPods-5-Hands-On-Thumb.jpg"
+        },
+        {
+          "title": "iOS 27 adds natural language event creation to Calendar",
+          "url": "https://9to5mac.com/2026/09/15/ios-27-gives-apples-calendar-app-new-feature-ive-wanted-for-years",
+          "tldr": "Apple's Calendar app can now create events from plain English descriptions in iOS 27, a small but long-requested feature.",
+          "source": "9to5Mac",
+          "published": "2026-09-15T20:06:34.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-calendar-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "title": "M5 Ultra chip's performance boost revealed in first benchmark",
+          "url": "https://www.macrumors.com/2026/09/15/apple-m5-ultra-chip-benchmark",
+          "tldr": "An unverified Geekbench result for Apple's upcoming M5 Ultra chip has surfaced, pointing to a substantial performance jump ahead of the next Mac Studio.",
+          "source": "MacRumors",
+          "published": "2026-09-15T18:00:47.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/M5-Ultra-Hero.jpeg"
+        },
+        {
+          "title": "Widow's Bay becomes the most decorated freshman comedy in Emmy history",
+          "url": "https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history",
+          "tldr": "Apple TV's Widow's Bay won big at the 78th Primetime Emmy Awards, helping Apple TV land 29 wins overall and top the night.",
+          "source": "Apple Newsroom",
+          "published": "2026-09-15T10:02:42.356Z",
+          "image": "https://www.apple.com/newsroom/images/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/tile/Apple-TV-Emmy-winners-Widows-Bay-lp.jpg.og.jpg?202609151009"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Zach Cregger's Resident Evil reboot draws raves in first reactions",
+          "url": "https://variety.com/2026/film/news/resident-evil-first-reactions-zach-cregger-reboot-scary-1236862900",
+          "tldr": "Critics called the Zach Cregger-directed Resident Evil reboot 'gloriously gory' and one of the best video game adaptations yet, ahead of its 18 September release.",
+          "source": "Variety",
+          "published": "2026-09-16T03:09:28.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/MCDREEV_SP022.jpg"
+        },
+        {
+          "title": "A Talent for Murder review: Helen Mirren is mesmerising as Patricia Highsmith",
+          "url": "https://deadline.com/2026/09/a-talent-for-murder-review-helen-mirren-anton-corbijn-patricia-highsmith-1237104717",
+          "tldr": "Helen Mirren plays crime writer Patricia Highsmith in this flawed but entertaining literary biopic, which premiered at the Toronto Film Festival.",
+          "source": "Deadline",
+          "published": "2026-09-16T01:09:28.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/Helen-Mirren-and-Alden-Ehrenreich-in-A-TALENT-FOR-MURDER-Courtesy-Bleecker-Street-and-LD-Entertainment-.jpg"
+        },
+        {
+          "title": "Avengers: Endgame re-release could give Marvel its biggest box-office record",
+          "url": "https://www.slashfilm.com/2259520/avengers-endgame-encore-marvel-box-office-preview",
+          "tldr": "Avengers: Endgame returns to cinemas as Endgame: Encore, with analysts weighing whether the re-release could reclaim the all-time box-office record for Marvel.",
+          "source": "/Film",
+          "published": "2026-09-15T21:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/avengers-endgame-encore-could-give-marvel-the-biggest-box-office-record-of-them-all/l-intro-1789501996.jpg"
+        },
+        {
+          "title": "Elsinore writer on telling the story of actor Ian Charleson",
+          "url": "https://deadline.com/video/elsinore-writer-ian-charleson-delighted-embarrassed-biopic",
+          "tldr": "Screenwriter Stephen Beresford discusses his biopic about Ian Charleson, the gay actor whose career and life are the subject of the new film Elsinore, which premiered at Toronto.",
+          "source": "Deadline",
+          "published": "2026-09-15T19:52:21.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/P1082Y3B-e1789491969891.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Paul George shares injury update at Celtics introductory press conference",
+          "url": "https://www.celticsblog.com/boston-celtics-news/146288/paul-george-shares-crucial-injury-update-in-intro-presser",
+          "tldr": "Paul George, who has played just 78 games over his last two seasons in Philadelphia, gave an update on his health as he was introduced by the Celtics.",
+          "source": "CelticsBlog",
+          "published": "2026-09-15T17:51:44.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2275353422.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "The Al Horford blueprint for unlocking Paul George",
+          "url": "https://www.celticsblog.com/celtics-analysis/145879/the-al-horford-blueprint-for-unlocking-paul-george",
+          "tldr": "With Jaylen Brown traded to Philadelphia for Paul George, CelticsBlog looks at how Boston can use Al Horford's role as a model for getting the best out of George.",
+          "source": "CelticsBlog",
+          "published": "2026-09-15T10:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/08/gettyimages-2190771018.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "How the Patriots plan to cover for A.J. Brown's injury",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/15/new-england-patriots-offense-a-j-brown-injury-drake-maye-steelers-romeo-doubs",
+          "tldr": "With A.J. Brown sidelined, Boston.com identifies five Patriots who need to step up on offence as the team adjusts heading into Week 2.",
+          "source": "Boston.com",
+          "published": "2026-09-16T00:59:02.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/O2XW3NPHIFHK7AEBFIVBZBIJF4-6aa375a4b156f-850x638.webp"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Contract details for Christian Gonzalez's extension with the Patriots",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/136494/christian-gonzalez-contract-extension-details",
+          "tldr": "New England reached a new deal with cornerback Christian Gonzalez, ending one of the summer's lingering storylines before the season began.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-15T19:44:37.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2294808420.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Russell and Hamilton concede F1 2026 title chances as Antonelli dominates",
+          "url": "https://www.autosport.com/f1/news/russell-and-hamilton-concede-f1-2026-title-chances-as-antonelli-dominates/10856072",
+          "tldr": "Both Mercedes drivers have effectively given up on this year's championship as teammate Kimi Antonelli builds a commanding points lead.",
+          "source": "Autosport",
+          "published": "2026-09-15T11:40:46.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/2y7QJVX6/s6/kimi-antonelli-mercedes-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "McLaren must help Oscar Piastri stop 'thinking' about the 2026 car, says Stella",
+          "url": "https://www.motorsport.com/f1/news/stella-mclaren-must-help-piastri-stop-thinking-about-how-to-drive-26-f1-car/10856178",
+          "tldr": "Team principal Andrea Stella believes Piastri's deficit to Lando Norris stems from the Australian still consciously adapting to this year's Formula 1 machinery rather than driving on instinct.",
+          "source": "Motorsport.com",
+          "published": "2026-09-15T23:00:03.000Z",
+          "image": "https://cdn-6.motorsport.com/images/amp/YN7vboP6/s6/oscar-piastri-mclaren.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Audi's F1 junior Freddie Slater signs F2 deal for 2027",
+          "url": "https://www.motorsport.com/fia-f2/news/f3-runner-up-freddie-slater-signs-f2-deal-for-2027-season/10856038",
+          "tldr": "Formula 3 runner-up and Audi junior driver Freddie Slater will move up to Formula 2 with reigning champion team Invicta Racing next season.",
+          "source": "Motorsport.com",
+          "published": "2026-09-15T09:47:13.000Z",
+          "image": "https://cdn-5.motorsport.com/images/amp/6lmAQVx0/s6/freddie-slater-trident.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Jacob deGrom strikes out 8 as Rangers beat Red Sox 4-2",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/15/jacob-degrom-strikes-out-8-to-lead-rangers-over-red-sox-4-2-in-series-between-playoff-contenders",
+          "tldr": "Red Sox starter Patrick Sandoval struck out his first four batters but allowed four runs in 2 2/3 innings as Boston fell to Texas in a game between playoff contenders.",
+          "source": "Boston.com",
+          "published": "2026-09-16T03:37:29.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Red_Sox_Rangers_Baseball_6_8_1-6aaa0c04d6243-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Payton Tolle should start Game 1 for the Red Sox in the playoffs, argues Over the Monster",
+          "url": "https://www.overthemonster.com/red-sox-analysis/108672/payton-tolle-should-be-the-game-1-starter-for-the-red-sox-in-the-playoffs",
+          "tldr": "With Boston's rotation set for a likely wild card series against the Yankees, the case is made for handing Tolle the ball over Ranger Suarez or Sonny Gray.",
+          "source": "Over the Monster",
+          "published": "2026-09-15T11:00:00.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2294707766.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+    "why": "New this week: sixty-plus creative growth tactics for standing out when every team is running the same playbook, directly useful for your product marketing work.",
+    "title": "60+ new creative growth ideas",
+    "subtitle": "How to stand out when everyone is running the same playbook",
+    "published": "2026-09-15",
+    "words": 5674,
+    "image": "https://substackcdn.com/image/fetch/$s_!NVVg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20cbbe62-5c82-4d4f-a316-de9b885e56f2_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/420-steve-jobs-in-exile/id1141877104?i=1000771074198&uo=4",
+      "why": "A return to one of your core interests: how Jobs rebuilt himself and NeXT after being pushed out of Apple.",
+      "show": "Founders",
+      "title": "#420 Steve Jobs In Exile",
+      "published": "2026-06-04",
+      "duration": "54m",
+      "apple": "https://podcasts.apple.com/us/podcast/420-steve-jobs-in-exile/id1141877104?i=1000771074198&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/steve-stoute",
+      "why": "Stoute built UnitedMasters on brand and storytelling instincts, a good listen for the positioning and marketing side of your work.",
+      "show": "David Senra",
+      "title": "Steve Stoute, UnitedMasters",
+      "published": "2026-06-21",
+      "duration": "1h 35m",
+      "apple": "https://podcasts.apple.com/us/podcast/steve-stoute-unitedmasters/id1836497887?i=1000773587421&uo=4",
+      "page": "https://www.davidsenra.com/episode/steve-stoute",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/4f/63/af4f639c-7d8f-2f80-0452-5bb59d620ac7/mza_6627752318604786696.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/coca-cola",
+      "why": "The definitive case study in product marketing and brand building, worth revisiting given the week's Apple launch coverage.",
+      "show": "Acquired",
+      "title": "Coca-Cola",
+      "published": "2025-11-24",
+      "duration": "3h 54m",
+      "apple": "https://podcasts.apple.com/us/podcast/coca-cola/id1050462261?i=1000738059532&uo=4",
+      "page": "https://www.acquired.fm/episodes/coca-cola",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/22/14/8c/22148c4b-40c8-09ed-01ac-ad76f1bd8b3a/mza_16845767999812105218.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "A homemade computer built from hundreds of 1950s vacuum tubes",
+    "url": "https://kottke.org/26/09/0049588-the-tube-computer",
+    "tldr": "The Tube Computer was built from hundreds of vintage vacuum tubes sourced from Eastern Europe, and apparently has a pleasant, homely smell as a bonus.",
+    "source": "Kottke",
+    "published": "2026-09-15T18:15:00.000Z",
+    "image": ""
+  }
+}
