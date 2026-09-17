@@ -1,0 +1,344 @@
+{
+  "date": "2026-09-17",
+  "front": [
+    {
+      "title": "Snap Specs hands-on: standalone AR glasses are here",
+      "url": "https://www.engadget.com/2260675/snap-specs-hands-on-standalone-ar-glasses-are-here",
+      "tldr": "Snap's $2,195 standalone Specs are shipping, and early hands-on reviews say the AR apps actually feel useful. It is the clearest sign yet that consumer AR glasses have moved from concept to product.",
+      "source": "Engadget",
+      "published": "2026-09-16T23:40:00.000Z",
+      "image": "https://www.engadget.com/img/gallery/snap-specs-hands-on-standalone-ar-glasses-are-here/l-intro-1789586955.jpg"
+    },
+    {
+      "title": "Anthropic merges Claude chat and Cowork into one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface",
+      "tldr": "Claude Cowork and Claude chat become a single interface, rolling out first to Pro and Max subscribers. It simplifies a product line that had grown confusing across chat, Cowork and Claude Code.",
+      "source": "TechCrunch",
+      "published": "2026-09-16T16:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?resize=1200,675"
+    },
+    {
+      "title": "Zach Cregger's Resident Evil breaks the all-time Rotten Tomatoes record",
+      "url": "https://www.slashfilm.com/2260475/zach-cregger-resident-evil-movie-rotten-tomatoes-record",
+      "tldr": "Cregger's Resident Evil reboot is now the best-reviewed video game film ever on Rotten Tomatoes, a rare critical result for a genre more used to being written off.",
+      "source": "/Film",
+      "published": "2026-09-16T17:49:48.000Z",
+      "image": "https://www.slashfilm.com/img/gallery/zach-creggers-resident-evil-movie-officially-breaks-all-time-rotten-tomatoes-record/l-intro-1789580825.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Anthropic and OpenAI want to embed independent safety evaluators",
+          "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent",
+          "tldr": "Both labs plan to place evaluators inside their own operations to watch for risk. Researchers welcome the access but say real oversight needs transparency the labs have not yet committed to.",
+          "source": "TechCrunch",
+          "published": "2026-09-16T21:07:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024"
+        },
+        {
+          "title": "OpenAI's framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "tldr": "OpenAI is publishing a framework for tracking, investigating and disclosing cases where its models misbehave, alongside six example reports, a step toward logging failures like other industries do.",
+          "source": "OpenAI",
+          "published": "2026-09-16T17:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Your AI agents can now control your Google Home devices",
+          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices",
+          "tldr": "Google is giving early access to an MCP server for Google Home, letting agents like Claude and ChatGPT control devices and review camera summaries, one of the biggest smart home systems yet to open up.",
+          "source": "TechCrunch",
+          "published": "2026-09-16T17:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?resize=1200,755"
+        },
+        {
+          "title": "Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "tldr": "OpenAI and AARP are running free, hands-on ChatGPT workshops for 1,000 older adults across 10 US cities. A practical, unglamorous use of AI that is easy to root for.",
+          "source": "OpenAI",
+          "published": "2026-09-16T16:00:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "How Fortell is using AI, and $163M, to crack a hearing aid monopoly",
+          "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly",
+          "tldr": "Founder Matthew de Jonge wants hearing aids to be as easy to adopt as glasses. Fortell has raised $163 million to build AI-driven devices for a market long dominated by a handful of manufacturers.",
+          "source": "TechCrunch",
+          "published": "2026-09-16T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fortell-Cofounders-Window2-Landscape-6000x3375-1.png?resize=1200,675"
+        },
+        {
+          "title": "A Japanese company has built a humanoid robot 'ambulance' for on-site repairs",
+          "url": "https://www.engadget.com/2259628/japan-ambulance-humanoid-robot-on-site-repairs",
+          "tldr": "The robot travels to broken-down machinery and carries out repairs on the spot. A practical, slightly charming answer to the question of what humanoid robots are actually for.",
+          "source": "Engadget",
+          "published": "2026-09-16T23:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/japanese-company-develops-a-humanoid-robot-ambulance-for-on-the-spot-repairs/l-intro-1789506872.jpg"
+        },
+        {
+          "title": "The Boox Note Air6C E Ink tablet flips pages nearly 40% faster",
+          "url": "https://www.engadget.com/2260455/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster",
+          "tldr": "The 10.3-inch colour e-reader runs Android 16 and can access the Google Play Store. Faster page turns sound minor, but it is the detail that has held colour e-ink back from feeling like a real reader.",
+          "source": "Engadget",
+          "published": "2026-09-16T17:36:21.000Z",
+          "image": "https://www.engadget.com/img/gallery/the-boox-note-air6c-e-ink-tablet-flips-pages-nearly-40-percent-faster/l-intro-1789580101.jpg"
+        },
+        {
+          "title": "Samsung brings One UI 9 to the rest of the Galaxy S26 series",
+          "url": "https://www.engadget.com/2260198/samsung-brings-one-ui-9-to-the-rest-of-the-galaxy-s26-series",
+          "tldr": "Features that debuted on Samsung's foldables, including My FanCam, are rolling out to the wider Galaxy S26 line, spreading its best software ideas across the range rather than keeping them exclusive.",
+          "source": "Engadget",
+          "published": "2026-09-16T15:04:14.000Z",
+          "image": "https://www.engadget.com/img/gallery/samsung-brings-one-ui-9-to-the-rest-of-the-galaxy-s26-series/l-intro-1789570900.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Photographer Tyler Stalman reviews the iPhone 18 Pro's new variable aperture camera",
+          "url": "https://9to5mac.com/2026/09/16/photographer-tyler-stalman-reviews-the-iphone-18-pros-new-camera-with-variable-aperture",
+          "tldr": "In his annual iPhone camera review, Stalman tests the iPhone 18 Pro's variable aperture, photographic styles and Apple's Reference Image feature. The most useful independent read yet on how it performs.",
+          "source": "9to5Mac",
+          "published": "2026-09-17T01:24:30.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/tyler-review.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Hands-on with the redesigned Health app in the iOS 27.2 beta",
+          "url": "https://www.macrumors.com/2026/09/16/ios-27-2-health-app-beta",
+          "tldr": "Apple's overhauled Health app, previewed at its September event, adds new Insights and Longevity tabs, bringing the app closer to rivals like Whoop and Oura on Apple's own hardware.",
+          "source": "MacRumors",
+          "published": "2026-09-16T21:21:23.000Z",
+          "image": "https://images.macrumors.com/t/hSgFH4pRJjapJtA2R_VaMVwoR0Y=/2500x/article-new/2026/09/iOS-27.4%E2%80%A6uh-.2-Health-App-Thumb.jpg"
+        },
+        {
+          "title": "Celebrating 'What Holds Us' on iPhone 18 Pro",
+          "url": "https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro",
+          "tldr": "A new photography exhibition curated by Kathy Ryan showcases the iPhone 18 Pro's pro camera system. Apple using craft, not spec sheets, to make the case for its camera.",
+          "source": "Apple Newsroom",
+          "published": "2026-09-16T13:59:28.902Z",
+          "image": "https://www.apple.com/newsroom/images/2026/09/celebrating-what-holds-us-on-iphone-18-pro/tile/Apple-photography-exhibition-hero-lp.jpg.og.jpg?202609162002"
+        },
+        {
+          "title": "Woz launches a merch store",
+          "url": "https://x.com/stevewoz/status/2100074363605397658",
+          "tldr": "Steve Wozniak says he is having a little more fun on X this year, speaking at events and now selling his own merchandise, a small, cheerful note from one of the industry's most enduring characters.",
+          "source": "Daring Fireball",
+          "published": "2026-09-16T21:38:27.000Z",
+          "image": "https://pbs.twimg.com/card_img/2100074315320541184/yEpUvi6J?format=webp&name=medium"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Onwards and Sideways' review: Laura Linney and Rhys Ifans lift John Madden's Parkinson's dramedy",
+          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/onwards-and-sideways-review-laura-linney-rhys-ifans-1236702940",
+          "tldr": "The British film follows two people who bond over a shared Parkinson's diagnosis, based on writer Paul Mayhew-Archer's own experience. Critics single out Linney and Ifans for understated performances.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-16T19:46:11.000Z",
+          "image": ""
+        },
+        {
+          "title": "'Growth of the Soil' review: Norway's Oscar entry is a robustly classical rural epic",
+          "url": "https://variety.com/2026/film/reviews/growth-of-the-soil-review-1236864341",
+          "tldr": "Hans Petter Moland's period epic, adapted from Knut Hamsun's novel, is Norway's submission for the international feature Oscar, a muscular, weatherbeaten piece of classical filmmaking.",
+          "source": "Variety",
+          "published": "2026-09-16T19:43:26.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/07/Growth-of-the-Soil.jpg"
+        },
+        {
+          "title": "James McAvoy and Rebel Wilson talk directorial debuts at TIFF",
+          "url": "https://variety.com/2026/film/news/james-mcavoy-rebel-wilson-tiff-1236861364",
+          "tldr": "McAvoy and Wilson discussed stepping behind the camera for the first time, alongside filmmakers Rachel Morrison and Liz Garbus, at Variety's Future in Focus panel.",
+          "source": "Variety",
+          "published": "2026-09-16T19:30:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/KF3_1864.jpg"
+        },
+        {
+          "title": "Guy Pearce reunites with Andrew Baird for Irish thriller 'Bottle'",
+          "url": "https://variety.com/2026/film/news/guy-pearce-andrew-baird-thriller-bottle-1236861859",
+          "tldr": "It is the pair's fourth film together. Pearce plays a violent pub owner who traps a troubled stranger, in what looks like another close, character-driven two-hander from the duo.",
+          "source": "Variety",
+          "published": "2026-09-16T19:02:15.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2293181657.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Paul George pokes fun at Joe Mazzulla in his introductory press conference",
+          "url": "https://www.celticsblog.com/celtics-analysis/146325/paul-george-pokes-fun-at-joe-mazzulla-hilarity-ensues",
+          "tldr": "George and new teammate Mike Conley delivered on the easy chemistry Celtics fans hoped for at their introduction on Tuesday. Both said they are happy to be in Boston.",
+          "source": "CelticsBlog",
+          "published": "2026-09-16T16:53:47.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2294936452.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Mike Conley and Payton Pritchard are already connecting on and off the court",
+          "url": "https://www.celticsblog.com/boston-celtics-news/146294/mike-conley-payton-pritchard-boston-celtics-connecting-on-off-court-point-guard-introductory-press-conference",
+          "tldr": "Conley says the pair have been working out together over the summer, building chemistry ahead of the season, an early sign of how the reshaped Celtics backcourt might fit together.",
+          "source": "CelticsBlog",
+          "published": "2026-09-16T05:13:22.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-1865631557.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Paul George can still change games on defense",
+          "url": "https://www.celticsblog.com/celtics-analysis/146104/paul-george-can-still-change-games-on-defense",
+          "tldr": "Despite questions about the trade that brought him to Boston, analysis suggests George's defensive impact remains real, a case for what he adds beyond replacing Jaylen Brown.",
+          "source": "CelticsBlog",
+          "published": "2026-09-16T10:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2274881639.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Drake Maye and his wife surprise Providence teachers with a back-to-school donation",
+          "url": "https://www.patriots.com/news/teachers-at-providence-elementary-school-surprised-with-generous-back-to-school-donation-from-drake-ann-michael-maye",
+          "tldr": "Maye and Ann Michael Maye paid for the Amazon classroom wish lists of more than 50 teachers and support staff at a Providence elementary school, ahead of Sunday's home opener.",
+          "source": "Patriots.com",
+          "published": "2026-09-16T14:47:05.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/wtorpeeyid2mccq9c9t7.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Game preview: Patriots vs. Steelers",
+          "url": "https://www.patriots.com/news/game-preview-patriots-vs-steelers-week2",
+          "tldr": "New England hosts Pittsburgh at Gillette Stadium on Sunday for its 2026 home opener, looking to bounce back after a 13-10 opening loss to Seattle.",
+          "source": "Patriots.com",
+          "published": "2026-09-16T13:28:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/xa4xwng5bl6jpnmfh45t.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Drake Maye ready to bounce back against the Steelers in Week 2",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/137312/drake-maye-bounce-back-steelers-nfl-week-2",
+          "tldr": "Maye threw three interceptions in his final three possessions of the opening loss to Seattle. He and the Patriots get an immediate chance to answer that at home against Pittsburgh.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-16T11:35:29.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2294807950.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Verstappen passes 100 amateur karters in 14 laps in exhibition race",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c50m3k7jk82jo",
+          "tldr": "The four-time world champion started at the back of the field and worked his way past 100 amateur drivers inside 14 laps at Silverstone, a joyful gap between amateur and elite.",
+          "source": "BBC Sport",
+          "published": "2026-09-16T18:11:19.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a10/live/57a73e20-b1f8-11f1-bd8b-ed45be4f6895.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "F1 to have 10 sprint races in 2027, including Monaco",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/crz9zvn5lzzpo",
+          "tldr": "Formula 1's 2027 calendar increases sprint weekends from six to 10, with Monaco hosting one for the first time. The 24-race season opens in Bahrain and closes in Abu Dhabi.",
+          "source": "BBC Sport",
+          "published": "2026-09-16T09:01:21.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/316d/live/f1668190-b146-11f1-a383-57f33d64a166.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Sebastian Vettel: 'I'd be very happy' for Kimi Antonelli to beat me as F1's youngest champion",
+          "url": "https://www.motorsport.com/f1/news/sebastian-vettel-id-be-very-happy-for-kimi-antonelli-to-beat-me-as-f1s-youngest-champion/10856263",
+          "tldr": "Vettel set the record in 2010 at 23 years and four months. He says he would welcome Antonelli, Mercedes' teenage prodigy, taking it from him.",
+          "source": "Motorsport.com",
+          "published": "2026-09-16T08:42:23.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/YvKBJR16/s6/kimi-antonelli-mercedes.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox drop series to Rangers after tough 7th inning",
+          "url": "https://www.overthemonster.com/red-sox-scores-standings/108833/red-sox-drop-series-to-rangers-after-tough-7th-inning",
+          "tldr": "Boston lost 7-3 in Texas but remains in solid position for a playoff spot, with the magic number still ticking down even through a rough week on the road.",
+          "source": "Over the Monster",
+          "published": "2026-09-17T03:03:59.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2295664093.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Chad Tracy hints at Red Sox calling up a Triple-A player with 60 steals for the postseason",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/16/boston-red-sox-playoffs-postseason-roster-steals-braiden-ward",
+          "tldr": "Interim manager Chad Tracy praised the aggressiveness of a Triple-A speedster as Boston shapes its postseason roster, a pure speed-and-chaos option for October.",
+          "source": "Boston.com",
+          "published": "2026-09-17T02:28:23.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/APTOPIX_Red_Sox_Twins_Spring_Baseball_63649-6aab4c6ce150c-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Houck and Crochet take key steps in rehab, with eyes on joining the bullpen",
+          "url": "https://www.mlb.com/redsox/news/tanner-houck-garrett-crochet-progress-in-injury-rehab",
+          "tldr": "Both pitchers are progressing toward a return as Boston pushes for the postseason. Fresh arms in the bullpen would matter a great deal down the stretch.",
+          "source": "MLB.com",
+          "published": "2026-09-16T23:19:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/exc16p6onpfigln0pb4t.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-i-built-lennyrpg",
+    "why": "Lenny turned 300+ podcast transcripts into a playable game, a concrete example of building a real product with AI rather than just talking about it, timely alongside today's Claude and Google Home news.",
+    "title": "How I built LennyRPG",
+    "subtitle": "Turning 300+ episode transcripts into a fun, playable game with AI",
+    "published": "2026-03-17",
+    "words": 4378,
+    "image": "https://substackcdn.com/image/fetch/$s_!ZbLz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9a5c1d4-371d-4bde-9429-25077e840ebc_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&uo=4",
+      "why": "Bloomberg built an information and product empire through sheer craft and relentless focus, the kind of operator story Damian studies.",
+      "show": "Founders",
+      "title": "#433 How Michael Bloomberg Works",
+      "published": "2026-09-14",
+      "duration": "49m",
+      "apple": "https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/ed-catmull",
+      "why": "Catmull co-built Pixar alongside Steve Jobs, squarely in Damian's wheelhouse of Disney, Jobs and the great product operators.",
+      "show": "David Senra",
+      "title": "Ed Catmull, Co-founder of Pixar",
+      "published": "2026-06-14",
+      "duration": "1h 35m",
+      "apple": "https://podcasts.apple.com/us/podcast/ed-catmull-co-founder-of-pixar/id1836497887?i=1000772605875&uo=4",
+      "page": "https://www.davidsenra.com/episode/ed-catmull",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/94/dd/05/94dd0516-abd9-f48a-85ad-fc1814d99d4f/mza_2714801930459083697.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/trader-joes",
+      "why": "A joyous case study in brand and product craft, a nice complement to today's product launch news from Snap and Anthropic.",
+      "show": "Acquired",
+      "title": "Trader Joe’s",
+      "published": "2025-10-27",
+      "duration": "3h 18m",
+      "apple": "https://podcasts.apple.com/us/podcast/trader-joes/id1050462261?i=1000733630276&uo=4",
+      "page": "https://www.acquired.fm/episodes/trader-joes",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/31/51/833151a1-d31b-b277-db05-d44c1cc9a3d9/mza_10997712225950733623.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Genius design details: pips and nubs",
+    "url": "https://kottke.org/26/09/genius-design-details-pips-and-nubs",
+    "tldr": "Furniture makers Craighill explain the origins of pips and nubs, the small tactile details that show up on dice, LEGO bricks and countless other everyday objects, a short tour of unglamorous good design.",
+    "source": "Kottke",
+    "published": "2026-09-16T21:02:00.000Z",
+    "image": "https://i.ytimg.com/vi/HqoGH8-MeNg/sddefault.jpg"
+  }
+}
