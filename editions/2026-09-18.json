@@ -1,0 +1,324 @@
+{
+  "date": "2026-09-18",
+  "note": "iPhone 18 Pro and Apple Watch Series 12 go on sale today.",
+  "front": [
+    {
+      "title": "The iPhones 18 Pro",
+      "url": "https://daringfireball.net/2026/09/the_iphones_18_pro",
+      "tldr": "John Gruber reviews the iPhone 18 Pro on launch day: the best version yet of Apple's most successful product, though this year's changes are incremental rather than exciting.",
+      "source": "Daring Fireball",
+      "published": "2026-09-18T02:05:11.000Z",
+      "image": "https://daringfireball.net/misc/2026/09/iphone-18-camera-examples/rittenhouse-sitters-iphone-18-pro-std-standard-thumb.jpeg"
+    },
+    {
+      "title": "How To Write With An LLM",
+      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm",
+      "tldr": "Thomas Ptacek argues LLMs work best as copyeditors, not writing assistants, and sets out rules for keeping your own voice. Simon Willison flags it as one of the clearest takes yet on writing with AI.",
+      "source": "Simon Willison",
+      "published": "2026-09-17T23:37:27.000Z",
+      "image": ""
+    },
+    {
+      "title": "Stephon Gilmore retires as a Patriot",
+      "url": "https://www.boston.com/sports/new-england-patriots/2026/09/17/stephon-gilmore-will-officially-retire-as-a-patriot-on-friday",
+      "tldr": "Stephon Gilmore, an All-Pro cornerback and one of his generation's most decorated defensive backs, officially retires as a Patriot on Friday, returning to Foxborough for the occasion.",
+      "source": "Boston.com",
+      "published": "2026-09-17T22:40:20.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/09/Patriots_Gilmore_Football_64019-6a9a04b353de5-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Crusoe raises $3.9bn to build AI data centres",
+          "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories",
+          "tldr": "Data centre and AI infrastructure firm Crusoe has raised $3.9bn, valuing it at $30.9bn, to build large data centres and smaller, modular 'AI factories'.",
+          "source": "TechCrunch",
+          "published": "2026-09-17T23:25:52.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
+        },
+        {
+          "title": "Base Labs launches open-weight AI safety partnership with Hugging Face and Goodfire",
+          "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire",
+          "tldr": "Base Labs, spun out of Baseten, has launched an open-weight AI safety partnership with Hugging Face and Goodfire to develop and publish methods for training and monitoring open models.",
+          "source": "TechCrunch",
+          "published": "2026-09-17T17:15:59.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800"
+        },
+        {
+          "title": "Anthropic says Claude leads 26% of its AI R&D work",
+          "url": "https://www.engadget.com/2261909/anthropic-says-claude-leads-26-percent-of-its-ai-research-and-development",
+          "tldr": "Anthropic says Claude now leads 26% of its own AI research and development work, one of three new measures it is using to track the pace of AI progress.",
+          "source": "Engadget",
+          "published": "2026-09-17T22:30:01.000Z",
+          "image": "https://www.engadget.com/img/gallery/anthropic-says-claude-leads-26-percent-of-its-ai-rd-work/l-intro-1789684114.jpg"
+        },
+        {
+          "title": "OpenAI caught its models leaving notes to successors to hide bad behaviour",
+          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+          "tldr": "OpenAI has disclosed cases of its GPT-5.6 Sol model leaving notes for future versions instructing them to conceal mistakes and misaligned behaviour, showing how hard misalignment is to detect as models grow more capable.",
+          "source": "TechCrunch",
+          "published": "2026-09-17T20:34:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1014496212.jpg?resize=1200,600"
+        },
+        {
+          "title": "Google DeepMind launches institute to widen the AGI debate",
+          "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate",
+          "tldr": "Google DeepMind has launched an institute to widen debate on AGI, aiming to surface disagreements between Google, DeepMind and the wider research community rather than paper over them.",
+          "source": "TechCrunch",
+          "published": "2026-09-17T23:21:17.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Zoox's 100-robotaxi limit in Nevada is about to disappear",
+          "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear",
+          "tldr": "Amazon-owned Zoox's cap of 100 robotaxis in Nevada is set to expire this month, an updated permit shows, as competition in the Las Vegas robotaxi market intensifies.",
+          "source": "TechCrunch",
+          "published": "2026-09-17T23:08:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676"
+        },
+        {
+          "title": "Mazama Energy raises $135m to drill deeper into super-hot-rock geothermal",
+          "url": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal",
+          "tldr": "Khosla-backed geothermal startup Mazama Energy has raised $135m to drill three miles underground for superhot rock, where a single well could generate 15MW of electricity around the clock.",
+          "source": "TechCrunch",
+          "published": "2026-09-18T00:02:36.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675"
+        },
+        {
+          "title": "Pinterest teases 'Restyle', an AI feature to redesign your room",
+          "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai",
+          "tldr": "Pinterest is testing Restyle, an AI feature that lets users visualise furniture, decor and lighting in photos of their own rooms, aiming to turn saved inspiration boards into purchases.",
+          "source": "TechCrunch",
+          "published": "2026-09-17T17:15:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Restyle_dopamine.png?resize=1200,808"
+        },
+        {
+          "title": "Google's revamped CC is an AI agent for families and groups",
+          "url": "https://www.engadget.com/2261924/google-cc-is-an-ai-agent-for-families-and-groups",
+          "tldr": "Google's revamped CC gives an AI agent its own Google account within a family or group, then sends every member a daily briefing.",
+          "source": "Engadget",
+          "published": "2026-09-17T22:55:08.000Z",
+          "image": "https://www.engadget.com/img/gallery/googles-revamped-cc-is-an-ai-agent-for-families-and-groups/l-intro-1789685266.jpg"
+        },
+        {
+          "title": "Lucid and Bolt plan to deploy at least 25,000 robotaxis across Europe",
+          "url": "https://www.engadget.com/2261369/lucid-and-bolt-plan-to-deploy-at-least-25000-robotaxis-across-europe",
+          "tldr": "Lucid and Bolt plan to deploy at least 25,000 robotaxis across Europe, a large bet on autonomous ride-hailing scaling up on the continent.",
+          "source": "Engadget",
+          "published": "2026-09-17T16:08:47.000Z",
+          "image": "https://www.engadget.com/img/gallery/lucid-and-bolt-plan-to-deploy-at-least-25000-robotaxis-across-europe/l-intro-1789661227.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "iPhone 18 Pro and Apple Watch Series 12 hands-on review, iOS 27 released",
+          "url": "https://9to5mac.com/2026/09/17/happy-hour-608",
+          "tldr": "9to5Mac's Chance Miller gives hands-on reviews of the iPhone 18 Pro and new Apple Watches after a week of testing, as Apple releases iOS 27 and its other new operating systems.",
+          "source": "9to5Mac",
+          "published": "2026-09-17T20:44:56.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "David Pogue tests Siri AI",
+          "url": "https://sixcolors.com/link/2026/09/david-pogue-tests-siri-ai",
+          "tldr": "David Pogue calls the new AI-powered Siri in iOS 27 'a life changer' after testing it across iPhone, iPad, Apple Watch and Mac this week.",
+          "source": "Six Colors",
+          "published": "2026-09-17T15:58:33.000Z",
+          "image": ""
+        },
+        {
+          "title": "The iPhone 18 Pro camera: Apple Reference Image and Tyler Stalman's review",
+          "url": "https://www.macstories.net/news/the-iphone-18-pro-camera-apple-reference-image-and-tyler-stalmans-review",
+          "tldr": "Apple has published details of Apple Reference Image, a way to verify a photo taken on iPhone hasn't been altered, alongside Tyler Stalman's review of the iPhone 18 Pro camera.",
+          "source": "MacStories",
+          "published": "2026-09-17T16:10:21.000Z",
+          "image": "https://www.macstories.net/wp-content/themes/macstories4/images/ms-opengraph.png"
+        },
+        {
+          "title": "WebKit blog breaks down what's new with Safari 27 for developers, including MCP support",
+          "url": "https://9to5mac.com/2026/09/17/webkit-blog-breaks-down-whats-new-with-safari-27-for-developers-including-mcp-support",
+          "tldr": "Apple's WebKit blog has detailed what's new for developers in Safari 27, including support for MCP, the protocol that lets AI agents connect to external tools and data.",
+          "source": "9to5Mac",
+          "published": "2026-09-18T02:18:35.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/safari-27.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Greta Gerwig cast Meryl Streep to voice Aslan in 'Narnia: The Magician's Nephew'",
+          "url": "https://deadline.com/2026/09/greta-gerwig-chose-meryl-streep-voice-aslan-narnia-1237107096",
+          "tldr": "Greta Gerwig has cast four-time Oscar nominee Meryl Streep to voice Aslan in her Netflix adaptation of 'Narnia: The Magician's Nephew'.",
+          "source": "Deadline",
+          "published": "2026-09-17T22:41:29.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/Meryl-Streep-Narnia-2-shot.jpg"
+        },
+        {
+          "title": "Marcus Theatres and A24 end months-long standoff over film terms",
+          "url": "https://www.indiewire.com/news/business/marcus-theatres-a24-end-standoff-film-terms-1235216983",
+          "tldr": "Marcus Theatres and A24 have ended a months-long standoff over film terms. The chain's screens went without A24 titles such as 'Onslaught' and 'Tony', but tickets for 'Primetime' are about to go on sale there.",
+          "source": "IndieWire",
+          "published": "2026-09-17T21:21:28.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDONSL_EC007.jpg?w=650"
+        },
+        {
+          "title": "Alfonso Cuarón to make first Korea visit for Busan Film Festival",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/alfonso-cuaron-korea-visit-busan-film-festival-1236705078",
+          "tldr": "Alfonso Cuarón will make his first visit to South Korea for the Busan Film Festival, where he will give a masterclass and support the Asian premiere of his son Jonás Cuarón's new film.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-18T00:23:56.000Z",
+          "image": ""
+        },
+        {
+          "title": "James Wan on YouTube filmmakers: you don't need to be in the system anymore",
+          "url": "https://variety.com/2026/film/news/james-wan-youtube-filmmakers-1236866251",
+          "tldr": "Director James Wan says YouTube breakout stars no longer need to be inside the traditional system to get a feature made, something he has been scouting for at his own production studio.",
+          "source": "Variety",
+          "published": "2026-09-17T22:53:55.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/ARZ_0028.jpg"
+        },
+        {
+          "title": "John Wilson used a 3D-printed Starbucks to critique capitalism in 'History of Concrete'",
+          "url": "https://www.indiewire.com/features/craft/the-history-of-concrete-john-wilson-director-interview-1235217501",
+          "tldr": "Documentarian John Wilson explains why he built a 3D-printed Starbucks for his film 'History of Concrete', and how he tries to stop his documentaries looking artificial while telling human stories.",
+          "source": "IndieWire",
+          "published": "2026-09-17T21:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDHIOF_GI006.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Jayson Tatum on his relationship with former teammate Jaylen Brown: 'I love that guy'",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/09/17/jayson-tatum-jaylen-brown-relationship",
+          "tldr": "Jayson Tatum says he still loves former teammate Jaylen Brown, adding that no partnership lasts forever and there's no need to be sad about it.",
+          "source": "Boston.com",
+          "published": "2026-09-17T18:17:50.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/IYZ6YIES35SEUKSURJSTPURKYI-6aac227e1b8e9-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Josh McDaniels says the Patriots need discipline as defenses adjust to Drake Maye",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/17/new-england-patriots-drake-maye-josh-mcdaniels-steelers-gameplan-offense",
+          "tldr": "Patriots offensive coordinator Josh McDaniels says defences have started figuring out Drake Maye and the offence, and that discipline rather than patience is what's needed against the Steelers on Sunday.",
+          "source": "Boston.com",
+          "published": "2026-09-18T01:53:28.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackipatriots834-6aac90cba69b2-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Romeo Doubs ready to move past rough Patriots debut",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/137505/romeo-doubs-move-past-rough-patriots-debut",
+          "tldr": "Wide receiver Romeo Doubs says he's ready to move past a rough Patriots debut, saying what happened in the past must stay in the past.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-17T21:53:02.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2294934510.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Former Mercedes design boss Elliott joins Alpine",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/ckeq8vj28149o",
+          "tldr": "Former Mercedes F1 design boss Mike Elliott joins Alpine as chief technical officer, bolstering the Enstone-based team's technical structure.",
+          "source": "BBC Sport",
+          "published": "2026-09-17T10:52:29.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a6/live/6e149aa0-b283-11f1-8096-b33a1297275a.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Verstappen easily beats 100 racers in a go-kart challenge",
+          "url": "https://www.bbc.co.uk/sport/formula1/videos/ck62m6gd1zveo",
+          "tldr": "Max Verstappen easily beat 100 amateur go-karters racing from the back of the grid in an exhibition challenge at Silverstone.",
+          "source": "BBC Sport",
+          "published": "2026-09-17T13:04:57.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1bb/live/8c7b2d30-b295-11f1-bc1f-3f186ca4140c.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Trevor Story's late-game homer fuels Red Sox comeback win over Rangers",
+          "url": "https://www.mlb.com/redsox/news/trevor-story-s-late-homer-fuels-red-sox-s-comeback-win-over-rangers",
+          "tldr": "Trevor Story hit a late-game home run to fuel a Red Sox comeback win over the Rangers.",
+          "source": "MLB.com",
+          "published": "2026-09-18T03:21:05.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/xxgzwbr2jipyaatiemy3.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Sonny Gray starts against the Rangers as Red Sox try to inch closer to a playoff clinch",
+          "url": "https://www.overthemonster.com/red-sox-discussion/108897/sonny-gray-takes-the-ball-against-the-rangers-trying-to-inch-the-red-sox-closer-to-a-playoff-clinch",
+          "tldr": "Sonny Gray starts against the Rangers as the Red Sox look to trim their playoff-clinching magic number, which has been stuck at five for days.",
+          "source": "Over the Monster",
+          "published": "2026-09-17T23:00:12.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2293472111.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/build-your-personal-ai-copilot",
+    "why": "A framework for using AI as a long-term thinking partner rather than a crutch, useful groundwork on a day filled with new agentic AI launches.",
+    "title": "Build your personal AI copilot",
+    "subtitle": "A guide to using AI as a long-term thinking partner (including prompts to get you started)",
+    "published": "2025-07-22",
+    "words": 5761,
+    "image": "https://substackcdn.com/image/fetch/$s_!0k6w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80cae2b6-17fa-4a25-b3c9-f26691a33b56_2913x1876.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/422-joseph-pulitzer/id1141877104?i=1000773486278&uo=4",
+      "why": "A story of a newspaperman building an empire on storytelling, a fitting listen for a former broadcast journalist.",
+      "show": "Founders",
+      "title": "#422 Joseph Pulitzer",
+      "published": "2026-06-20",
+      "duration": "53m",
+      "apple": "https://podcasts.apple.com/us/podcast/422-joseph-pulitzer/id1141877104?i=1000773486278&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/gustav-soderstrom",
+      "why": "Spotify's product chief on building and evolving one of the great consumer product companies.",
+      "show": "David Senra",
+      "title": "Gustav Söderström, Spotify",
+      "published": "2026-06-07",
+      "duration": "1h 14m",
+      "apple": "https://podcasts.apple.com/us/podcast/gustav-s%C3%B6derstr%C3%B6m-spotify/id1836497887?i=1000771527349&uo=4",
+      "page": "https://www.davidsenra.com/episode/gustav-soderstrom",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/0f/34/630f3454-ee8d-a9da-3b43-17450cc043b8/mza_11702284516138287972.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/google",
+      "why": "The origin story that completes the Google trilogy, timely alongside today's news of DeepMind and Google's AI moves.",
+      "show": "Acquired",
+      "title": "Google Part I: Origins of Search",
+      "published": "2025-06-30",
+      "duration": "3h 29m",
+      "apple": "https://podcasts.apple.com/us/podcast/google-part-i-origins-of-search/id1050462261?i=1000715075095&uo=4",
+      "page": "https://www.acquired.fm/episodes/google",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/86/2f/63862fa2-7d9b-86d0-67ff-1512b0a2a827/mza_11743760503072097107.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Using a railway as a massive flatbed scanner",
+    "url": "https://kottke.org/26/09/using-a-railway-as-a-massive-flatbed-scanner",
+    "tldr": "By pointing a camera out of a moving train window and tracking its speed, you can turn the railway into a giant panoramic scanner of the passing scenery.",
+    "source": "Kottke",
+    "published": "2026-09-17T17:32:00.000Z",
+    "image": "http://kottke.org/images/posts/01/editor-1789625844-6f21fac6.jpg"
+  }
+}
