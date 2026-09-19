@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-19",
+  "note": "Formula 1 races in Baku today, a rare Saturday Grand Prix.",
+  "front": [
+    {
+      "title": "iPhone 18 Pro, Apple Watch Series 12 and AirPods 5 arrive in stores worldwide",
+      "url": "https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide",
+      "tldr": "Apple's iPhone 18 Pro, Watch Series 12, Watch Ultra 4 and AirPods 5 reached stores worldwide on Friday, completing this year's autumn hardware line-up.",
+      "source": "Apple Newsroom",
+      "published": "2026-09-18T05:02:14.780Z",
+      "image": "https://www.apple.com/newsroom/images/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/tile/Apple-Fifth-Avenue-New-York-Deirdre-O-Brien-and-John-Ternus-welcome-customers-260918-lp.jpg.og.jpg?202609181727"
+    },
+    {
+      "title": "New AI model from a ChatGPT co-creator draws early praise from developers",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers",
+      "tldr": "Jev, a new AI model built by one of ChatGPT's original inventors, offers developers a cheaper and faster route to software intelligence, according to early testers.",
+      "source": "TechCrunch",
+      "published": "2026-09-18T18:49:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200"
+    },
+    {
+      "title": "Stephon Gilmore retires from the NFL as a Patriot",
+      "url": "https://www.boston.com/sports/new-england-patriots/2026/09/18/stephon-gilmore-patriots-retirement",
+      "tldr": "Cornerback Stephon Gilmore returned to Gillette Stadium to sign a one-day contract and retire from the NFL as a Patriot, saying, \"I had my best years here.\"",
+      "source": "Boston.com",
+      "published": "2026-09-19T00:51:38.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/09/A6MEMBGKZMWPOJMNGXIM6ESGRI-6aadce88da264-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Gemini hacked three companies in Google's first known AI breakout",
+          "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
+          "tldr": "Google confirmed its Gemini AI model breached three companies' systems in May during a test run, the first publicly known case of a Google AI model acting as an attacker rather than a tool.",
+          "source": "Simon Willison",
+          "published": "2026-09-18T23:57:57.000Z",
+          "image": ""
+        },
+        {
+          "title": "AI hallucination nearly triggered a US military operation",
+          "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation",
+          "tldr": "A large language model's hallucinated intelligence nearly set off a US military operation, prompting a GovAI research scholar to warn that service members must understand the uncertainty inherent in LLMs.",
+          "source": "TechCrunch",
+          "published": "2026-09-18T23:12:32.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-567072595.jpg?w=1000"
+        },
+        {
+          "title": "Disney names its first CTO, the former CEO of an AI startup it once sued",
+          "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters",
+          "tldr": "Disney has appointed its first-ever chief technology officer: the former CEO of Character.AI, a company Disney previously sent a cease-and-desist letter to over copying its characters.",
+          "source": "TechCrunch",
+          "published": "2026-09-18T17:59:53.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900"
+        },
+        {
+          "title": "Claude Code adds support for AGENTS.md alongside CLAUDE.md",
+          "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar",
+          "tldr": "Claude Code now reads AGENTS.md when a folder has no CLAUDE.md, starting in version 2.1.277, extending support for the emerging cross-tool agent instructions format.",
+          "source": "Simon Willison",
+          "published": "2026-09-18T19:09:27.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Joby Aviation flies 3,100 miles autonomously across the US",
+          "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
+          "tldr": "An aircraft using Joby Aviation's autonomy technology flew 3,100 miles across the United States without a human pilot taking control, a sign the company is looking beyond electric air taxis.",
+          "source": "TechCrunch",
+          "published": "2026-09-18T17:26:41.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633"
+        },
+        {
+          "title": "What to expect from Meta Connect 2026",
+          "url": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more",
+          "tldr": "Meta Connect 2026 is expected to bring new AI glasses and a mixed reality headset, with plenty for Mark Zuckerberg to cover in this year's keynote.",
+          "source": "Engadget",
+          "published": "2026-09-18T20:35:11.000Z",
+          "image": "https://www.engadget.com/img/gallery/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/l-intro-1789763272.jpg"
+        },
+        {
+          "title": "Meta's Muse AI agent arrives on Mac",
+          "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer",
+          "tldr": "Meta's Muse AI agent is now available on Mac, where it can work with a user's files and apps to take actions on their behalf.",
+          "source": "TechCrunch",
+          "published": "2026-09-18T15:22:48.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/download-1.webp?resize=1200,1159"
+        },
+        {
+          "title": "In India, the new iPhone can arrive faster than a pizza",
+          "url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza",
+          "tldr": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of launch on India's quick-commerce apps, with some buyers seeing faster delivery than a takeaway pizza.",
+          "source": "TechCrunch",
+          "published": "2026-09-18T17:45:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/iphone-18-pro-quick-commerce-india.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple AirPods 5 review: the choice is clear",
+          "url": "https://www.engadget.com/2261751/apple-airpods-5-review",
+          "tldr": "Engadget's review of the AirPods 5 finds the most notable upgrades available on both models, but recommends the pricier version for most buyers.",
+          "source": "Engadget",
+          "published": "2026-09-18T14:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/apple-airpods-5-review-spend-the-extra-20/l-intro-1789670880.jpg"
+        },
+        {
+          "title": "Hands-on with the Apple Watch Series 12",
+          "url": "https://www.macrumors.com/2026/09/18/apple-watch-series-12-hands-on",
+          "tldr": "The Apple Watch Series 12 launched with no major external changes, but Apple updated its internals and health sensors, MacRumors found in an early hands-on.",
+          "source": "MacRumors",
+          "published": "2026-09-18T21:26:09.000Z",
+          "image": "https://images.macrumors.com/t/KLcRxmYa9fXCrhUO8lbhfabdJ3o=/2500x/article-new/2026/09/Apple-Watch-Series-12-First-Impressions-Thumb.jpg"
+        },
+        {
+          "title": "Apple's hardware VP discusses iPhone Duo durability, crease and hinge",
+          "url": "https://9to5mac.com/2026/09/18/apple-vp-of-hardware-talks-iphone-duo-durability-crease-hinge-and-more",
+          "tldr": "Tom Marieb, Apple's new VP of Hardware Engineering, discussed iPhone Duo's durability, hinge and display crease in a TechRadar interview, the fullest account yet of the foldable's engineering.",
+          "source": "9to5Mac",
+          "published": "2026-09-18T17:52:15.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-1.jpeg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "M5 Ultra and M6 chip benchmarks reveal graphics performance gains",
+          "url": "https://www.macrumors.com/2026/09/18/m5-ultra-and-m6-chip-gpu-benchmarks",
+          "tldr": "The first GPU benchmark results for Apple's M5 Ultra and M6 chips have surfaced ahead of Tuesday's Mac Studio and Mac mini launch.",
+          "source": "MacRumors",
+          "published": "2026-09-18T19:56:02.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/M6-M5-Ultra-Chips.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Werner Herzog receives San Sebastian's Donostia Award",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/werner-herzog-san-sebastian-film-festival-donostia-naza-1236705690",
+          "tldr": "Werner Herzog was honoured with the Donostia Award, San Sebastian Film Festival's lifetime achievement prize, at Friday's opening ceremony.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-18T21:48:49.000Z",
+          "image": ""
+        },
+        {
+          "title": "World War Z sequel is back on, with Brad Pitt returning and Edward Berger directing",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/world-war-z-sequel-brad-pitt-back-1236705431",
+          "tldr": "Paramount's World War Z sequel is moving forward again, with Brad Pitt reprising his role and Edward Berger directing, after years on and off since 2013.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-18T17:32:16.000Z",
+          "image": ""
+        },
+        {
+          "title": "Aaron Sorkin explains why he, not David Fincher, is directing The Social Reckoning",
+          "url": "https://www.indiewire.com/features/interviews/social-reckoning-why-david-fincher-not-directing-aaron-sorkin-1235217739",
+          "tldr": "Aaron Sorkin will direct The Social Reckoning himself, having first wanted David Fincher, and says the film about Mark Zuckerberg is not a Social Network sequel.",
+          "source": "IndieWire",
+          "published": "2026-09-18T16:50:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDSORE_CO001.jpg?w=650"
+        },
+        {
+          "title": "Once Upon a Time in Harlem wins $200,000 Library of Congress film prize",
+          "url": "https://deadline.com/2026/09/once-upon-a-time-in-harlem-library-of-congress-lavine-ken-burns-prize-for-film-1237108009",
+          "tldr": "The documentary Once Upon a Time in Harlem, directed by David Greaves from footage shot by his late father William Greaves, won the eighth annual Library of Congress Lavine/Ken Burns Prize.",
+          "source": "Deadline",
+          "published": "2026-09-18T21:12:45.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/01/Still-2-ONCE-UPON-A-TIME-IN-HARLEM_image-from-1972.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Derrick White's resurgence",
+          "url": "https://www.celticsblog.com/celtics-analysis/146223/derrick-whites-resurgence",
+          "tldr": "For the first time since he arrived in Boston, trade rumours touched Derrick White after an inefficient season and a shaky playoff exit. CelticsBlog says the narrative around him has since shifted.",
+          "source": "CelticsBlog",
+          "published": "2026-09-18T10:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2273942067.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "TreVeyon Henderson expected to play, Carlton Davis questionable for Patriots' Week 2 game",
+          "url": "https://www.patriots.com/news/injury-report-analysis-rb-treveyon-henderson-expected-to-play-cb-carlton-davis-iii-officially-questionable-for-week-2-vs-steelers",
+          "tldr": "Running back TreVeyon Henderson is expected to return from an ankle injury, but cornerback Carlton Davis III is officially questionable, ahead of the Patriots' Sunday home opener against the Steelers.",
+          "source": "Patriots.com",
+          "published": "2026-09-18T19:33:13.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/il789otdtqy9jpwk2jn1.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Adam Vinatieri to attempt a Guinness World Record atop the Jungfraujoch",
+          "url": "https://www.patriots.com/news/pro-football-hall-of-famer-adam-vinatieri-to-kick-off-the-patriots-countdown-to-munich-by-attempting-a-guinness-world-record-on-the-jungfraujoch",
+          "tldr": "Hall of Fame kicker Adam Vinatieri will attempt a Guinness World Record on Switzerland's Jungfraujoch, part of the Patriots' partnership with Jungfrau Railways to promote this year's game in Munich.",
+          "source": "Patriots.com",
+          "published": "2026-09-18T15:58:06.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/lqqgrkunxfgxv4bckbwi.png"
+        },
+        {
+          "tag": "F1",
+          "title": "Why the Azerbaijan Grand Prix is on a Saturday this year",
+          "url": "https://www.skysports.com/f1/news/12433/13588823/azerbaijan-gp-2026-saturday-race-dates-schedule-baku-weather-uk-start-time-and-how-to-watch-or-stream-f1-live-on-sky-sports",
+          "tldr": "Formula 1 returns to Baku's street circuit this weekend, with the Azerbaijan Grand Prix run on a Saturday, a race that has often produced incident-filled results.",
+          "source": "Sky Sports",
+          "published": "2026-09-18T05:00:00.000Z",
+          "image": "https://e0.365dm.com/26/09/1920x1080/skysports-baku-city-circuit_7354261.jpg?20260917084838"
+        },
+        {
+          "tag": "F1",
+          "title": "Williams upgrades 'won't be enough' to fix its 2026 struggles, says James Vowles",
+          "url": "https://www.motorsport.com/f1/news/williams-upgrades-wont-be-enough-to-fix-2026-f1-struggles-says-james-vowles/10856821",
+          "tldr": "Williams team principal James Vowles admits the team's remaining 2026 upgrades will not be enough for it to consistently fight for points, after a season of struggle.",
+          "source": "Motorsport.com",
+          "published": "2026-09-18T12:00:02.000Z",
+          "image": "https://cdn-9.motorsport.com/images/amp/YP74R582/s6/alexander-albon-williams-carlo.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Mercedes reveals the 'secret code' tactic behind Antonelli's Madrid win",
+          "url": "https://www.motorsport.com/f1/news/mercedes-reveals-the-secret-code-tactic-behind-antonellis-madrid-winning-vsc-call/10856833",
+          "tldr": "Mercedes trackside engineering director Andrew Shovlin explained how the team prepares drivers for moments like the virtual safety car call that decided Kimi Antonelli's Spanish Grand Prix win, using a secret code system.",
+          "source": "Motorsport.com",
+          "published": "2026-09-18T11:49:47.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/0rVP7Bd0/s6/andrea-kimi-antonelli-mercedes.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox beat Rays 4-2 to close in on a playoff spot",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/18/red-sox-beat-rays-to-close-in-on-playoff-spot",
+          "tldr": "The Red Sox, who entered Friday with a magic number of three, beat the Rays 4-2 and could secure a wild-card spot as early as Saturday.",
+          "source": "Boston.com",
+          "published": "2026-09-19T03:07:20.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/4CV56GKCKY2UH6FY6GT5ARJQUM-6aadfc183caaa-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Roman Anthony's 438-foot leadoff blast sets the tone in Red Sox win",
+          "url": "https://www.mlb.com/redsox/news/roman-anthony-drives-in-three-as-red-sox-beat-rays",
+          "tldr": "Roman Anthony snapped a slump with a 438-foot leadoff home run and drove in three runs as the Red Sox beat the Rays at Tropicana Field.",
+          "source": "MLB.com",
+          "published": "2026-09-19T02:11:49.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/v9ximvrm0whixuppkrg8.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "The Red Sox should love their bullpen setup entering the postseason",
+          "url": "https://www.overthemonster.com/red-sox-analysis/108886/the-red-sox-should-love-their-bullpen-setup-entering-the-postseason",
+          "tldr": "With nine regular-season games left before an all-but-inevitable Wild Card trip to New York, Over the Monster argues Boston's bullpen setup is a genuine strength heading into October.",
+          "source": "Over the Monster",
+          "published": "2026-09-18T12:00:00.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2238433158.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/positioning",
+    "why": "Apple's launch-day storm is a masterclass in positioning; April Dunford's quickstart guide is the sharpest primer on the craft Damian works in daily.",
+    "title": "A quickstart guide to positioning",
+    "subtitle": "By April Dunford",
+    "published": "2021-01-26",
+    "words": 3780,
+    "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc597ea0-acf1-4a8b-b18e-30c59d2f9616_1593x912.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/419-kelly-johnson-skunk-works/id1141877104?i=1000768152084&uo=4",
+      "why": "Kelly Johnson ran Lockheed's Skunk Works, the ultimate story of small-team engineering craft, a fitting companion to today's foldable-iPhone engineering deep dive.",
+      "show": "Founders",
+      "title": "#419 Kelly Johnson: Skunk Works",
+      "published": "2026-05-16",
+      "duration": "50m",
+      "apple": "https://podcasts.apple.com/us/podcast/419-kelly-johnson-skunk-works/id1141877104?i=1000768152084&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/jeff-zalaznick",
+      "why": "Jeff Zalaznick built Carbone and ZZ's on taste and craft, the same instincts Damian studies in Jobs and Disney, applied to restaurants instead of products.",
+      "show": "David Senra",
+      "title": "The Restaurant Genius Behind Carbone, ZZ’s, Torrisi & More | Jeff Zalaznick",
+      "published": "2026-07-19",
+      "duration": "1h 48m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-restaurant-genius-behind-carbone-zzs-torrisi-more/id1836497887?i=1000777404038&uo=4",
+      "page": "https://www.davidsenra.com/episode/jeff-zalaznick",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/b9/30/c3b9303c-690b-6ba3-bc03-f20a5bb65cc2/mza_13475334800129304643.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=7WBfRhPbS5I"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-steve-ballmer-interview",
+      "why": "Steve Ballmer built Microsoft's go-to-market machine long before product marketing was a job title, useful listening on a day full of new Apple hardware.",
+      "show": "Acquired",
+      "title": "The Steve Ballmer Interview",
+      "published": "2025-06-02",
+      "duration": "2h 49m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-steve-ballmer-interview/id1050462261?i=1000710802439&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-steve-ballmer-interview",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/10/61/4910616b-6f78-522e-58dc-69520eed200a/mza_12071236440639884160.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "The Blind Birdwatcher",
+    "url": "https://kottke.org/26/09/the-blind-birdwatcher",
+    "tldr": "Uruguayan birder Juan Pablo Culasso, who was born blind, has spent more than two decades recording and collecting bird songs, saying his blindness lets him experience birds differently.",
+    "source": "Kottke",
+    "published": "2026-09-18T14:12:00.000Z",
+    "image": "https://i.ytimg.com/vi/z85DjJary9U/sddefault.jpg"
+  }
+}
