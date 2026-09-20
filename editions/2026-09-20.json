@@ -1,0 +1,309 @@
+{
+  "date": "2026-09-20",
+  "front": [
+    {
+      "title": "iOS 27 makes your iPhone faster in more than 30 ways",
+      "url": "https://9to5mac.com/2026/09/19/ios-27-makes-your-iphone-faster-in-30-ways-heres-the-full-list",
+      "tldr": "Apple's iOS 27 update is out for every supported iPhone, with tweaks the company says speed up more than 30 everyday tasks. No new features, just the same phone doing more with less lag.",
+      "source": "9to5Mac",
+      "published": "2026-09-20T00:16:46.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "Tom Cruise reveals how he cut Digger transformation time from six hours to under one",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-transformation-makeup-cut-time-1236706159",
+      "tldr": "Tom Cruise says the makeup process for his unrecognisable role in Alejandro G. Iñárritu's dark comedy Digger was trimmed from six hours to under one during filming. It opens in cinemas on 2 October.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-19T22:22:28.000Z",
+      "image": ""
+    },
+    {
+      "title": "Matthew Rhys becomes first person to win two lead acting Emmys in one night",
+      "url": "https://www.bbc.co.uk/news/articles/c61wx47n0408o",
+      "tldr": "The Cardiff-born actor won both lead drama and lead comedy Emmys at Saturday's ceremony, a first for any performer. His sister said the family watched from home.",
+      "source": "BBC",
+      "published": "2026-09-19T20:34:46.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6be1/live/91eccaa0-b464-11f1-a184-cb4c2456e9a6.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+          "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking",
+          "tldr": "Vals AI wants to become a neutral, trusted benchmark for judging AI models as new ones launch every week. Independent testing is scarce, and demand for it is growing.",
+          "source": "TechCrunch",
+          "published": "2026-09-19T13:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800"
+        },
+        {
+          "title": "Petlibro's new AI-powered feeder is a game changer for multi-cat homes",
+          "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes",
+          "tldr": "Petlibro's new Granary 2 feeders use a built-in scale, and on pricier models an AI camera, to track exactly how much each cat eats and when, useful in multi-cat households where owners cannot always tell who ate what.",
+          "source": "TechCrunch",
+          "published": "2026-09-19T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200"
+        },
+        {
+          "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+          "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+          "tldr": "UP.Labs, rebranding as Vantora, builds startups for industrial corporations and has raised $100 million to focus on physical AI, designing and launching new ventures rather than just investing in them.",
+          "source": "TechCrunch",
+          "published": "2026-09-18T23:25:01.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781"
+        },
+        {
+          "title": "datasette-auth-github 1.0",
+          "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github",
+          "tldr": "Simon Willison shipped version 1.0 of his GitHub login plugin for Datasette, fixing a bug that was cutting authenticated sessions short. A small, useful release from someone building in the open.",
+          "source": "Simon Willison",
+          "published": "2026-09-19T19:52:02.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "SpaceX targets September 28 for Starship's first orbital flight",
+          "url": "https://www.engadget.com/2263238/spacex-targets-september-28-for-the-starships-first-orbital-flight",
+          "tldr": "SpaceX is aiming for 28 September for Starship's 14th test flight, its first full orbital mission, with the vehicle circling Earth for about ten hours.",
+          "source": "Engadget",
+          "published": "2026-09-19T19:45:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/spacex-targets-september-28-for-starships-first-orbital-flight/l-intro-1789845774.jpg"
+        },
+        {
+          "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+          "url": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations",
+          "tldr": "Anthropic has hired Accenture to run independent safety evaluations of its models, a step toward outside checks on how its AI systems behave.",
+          "source": "Engadget",
+          "published": "2026-09-19T18:33:46.000Z",
+          "image": "https://www.engadget.com/img/gallery/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/l-intro-1789841893.jpg"
+        },
+        {
+          "title": "The US Navy's tech wish list for the next several years",
+          "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors",
+          "tldr": "Navy CTO Justin Fanelli described co-investing alongside VCs rather than funding research alone, including a $562 million autonomous refuelling deal, as part of trying to move faster on new technology.",
+          "source": "TechCrunch",
+          "published": "2026-09-19T17:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart.png?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Tyler Stalman's iPhone 18 Pro camera review",
+          "url": "https://www.youtube.com/watch?v=m6cDErtCKAc",
+          "tldr": "Stalman shot photos side by side with a film SLR loaded with Kodak Portra 400 to compare against the iPhone 18 Pro's new film-look Photographic Styles. Daring Fireball called it splendid.",
+          "source": "Daring Fireball",
+          "published": "2026-09-19T16:29:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Austin Mann's iPhone 18 Pro camera review, from Dunton, Colorado",
+          "url": "https://www.austinmann.com/trek/iphone-18-pro-camera-review-dunton",
+          "tldr": "Austin Mann spent a week testing the iPhone 18 Pro's camera and variable aperture at a remote river camp in southwest Colorado for his annual review.",
+          "source": "Daring Fireball",
+          "published": "2026-09-19T15:37:39.000Z",
+          "image": "https://www.austinmann.com/content/trek/iphone-18-pro-camera-review-dunton/images/IMG_6267_crop_share.jpg"
+        },
+        {
+          "title": "iPhone 18 Pro Max's battery is so big Apple had to add this new feature to iOS 27",
+          "url": "https://9to5mac.com/2026/09/19/iphone-18-pro-maxs-battery-is-so-big-apple-had-to-add-this-new-feature-to-ios-27",
+          "tldr": "The iPhone 18 Pro Max's battery is large enough that Apple added a specific feature to iOS 27 to handle it, according to a new support document.",
+          "source": "9to5Mac",
+          "published": "2026-09-19T11:10:57.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-max-ship.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple exec says 'hold us accountable' on iPhone Duo crease",
+          "url": "https://www.macrumors.com/2026/09/19/apple-exec-iphone-crease",
+          "tldr": "Hardware engineering VP Tom Marieb told TechRadar the iPhone Duo's matte nano-texture display is meant to hide its fold, and said Apple should be judged on whether that holds up.",
+          "source": "MacRumors",
+          "published": "2026-09-19T04:51:11.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-weather.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Resident Evil scares up $26 million on opening day",
+          "url": "https://variety.com/2026/film/box-office/box-office-resident-evil-zach-cregger-1236869586",
+          "tldr": "Zach Cregger's Resident Evil reboot, starring Austin Abrams, took $26.3 million on its opening day and is tracking toward a big weekend, the year's best-reviewed horror title.",
+          "source": "Variety",
+          "published": "2026-09-19T16:06:01.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/MCDREEV_SP038.jpg"
+        },
+        {
+          "title": "40 years ago today: Blue Velvet changed Hollywood forever",
+          "url": "https://www.slashfilm.com/2251163/blue-velvet-neo-noir-mystery-movie-40-year-anniversary",
+          "tldr": "David Lynch's neo-noir mystery Blue Velvet was released 40 years ago today, a film widely seen as a turning point for both Lynch and Hollywood more broadly.",
+          "source": "/Film",
+          "published": "2026-09-19T16:30:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/40-years-ago-today-a-genre-defining-neo-noir-mystery-movie-changed-hollywood-forever/l-intro-1788537160.jpg"
+        },
+        {
+          "title": "John Wilson on The History of Concrete and what's wrong with the documentary space",
+          "url": "https://variety.com/2026/film/news/john-wilson-history-of-concrete-1236867369",
+          "tldr": "Wilson's new documentary is, fittingly, about the history of concrete. He argues too much of the documentary genre now retells stories that have already happened rather than finding new ones.",
+          "source": "Variety",
+          "published": "2026-09-19T16:30:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/magnolia-e1789773000181.webp"
+        },
+        {
+          "title": "Naomi Watts dedicates Donostia Award to David Lynch",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/naomi-watts-san-sebastian-donostia-award-david-lynch-film-1236706124",
+          "tldr": "At the San Sebastián Film Festival, Watts dedicated her honour to her Mulholland Drive director David Lynch, saying 'I miss you', and thanked co-star Tom Holland.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-19T21:19:07.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Payton Pritchard is set up to have a career year",
+          "url": "https://www.celticsblog.com/celtics-analysis/146385/payton-pritchard-is-set-to-have-a-career-year-boston-celtics-pritch-11-nba",
+          "tldr": "Pritchard began last season as Boston's starting point guard before moving to the bench in February when Anfernee Simons arrived. He now looks set for a big year with the Celtics.",
+          "source": "CelticsBlog",
+          "published": "2026-09-19T09:37:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2265495352.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "NFL makes rule change to prevent Patriots' strategic home-field advantage",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/19/nfl-makes-rule-change-to-prevent-patriots-strategic-home-field-advantage",
+          "tldr": "New England had spent years using a tactic to unsettle opposing kickers at home, and the NFL has now changed its rules to stop it.",
+          "source": "Boston.com",
+          "published": "2026-09-20T01:17:34.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/butkerr-6aaf30734968f-scaled-e1789866139122-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots defense expects challenge from Steelers' 'conflict piece'",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/137589/patriots-defense-expects-challenge-from-steelers-conflict-piece",
+          "tldr": "Pittsburgh's offence pairs quarterback Aaron Rodgers with receiver DK Metcalf, and New England's defence is preparing for the threat ahead of Sunday's home opener.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-19T09:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2256162227.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots CB Carlton Davis ruled out of home opener vs. Steelers",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/19/nfl-patriots-injury-update-carlton-davis-out",
+          "tldr": "Davis, listed as questionable with a neck injury on Friday, was downgraded to out on Saturday and will miss New England's home opener against Pittsburgh.",
+          "source": "Boston.com",
+          "published": "2026-09-19T22:08:20.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/C6JNMPMPVJLMHUCJTQDHIB56DY-6aaf04712b616-scaled-e1789854851210-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Kimi Antonelli hailed as 'phenomenon' as David Coulthard rejects luck claims",
+          "url": "https://www.motorsport.com/f1/news/kimi-antonelli-hailed-as-phenomenon-as-david-coulthard-rejects-luck-claims/10857078",
+          "tldr": "Former F1 driver David Coulthard dismissed suggestions that championship leader Kimi Antonelli's success is down to luck, calling the Mercedes driver a phenomenon.",
+          "source": "Motorsport.com",
+          "published": "2026-09-19T09:31:59.000Z",
+          "image": "https://cdn-7.motorsport.com/images/amp/0JXRzroY/s6/kimi-antonelli-mercedes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "George Russell praised for honest admission about Kimi Antonelli's F1 form",
+          "url": "https://www.motorsport.com/f1/news/george-russell-praised-for-honest-admission-about-kimi-antonellis-f1-form/10857086",
+          "tldr": "David Coulthard praised Russell for openly admitting that his Mercedes team-mate Antonelli, now the championship leader, is currently doing a better job than he is.",
+          "source": "Motorsport.com",
+          "published": "2026-09-19T17:00:02.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/2wlKPGBY/s6/george-russell-mercedes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Ferrari reveals special black race suit for Charles Leclerc at F1 Singapore GP",
+          "url": "https://www.motorsport.com/f1/news/ferrari-reveals-special-black-race-suit-for-charles-leclerc-at-f1-singapore-gp/10857172",
+          "tldr": "Ferrari has designed a special-edition black race suit for Leclerc to wear at next month's Singapore Grand Prix, departing from the team's usual red.",
+          "source": "Motorsport.com",
+          "published": "2026-09-19T14:07:24.000Z",
+          "image": "https://cdn-7.motorsport.com/images/amp/0Zq8Wp86/s6/charles-leclerc-ferrari.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Boston's clinch will have to wait after Bello's 11-K gem is spoiled",
+          "url": "https://www.mlb.com/redsox/news/brayan-bello-strikes-out-11-red-sox-fall-rays-walk-off",
+          "tldr": "Brayan Bello struck out 11 batters, but the Red Sox lost 2-1 to the Rays on a ninth-inning single, delaying Boston's playoff clinch for at least another day.",
+          "source": "MLB.com",
+          "published": "2026-09-20T01:04:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/muyilx8ogs674nzamtue.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Crochet, Houck making good progress toward return for Red Sox",
+          "url": "https://www.mlb.com/redsox/news/garrett-crochet-tanner-houck-making-progress-in-injury-rehab",
+          "tldr": "Garrett Crochet and Tanner Houck are both progressing well in their injury rehab, good news for Boston as it heads toward the playoffs.",
+          "source": "MLB.com",
+          "published": "2026-09-20T00:42:57.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/hfinqluy6uo5si3f6chm.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/what-people-are-vibe-coding-and-actually",
+    "why": "Fifty-plus real examples of people vibe-coding useful tools, good fuel for your own side projects.",
+    "title": "What people are vibe coding (and actually using)",
+    "subtitle": "50+ useful/fun/clever examples of what non-technical people are building—to inspire your own vibe-coding journey",
+    "published": "2025-07-08",
+    "words": 3617,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/7ecb0858-9e41-4246-a6cc-d6630193d513_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/418-phil-knight-founder-of-nike/id1141877104?i=1000766662563&uo=4",
+      "why": "A founder-and-brand-building story that speaks directly to your product marketing instincts.",
+      "show": "Founders",
+      "title": "#418 Phil Knight: Founder of Nike",
+      "published": "2026-05-07",
+      "duration": "1h 03m",
+      "apple": "https://podcasts.apple.com/us/podcast/418-phil-knight-founder-of-nike/id1141877104?i=1000766662563&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/rick-rubin",
+      "why": "A conversation about taste and creative judgement, close to the craft questions you think about.",
+      "show": "David Senra",
+      "title": "The Simple Genius of Rick Rubin",
+      "published": "2026-05-24",
+      "duration": "1h 24m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-simple-genius-of-rick-rubin/id1836497887?i=1000769313715&uo=4",
+      "page": "https://www.davidsenra.com/episode/rick-rubin",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/5d/c5/945dc584-d348-d91e-7fbe-1cc6f151d4d7/mza_5327035441916107645.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-jamie-dimon-interview",
+      "why": "A rare long conversation with one of the most consequential operators in business today.",
+      "show": "Acquired",
+      "title": "The Jamie Dimon Interview",
+      "published": "2025-07-16",
+      "duration": "1h 00m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-jamie-dimon-interview/id1050462261?i=1000717531260&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-jamie-dimon-interview",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a0/47/62a047f4-de09-b99a-2b07-70509da160dc/mza_6086578388801334015.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "IF_DO transforms neglected building in Hastings into 'genuinely welcoming' community centre",
+    "url": "https://www.dezeen.com/2026/09/19/if-do-eagle-house",
+    "tldr": "London studio IF_DO restored a neglected building in Hastings into Eagle House, a community centre with a green-concrete frontage, giving the town a new public space.",
+    "source": "Dezeen",
+    "published": "2026-09-19T10:00:38.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/09/eagle-house-ifdo-hastings-architecture-uk-adaptive-reuse_dezeen_2364_sq-411x411.jpg"
+  }
+}
