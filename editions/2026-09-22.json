@@ -1,0 +1,344 @@
+{
+  "date": "2026-09-22",
+  "front": [
+    {
+      "title": "Yes, THIS 2026 Boston Red Sox team is playoff bound",
+      "url": "https://www.overthemonster.com/red-sox-discussion/109141/yes-this-2026-boston-red-sox-team-is-playoff-bound",
+      "tldr": "On 25 June the Red Sox were 32-46 and the season looked done. They rallied through the summer and clinched a postseason spot, a sharp turnaround from where the year began.",
+      "source": "Over the Monster",
+      "published": "2026-09-21T22:00:00.000Z",
+      "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2295992156.jpg?quality=90&strip=all&crop=0,0,100,100"
+    },
+    {
+      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems",
+      "tldr": "OpenAI has set up an advisory group on mathematics after its AI systems helped resolve more than 100 open problems. The group reviews and communicates results rather than steering the research itself.",
+      "source": "TechCrunch",
+      "published": "2026-09-21T20:15:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900"
+    },
+    {
+      "title": "Apple CEO John Ternus talks iPhone Duo design, Siri AI and becoming CEO",
+      "url": "https://www.macrumors.com/2026/09/21/john-ternus-interview-iphone-duo",
+      "tldr": "Apple CEO John Ternus discussed the iPhone Duo's design challenges, Siri's new AI features and his path to the job in an interview with Canal+'s Clique after Apple's September event.",
+      "source": "MacRumors",
+      "published": "2026-09-21T23:12:27.000Z",
+      "image": "https://images.macrumors.com/t/KjwZrC1JG54nVSfY_UB4uL_vIkw=/1600x/article-new/2026/09/John-Ternus-and-Rainbow-Countour-Apple-Logo.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Meta's Muse is outpacing ChatGPT's early mobile launch",
+          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+          "tldr": "Meta's new AI agent Muse has more downloads and daily active users in the US and Canada than ChatGPT had at the same stage after its own mobile launch, according to new estimates.",
+          "source": "TechCrunch",
+          "published": "2026-09-21T19:19:21.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
+        },
+        {
+          "title": "Google's $899 Googlebook is a bet that you'll buy a new laptop for Gemini",
+          "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
+          "tldr": "Google's $899 laptop ties Gemini into the cursor, dictation and widgets throughout the desktop, a bet that AI features alone can sell a new machine.",
+          "source": "TechCrunch",
+          "published": "2026-09-21T14:39:22.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/intelligence_hero.width-2200.format-webp.webp?resize=1200,675"
+        },
+        {
+          "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+          "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete",
+          "tldr": "Tabby, built by a former accountant, offers real-time bookkeeping that gives small businesses up-to-the-minute profit and loss data instead of waiting on a traditional bookkeeper.",
+          "source": "TechCrunch",
+          "published": "2026-09-21T16:38:51.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1415313623-e1689969929952.jpg?resize=1200,800"
+        },
+        {
+          "title": "The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping",
+          "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
+          "tldr": "Ron Johnson, who built Apple's retail stores, says Apple's advantage has always been its people rather than algorithms, pushing back on Silicon Valley's rush toward AI-run shopping.",
+          "source": "TechCrunch",
+          "published": "2026-09-21T23:44:28.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "These drones could cover up to 98 percent of the world's oceans by 2028",
+          "url": "https://www.engadget.com/2261587/argo-deep-drones-cover-98-percent-of-oceans-by-2028",
+          "tldr": "New ocean-sensing drones from Argo are being built to withstand the deepest parts of the ocean, with a goal of covering up to 98% of the world's oceans by 2028.",
+          "source": "Engadget",
+          "published": "2026-09-21T23:30:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/these-drones-could-cover-up-to-98-percent-of-the-worlds-oceans-by-2028/l-intro-1789666902.jpg"
+        },
+        {
+          "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
+          "url": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google",
+          "tldr": "Samsung C&T is putting up to $100 million into Kairos Power to help build its first 50-megawatt nuclear plant, which will supply power for Google's data centres.",
+          "source": "TechCrunch",
+          "published": "2026-09-21T18:23:05.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-531153042-e1729096517914.jpeg?resize=1200,660"
+        },
+        {
+          "title": "X now tells users when local laws have reduced their posts' visibility",
+          "url": "https://www.engadget.com/2264585/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility",
+          "tldr": "X is expanding its Under the Hood tool to show when posts are downranked or withheld because of local laws or government requests, including which country asked.",
+          "source": "Engadget",
+          "published": "2026-09-21T19:44:35.000Z",
+          "image": "https://www.engadget.com/img/gallery/x-now-tells-users-when-local-laws-have-reduced-their-posts-visibility/l-intro-1790019777.jpg"
+        },
+        {
+          "title": "Oura's $2.2B IPO is mostly a payday for existing shareholders",
+          "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders",
+          "tldr": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion as part of the ring maker's IPO, according to the filing.",
+          "source": "TechCrunch",
+          "published": "2026-09-21T16:45:47.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+          "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
+          "tldr": "MacStories tested the top-of-the-line M5 Ultra Mac Studio with 256GB of RAM and calls it a dream machine for running AI models locally, though a costly one.",
+          "source": "MacStories",
+          "published": "2026-09-21T13:00:02.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/09/21/shortcut-upload-1789994617403-abb772eab6.png"
+        },
+        {
+          "title": "New Mac Mini Reviews: A Good But No Longer 'Insanely Great' Deal",
+          "url": "https://www.macrumors.com/2026/09/21/mac-mini-m6-m5-pro-reviews",
+          "tldr": "Early reviews of the M6 and M5 Pro Mac mini call it a strong machine, but with a starting price now at $899, up from $599, reviewers say it is no longer the bargain it once was.",
+          "source": "MacRumors",
+          "published": "2026-09-21T17:08:52.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg"
+        },
+        {
+          "title": "Report: AI glasses shipments surged 263% in H1 2026 as Apple prepares to enter the market",
+          "url": "https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market",
+          "tldr": "Counterpoint Research says global AI glasses shipments jumped 263% in the first half of 2026, with Meta leading the display-less segment as Apple prepares its own entry.",
+          "source": "9to5Mac",
+          "published": "2026-09-21T19:55:41.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/12/Ray-Ban-Meta-smart-glasses-could-get-a-display-next-year.webp?w=1500"
+        },
+        {
+          "title": "Apple Notes adds a power user feature in iOS 27 that's rare in other apps",
+          "url": "https://9to5mac.com/2026/09/21/apple-notes-adds-a-power-user-feature-in-ios-27-thats-rare-in-other-apps",
+          "tldr": "iOS 27 adds section links to Apple Notes, letting power users jump straight to a specific part of a long note, a small but rare feature among note-taking apps.",
+          "source": "9to5Mac",
+          "published": "2026-09-21T20:13:30.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/notes-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Tom Cruise Earns Applause With Six-Minute Monologue On Why Art Beats AI In Filmmaking",
+          "url": "https://deadline.com/2026/09/tom-cruise-ai-filmmaking-bafta-1237109599",
+          "tldr": "Tom Cruise spoke for more than six minutes at a BAFTA Life in Pictures event in London on why human-made art beats AI in filmmaking, earning spontaneous applause from the audience.",
+          "source": "Deadline",
+          "published": "2026-09-21T21:29:20.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2215809697-e1790023650535.jpg"
+        },
+        {
+          "title": "Neil Jordan on Restoring 'Interview With the Vampire' for 4K and Why the Film Didn't Have Jump Scares",
+          "url": "https://variety.com/2026/film/news/neil-jordan-interview-with-the-vampire-4k-1236864223",
+          "tldr": "More than 30 years on, director Neil Jordan's gothic vampire film starring Brad Pitt and Tom Cruise is out in 4K, and he explains why he deliberately avoided jump scares.",
+          "source": "Variety",
+          "published": "2026-09-21T17:58:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2024/11/MSDINWI_EC032.jpg"
+        },
+        {
+          "title": "A Traumatizing Animated '80s Classic Is A Box Office Success 40 Years Later",
+          "url": "https://www.slashfilm.com/2264578/transformers-the-movie-80s-animated-classic-box-office-success-september-2026",
+          "tldr": "The 1986 animated Transformers: The Movie has become a box office success on theatrical re-release, 40 years after its original run divided fans with its dark tone.",
+          "source": "/Film",
+          "published": "2026-09-21T19:38:25.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/a-traumatizing-animated-80s-classic-is-a-box-office-success-40-years-later/l-intro-1790019336.jpg"
+        },
+        {
+          "title": "Henry Cavill's 122-Minute War Movie Is One Of Netflix's Biggest Streaming Hits",
+          "url": "https://www.slashfilm.com/2264379/henry-cavill-war-movie-the-ministry-of-ungentlemanly-warfare-netflix-september-2026",
+          "tldr": "Guy Ritchie's 2024 war film starring Henry Cavill underperformed in theatres but has since become one of Netflix's biggest streaming hits.",
+          "source": "/Film",
+          "published": "2026-09-21T17:43:02.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/henry-cavills-122-minute-war-movie-is-one-of-netflixs-biggest-streaming-hits/l-intro-1790012401.jpg"
+        },
+        {
+          "title": "'Forgotten Island' Review: H.E.R. And Dave Franco Give Life To Gorgeously Animated And Frenetic 'Toon",
+          "url": "https://deadline.com/2026/09/forgotten-island-review-h-e-r-and-dave-franco-frentetic-toon-1237109630",
+          "tldr": "DreamWorks' new animated feature Forgotten Island, voiced by H.E.R. and Dave Franco, wins praise for being an original story from a studio system that usually plays it safe.",
+          "source": "Deadline",
+          "published": "2026-09-21T23:05:58.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/06/Forgotten-Island.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Brad Stevens explains why Celtics traded Jaylen Brown",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/09/21/boston-celtics-brad-stevens-nba-basketball-jaylen-brown-trade-siriusxm",
+          "tldr": "Celtics president Brad Stevens said having two max-usage players made a trade inevitable, explaining the decision to move on from Jaylen Brown.",
+          "source": "Boston.com",
+          "published": "2026-09-22T01:24:31.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Celtics_Stevens_Basketball_63811-6ab1d04fc2426-850x638.jpg"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Insisting his coaching career is over, ex-Celtics coach Doc Rivers joins NBC",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/09/21/insisting-his-coaching-career-is-over-ex-celtics-coach-doc-rivers-joins-nbc",
+          "tldr": "Doc Rivers, who led the Celtics to the 2008 NBA title over nine seasons in Boston, has joined NBC while insisting his coaching days are behind him.",
+          "source": "Boston.com",
+          "published": "2026-09-21T20:23:27.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Rivers_NBC_Basketball__1133-6ab1764603e3b-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "After Further Review: Drake Maye film breakdown, defense review, and quick-hit film notes from the Week 2 win over the Steelers",
+          "url": "https://www.patriots.com/news/after-further-review-drake-maye-film-breakdown-defense-review-and-quick-hit-film-notes-from-the-week-2-win-over-the-steelers",
+          "tldr": "Patriots.com's film review credits a dominant defensive performance in man coverage against the Steelers, while breaking down what the tape showed about Drake Maye's Week 2 outing.",
+          "source": "Patriots.com",
+          "published": "2026-09-21T20:43:05.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/jnen6u9d1ve2hdjhdhnm.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Christian Gonzalez dominates DK Metcalf in Patriots' win over Steelers",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/137908/christian-gonzalez-dominates-dk-metcalf-patriots-win-steelers",
+          "tldr": "Cornerback Christian Gonzalez shut down Steelers receiver DK Metcalf in New England's 20-3 Week 2 win, a matchup Gonzalez had circled since seeing the schedule.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-21T11:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2295719689.jpg?quality=90&strip=all&crop=2.4607025146484,6.6808211918203,97.539297485352,93.31917880818"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots' young pass rushers make their mark in win over Steelers",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/137870/patriots-vs-steelers-gabe-jacas-elijah-ponder-impact-nfl-week-2",
+          "tldr": "Rookies Gabe Jacas and Elijah Ponder helped hold the Steelers to three points in the Patriots' 20-3 home-opener win, a strong early showing from New England's young pass rush.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-21T13:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2296257974.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "F1 reduces maximum distance of races by 15km",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cr15822d9vgxo",
+          "tldr": "Formula 1 will cut the maximum grand prix distance by 15km, from 305km to 290km, from the 2027 season, as part of new power unit rules.",
+          "source": "BBC Sport",
+          "published": "2026-09-21T17:16:13.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd9/live/ebb18450-b5df-11f1-aff1-eb6baa3fda4f.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "McLaren predict four-way battle for Baku win after confirming more upgrades",
+          "url": "https://www.skysports.com/f1/news/12433/13590364/azerbaijan-gp-mclaren-predict-four-way-battle-for-victory-with-rivals-in-baku-after-confirming-more-upgrades-to-mcl40",
+          "tldr": "McLaren say they are bringing further upgrades to this weekend's Azerbaijan Grand Prix and expect a four-way fight for victory with Mercedes, Ferrari and Red Bull.",
+          "source": "Sky Sports",
+          "published": "2026-09-21T16:00:00.000Z",
+          "image": "https://e1.365dm.com/26/09/1920x1080/skysports-lando-norris-mclaren_7358040.jpg?20260921165400"
+        },
+        {
+          "tag": "F1",
+          "title": "Red Bull admits Verstappen's mysterious car issue cannot be fully fixed until 2027",
+          "url": "https://www.autosport.com/f1/news/red-bull-admits-verstappens-mysterious-car-issue-cannot-be-fully-fixed-until-2027/10857621",
+          "tldr": "Red Bull says the rear-axle issue that has made Max Verstappen's car worsen over a race weekend cannot be properly fixed until new rules arrive in 2027.",
+          "source": "Autosport",
+          "published": "2026-09-21T08:13:58.000Z",
+          "image": "https://cdn-7.motorsport.com/images/amp/YN7vdXJ6/s6/max-verstappen-red-bull-racing-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Yastrzemski's home run sends Red Sox and Braves to the postseason",
+          "url": "https://www.mlb.com/redsox/news/mike-yastrzemski-s-homer-sends-red-sox-braves-to-postseason",
+          "tldr": "A home run by Mike Yastrzemski, grandson of Red Sox legend Carl Yastrzemski, helped send both the Red Sox and the Braves to the postseason.",
+          "source": "MLB.com",
+          "published": "2026-09-21T00:22:43.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1789953607/mlb/cdbzbexhlta5gunrjrho.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox News & Links: With playoffs secured, Craig Breslow takes a bow",
+          "url": "https://www.overthemonster.com/red-sox-news/109157/red-sox-news-links-with-playoffs-secured-craig-breslow-takes-a-bow",
+          "tldr": "With Boston's postseason spot secured, attention turns to how much credit Craig Breslow's front office deserves, and to two of his assistant GMs already interviewing elsewhere.",
+          "source": "Over the Monster",
+          "published": "2026-09-21T18:29:48.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2295801231.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "After a roller coaster season, the Red Sox find themselves in playoff purgatory",
+          "url": "https://www.overthemonster.com/red-sox-discussion/109129/after-a-roller-coaster-season-the-red-sox-find-themselves-in-playoff-purgatory",
+          "tldr": "Boston has clinched a postseason spot, but a lopsided loss to the Rays means the exact seeding, and who they will face, is still unsettled heading into the final week.",
+          "source": "Over the Monster",
+          "published": "2026-09-21T13:30:00.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2295806646.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/state-of-the-product-job-market-in-ee9",
+    "why": "Ties to today's AI wave: as roles shift toward AI, this breaks down where the product job market actually stands in 2026.",
+    "title": "State of the product job market in early 2026",
+    "subtitle": "AI roles are exploding, PM and eng job openings are the highest in years, and the overall number of tech jobs is up",
+    "published": "2026-03-24",
+    "words": 1656,
+    "image": "https://substackcdn.com/image/fetch/$s_!R7qT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1359e-86e1-4279-b080-ae33cff8af21_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://www.founderspodcast.com/episodes/416-the-relentless-missionary-creating-agi-demis-hassabis",
+      "why": "A fitting companion to today's AI news: the story of the founder who spent decades chasing AGI, long before OpenAI's advisory group and 100 solved problems.",
+      "show": "Founders",
+      "title": "#416 The Relentless Missionary Creating AGI: Demis Hassabis",
+      "published": "2026-04-01",
+      "duration": "55m",
+      "apple": "https://podcasts.apple.com/us/podcast/416-the-relentless-missionary-creating-agi-demis-hassabis/id1141877104?i=1000758557794&uo=4",
+      "page": "https://www.founderspodcast.com/episodes/416-the-relentless-missionary-creating-agi-demis-hassabis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/eric-glyman",
+      "why": "Glyman's account of building Ramp fast pairs well with Damian's own product-building, especially the parts on growth and positioning.",
+      "show": "David Senra",
+      "title": "Eric Glyman, Co-founder of Ramp",
+      "published": "2026-07-12",
+      "duration": "59m",
+      "apple": "https://podcasts.apple.com/us/podcast/eric-glyman-co-founder-of-ramp/id1836497887?i=1000776445689&uo=4",
+      "page": "https://www.davidsenra.com/episode/eric-glyman",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/e0/68/b3e068a7-7911-dcb1-f36e-6c6f4fab344e/mza_16944851140969931613.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/mars-inc-the-chocolate-story",
+      "why": "A classic on how one of the world's most secretive, family-run product companies built its brand over a century, the kind of craft story Damian loves.",
+      "show": "Acquired",
+      "title": "Mars Inc. (the chocolate story)",
+      "published": "2024-12-16",
+      "duration": "3h 44m",
+      "apple": "https://podcasts.apple.com/us/podcast/mars-inc-the-chocolate-story/id1050462261?i=1000680482245&uo=4",
+      "page": "https://www.acquired.fm/episodes/mars-inc-the-chocolate-story",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/84/73/a5847328-c157-e89b-07a3-0d1c9c205412/mza_1062711820519981459.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Ichiro, at 52, Throws 127-Pitch Shutout Against All-Star Girls Team in Japan",
+    "url": "https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitch-shutout-against-all-star-girls-team-in-japan",
+    "tldr": "Ichiro, now 52 and a Hall of Famer, threw a complete-game, 127-pitch shutout against an All-Star girls' team in Japan, the latest feat in a post-playing career full of them.",
+    "source": "Daring Fireball",
+    "published": "2026-09-21T17:37:16.000Z",
+    "image": ""
+  }
+}

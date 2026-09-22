@@ -267,7 +267,8 @@
       "published": "2026-09-20",
       "duration": "1h 21m",
       "page": "https://www.davidsenra.com/episode/peter-rahal",
-      "artwork": "https://megaphone.imgix.net/podcasts/c4a6781c-b499-11f1-8aa9-2faed89cc513/image/9f26cd6d7669a2b3f10ada2c6de3504e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+      "artwork": "https://megaphone.imgix.net/podcasts/c4a6781c-b499-11f1-8aa9-2faed89cc513/image/9f26cd6d7669a2b3f10ada2c6de3504e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "apple": "https://podcasts.apple.com/us/podcast/building-one-of-the-fastest-growing-cpg-companies/id1836497887?i=1000790757685&uo=4"
     },
     {
       "url": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang",

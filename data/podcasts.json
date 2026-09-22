@@ -1,11 +1,24 @@
 [
  {
+  "show": "Founders",
+  "title": "#434 Sam Walton",
+  "url": "https://podcasts.apple.com/gb/podcast/founders/id1141877104",
+  "page": "",
+  "apple": "",
+  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg",
+  "guid": "a9a4ff62-b556-11f1-b65b-9b42dbe957f1",
+  "date": "2026-09-21",
+  "duration": "49m",
+  "summary": "What I learned from reading Sam Walton: The Inside Story of America's Richest Man by Vance Trimble. Made possible by: Ramp: https://ramp.com Applovin: https://applovin.com Vanta: https://vanta.com/founders 0:00 — \"To him, making money was only a game, a test of his imagination and expertise to see…",
+  "youtube": ""
+ },
+ {
   "show": "David Senra",
   "title": "Building One of the Fastest Growing CPG Companies in History | Peter Rahal of David Protein, Medici Brands & RXBAR",
   "url": "https://www.davidsenra.com/episode/peter-rahal",
   "page": "https://www.davidsenra.com/episode/peter-rahal",
-  "apple": "",
-  "artwork": "https://megaphone.imgix.net/podcasts/c4a6781c-b499-11f1-8aa9-2faed89cc513/image/9f26cd6d7669a2b3f10ada2c6de3504e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "apple": "https://podcasts.apple.com/us/podcast/building-one-of-the-fastest-growing-cpg-companies/id1836497887?i=1000790757685&uo=4",
+  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/fe/8e/73fe8e22-fd06-16a4-dff0-f58db09a2acb/mza_12162952990155392706.jpg/600x600bb.jpg",
   "guid": "c4a6781c-b499-11f1-8aa9-2faed89cc513",
   "date": "2026-09-20",
   "duration": "1h 21m",
