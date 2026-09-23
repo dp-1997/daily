@@ -1,5 +1,17 @@
 [
  {
+  "id": 216168140,
+  "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
+  "subtitle": "Why you should never skip error discovery",
+  "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+  "date": "2026-09-22",
+  "type": "newsletter",
+  "audience": "only_paid",
+  "words": 3807,
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!0_d7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f6018cf-fa53-4f40-99d9-b1c9980dd031_1456x970.png"
+ },
+ {
   "id": 214360366,
   "title": "60+ new creative growth ideas",
   "subtitle": "How to stand out when everyone is running the same playbook",
@@ -286,6 +298,18 @@
   "words": 2660,
   "minutes": null,
   "image": "https://substackcdn.com/image/fetch/$s_!z9Ie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd7a56c2-5569-4009-b5f1-9236f147451c_1456x970.png"
+ },
+ {
+  "id": 168890236,
+  "title": "Lenny's Product Pass: Premium AI and product tools for Annual and Insider subscribers",
+  "subtitle": "See the current lineup, eligibility, availability, and redemption details at LennysProductPass.com",
+  "url": "https://www.lennysnewsletter.com/p/productpass",
+  "date": "2025-07-29",
+  "type": "newsletter",
+  "audience": "everyone",
+  "words": 937,
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/71d44486-01b2-407b-bada-b3098bd50d4f_1200x630.png"
  },
  {
   "id": 168592405,

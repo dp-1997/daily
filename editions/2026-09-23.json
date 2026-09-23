@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-23",
+  "front": [
+    {
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+      "tldr": "Anthropic's new flagship model matches its top-tier Fable 5.1 on most tasks at 40 percent lower cost, arriving hours before OpenAI's own price cut with GPT-6 Sol and Luna.",
+      "source": "TechCrunch",
+      "published": "2026-09-22T16:30:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024"
+    },
+    {
+      "title": "Meta admits Muse's likeness to OpenClaw isn't a coincidence",
+      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence",
+      "tldr": "Meta says its Muse AI agent was built from scratch but was heavily inspired by OpenClaw, down to some workspace filenames, days after Muse overtook ChatGPT as the top free iPhone app.",
+      "source": "TechCrunch",
+      "published": "2026-09-22T19:09:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
+    },
+    {
+      "title": "The new Mac mini and Mac Studio are available today",
+      "url": "https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today",
+      "tldr": "Apple's Mac mini with M6 and M5 Pro chips and Mac Studio with M5 Max and M5 Ultra go on sale today in stores, online and the Apple Store app.",
+      "source": "Apple Newsroom",
+      "published": "2026-09-22T12:59:21.039Z",
+      "image": "https://www.apple.com/newsroom/images/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/tile/Apple-Mac-mini-and-Mac-Studio-available-hero-lp.jpg.og.jpg?202609221259"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+          "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+          "tldr": "Simon Willison rounds up back-to-back launches from Anthropic and OpenAI this week, alongside Grok 4.7 and MiMo v2.6, and reads the flurry as the start of a genuine price war between frontier labs.",
+          "source": "Simon Willison",
+          "published": "2026-09-22T23:46:41.000Z",
+          "image": "https://static.simonwillison.net/static/2026/gpt-pelicans-grid.webp"
+        },
+        {
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna",
+          "tldr": "OpenAI's two new models follow GPT-6 Astra and are pitched as cheaper and more accurate, landing about an hour after Anthropic's Opus 5.5 announcement.",
+          "source": "TechCrunch",
+          "published": "2026-09-22T18:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+        },
+        {
+          "title": "AstroForge is putting AI in command of its next spacecraft",
+          "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft",
+          "tldr": "AstroForge's Autonomy-1 mission will hand a small transformer-based model direct control of a space probe, a step toward AI-piloted spacecraft rather than ground-controlled ones.",
+          "source": "TechCrunch",
+          "published": "2026-09-22T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
+        },
+        {
+          "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai",
+          "tldr": "Qualcomm says its new top chip can run a 30 billion parameter mixture-of-experts model locally on a phone, pushing more AI processing onto the device itself.",
+          "source": "TechCrunch",
+          "published": "2026-09-22T20:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/assets_2026_09_1789671614_Snapdragon-8-Elite-Extreme-Gen-6-and-Snapdragon-8-Elite-Gen-6-Image-2-Embargo-Sep-22-10am-HT-1pm-PT.jpg?resize=1200,675"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Switching to light speed could cut data centre power use",
+          "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo",
+          "tldr": "Data centres are starting to swap copper wiring for optical links that move data at the speed of light, a change aimed at cutting power use and adding capacity as AI demand grows.",
+          "source": "BBC",
+          "published": "2026-09-22T23:03:48.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f83/live/bddd95b0-a12a-11f1-aed2-8d6da8d75094.jpg"
+        },
+        {
+          "title": "Waymo's latest expansion strategy: teenagers",
+          "url": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers",
+          "tldr": "Waymo is opening its robotaxi service to 13 to 17 year olds in Nashville, its second city to offer rides to minors, as it widens who can use self-driving cars.",
+          "source": "TechCrunch",
+          "published": "2026-09-22T17:36:06.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/Waymo_teens_3.png?resize=1200,675"
+        },
+        {
+          "title": "a16z is challenging Silicon Valley's love for drop-outs by launching a school",
+          "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school",
+          "tldr": "Andreessen Horowitz is starting an academy for promising high school graduates, pitched as somewhere between a trade school, Y Combinator and Peter Thiel's Fellowship Program.",
+          "source": "TechCrunch",
+          "published": "2026-09-22T18:24:34.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1225201409.jpg?resize=1200,900"
+        },
+        {
+          "title": "Discord rolls out its revised age verification policy",
+          "url": "https://www.engadget.com/2265924/discord-rolls-out-its-revised-age-verification-policy",
+          "tldr": "Discord's new policy offers several privacy-focused options for users who are not automatically confirmed as adults, as the platform moves fully into its age-verification era.",
+          "source": "Engadget",
+          "published": "2026-09-22T20:29:08.000Z",
+          "image": "https://www.engadget.com/img/gallery/discord-rolls-out-its-revised-age-verification-policy/l-intro-1790108153.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "New Mac Mini Has Two Storage Downsides, Including Unremovable SSD",
+          "url": "https://www.macrumors.com/2026/09/22/new-mac-mini-ssd-cant-be-removed",
+          "tldr": "Teardown site Expand Mac mini finds that NAND storage in the new M6 and M5 Pro Mac mini models is soldered to the logic board, unlike the removable storage in the previous generation.",
+          "source": "MacRumors",
+          "published": "2026-09-23T03:23:19.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/01/mac-mini-blue.jpeg"
+        },
+        {
+          "title": "Apple opens Apple Music Hall in London's Battersea Power Station",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london",
+          "tldr": "Apple has opened Apple Music Hall, an intimate live venue inside London's Battersea Power Station, extending its music brand into a physical concert space.",
+          "source": "Apple Newsroom",
+          "published": "2026-09-22T05:59:58.127Z",
+          "image": "https://www.apple.com/newsroom/images/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/tile/Apple-Music-Hall-event-space-01-lp.jpg.og.jpg?202609221300"
+        },
+        {
+          "title": "Our Favorite Indie Apps for iOS 27, Vol. 2",
+          "url": "https://www.macstories.net/reviews/our-favorite-indie-apps-for-ios-27-vol-2",
+          "tldr": "MacStories highlights five independent iOS apps built around Apple's newest OS features: Bear, Gentler Streak, The Outsiders, DoMarks and Cheatsheet Notes.",
+          "source": "MacStories",
+          "published": "2026-09-22T16:15:36.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/09/22/indie-apps-ios27-vol2-hero-2-1790080377374-67bd0f5813.png"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Tom Cruise's 'Digger' world premiere draws Prince William and Kate Middleton",
+          "url": "https://deadline.com/2026/09/tom-cruise-digger-world-premiere-royal-family-1237110919",
+          "tldr": "Tom Cruise and director Alejandro Gonzalez Inarritu premiered Digger in London's Leicester Square Gardens, with Prince William and Princess Catherine among the guests at the Warner Bros/Legendary film.",
+          "source": "Deadline",
+          "published": "2026-09-23T02:30:41.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2296585981.jpg"
+        },
+        {
+          "title": "Robert Eggers tackling a 'Romeo and Juliet' adaptation at Focus Features",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-tackling-romeo-and-juliet-adaptation-1236707061",
+          "tldr": "Robert Eggers, director of Nosferatu and the upcoming Werwulf, has won a competitive bidding war to take on a new adaptation of Shakespeare's Romeo and Juliet for Focus Features.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-22T20:08:59.000Z",
+          "image": ""
+        },
+        {
+          "title": "George Lucas says he had three more Star Wars films planned before deciding to retire from directing",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/george-lucas-make-more-star-wars-movies-before-retiring-1236708091",
+          "tldr": "George Lucas says he had plans for three further Star Wars films but chose to stop directing. His last film remains 2005's Revenge of the Sith.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-23T02:46:53.000Z",
+          "image": ""
+        },
+        {
+          "title": "David Worth, director of Kickboxer and DP on Any Which Way You Can, dies at 86",
+          "url": "https://variety.com/2026/film/news/david-worth-dead-kickboxer-1236872806",
+          "tldr": "David Worth, who directed Kickboxer and shot Clint Eastwood's Any Which Way You Can, died on 4 September in Sunland, California, aged 86.",
+          "source": "Variety",
+          "published": "2026-09-23T01:24:55.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/MV5BNDkzNzYyMjUtMTJlOS00Y2VmLWI1N2UtZjUwZDFjNmVmMTdmXkEyXkFqcGc@._V1_CR910330494_FMjpg_UX1000_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics' Neemias Queta named a player to watch for ESPN's 2027 Top-100 list",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/09/22/celtics-neemias-queta-espn-top-100-players-to-watch-comments",
+          "tldr": "Neemias Queta missed this year's ESPN top-100 but is tipped as one to watch for next year's list, a marker of his development with the Celtics.",
+          "source": "Boston.com",
+          "published": "2026-09-22T21:34:52.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/04/JA43URTYEUUCUGYCC3HJEKSQ2U-69d9c70d1338a-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots place OL Mike Onwenu on injured reserve, make additional roster moves",
+          "url": "https://www.patriots.com/news/patriots-place-ol-mike-onwenu-on-injured-reserve-make-additional-roster-moves",
+          "tldr": "New England placed starting right guard Mike Onwenu on injured reserve after an ankle injury, signing punter Mitch Wishnowsky and a tight end to fill out the roster.",
+          "source": "Patriots.com",
+          "published": "2026-09-22T20:00:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/gnatzcpqynoo5s2umeal.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Game Preview: Patriots at Jaguars, NFL Week 3",
+          "url": "https://www.patriots.com/news/game-preview-patriots-at-jaguars-nfl-week-3",
+          "tldr": "The Patriots travel to Jacksonville to face the Jaguars at Everbank Stadium on Sunday 27 September at 1pm ET, looking to build on their Week 2 win.",
+          "source": "Patriots.com",
+          "published": "2026-09-22T18:38:08.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/vqmnjiwu35gfazguuze3.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Through two games, Christian Gonzalez is living up to his record-breaking contract",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/22/christian-gonzalez-nfl-football-contract-cornerback-shutdown-defense-dk-metcalf",
+          "tldr": "Two games into the season, cornerback Christian Gonzalez is delivering on his record contract, shutting down opposing receivers including DK Metcalf.",
+          "source": "Boston.com",
+          "published": "2026-09-22T11:32:17.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Steelers_Patriots_Football_15966-6ab207e8228ce-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Red Bull's Hadjar to return at Azerbaijan Grand Prix",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cwkgx8vkd572o",
+          "tldr": "Isack Hadjar returns to Red Bull for this weekend's Azerbaijan Grand Prix after missing three races with a wrist injury, with Liam Lawson moving back to Racing Bulls.",
+          "source": "BBC Sport",
+          "published": "2026-09-22T08:46:54.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d95/live/64a7af70-b661-11f1-b785-7d19738c6de2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Charles Leclerc weighed rival offers before signing a new Ferrari deal",
+          "url": "https://www.motorsport.com/f1/news/what-were-leclercs-other-opportunities-before-signing-new-ferrari-deal/10857955",
+          "tldr": "Motorsport.com notes that each time Ferrari and Leclerc extend their partnership, reports surface about rival offers he is said to have turned down, a pattern repeating with his latest deal.",
+          "source": "Motorsport.com",
+          "published": "2026-09-22T15:30:36.000Z",
+          "image": "https://cdn-7.motorsport.com/images/amp/2y7QLve6/s6/charles-leclerc-ferrari.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Why F1's intense triple header will shape the title run-in",
+          "url": "https://www.skysports.com/f1/news/12433/13589266/f1-title-race-why-azerbaijan-malaysia-singapore-triple-header-will-shape-what-rest-of-2026-championship-chase-will-look-like",
+          "tldr": "Formula 1 enters its first triple header of the season this week, starting with Azerbaijan, three races in three weekends that Sky Sports says will shape the title fight.",
+          "source": "Sky Sports",
+          "published": "2026-09-22T05:00:00.000Z",
+          "image": "https://e2.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-mercedes_7355461.jpg?20260918143814"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox get good news as Garrett Crochet nears return for playoffs",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/22/red-sox-get-good-news-as-garrett-crochet-nears-return-for-playoffs",
+          "tldr": "Garrett Crochet says he has ramped up his intensity in live batting practice and is closing in on a return, boosting Boston's rotation options for the postseason.",
+          "source": "Boston.com",
+          "published": "2026-09-23T00:57:53.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN082126Red-Sox-Giants_SPT9-6ab31f26c25b0-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox remove interim tag from manager Chad Tracy, extend Craig Breslow",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/22/chad-tracy-craig-breslow-contract-extensions",
+          "tldr": "Boston made Chad Tracy its 49th full-time manager on a three-year deal and exercised Craig Breslow's contract options through 2030, settling its baseball leadership before the playoffs.",
+          "source": "Boston.com",
+          "published": "2026-09-22T15:35:15.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Chad-Tracy-Red-Sox-Manager-Craig-Breslow-6ab29e89dff5d-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Five takeaways as Red Sox fall 3-2 in battle with Guardians",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/22/red-sox-guardians-takeaways-payton-tolle-mickey-gasper-erik-miller-analysis",
+          "tldr": "Boston went 0 for 9 with runners in scoring position and struck out 12 times in a 3-2 loss to Cleveland, a rough night at the plate heading into the postseason.",
+          "source": "Boston.com",
+          "published": "2026-09-23T02:50:14.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Jahmai-Jones-6ab33738a728b-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+    "why": "Lenny's new deep dive on catching hidden AI failures lands the same day two more frontier models launched, useful groundwork for anyone shipping AI features.",
+    "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
+    "subtitle": "Why you should never skip error discovery",
+    "published": "2026-09-22",
+    "words": 3807,
+    "image": "https://substackcdn.com/image/fetch/$s_!0_d7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f6018cf-fa53-4f40-99d9-b1c9980dd031_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/434-sam-walton/id1141877104?i=1000790878150&uo=4",
+      "why": "A relentless retail operator's story fits neatly alongside the study of great product builders.",
+      "show": "Founders",
+      "title": "#434 Sam Walton",
+      "published": "2026-09-21",
+      "duration": "49m",
+      "apple": "https://podcasts.apple.com/us/podcast/434-sam-walton/id1141877104?i=1000790878150&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/micky-malka",
+      "why": "A VC on what separates the founders worth backing, useful listening for anyone building or marketing products.",
+      "show": "David Senra",
+      "title": "Lessons From Backing The Best Founders In Fintech | Micky Malka",
+      "published": "2026-08-02",
+      "duration": "1h 16m",
+      "apple": "https://podcasts.apple.com/us/podcast/lessons-from-backing-the-best-founders-in-fintech/id1836497887?i=1000779512444&uo=4",
+      "page": "https://www.davidsenra.com/episode/micky-malka",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/52/0c/da520caf-2b6b-d8e5-3409-3f737ae4e0a8/mza_9704543643084554427.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=CjLhd1WZwTE"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/ikea",
+      "why": "A deep dive on a company built entirely around product design and cost discipline, a good companion to today's Apple and design stories.",
+      "show": "Acquired",
+      "title": "IKEA",
+      "published": "2024-11-18",
+      "duration": "3h 13m",
+      "apple": "https://podcasts.apple.com/us/podcast/ikea/id1050462261?i=1000677277227&uo=4",
+      "page": "https://www.acquired.fm/episodes/ikea",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Diverse and Dramatic Behaviors Top the 2026 Bird Photographer of the Year Contest",
+    "url": "https://www.thisiscolossal.com/2026/09/bird-photographer-of-the-year-winners-2026",
+    "tldr": "This year's Bird Photographer of the Year drew more than 24,000 entries from photographers worldwide, celebrating striking and unusual animal behaviour caught in the wild.",
+    "source": "Colossal",
+    "published": "2026-09-22T15:15:23.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/bpoty-2.jpg"
+  }
+}
