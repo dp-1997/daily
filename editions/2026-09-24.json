@@ -1,0 +1,291 @@
+{
+  "date": "2026-09-24",
+  "note": "The Azerbaijan Grand Prix runs today through Saturday in Baku.",
+  "front": [
+    {
+      "title": "Everything announced at Meta Connect 2026",
+      "url": "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026",
+      "tldr": "Meta's Connect keynote brought new VR glasses, Aviator-style Ray-Ban Meta specs and even Ace Attorney in virtual reality. One of the year's densest hardware launch days, all pointed at wearable AI.",
+      "source": "Engadget",
+      "published": "2026-09-24T00:07:34.000Z",
+      "image": "https://www.engadget.com/img/gallery/everything-announced-at-meta-connect-2026/l-intro-1790209433.jpg"
+    },
+    {
+      "title": "You Can Now Try Apple's Unreleased Copland OS in Your Browser",
+      "url": "https://www.macrumors.com/2026/09/23/apple-copland-os-demo",
+      "tldr": "Apple's unreleased 1990s operating system Copland, shelved amid project management issues and feature creep, can now be tried in a browser. A rare hands-on with software Apple never shipped.",
+      "source": "MacRumors",
+      "published": "2026-09-23T21:27:08.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/09/mac-copland-os.jpg"
+    },
+    {
+      "title": "Bentley Unveils First Fully Electric Car That Embraces Heritage",
+      "url": "https://www.dezeen.com/2026/09/23/bentley-first-electric-car-torcal-robin-page-interview",
+      "tldr": "Bentley has revealed the Torcal, its first fully electric car. Design director Robin Page says it balances an electric future with the brand's heritage, a rare heritage marque going electric on its own terms.",
+      "source": "Dezeen",
+      "published": "2026-09-23T18:47:22.000Z",
+      "image": "http://static.dezeen.com/uploads/2026/09/bentley-first-electric-car-torcal-robin-page-interview_dezeen_2364_sq_9-411x411.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Anthropic Says Its Biology Lab Has Already Found Something Big",
+          "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big",
+          "tldr": "Anthropic says its biology lab has already found something significant, though humans, not Claude, are still running the experiments. A notable admission of where the company draws the line today.",
+          "source": "TechCrunch",
+          "published": "2026-09-23T22:17:39.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675"
+        },
+        {
+          "title": "Gemini 3.8 TTS Playground",
+          "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground",
+          "tldr": "Google released two new Gemini text-to-speech models, gemini-3.8-flash-tts and a lite version, with a library of more than 2,000 voices. A big jump in choice for anyone building voice products.",
+          "source": "Simon Willison",
+          "published": "2026-09-23T17:12:27.000Z",
+          "image": "https://static.simonwillison.net/static/2026/tts-playground.webp"
+        },
+        {
+          "title": "ChatGPT Mobile App Gets Voice-Based Agentic Features",
+          "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features",
+          "tldr": "ChatGPT's mobile app now lets Pro and Plus users complete agentic tasks by voice through its Work tab. Phone-based AI agents are moving from novelty toward daily tool.",
+          "source": "TechCrunch",
+          "published": "2026-09-23T17:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+        },
+        {
+          "title": "YouTube Will Let You Build Your Own Algorithm With AI",
+          "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai",
+          "tldr": "YouTube's new custom feeds let you describe the videos you want in your own words, then use Gemini to build a personalised feed around the request. Recommendation as conversation, not a black box.",
+          "source": "TechCrunch",
+          "published": "2026-09-23T14:30:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Custom-Feeds-Title-Card-1.jpg?resize=1200,675"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Meta VR Glasses Hands-On: Hand and Eye Tracking Is So Much Better Than a Controller",
+          "url": "https://www.engadget.com/2267222/meta-vr-glasses-hands-on-hand-tracking",
+          "tldr": "Meta's hands-on for its new VR glasses found hand and eye tracking far better than a controller, in a more portable but less immersive device than a Quest headset.",
+          "source": "Engadget",
+          "published": "2026-09-24T00:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/meta-vr-glasses-hands-on-hand-tracking/l-intro-1790209264.jpg"
+        },
+        {
+          "title": "Modal Motors Is Trying to Cut China Out of Electric Motors Entirely",
+          "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely",
+          "tldr": "Startup Modal Motors is building small, light electric motors with no rare-earth magnets, suited to drones, fans and robots. An attempt to cut China out of a supply chain most of the industry depends on.",
+          "source": "TechCrunch",
+          "published": "2026-09-23T19:05:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.23.50-AM.png?w=1194"
+        },
+        {
+          "title": "YouTube Is Making Comments More Fun, and Fandom More Lucrative for Creators",
+          "url": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators",
+          "tldr": "YouTube is rolling out GIF replies, voice-powered TV comments, personalised moderation and paid members-only communities. A push to make fandom, not just views, pay for creators.",
+          "source": "TechCrunch",
+          "published": "2026-09-23T16:03:44.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/youtube-communities.jpeg?resize=1200,649"
+        },
+        {
+          "title": "Vogue Sent Robots Down the Runway at Vogue World, and People Were Not Impressed",
+          "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed",
+          "tldr": "Vogue sent robots down the runway at Vogue World, a stunt the audience reportedly did not warm to. Fashion's latest brush with robotics landed somewhere between spectacle and misstep.",
+          "source": "TechCrunch",
+          "published": "2026-09-23T23:33:22.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296638825.jpg?w=1024"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "'Prepare to Ship': The Software Trick Letting iPhone 18 Pro Max Ship With an Oversized Battery",
+          "url": "https://support.apple.com/en-us/127848",
+          "tldr": "iPhone 18 Pro Max's bigger battery pushes past the 20 watt-hour limit for international shipping. Apple's fix is a software mode called Prepare to Ship that lets the phone travel to stores safely.",
+          "source": "Daring Fireball",
+          "published": "2026-09-23T20:12:16.000Z",
+          "image": ""
+        },
+        {
+          "title": "Changes to App Tracking Transparency in the E.U.",
+          "url": "https://developer.apple.com/app-store/user-privacy-and-data-use",
+          "tldr": "Apple is changing its App Tracking Transparency framework in the EU as part of agreements with European competition authorities, with changes beginning in an upcoming iOS update.",
+          "source": "Daring Fireball",
+          "published": "2026-09-23T23:41:46.000Z",
+          "image": "https://developer.apple.com/news/images/og/app-store-og.png"
+        },
+        {
+          "title": "Apple Podcasts Will Soon Let Creators Offer Exclusive Videos to Subscribers",
+          "url": "https://9to5mac.com/2026/09/23/apple-podcasts-will-soon-let-creators-offer-exclusive-videos-to-subscribers",
+          "tldr": "Apple Podcasts will let creators offer video through subscriptions, including exclusive episodes, ad-free video, early access and bonus content. A push to make podcasts a fuller video business too.",
+          "source": "9to5Mac",
+          "published": "2026-09-23T20:46:39.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-podcasts.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "ChatGPT in Siri 'Persistently Underperforming,' Says OpenAI",
+          "url": "https://www.macrumors.com/2026/09/23/openai-siri-chatgpt-underperforming",
+          "tldr": "Court documents from OpenAI's legal fight with xAI reveal that ChatGPT's integration into Siri has 'persistently underperformed' expectations, a rare look at how the Apple-OpenAI partnership is going.",
+          "source": "MacRumors",
+          "published": "2026-09-24T00:15:17.000Z",
+          "image": "https://images.macrumors.com/article-new/2025/04/chatgpt-logo.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Jude Law In Talks to Join Scarlett Johansson in Ari Aster's Next Movie 'Scapegoat' at A24",
+          "url": "https://deadline.com/2026/09/jude-law-scarlett-johansson-ari-asters-scapegoat-1237111014",
+          "tldr": "Jude Law is in talks to join Scarlett Johansson in Ari Aster's new A24 thriller Scapegoat, which Aster wrote and is directing. Another closely watched Aster and A24 pairing taking shape.",
+          "source": "Deadline",
+          "published": "2026-09-23T18:00:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/Jude-Law-Scarlett-Johansson-and-Ari-Aster-.jpg"
+        },
+        {
+          "title": "Olivia Wilde's A24 Relationship Dramedy 'The Invite' Sets HBO Max Premiere Date",
+          "url": "https://deadline.com/2026/09/the-invite-streaming-premiere-date-hbo-max-1237111720",
+          "tldr": "A24's Olivia Wilde-directed dramedy The Invite will stream exclusively on HBO Max from October 23, with a linear HBO debut to follow. A24's release strategy keeps evolving beyond cinemas.",
+          "source": "Deadline",
+          "published": "2026-09-23T19:23:32.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/06/g2rtsfc8cThe_Invite-Still_1.jpg"
+        },
+        {
+          "title": "'Transformers: The Movie' Extends Theatrical Run as Apology Tour Rerelease Surges at Box Office",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/transformers-the-movie-40th-rerelease-extends-box-office-1236709056",
+          "tldr": "Transformers: The Movie is extending its 40th anniversary theatrical rerelease after strong box office. Fathom's head of marketing says the response has left the team 'thrilled'.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-24T02:56:59.000Z",
+          "image": ""
+        },
+        {
+          "title": "'Milo' Review: Marion Cotillard Carries a Somber, Classically Made French Drama With Hints of Film Noir",
+          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/milo-review-marion-cotillard-nicole-garcia-1236706349",
+          "tldr": "Marion Cotillard leads Milo, a sombre French drama with film noir touches from 80-year-old director Nicole Garcia, which premiered in competition at San Sebastian. A late-career work still finding new ground.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-24T01:41:17.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Patriots",
+          "title": "Adam Vinatieri Makes Another Field Goal in the Snow, Sets Guinness World Record",
+          "url": "https://www.boston.com/sports/morning-sports-update/2026/09/23/adam-vinatieri-guinness-world-record-snow-field-goal",
+          "tldr": "Patriots legend Adam Vinatieri kicked another field goal in the snow, this time setting a Guinness World Record in the thin air of the Swiss Alps. Still automatic, years after Foxborough.",
+          "source": "Boston.com",
+          "published": "2026-09-23T15:01:42.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Adam-Vinatieri-World-Record-High-Altitude-Field-Goal-Hall_of_Fame_Football_19432-6ab3dad4773de-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Red Bull Confirms Hadjar Will Remain as Verstappen's Team Mate in 2027",
+          "url": "https://www.racefans.net/2026/09/23/red-bull-confirms-hadjar-will-remain-as-verstappens-team-mate-in-2027",
+          "tldr": "Red Bull has confirmed Isack Hadjar will stay as Max Verstappen's team-mate for 2027, a vote of confidence with a new contract. One driver seat settled before this weekend's Azerbaijan Grand Prix.",
+          "source": "RaceFans",
+          "published": "2026-09-23T07:35:13.000Z",
+          "image": ""
+        },
+        {
+          "tag": "F1",
+          "title": "How to Follow Azerbaijan Grand Prix on the BBC",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cdx0elx8pz8o",
+          "tldr": "The Azerbaijan Grand Prix runs from today through Saturday, and the BBC has published all the key details for following the Baku weekend's coverage.",
+          "source": "BBC Sport",
+          "published": "2026-09-23T12:09:26.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da16/live/195f5150-af8e-11f1-913a-7151f234deb3.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "The Moment Antonelli Knew He Had Been Transformed as an F1 Driver",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cmpq03x9x27ro",
+          "tldr": "Championship leader Kimi Antonelli tells the BBC how a 2024 crash stayed with him for a long time, and the moment he felt himself change as a driver. Candour from the man currently leading the title race.",
+          "source": "BBC Sport",
+          "published": "2026-09-23T14:26:47.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8918/live/fe3a4800-b738-11f1-aa9c-3d062fa3aea7.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Gray Dazzles in His Regular Season Finale With 6 Scoreless Frames",
+          "url": "https://www.mlb.com/redsox/news/sonny-gray-throws-six-scoreless-innings-in-win-vs-guardians",
+          "tldr": "Sonny Gray threw six scoreless innings in his last regular-season start, a dazzling send-off as the Red Sox beat the Guardians.",
+          "source": "MLB.com",
+          "published": "2026-09-24T02:20:06.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1790215169/mlb/inynkyfocvw5bvvfjrvv.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Tolle Puts Bow on Standout Rookie Season With October Spotlight Looming",
+          "url": "https://www.mlb.com/redsox/news/payton-tolle-red-sox-rookie-season-wild-card-rotation-2026",
+          "tldr": "Rookie Payton Tolle wrapped a standout first season for the Red Sox, with an October spotlight now waiting in the wings.",
+          "source": "MLB.com",
+          "published": "2026-09-23T04:11:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1790130687/mlb/nzqsuhxczsc73r9zxrle.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/an-ai-glossary",
+    "why": "Today's news is thick with new AI product launches, Muse, Gemini TTS and more, so this back-catalogue glossary is a handy primer on the terms shaping them.",
+    "title": "An AI glossary",
+    "subtitle": "The most common AI terms explained, simply",
+    "published": "2025-06-24",
+    "words": 2944,
+    "image": "https://substackcdn.com/image/fetch/$s_!BZCe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ded72ed-e8da-43dd-ba53-50eb67ca8518_2912x1938.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/432-the-mind-of-napoleon/id1141877104?i=1000788032837&uo=4",
+      "why": "A case study in relentless ambition and self-belief, the same traits behind today's product launches.",
+      "show": "Founders",
+      "title": "#432 The Mind of Napoleon",
+      "published": "2026-09-05",
+      "duration": "56m",
+      "apple": "https://podcasts.apple.com/us/podcast/432-the-mind-of-napoleon/id1141877104?i=1000788032837&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/strauss-zelnick",
+      "why": "Take-Two's chief on building games and entertainment products, a fitting listen on a day dominated by Meta's push into gaming hardware.",
+      "show": "David Senra",
+      "title": "Strauss Zelnick, Take-Two Interactive",
+      "published": "2026-05-17",
+      "duration": "1h 39m",
+      "apple": "https://podcasts.apple.com/us/podcast/strauss-zelnick-take-two-interactive/id1836497887?i=1000768231102&uo=4",
+      "page": "https://www.davidsenra.com/episode/strauss-zelnick",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/d3/12/04d3127b-308a-2418-4466-4584ba5335a4/mza_7013021220421675672.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/meta",
+      "why": "With Meta's Connect keynote dominating today's news, Acquired's deep dive on the company is the obvious pairing.",
+      "show": "Acquired",
+      "title": "Meta",
+      "published": "2024-10-28",
+      "duration": "6h 11m",
+      "apple": "https://podcasts.apple.com/us/podcast/meta/id1050462261?i=1000674646827&uo=4",
+      "page": "https://www.acquired.fm/episodes/meta",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Woodland Creatures Inhabit an Imaginary World in Kanako Abe's Intricate Paper Cuts",
+    "url": "https://www.thisiscolossal.com/2026/09/kanako-abe-paper-cuts-reliefs-collages",
+    "tldr": "Artist Kanako Abe creates intricate paper-cut reliefs of woodland creatures in dreamlike scenes drawn from childhood stories and folk tales. Small, patient work that rewards a slow look.",
+    "source": "Colossal",
+    "published": "2026-09-23T17:00:00.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/abe-10.jpg"
+  }
+}
