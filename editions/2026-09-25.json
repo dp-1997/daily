@@ -1,0 +1,333 @@
+{
+  "date": "2026-09-25",
+  "front": [
+    {
+      "title": "Lovable's annualized revenue crosses $600M as vibe coding takes off",
+      "url": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off",
+      "tldr": "Lovable's annual revenue has passed $600m, with apps built on the platform nearing a billion views a month, says co-founder Fabian Hedin. Vibe coding is turning into a serious business fast.",
+      "source": "TechCrunch",
+      "published": "2026-09-24T14:43:25.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fabin-Hedin-Lovable.jpg?resize=1200,675"
+    },
+    {
+      "title": "Meta unveils lightweight VR glasses and camera-free AI glasses at Connect 2026",
+      "url": "https://www.dezeen.com/2026/09/24/meta-vr-glasses-audio-ai-glasses-connect-2026",
+      "tldr": "Meta used its Connect keynote to reveal slimline VR glasses for entertainment and a camera-free, audio-only version of its Ray-Ban smart glasses, extending its push to make wearable AI ordinary.",
+      "source": "Dezeen",
+      "published": "2026-09-24T10:15:15.000Z",
+      "image": "http://static.dezeen.com/uploads/2026/09/meta-vr-glasses-ray-ban-audio-connect-2026-design_dezeen_2364_sq3-411x411.jpg"
+    },
+    {
+      "title": "As Letterboxd draws interest from The New York Times, A24 and more, one of its bankers calls it \"a phenomenon\"",
+      "url": "https://deadline.com/2026/09/letterboxd-new-york-times-a24-acquisition-liontree-1237113055",
+      "tldr": "Dealmakers are circling Letterboxd, with The New York Times and A24 both said to be weighing bids as the film-diary app grows into a real business. One banker called it a phenomenon.",
+      "source": "Deadline",
+      "published": "2026-09-24T20:49:02.000Z",
+      "image": "https://deadline.com/wp-content/uploads/2022/08/letterboxd-logo-v-neg-rgb-1000px.png"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
+          "tldr": "Google DeepMind has launched Gemini 3.8 Live, adding a real-time animated avatar to its voice assistant, part of Google's push to make AI feel more like a conversation partner than a chatbot.",
+          "source": "Google DeepMind",
+          "published": "2026-09-24T16:20:39.000Z",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.width-1300.png"
+        },
+        {
+          "title": "Google tests letting Gemini call businesses for you",
+          "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners",
+          "tldr": "Google is testing a feature that lets Gemini phone businesses on your behalf, starting with Pixel 11 owners in the US who pay for a Gemini subscription.",
+          "source": "TechCrunch",
+          "published": "2026-09-24T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-HiLight.jpg?resize=1200,675"
+        },
+        {
+          "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+          "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses",
+          "tldr": "Prism is putting small, open-weight language models onto Qualcomm-powered smart glasses, betting that on-device AI can make better use of hardware people already own.",
+          "source": "TechCrunch",
+          "published": "2026-09-24T19:00:42.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/PrismML-Snapdragon-smartglasses.png?w=612"
+        },
+        {
+          "title": "ElevenLabs' CEO on margins, IPO timing, and telling customers they're talking to a bot",
+          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
+          "tldr": "ElevenLabs, now reportedly valued at $22 billion, powers the AI voice behind many customer service calls. Its chief executive said businesses should probably disclose when you're talking to a machine.",
+          "source": "TechCrunch",
+          "published": "2026-09-24T16:35:13.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/Mati-Staniszewski_SXSW.jpg?resize=1200,799"
+        },
+        {
+          "title": "Meta's Muse Charm looks like a Tamagotchi, but it's tapping into a much newer trend",
+          "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend",
+          "tldr": "Meta's new dangling AI gadget resembles a Tamagotchi, but its form factor is chasing a broader Gen Z trend for bag charms and retro tech turned into fashion accessories.",
+          "source": "TechCrunch",
+          "published": "2026-09-24T17:39:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Waymo is scaling fast: Here's what the fleet data shows",
+          "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows",
+          "tldr": "Waymo has expanded its Texas robotaxi fleet by 49% in the past month, with growth accelerating in several other cities too, according to fleet-tracking data.",
+          "source": "TechCrunch",
+          "published": "2026-09-24T23:24:33.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800"
+        },
+        {
+          "title": "Google is sending a teensy-tiny AI data center to space",
+          "url": "https://www.engadget.com/2267975/google-is-sending-a-teensy-tiny-ai-data-center-to-space",
+          "tldr": "Google plans to send a small experimental AI data centre into orbit, to see how its chips cope with the vacuum and radiation of space.",
+          "source": "Engadget",
+          "published": "2026-09-24T17:45:37.000Z",
+          "image": "https://www.engadget.com/img/gallery/google-is-sending-a-teensy-tiny-ai-data-center-to-space/l-intro-1790271728.jpg"
+        },
+        {
+          "title": "Meet Feather, the startup building the 'Android of robotics' for developers",
+          "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers",
+          "tldr": "Feather is building a customisable, $30,000 robotics platform aimed squarely at software developers, hoping to become an open standard the way Android did for phones.",
+          "source": "TechCrunch",
+          "published": "2026-09-24T18:52:38.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829"
+        },
+        {
+          "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+          "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting",
+          "tldr": "Nexterity has built a robot that can tighten or loosen four bolts at once and fits inside a Pelican case, aimed at one of pipefitting's toughest jobs.",
+          "source": "TechCrunch",
+          "published": "2026-09-24T20:45:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/IMG_0951-rotated.jpeg?resize=900,1200"
+        },
+        {
+          "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+          "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together",
+          "tldr": "Ando is building a Slack rival where AI agents get their own identities and inboxes, and can join conversations alongside human colleagues.",
+          "source": "TechCrunch",
+          "published": "2026-09-24T14:31:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Sara-Du.png?resize=1200,594"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple and Qualcomm renew global patent licensing agreement",
+          "url": "https://9to5mac.com/2026/09/24/apple-and-qualcomm-renew-global-patent-licensing-agreement",
+          "tldr": "Apple and Qualcomm have renewed their global patent licensing agreement, extending a deal that was due to expire in 2027.",
+          "source": "9to5Mac",
+          "published": "2026-09-24T23:51:06.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple Sports adds real-time Grand Slam draws, expands soccer coverage",
+          "url": "https://9to5mac.com/2026/09/24/apple-sports-adds-real-time-grand-slam-draws-expands-soccer-coverage",
+          "tldr": "Apple Sports now shows real-time Grand Slam tennis draws and has widened its soccer coverage, the latest steady expansion of Apple's free sports app.",
+          "source": "9to5Mac",
+          "published": "2026-09-24T23:03:46.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-sports.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple Maps just added two new features in iOS 27",
+          "url": "https://9to5mac.com/2026/09/24/heres-everything-new-for-apple-maps-in-ios-27",
+          "tldr": "iOS 27 brings two headline additions to Apple Maps, alongside a run of smaller improvements, as Apple keeps building the app out beyond simple navigation.",
+          "source": "9to5Mac",
+          "published": "2026-09-24T19:55:15.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-maps-generic-3d.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Rare 'Antennagate' press conference Q&A video surfaces online",
+          "url": "https://9to5mac.com/2026/09/24/rare-antennagate-press-conference-qa-video-surfaces-online",
+          "tldr": "Footage of the Q&A from Apple's 2010 Antennagate press conference, one of its most notable events of the last 20 years, has surfaced online after 16 years.",
+          "source": "9to5Mac",
+          "published": "2026-09-25T00:31:14.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-4.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Aamir Khan to receive Screen Icon Award as Singapore Film Festival opens with Hur Jin-ho's 'The Assassin(s)'",
+          "url": "https://variety.com/2026/film/festivals/aamir-khan-singapore-film-festival-hur-jin-ho-the-assassins-1236873907",
+          "tldr": "The Singapore International Film Festival has opened its 37th edition by naming Aamir Khan its Screen Icon, alongside a 25th-anniversary retrospective strand.",
+          "source": "Variety",
+          "published": "2026-09-25T02:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/06/Lagaan.jpg"
+        },
+        {
+          "title": "Academy Museum unveils immersive 'The Horror Show' and 'Zombies!' exhibitions",
+          "url": "https://deadline.com/gallery/academy-museum-unveils-immersive-the-horror-show-zombies-exhibitions-just-ahead-of-halloween",
+          "tldr": "Los Angeles's Academy Museum is opening two Halloween-season exhibitions, including a major survey of costumes and props from Halloween, Saw and Poltergeist.",
+          "source": "Deadline",
+          "published": "2026-09-24T19:45:47.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/The-Horror-Show.jpg"
+        },
+        {
+          "title": "Zurich Film Festival underway with Golden Eye Award for Tom Hiddleston",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/zurich-film-festival-2026-tom-hiddleston-tenzing-golden-eye-1236709651",
+          "tldr": "The Zurich Film Festival has opened with the European premiere of Tom Hiddleston's Everest drama Tenzing, and named him recipient of its Golden Eye award.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-24T21:01:26.000Z",
+          "image": ""
+        },
+        {
+          "title": "How New York Film Festival landed movies like controversial OpenAI biopic 'Artificial' and Toho's 'Godzilla Minus Zero'",
+          "url": "https://www.indiewire.com/features/general/how-new-york-film-festival-landed-artificial-godzilla-1235218495",
+          "tldr": "The New York Film Festival's artistic director explains how the programme landed Luca Guadagnino's OpenAI drama Artificial and Toho's Godzilla Minus Zero, among this year's biggest gets.",
+          "source": "IndieWire",
+          "published": "2026-09-24T19:10:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDARTI_EC022.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "The Celtics training camp roster is set",
+          "url": "https://www.celticsblog.com/boston-celtics-news/146542/celtics-training-camp-roster",
+          "tldr": "Boston's 21-man training camp roster is confirmed, with 14 players on standard contracts as the Celtics head into camp with plenty of familiar faces.",
+          "source": "CelticsBlog",
+          "published": "2026-09-24T22:22:44.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2274635453.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "3 to Watch: Patriots hit the road to Jacksonville for Week 3 AFC showdown with Jaguars",
+          "url": "https://www.patriots.com/news/3-to-watch-patriots-hit-the-road-to-jacksonville-for-week-3-afc-showdown-with-jaguars",
+          "tldr": "New England travels to Jacksonville looking to move to 2-1, with three key matchups to watch as the Patriots try to build on their Week 2 win.",
+          "source": "Patriots.com",
+          "published": "2026-09-24T19:45:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/c6uggq0gkxzmfaywo3dk.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Adam Schefter: A.J. Brown is showing 'encouraging' signs during recovery process",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/24/patriots-a-j-brown-injury-update-adam-schefter",
+          "tldr": "ESPN's Adam Schefter says A.J. Brown is moving well in his recovery, encouraging news for a Patriots offence still searching for rhythm through two games.",
+          "source": "Boston.com",
+          "published": "2026-09-24T15:40:04.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/S3PB2QP6J7UN7BFJS6MIP63DAU-6ab53faa0b0f5-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Russell leads Mercedes one-two, Lindblad crashes, Hamilton summoned for impeding",
+          "url": "https://www.racefans.net/2026/09/24/russell-leads-mercedes-one-two-lindblad-crashes-hamilton-summoned-for-impeding",
+          "tldr": "George Russell topped both practice sessions in Baku as Mercedes dominated, Arvid Lindblad crashed out of FP2, and Lewis Hamilton was reprimanded for impeding Liam Lawson.",
+          "source": "RaceFans",
+          "published": "2026-09-24T13:16:32.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-13-46-21-1-M630835_F1_Grand_Prix_of_Azerbaijan_Practice.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Lando Norris: McLaren's Baku deficit is a 'knife in the heart'",
+          "url": "https://www.motorsport.com/f1/news/lando-norris-mclarens-baku-deficit-is-a-knife-in-the-heart/10858617",
+          "tldr": "Lando Norris says McLaren's lack of pace at the Azerbaijan Grand Prix stings, after a lowly 14th place in opening practice left Mercedes far ahead.",
+          "source": "Motorsport.com",
+          "published": "2026-09-24T15:36:54.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/2dEomPBY/s6/lando-norris-mclaren.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Red Bull won't deliver any more major F1 car upgrades in 2026",
+          "url": "https://www.autosport.com/f1/news/red-bull-wont-deliver-any-more-major-f1-car-upgrades-in-2026/10858535",
+          "tldr": "Red Bull has confirmed its Baku upgrade package will be its last major update of 2026, as the team shifts its full focus to next year's car.",
+          "source": "Autosport",
+          "published": "2026-09-24T12:30:02.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/6n7bL8m0/s6/max-verstappen-red-bull-racing-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Guardians clinch a playoff spot again, edging the Red Sox 1-0 on Martinez homer",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/24/guardians-clinch-a-playoff-spot-again-edging-the-red-sox-1-0-on-martinez-homer",
+          "tldr": "Cleveland clinched its third straight playoff spot with a 1-0 win over Boston, as the Red Sox's bats stayed quiet in the penultimate series of the season.",
+          "source": "Boston.com",
+          "published": "2026-09-25T02:03:40.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Guardians_Red_Sox_Baseball_24218-6ab5d30001125-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "MRI clean as Rafaela returns to Red Sox lineup Thursday",
+          "url": "https://www.mlb.com/redsox/news/ceddanne-rafaela-exits-vs-guardians-in-first-game-back-from-injured-list",
+          "tldr": "Ceddanne Rafaela's MRI came back clean after he left Thursday's game with hamstring tightness in his first outing back from injury, easing fears before the postseason.",
+          "source": "MLB.com",
+          "published": "2026-09-24T21:45:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/lxirmaesvsfnwyu8zaej.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox, Cubs reportedly could fly to Tampa for neutral-site game to avoid incoming nor'easter",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/24/red-sox-cubs-reportedly-could-fly-to-tampa-for-neutral-site-game-to-avoid-incoming-noreaster",
+          "tldr": "With a nor'easter threatening Boston this weekend, the Red Sox and Cubs are reportedly discussing an alternate site in Tampa to get their final series played.",
+          "source": "Boston.com",
+          "published": "2026-09-25T00:18:53.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/XSJ3HGUJGJFBVM3Z7NLZHAB5OM-6ab5b1adedc77-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
+    "why": "Lenny's own launch of a jobs marketplace built on his newsletter's audience is a neat case study in positioning a new product inside an existing one.",
+    "title": "Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job",
+    "subtitle": "Where product managers, engineers, designers, and growth/marketing professionals discover high-quality open roles at tech companies",
+    "published": "2026-08-18",
+    "words": 933,
+    "image": "https://substackcdn.com/image/fetch/$s_!PFZn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f696879-6374-42d6-a171-47933f6eb126_1456x970.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/417-arnold-schwarzenegger/id1141877104?i=1000762241588&uo=4",
+      "why": "Senra on Arnold Schwarzenegger's relentless self-belief and reinvention, from bodybuilding to Hollywood to politics, a study in building a personal brand across decades.",
+      "show": "Founders",
+      "title": "#417 Arnold Schwarzenegger",
+      "published": "2026-04-19",
+      "duration": "44m",
+      "apple": "https://podcasts.apple.com/us/podcast/417-arnold-schwarzenegger/id1141877104?i=1000762241588&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/dana-white",
+      "why": "Dana White on building UFC from a struggling promotion into a global sports and entertainment brand, sharp on positioning and partnership.",
+      "show": "David Senra",
+      "title": "Dana White, UFC",
+      "published": "2026-05-10",
+      "duration": "1h 13m",
+      "apple": "https://podcasts.apple.com/us/podcast/dana-white-ufc/id1836497887?i=1000767030170&uo=4",
+      "page": "https://www.davidsenra.com/episode/dana-white",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/89/87/2d/89872dce-0684-84d9-be3b-db73a7760196/mza_7026034321764841279.jpeg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/acquired-live-from-chase-center-with-daniel-ek-emily-chang-jensen-huang-and-mark-zuckerberg",
+      "why": "A live Acquired stage conversation with Daniel Ek, Jensen Huang and Mark Zuckerberg, timely with Meta's Connect keynote fresh this week.",
+      "show": "Acquired",
+      "title": "Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg)",
+      "published": "2024-09-30",
+      "duration": "2h 17m",
+      "apple": "https://podcasts.apple.com/us/podcast/acquired-live-from-chase-center-with-daniel-ek-emily/id1050462261?i=1000671250518&uo=4",
+      "page": "https://www.acquired.fm/episodes/acquired-live-from-chase-center-with-daniel-ek-emily-chang-jensen-huang-and-mark-zuckerberg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/0e/36/850e36fe-1216-5cd0-4b0b-a0862c48b4e5/mza_7485335520123504110.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Peter Zumthor unveils trio of \"wonderfully expressive\" buildings for Swiss museum",
+    "url": "https://www.dezeen.com/2026/09/24/fondation-beyeler-peter-zumthor-switzerland",
+    "tldr": "Architect Peter Zumthor has expanded Basel's Fondation Beyeler with a cluster of new art buildings designed to nestle into its garden setting rather than dominate it.",
+    "source": "Dezeen",
+    "published": "2026-09-24T10:30:15.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/09/fondation-beyeler-peter-zumthor-switzerland_dezeen_2364_sq_0-411x411.jpg"
+  }
+}
