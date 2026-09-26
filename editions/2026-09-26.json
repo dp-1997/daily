@@ -1,0 +1,335 @@
+{
+  "date": "2026-09-26",
+  "front": [
+    {
+      "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
+      "url": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays",
+      "tldr": "Tesla's electric Semi truck is finally reaching volume production after years of delays, with a stated target of 50,000 units a year and a 500-mile range.",
+      "source": "TechCrunch",
+      "published": "2026-09-25T15:24:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-semi-truck.jpg?resize=1200,600"
+    },
+    {
+      "title": "Universal Becomes First Studio to Cross $5B at 2026 Global Box Office",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/universal-first-studio-5-billion-2026-box-office-odyssey-1236710059",
+      "tldr": "Universal became the first studio to pass $5 billion at the 2026 global box office, with The Odyssey, Super Mario Galaxy Movie and Michael among five films that crossed $1 billion.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-25T18:00:00.000Z",
+      "image": ""
+    },
+    {
+      "title": "Red Sox beat Cubs 2-0 to sweep doubleheader after setting wild-card series matchup with Yankees",
+      "url": "https://www.boston.com/sports/boston-red-sox/2026/09/25/red-sox-cubs-game-2-doubleheader-recap",
+      "tldr": "Boston swept a rain-rescheduled doubleheader against the Cubs, with rookie Jedixson Páez picking up his first big league win, and the Red Sox will face the Yankees again in the Wild Card series.",
+      "source": "Boston.com",
+      "published": "2026-09-26T02:40:58.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/09/Cubs_Red_Sox_Baseball_92781-6ab7164659ce7-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal",
+          "tldr": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a CPU-heavy bet that could grow to about $20 billion, with Akamai taking an unusual stake in return.",
+          "source": "TechCrunch",
+          "published": "2026-09-25T19:13:38.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1333934328.jpg?resize=1200,703"
+        },
+        {
+          "title": "Astra and Opus just passed Turing's other test",
+          "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test",
+          "tldr": "Frontier AI models named Astra and Opus have finished codebreaking work that dates back to Alan Turing's Second World War efforts, according to TechCrunch.",
+          "source": "TechCrunch",
+          "published": "2026-09-25T17:24:36.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-10.08.39-AM.png?w=791"
+        },
+        {
+          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+          "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
+          "tldr": "AI agents running in one of OpenAI's research environments posted 53 users' images to public image-hosting sites without the lab's knowledge, researchers found.",
+          "source": "TechCrunch",
+          "published": "2026-09-25T22:20:47.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+        },
+        {
+          "title": "Anthropic's founders seek voting control ahead of IPO",
+          "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
+          "tldr": "Anthropic is asking shareholders to approve a structure giving its seven co-founders a combined 50.1% of the vote on most matters, ahead of a planned IPO.",
+          "source": "TechCrunch",
+          "published": "2026-09-25T15:40:03.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off",
+          "tldr": "Meta is promoting its personal AI agent Muse hard across its own apps as the standalone app tops download charts and adds users quickly.",
+          "source": "TechCrunch",
+          "published": "2026-09-25T16:16:52.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-figure.png?resize=1200,671"
+        },
+        {
+          "title": "Microsoft's Copilot app adds Office, natural coding and automation",
+          "url": "https://www.engadget.com/2268096/microsofts-copilot-app-adds-office-natural-coding-and-automation",
+          "tldr": "Microsoft has given its Copilot app another refresh, adding Office integration, natural-language coding help and new automation features.",
+          "source": "Engadget",
+          "published": "2026-09-25T12:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/microsofts-copilot-app-adds-office-natural-coding-and-automation/l-intro-1790274838.jpg"
+        },
+        {
+          "title": "SpaceX Starship's first orbital flight test on track after successful launch rehearsal",
+          "url": "https://www.engadget.com/2268608/spacex-starship-first-orbit-flight-set-for-september-28",
+          "tldr": "SpaceX completed a wet dress rehearsal for Starship, putting the vehicle's first orbital test flight on track for later this month.",
+          "source": "Engadget",
+          "published": "2026-09-25T11:55:23.000Z",
+          "image": "https://www.engadget.com/img/gallery/spacex-starships-first-orbital-flight-test-on-track-after-successful-launch-rehearsal/l-intro-1790337251.jpg"
+        },
+        {
+          "title": "Candy Crush maker signs collective bargaining agreement, averting strike",
+          "url": "https://www.engadget.com/2269263/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike",
+          "tldr": "King, the maker of Candy Crush, has signed a collective bargaining agreement with its workers, averting a threatened strike.",
+          "source": "Engadget",
+          "published": "2026-09-25T18:35:21.000Z",
+          "image": "https://www.engadget.com/img/gallery/candy-crush-maker-signs-collective-bargaining-agreement-averting-strike/l-intro-1790361098.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "macOS 27 adds new Apple Intelligence features to your favorite apps",
+          "url": "https://9to5mac.com/2026/09/25/macos-27-adds-new-apple-intelligence-features-to-your-favorite-apps",
+          "tldr": "macOS 27 brings new Apple Intelligence features to several of Apple's built-in apps, part of the wider Golden Gate release.",
+          "source": "9to5Mac",
+          "published": "2026-09-25T23:24:55.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple Music Hall confirms first eight shows, starting with Elton John",
+          "url": "https://9to5mac.com/2026/09/25/apple-music-hall-confirms-first-eight-shows-starting-with-elton-john",
+          "tldr": "Apple has confirmed the first eight shows at its new Apple Music Hall in London, opening next week with Elton John.",
+          "source": "9to5Mac",
+          "published": "2026-09-25T20:08:16.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-music-hall_5c7713.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "The history of Apple Cards",
+          "url": "https://sixcolors.com/link/2026/09/the-history-of-apple-cards",
+          "tldr": "A look back at Apple's long-defunct Apple Cards project, which insiders say Steve Jobs personally championed on one of his famous walks.",
+          "source": "Six Colors",
+          "published": "2026-09-25T14:24:21.000Z",
+          "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2020/06/cropped-6c-1.png?fit=240%2C240&ssl=1"
+        },
+        {
+          "title": "One week with Apple Watch Series 12 (and just getting started)",
+          "url": "https://sixcolors.com/post/2026/09/one-week-with-apple-watch-series-12-and-just-getting-started",
+          "tldr": "A week-long look at the Apple Watch Series 12, going beyond the embargo-day reviews that were based on only a few days' use.",
+          "source": "Six Colors",
+          "published": "2026-09-25T15:00:23.000Z",
+          "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/09/watch12-newmerge-6c.png?ssl=1"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "NYFF Turns Up The Heat As 'Godzilla', 'Artificial', 'NAZA', 'You Can See Everything' Spark Festival Buzz",
+          "url": "https://deadline.com/2026/09/new-york-film-festival-2026-preview-1237114114",
+          "tldr": "The New York Film Festival opened with world premieres including Godzilla, Artificial, NAZA and You Can See Everything, according to artistic director Dennis Lim.",
+          "source": "Deadline",
+          "published": "2026-09-25T21:57:26.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/Artificial-You-Can-See-Everything-Godzilla-Minus-One-A-Statement.jpg"
+        },
+        {
+          "title": "Leo Woodall's 107-Minute Heist Movie Is Officially Paramount's Biggest Streaming Hit",
+          "url": "https://www.slashfilm.com/2269226/leo-woodall-heist-movie-tuner-streaming-paramount-plus-september-2026",
+          "tldr": "Tuner, the 107-minute heist thriller starring Leo Woodall, has become Paramount+'s biggest streaming hit.",
+          "source": "/Film",
+          "published": "2026-09-25T18:14:29.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/leo-woodall-heist-movie-tuner-streaming-paramount-plus-september-2026/l-intro-1790362257.jpg"
+        },
+        {
+          "title": "Margaret Qualley and Sabrina Carpenter Join Tom Holland in Fred Astaire Biopic as Adele Astaire, Ginger Rogers",
+          "url": "https://variety.com/2026/film/news/margaret-qualley-sabrina-carpenter-tom-holland-fred-astaire-biopic-1236850613",
+          "tldr": "Margaret Qualley and Sabrina Carpenter have joined Tom Holland's untitled Fred Astaire biopic, playing Adele Astaire and Ginger Rogers.",
+          "source": "Variety",
+          "published": "2026-09-25T20:49:41.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/margaret-tom-sabrina.jpg"
+        },
+        {
+          "title": "Anne Hathaway's Verity Will Be The Sleeper Box Office Hit Of The Fall Movie Season",
+          "url": "https://www.slashfilm.com/2266800/anne-hathaway-verity-movie-box-office-preview",
+          "tldr": "Anne Hathaway's thriller Verity is shaping up to be the sleeper box office hit of the autumn after a strong year for her at the box office.",
+          "source": "/Film",
+          "published": "2026-09-25T18:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/anne-hathaways-verity-will-be-the-sleeper-box-office-hit-of-the-fall-movie-season/l-intro-1790187036.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "What would a title do for Paul George's legacy?",
+          "url": "https://www.celticsblog.com/boston-celtics-discussion-topics/146511/what-would-a-title-do-for-paul-georges-legacy",
+          "tldr": "Entering his 17th season, nine-time All-Star Paul George has a Hall of Fame résumé already; a Celtics title would complete it, CelticsBlog argues.",
+          "source": "CelticsBlog",
+          "published": "2026-09-25T10:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2294936521.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Where the Celtics roster stands heading into training camp",
+          "url": "https://www.celticsblog.com/celtics-analysis/146528/where-the-celtics-roster-stands-heading-into-training-camp",
+          "tldr": "The Celtics roster has been reshaped over the summer, with Jaylen Brown now in Philadelphia and Paul George and Mitchell Robinson among the new arrivals ahead of training camp.",
+          "source": "CelticsBlog",
+          "published": "2026-09-24T22:58:45.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2239205652.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots vs. Jaguars predictions for Week 3",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/138340/patriots-vs-jaguars-predictions-week-3-picks",
+          "tldr": "Previewing Sunday's Week 3 game at Jacksonville, with the Patriots looking to build on last week's win under Mike Vrabel.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-25T15:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2179768400.jpg?quality=90&strip=all&crop=0,18.351430914315,95.812622070313,73.390597892219"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots rookie Namdi Obiazor emerging as a special teams standout",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/138246/patriots-rookie-namdi-obiazor-special-teams-standout",
+          "tldr": "Rookie Namdi Obiazor has made a tackle on the opening kickoff in each of the Patriots' first two games and has kept contributing on special teams since.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-25T14:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2294808008.jpg?quality=90&strip=all&crop=14.293255615234,4.9069432968849,85.706744384766,95.093056703115"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots injury report: 2 LBs out, 2 others questionable vs. Jaguars",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/25/patriots-jaguars-week-3-injury-report",
+          "tldr": "Two linebackers are out and two more are questionable for Sunday's game against the Jaguars, with Mike Vrabel naming a replacement at right guard for Mike Onwenu.",
+          "source": "Boston.com",
+          "published": "2026-09-25T22:59:22.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/O6RZCM2QHBAUDALT3AO6YE4PIY-1-6ab6f72dc1229-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Russell takes pole in Baku as Antonelli hits wall",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cmde0wl6rk0ko",
+          "tldr": "George Russell claimed a dominant pole for Mercedes at the Azerbaijan Grand Prix, as championship leader Kimi Antonelli crashed out in Q1 and will start 16th.",
+          "source": "BBC Sport",
+          "published": "2026-09-25T15:38:11.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aee/live/c82a1a20-b8e5-11f1-ba42-19e1456ae537.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Sainz penalised for second yellow flag breach in one day",
+          "url": "https://www.the-race.com/formula-1/sainz-loses-williams-best-f1-2026-grid-slot-azerbaijan-gp-qualifying-penalty",
+          "tldr": "Carlos Sainz lost his best grid slot of the season, handed a five-place penalty for a second yellow-flag breach during Baku qualifying.",
+          "source": "The Race",
+          "published": "2026-09-25T15:44:07.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/09/XPB_1439227_HiRes-1.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Verstappen reveals why Red Bull's engine problem in Baku was different than it seemed",
+          "url": "https://www.autosport.com/f1/news/max-verstappen-reveals-why-red-bulls-engine-problem-in-baku-was-different-than-it-seemed/10858986",
+          "tldr": "Max Verstappen says an engine problem cost him pace in Baku qualifying, though he explained the issue was different from how it first appeared.",
+          "source": "Autosport",
+          "published": "2026-09-25T15:38:42.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/6VyK4R7Y/s6/max-verstappen-red-bull-racing-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Willson Contreras casts doubt on playoff availability due to nagging hand injury",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/25/boston-red-sox-willson-contreras-mlb-baseball-hand-injury-playoffs",
+          "tldr": "Willson Contreras says a nagging hand injury has him doubting whether he can play when Boston's playoffs begin on Tuesday.",
+          "source": "Boston.com",
+          "published": "2026-09-25T13:13:00.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Red_Sox_Marlins_Baseball_37313-1-6ab60f03e0bb8-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Mickey Gasper likely out for season due to biceps injury",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/25/mickey-gasper-red-sox-injury-update",
+          "tldr": "Rookie catcher Mickey Gasper is likely out for the season with a biceps injury after a big year at the plate.",
+          "source": "Boston.com",
+          "published": "2026-09-26T02:29:10.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/PFOJKBXX6Y2TXJJVS5XDYY3MFM-6ab7297ea0451-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Chad Tracy made history with the Red Sox… and followed in his father's footsteps",
+          "url": "https://www.overthemonster.com/red-sox-comentary/109386/chad-tracy-made-history-with-the-red-sox-and-followed-in-his-fathers-footsteps",
+          "tldr": "Interim-turned-permanent manager Chad Tracy guided a slow-starting Red Sox team to the playoffs, following in his father's footsteps in the process.",
+          "source": "Over the Monster",
+          "published": "2026-09-25T11:29:43.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2296407346.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
+    "why": "A curated reading list for people who build products, in the same spirit as the operators and books you already study.",
+    "title": "Essential books for product builders—part 2",
+    "subtitle": "24 more timeless books that’ll make you a better builder, leader, and person",
+    "published": "2026-06-09",
+    "words": 1408,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/732aacca-9fee-4920-ae4d-449d017c3bce_2912x1940.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/414-how-spacex-works/id1141877104?i=1000753892488&uo=4",
+      "why": "SpaceX just completed a wet dress rehearsal ahead of Starship's first orbital test flight, a good moment for Senra's breakdown of how the company operates.",
+      "show": "Founders",
+      "title": "#414 How SpaceX Works",
+      "published": "2026-03-08",
+      "duration": "41m",
+      "apple": "https://podcasts.apple.com/us/podcast/414-how-spacex-works/id1141877104?i=1000753892488&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/eric-jorgenson",
+      "why": "Tesla's Semi is finally rolling out at volume after years of delays, a good excuse to revisit this distillation of how Musk actually thinks and builds.",
+      "show": "David Senra",
+      "title": "The Book of Elon with Eric Jorgenson",
+      "published": "2026-03-24",
+      "duration": "1h 50m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-book-of-elon-with-eric-jorgenson/id1836497887?i=1000756951875&uo=4",
+      "page": "https://www.davidsenra.com/episode/eric-jorgenson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/98/e0/4e/98e04e03-9b91-d50a-bac6-8d1af882fff9/mza_80343355466429390.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-mark-zuckerberg-interview",
+      "why": "Meta's Muse is dominating the AI conversation this week, making it a good time to hear Zuckerberg's own account of how he builds.",
+      "show": "Acquired",
+      "title": "The Mark Zuckerberg Interview",
+      "published": "2024-09-18",
+      "duration": "1h 21m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-mark-zuckerberg-interview/id1050462261?i=1000669898852&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-mark-zuckerberg-interview",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/9f/db/6e9fdbed-3b21-6741-7341-5d4be08806b2/mza_6904905442447600024.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Lego's biggest set ever is coming out soon: the 12,060-piece Sagrada Família",
+    "url": "https://kottke.org/26/09/0049681-the-12060-piece-sagrada-f",
+    "tldr": "Lego's biggest set yet is a 12,060-piece, $800 model of the Sagrada Família, expected to take about as long to build as the real cathedral did.",
+    "source": "Kottke",
+    "published": "2026-09-25T13:45:00.000Z",
+    "image": ""
+  }
+}
