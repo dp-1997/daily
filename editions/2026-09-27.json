@@ -1,0 +1,300 @@
+{
+  "date": "2026-09-27",
+  "front": [
+    {
+      "title": "Godzilla Minus Zero review: Yamazaki's kaiju sequel is a crackling epic as exciting as the original",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/godzilla-minus-zero-review-takashi-yamazaki-1236712678",
+      "tldr": "The sequel to 2023's Godzilla Minus One had its world premiere at the New York Film Festival, with critics at Variety, The Hollywood Reporter and IndieWire all calling it as strong as the original.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-09-27T00:30:00.000Z",
+      "image": ""
+    },
+    {
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
+      "tldr": "Google is testing a way to buy select products from Flipkart directly inside Gemini and AI Mode in India, with a wider rollout planned for October.",
+      "source": "TechCrunch",
+      "published": "2026-09-27T01:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800"
+    },
+    {
+      "title": "Mercedes overtake Ferrari to become F1's most successful engine builder",
+      "url": "https://www.racefans.net/2026/09/26/mercedes-overtake-ferrari-to-become-f1s-most-successful-engine-builder",
+      "tldr": "George Russell held off Max Verstappen by 0.196 seconds to win the Azerbaijan Grand Prix, taking Mercedes past Ferrari as Formula 1's most successful engine builder with a 252nd win.",
+      "source": "RaceFans",
+      "published": "2026-09-26T12:57:00.000Z",
+      "image": "https://www.racefans.net/wp-content/uploads/2026/09/racefansdotnet-24-09-24-17-29-40-1-M630838_F1_Grand_Prix_of_Azerbaijan_Practice.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Kākāpō Party",
+          "url": "https://simonwillison.net/2026/Sep/26/kakapo-party",
+          "tldr": "Developer Simon Willison built his WeAreDevelopers closing keynote around New Zealand's record-breaking kākāpō census, turning an AI demo into an unlikely bird-conservation story.",
+          "source": "Simon Willison",
+          "published": "2026-09-26T23:39:06.000Z",
+          "image": "https://static.simonwillison.net/static/2026/kakapo-party-first-frame.webp"
+        },
+        {
+          "title": "I created an interactive digital avatar of myself, and you can talk to it",
+          "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
+          "tldr": "A TechCrunch reporter built and trained a talking AI clone of herself to discuss venture fraud, and came away with mixed feelings about the growing business of personal AI avatars.",
+          "source": "TechCrunch",
+          "published": "2026-09-26T14:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667"
+        },
+        {
+          "title": "At Meta Connect, the company's smart glasses were everywhere",
+          "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere",
+          "tldr": "Meta's smart glasses dominated its Connect conference as the company pushes to keep people tied to Facebook and Instagram through an expanding line of wearables.",
+          "source": "TechCrunch",
+          "published": "2026-09-26T01:08:57.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "PNOE's new face mask wants to make lab-grade breath testing a self-serve affair",
+          "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair",
+          "tldr": "Massachusetts startup PNOE is launching a sleeker, self-serve version of its breath-analysing mask on 1 October, letting gym-goers measure their metabolism without a lab technician.",
+          "source": "TechCrunch",
+          "published": "2026-09-27T01:40:30.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/PNOE-2.0.png?resize=1200,675"
+        },
+        {
+          "title": "This external GPU uses Wi-Fi to transform any device into a gaming rig",
+          "url": "https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig",
+          "tldr": "The WiCi One turns any laptop or handheld into a gaming rig over Wi-Fi rather than a cable, with preorders starting at $1,999.",
+          "source": "Engadget",
+          "published": "2026-09-26T19:45:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/l-intro-1790449011.jpg"
+        },
+        {
+          "title": "Minecraft is getting a new dimension called The Sift in 2027",
+          "url": "https://www.engadget.com/2269867/minecraft-is-getting-a-new-dimension-called-the-sift-in-2027",
+          "tldr": "Minecraft's new dimension, The Sift, arrives first in Minecraft Dungeons 2 later this month before reaching the base game in 2027.",
+          "source": "Engadget",
+          "published": "2026-09-26T19:19:53.000Z",
+          "image": "https://www.engadget.com/img/gallery/minecraft-is-getting-a-new-dimension-called-the-sift-in-2027/l-intro-1790449860.jpg"
+        },
+        {
+          "title": "Inside iconic horror game Silent Hill's Scottish makeover",
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno",
+          "tldr": "One of gaming's biggest horror franchises has relocated its atmosphere to Scotland for a new instalment, and the BBC asks whether it lives up to the original.",
+          "source": "BBC",
+          "published": "2026-09-25T23:34:20.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6dc/live/98dd3e90-b7a1-11f1-ba14-197cc9acea52.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple Watch Series 12 one week later: There's so much more than meets the eye",
+          "url": "https://9to5mac.com/2026/09/26/apple-watch-series-12-one-week-later",
+          "tldr": "A week in with the Apple Watch Series 12, 9to5Mac finds its new Siri Recap feature and improved heart rate monitor go deeper than the launch pitch suggested.",
+          "source": "9to5Mac",
+          "published": "2026-09-26T16:59:27.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/DSC03046.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple's dimensional drawings offer a fascinating look at its product designs",
+          "url": "https://9to5mac.com/2026/09/25/apples-dimensional-drawings-offer-a-fascinating-look-at-its-product-designs",
+          "tldr": "Apple publishes detailed dimensional drawings for dozens of its devices to help accessory makers, offering an unusually close look at how its products are actually designed.",
+          "source": "9to5Mac",
+          "published": "2026-09-25T23:07:09.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-dimensional-drawings.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "TestFlight now works in landscape as Apple prepares for iPhone Duo",
+          "url": "https://9to5mac.com/2026/09/25/testflight-now-works-in-landscape-as-apple-prepares-for-iphone-duo",
+          "tldr": "Apple updated TestFlight to support landscape orientation, alongside macOS 27's resizable iPhone Mirroring window, as it lays groundwork for the folding iPhone Duo.",
+          "source": "9to5Mac",
+          "published": "2026-09-25T22:19:53.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/testflight-app.webp?w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Star Wars' Is Continuing Skywalker Saga With 'Spider-Man' Director Jon Watts",
+          "url": "https://deadline.com/2026/09/star-wars-continuing-skywalker-saga-director-jon-watts-1237114584",
+          "tldr": "Lucasfilm has confirmed Jon Watts, director of the Tom Holland Spider-Man trilogy, will direct its next Star Wars film, continuing the Skywalker saga eight years after its last screen entry.",
+          "source": "Deadline",
+          "published": "2026-09-27T03:07:27.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/Star-Wars-Jon-Watts.jpg"
+        },
+        {
+          "title": "Robert Eggers' 'Werwulf' Drops New Trailer and an Interactive Game",
+          "url": "https://www.indiewire.com/news/trailers/werwulf-second-trailer-interactive-game-1235218761",
+          "tldr": "Robert Eggers' horror film Werwulf, starring Aaron Taylor-Johnson, Lily-Rose Depp and Willem Dafoe, released a new trailer alongside an online scavenger hunt tied to the phases of the moon.",
+          "source": "IndieWire",
+          "published": "2026-09-26T15:15:49.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/09/64c36cd0-7c40-4772-93de-18d30b243d3d.jpeg?w=650"
+        },
+        {
+          "title": "'Paper Tiger' Makes Its Case at NYFF Premiere: 'A Labor of Love'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/paper-tiger-new-york-film-festival-premiere-1236712523",
+          "tldr": "James Gray's Paper Tiger had its North American premiere at the New York Film Festival, standing out as the kind of American indie drama that is harder than ever to get made.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-26T17:11:33.000Z",
+          "image": ""
+        },
+        {
+          "title": "Mike Leigh's 'Tender Loving Care' Sweeps San Sebastian Awards",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/mike-leigh-tender-loving-care-san-sebastian-awards-festival-1236712566",
+          "tldr": "Mike Leigh's Tender Loving Care led the winners at the 74th San Sebastian film festival, with Amanda Kernell taking best director for Brace Your Heart.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-26T20:49:13.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "There are 8 players better than Jayson Tatum? No chance.",
+          "url": "https://www.celticsblog.com/celtics-analysis/146525/espn-nba-rank-best-players-jayson-tatum-ninth-analysis",
+          "tldr": "ESPN's preseason NBA Rank list placed Jayson Tatum ninth behind Nikola Jokic and seven others, and CelticsBlog argues the ranking undersells him.",
+          "source": "CelticsBlog",
+          "published": "2026-09-26T10:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2273317578.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots defense ranks top-5 in multiple key categories through 2 weeks",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/26/nfl-patriots-defense-rankings",
+          "tldr": "New England's defence ranks top five in pass-rush win rate through two weeks, but Boston.com notes the offence sits bottom five in pressures allowed, a mixed early picture.",
+          "source": "Boston.com",
+          "published": "2026-09-27T02:37:12.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/ellisbarmore-6ab87df5b4c7b-scaled-e1790475796955-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "3-Point Stance: How Drake Maye can bounce back from his rough start",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/138174/drake-maye-bounce-back-rough-start-jaguars-week-3",
+          "tldr": "Drake Maye has thrown four interceptions to one touchdown through two games, and Pats Pulpit looks at how the Patriots quarterback can turn his rough start around.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-26T11:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2296256162.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots Hall of Fame linebacker gives insight into Mike Vrabel",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/25/patriots-hall-of-fame-linebacker-gives-insight-into-mike-vrabel",
+          "tldr": "A Patriots Hall of Fame linebacker recalls facing Mike Vrabel as a player, saying you would rather have had him as a teammate than an opponent.",
+          "source": "Boston.com",
+          "published": "2026-09-26T01:35:39.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/XYARBQR6GII6FIXQ4HSRGMAOHA-6ab71d4159606-e1790385534965-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Russell denies Verstappen in Azerbaijan GP punctuated by two safety cars",
+          "url": "https://www.the-race.com/formula-1/russell-denies-verstappen-f1-2026-azerbaijan-gp-two-safety-cars",
+          "tldr": "George Russell ended a barren run without an F1 win by beating Max Verstappen by just 0.196 seconds in an Azerbaijan Grand Prix disrupted by two late safety cars.",
+          "source": "The Race",
+          "published": "2026-09-26T13:10:23.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/09/XPB_1439760_HiRes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Hadjar hails 'first proper podium' with P3 in Baku",
+          "url": "https://www.formula1.com/en/latest/article/hadjar-hails-first-proper-podium-with-p3-in-baku-after-very-long-six-weeks-on-the-sidelines.3B3LcWHpym034tQVwdIQSf",
+          "tldr": "Isack Hadjar completed his comeback from six weeks on the sidelines with third place in Baku, calling it his first podium finish that felt fully earned.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Azerbaijan/2297245127.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox sweep twin bill vs. Cubs to end regular-season play at Fenway on high note",
+          "url": "https://www.mlb.com/redsox/news/red-sox-win-game-2-to-sweep-double-header-over-cubs",
+          "tldr": "Boston swept a doubleheader against the Cubs to close out the regular season at Fenway, with a big hit from Abreu and clutch pitching from Bello and Paez.",
+          "source": "MLB.com",
+          "published": "2026-09-26T02:10:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1790382092/mlb/qav0tfo05ntjurrelc7c.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Alex Bregman happy to return to Fenway Park after leaving Red Sox for Cubs in free agency",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/26/alex-bregman-fenway-park-boston-return-cubs-red-sox",
+          "tldr": "Alex Bregman returned to Fenway with the Cubs and said he still loves playing there, praising the Boston fans despite leaving in free agency.",
+          "source": "Boston.com",
+          "published": "2026-09-26T23:51:52.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/5RHDCULQOKJLEH4AQLQFGQSSAM-6ab85431c1fd1-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "What will make this Red Sox season a success?",
+          "url": "https://www.overthemonster.com/red-sox-discussion/109465/what-will-make-this-red-sox-season-a-success",
+          "tldr": "After an 89-win third-place finish last year, Over the Monster asks what would count as a successful season for Boston heading into the postseason.",
+          "source": "Over the Monster",
+          "published": "2026-09-26T16:00:00.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2238404394.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-linear-builds-product",
+    "why": "Karri Saarinen on choosing taste over metrics and strategy over OKRs, the craft instinct behind every good product and today's Godzilla and Star Wars stories alike.",
+    "title": "How Linear builds product",
+    "subtitle": "Karri Saarinen, co-founder and CEO, on taste over metrics, product teams over product managers, strategy over OKRs—and the importance of craft, profitability, and good judgment",
+    "published": "2023-09-26",
+    "words": 3414,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b378446-b636-4932-8505-e90569cc9f70_4950x3300.jpeg",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/412-how-roger-federer-works/id1141877104?i=1000750398690&uo=4",
+      "why": "A study of relentless craft and taste under pressure, the same qualities behind today's product and sporting standouts.",
+      "show": "Founders",
+      "title": "#412 How Roger Federer Works",
+      "published": "2026-02-19",
+      "duration": "49m",
+      "apple": "https://podcasts.apple.com/us/podcast/412-how-roger-federer-works/id1141877104?i=1000750398690&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/evan-spiegel",
+      "why": "Spiegel on building Snap around obsessive design taste, a fitting companion to today's Read on choosing taste over metrics.",
+      "show": "David Senra",
+      "title": "Evan Spiegel, Snap",
+      "published": "2026-04-12",
+      "duration": "1h 58m",
+      "apple": "https://podcasts.apple.com/us/podcast/evan-spiegel-snap/id1836497887?i=1000760911961&uo=4",
+      "page": "https://www.davidsenra.com/episode/evan-spiegel",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/da/93/a4/da93a4e7-7738-c9ab-1168-785d5e9ccc85/mza_1507763279976797428.jpeg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/epic-systems-mychart",
+      "why": "A deep dive into the unglamorous software giant quietly running US healthcare, sharp business craft for a fellow builder.",
+      "show": "Acquired",
+      "title": "Epic Systems (MyChart)",
+      "published": "2025-04-21",
+      "duration": "3h 47m",
+      "apple": "https://podcasts.apple.com/us/podcast/epic-systems-mychart/id1050462261?i=1000704248986&uo=4",
+      "page": "https://www.acquired.fm/episodes/epic-systems-mychart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c2/21/11/c22111cd-9e1c-42d6-9f8b-46255fad8040/mza_10871303946745081859.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Reelizer Returns",
+    "url": "https://www.reelizer.com/",
+    "tldr": "Reelizer, Roger Erik Tinch's archive of classic movie posters, went offline for several years and has now returned looking better than ever, John Gruber writes.",
+    "source": "Daring Fireball",
+    "published": "2026-09-26T21:08:08.000Z",
+    "image": "https://d32bvdxq027wxn.cloudfront.net/assets/volumes/images/globals/643/_1200x630_crop_center-center_82_none/AboutImage.jpg?mtime=1758621676"
+  }
+}
