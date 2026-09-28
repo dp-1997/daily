@@ -1,0 +1,266 @@
+{
+  "date": "2026-09-28",
+  "note": "The Red Sox open their Wild Card Series against the Yankees on Tuesday.",
+  "front": [
+    {
+      "title": "2026 in LLMs (so far)",
+      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far",
+      "tldr": "At WeAreDevelopers' closing keynote, Simon Willison mapped the year's biggest LLM shifts, from agents to pricing wars. For anyone tracking where AI product is heading, it's a useful year-end signpost three months early.",
+      "source": "Simon Willison",
+      "published": "2026-09-27T23:54:15.000Z",
+      "image": "https://static.simonwillison.net/static/2026/2026-in-llms/simon-willison-2026-in-llms-png.001.webp"
+    },
+    {
+      "title": "George Russell claims his first F1 grand slam with a Baku win",
+      "url": "https://www.motorsport.com/f1/news/george-russell-after-rejuvenating-baku-win-it-would-have-been-very-easy-for-me-to-lose-the-faith/10859613",
+      "tldr": "George Russell won the Azerbaijan Grand Prix from pole, leading every lap for his third win of the season and first career grand slam. He said the tricky Baku conditions made the result feel harder-won than usual.",
+      "source": "Motorsport.com",
+      "published": "2026-09-27T15:18:24.000Z",
+      "image": "https://cdn-3.motorsport.com/images/amp/2wlKQmKY/s6/george-russell-mercedes.jpg"
+    },
+    {
+      "title": "iOS 27 redesigns Apple Pay's checkout flow for easier card switching",
+      "url": "https://9to5mac.com/2026/09/27/ios-27-makes-it-easier-to-switch-between-apple-pay-cards",
+      "tldr": "Apple has redesigned the Apple Pay checkout flow in iOS 27, making it easier to switch between cards and see order details in apps and on the web. A small but useful change to a daily habit.",
+      "source": "9to5Mac",
+      "published": "2026-09-27T23:46:10.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-pay-ios-27.jpeg?quality=82&strip=all&w=1600"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "A Muse AI agent's botched pickup left a courier angry and a bad rating",
+          "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent",
+          "tldr": "Simon Willison shared a case where Muse, an AI shopping agent, arranged an item pickup that went wrong: nobody came down, the courier left angry and left a negative rating. A blunt reminder that AI agents still struggle with real-world logistics.",
+          "source": "Simon Willison",
+          "published": "2026-09-28T04:01:30.000Z",
+          "image": ""
+        },
+        {
+          "title": "A new tool checks whether a Bluesky account is a reply bot",
+          "url": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check",
+          "tldr": "Simon Willison built and shared a tool that flags likely reply bots on Bluesky, the kind that swarm popular accounts with generic replies. Useful for anyone tracking how social platforms are coping with automated spam.",
+          "source": "Simon Willison",
+          "published": "2026-09-27T18:41:44.000Z",
+          "image": ""
+        },
+        {
+          "title": "Why S3 hasn't had a price cut in years, despite its history of them",
+          "url": "https://simonwillison.net/2026/Sep/27/hn-49871741",
+          "tldr": "Commenting on a Hacker News thread, Simon Willison noted that Amazon S3 used to drop its prices regularly but hasn't done so in a while, despite being cheaper to run than ever. A small signal about cloud economics.",
+          "source": "Simon Willison",
+          "published": "2026-09-27T23:09:19.000Z",
+          "image": ""
+        },
+        {
+          "title": "Bill Gates says it's 'completely irresponsible' for AI to lack safeguards",
+          "url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards",
+          "tldr": "Bill Gates said the bigger risk from AI is bad actors misusing tools that lack safeguards, rather than the technology itself. Coming from Microsoft's co-founder, it's a notable break from techno-optimist framing.",
+          "source": "Engadget",
+          "published": "2026-09-27T19:12:29.000Z",
+          "image": "https://www.engadget.com/img/gallery/bill-gates-says-its-completely-irresponsible-for-ai-to-not-have-safeguards/l-intro-1790535130.jpg"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Sennheiser Momentum 5 review: great sound, incredible battery life, few compromises",
+          "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises",
+          "tldr": "TechCrunch tested Sennheiser's Momentum 5 headphones for several weeks and found strong sound quality, long battery life and few real compromises. One of the more complete pairs of wireless headphones around right now.",
+          "source": "TechCrunch",
+          "published": "2026-09-27T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Senn_Black_M5_Product_KV_Full_Format_HighRes.jpeg?resize=1200,675"
+        },
+        {
+          "title": "TechCrunch Mobility: autonomous vehicle companies are picking their lanes",
+          "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes",
+          "tldr": "TechCrunch's mobility newsletter rounds up how self-driving companies are each carving out different niches, from robotaxis to freight, rather than chasing one universal approach. A snapshot of where AV competition is heading.",
+          "source": "TechCrunch",
+          "published": "2026-09-27T16:02:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/wayve-getty.jpg?resize=1200,801"
+        },
+        {
+          "title": "How to turn your old MacBook into a home NAS server",
+          "url": "https://www.engadget.com/2266517/how-to-turn-your-old-macbook-into-home-nas-server",
+          "tldr": "Engadget's guide shows how to repurpose an old MacBook gathering dust as a home network storage server, rather than letting it go to waste. A neat way to extend the life of old hardware.",
+          "source": "Engadget",
+          "published": "2026-09-27T22:30:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/how-to-turn-your-old-macbook-into-a-home-nas-server/l-intro-1790000253.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Anker's 25W MagSafe charger adds active cooling in a travel-sized design",
+          "url": "https://9to5mac.com/2026/09/27/anker-magsafe-travel-sized-3-in-1-charger-qi2",
+          "tldr": "Anker has released a 25W Qi2.2 MagSafe charger with active cooling, aimed at iPhone 16 and later owners who want faster charging in a compact travel design. A modest but useful accessory upgrade.",
+          "source": "9to5Mac",
+          "published": "2026-09-28T00:16:20.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/IMG_1339.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Godzilla Minus Zero' review: a direct sequel that improves on the original",
+          "url": "https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720",
+          "tldr": "IndieWire's review calls Godzilla Minus Zero an IMAX-scale improvement on its predecessor, with some of the most thrilling kaiju fights yet as Godzilla squares off against King Ghidorah. Practical craft over spectacle for its own sake.",
+          "source": "IndieWire",
+          "published": "2026-09-27T00:15:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Screenshot-2026-07-09-100054.webp?w=650"
+        },
+        {
+          "title": "'Lanterns' review: episode 7 changes the Jordan Boys' legacy ahead of a charged finish",
+          "url": "https://www.indiewire.com/criticism/shows/lanterns-episode-7-review-the-jordan-boys-spoilers-1235218463",
+          "tldr": "IndieWire's review of HBO's Lanterns says the penultimate episode reshapes Hal Jordan's fate through dark matter portals and a dangerous river crossing, setting up next week's finale. Spoiler territory for fans keeping pace.",
+          "source": "IndieWire",
+          "published": "2026-09-28T02:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Lanterns-Episode-7-Sheriff-Kerry-Kane.jpg?w=650"
+        },
+        {
+          "title": "'Avengers: Endgame' re-release earns $26m return at a crowded box office",
+          "url": "https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-rerelease-huge-86-million-globally-1236876861",
+          "tldr": "Disney and Marvel's 2019 blockbuster returned to cinemas with extra footage and pulled in $86m globally, $26m of it in North America, even as new releases crowded the weekend. A reminder of Endgame's lasting box-office pull.",
+          "source": "Variety",
+          "published": "2026-09-27T16:16:45.000Z",
+          "image": "https://variety.com/wp-content/uploads/2025/07/MCDAVEN_EC257_b1023b.jpg"
+        },
+        {
+          "title": "A24's 'Primetime' opens to $19.2m, proving Robert Pattinson's box-office draw",
+          "url": "https://www.indiewire.com/news/box-office/a24-primetime-box-office-opening-robert-pattinson-star-power-1235218868",
+          "tldr": "A24's Primetime opened strongly this weekend, the latest sign that Robert Pattinson's post-Batman run, including The Drama and The Odyssey, is translating into real box-office pull in 2026.",
+          "source": "IndieWire",
+          "published": "2026-09-27T14:27:27.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/05/PrimeTime.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Devin Carter: the players in green",
+          "url": "https://www.celticsblog.com/celtics-roster/146567/devin-carter-the-players-in-green",
+          "tldr": "CelticsBlog profiles Devin Carter, a second-generation NBA player whose father Anthony spent thirteen years in the league. A look at the family path that shaped Carter ahead of Celtics training camp.",
+          "source": "CelticsBlog",
+          "published": "2026-09-27T12:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2270893432.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Manchester United",
+          "title": "Eva Olid claims first win as Manchester United Women's boss",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pcr7vv",
+          "tldr": "Eva Olid picked up her first Women's Super League win in charge of Manchester United, a small marker of progress for the new boss's start.",
+          "source": "BBC Sport",
+          "published": "2026-09-27T14:33:00.000Z",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pcr7x2.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "9 takeaways from Patriots' 35-6 loss to the Jaguars",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/27/new-england-patriots-drake-maye-nfl-football-interceptions-jaguars-mike-vrabel",
+          "tldr": "Drake Maye threw three more interceptions as the Patriots fell to the Jaguars 35-6 in Week 3, extending New England's rough start to the season. Coach Mike Vrabel said his concern level is 'very high'.",
+          "source": "Boston.com",
+          "published": "2026-09-27T20:29:22.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Patriots_Jaguars_Football_41365-6ab974829e3d4-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Red Bull's Hadjar returns from wrist injury to an 'outstanding' Baku podium",
+          "url": "https://www.motorsport.com/f1/news/the-one-detail-that-impresses-red-bull-most-about-isack-hadjars-outstanding-f1-return/10859532",
+          "tldr": "Isack Hadjar returned from a wrist injury to podium at the physically demanding Baku circuit, a result Red Bull's Laurent Mekies called outstanding. A strong comeback race for the rookie.",
+          "source": "Motorsport.com",
+          "published": "2026-09-27T10:10:41.000Z",
+          "image": "https://cdn-5.motorsport.com/images/amp/0Ldepkv0/s6/max-verstappen-red-bull-racing.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Red Bull's Baku pace gives Verstappen hope for a first 2026 win",
+          "url": "https://www.formula1.com/en/latest/article/red-bulls-baku-brilliance-gives-max-verstappen-fresh-hope-for-first-grand-prix-win-in-2026.1nu3MgPzYKH4nL2x9rdAYL",
+          "tldr": "Max Verstappen was a whisker away from victory in Azerbaijan, with team-mate Isack Hadjar also on the podium, a result Red Bull hopes signals a turnaround after a difficult start to the season.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Azerbaijan/2297245049.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox-Yankees Wild Card Series schedule set for prime time",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/27/red-sox-yankees-schedule-out-wild-card-series-set-for-prime-time",
+          "tldr": "Boston's American League Wild Card Series against the Yankees has been scheduled for prime time, with the winner facing the Rays in the ALDS. The postseason begins Tuesday after Boston's regular season ended with a loss to the Cubs.",
+          "source": "Boston.com",
+          "published": "2026-09-27T21:20:16.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Guardians_Red_Sox_Baseball_9698_-6ab987dc4b0bf-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Willson Contreras set to make the Red Sox' playoff roster",
+          "url": "https://www.mlb.com/redsox/news/willson-contreras-returns-to-lineup-might-play-in-wild-card-series",
+          "tldr": "Willson Contreras returned to the lineup and is expected to play in the Wild Card Series against the Yankees, easing one of the Red Sox's few remaining roster questions heading into the postseason.",
+          "source": "MLB.com",
+          "published": "2026-09-27T23:21:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1790533705/mlb/bb4yehgjxzelnwwibean.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/finding-product-market-fit",
+    "why": "A step back into Lenny's classic seven-part scaling series, and a good refresher on spotting real product-market fit versus wishful thinking.",
+    "title": "A guide for finding product-market fit in B2B",
+    "subtitle": "Part five of my seven-part series on kickstarting and scaling a B2B business",
+    "published": "2023-09-12",
+    "words": 7452,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ae1275f-1b3e-49d3-afcb-f4ca9045279e_5438x6448.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/413-how-to-run-down-a-dream/id1141877104?i=1000752787095&uo=4",
+      "why": "A fitting companion to today's Lenny pick on product-market fit: the discipline of chasing a dream even when the early signs are unclear.",
+      "show": "Founders",
+      "title": "#413 How To Run Down A Dream",
+      "published": "2026-03-03",
+      "duration": "31m",
+      "apple": "https://podcasts.apple.com/us/podcast/413-how-to-run-down-a-dream/id1141877104?i=1000752787095&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://davidsenra.com/episode/ronnie-fieg",
+      "why": "Senra's new interview with Kith founder Ronnie Fieg, on turning down cash at his bar mitzvah to ask for a job instead, and building a streetwear empire from the stockroom up.",
+      "show": "David Senra",
+      "title": "Building the Streetwear Empire Kith | Ronnie Fieg",
+      "published": "2026-09-27",
+      "duration": "1h 30m",
+      "page": "https://davidsenra.com/episode/ronnie-fieg",
+      "artwork": "https://megaphone.imgix.net/podcasts/9eb76400-b9f2-11f1-be95-7768896ad95f/image/cfde8fcd86bc8decbfc5c5eb2b2cafd3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/microsoft-volume-ii",
+      "why": "An Acquired classic on Microsoft's history, a fitting listen alongside today's Apple and AI stories for anyone tracking how the platform giants got here.",
+      "show": "Acquired",
+      "title": "Microsoft Volume II",
+      "published": "2024-07-22",
+      "duration": "4h 42m",
+      "apple": "https://podcasts.apple.com/us/podcast/microsoft-volume-ii/id1050462261?i=1000662929328&uo=4",
+      "page": "https://www.acquired.fm/episodes/microsoft-volume-ii",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Harvard researchers turn waste wool into cladding for building retrofits",
+    "url": "https://www.dezeen.com/2026/09/27/waste-wool-cladding-harvard-university-oslo-architecture-triennale",
+    "tldr": "Harvard's Grinham Research Group has developed an insulating cladding tile made from waste wool, shown at this year's Oslo Architecture Triennale. A neat use of a byproduct that's normally discarded.",
+    "source": "Dezeen",
+    "published": "2026-09-27T05:00:23.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/09/wool-tiles-oslo-architecture-triennale_dezeen_2364_col_1-411x411.jpg"
+  }
+}
