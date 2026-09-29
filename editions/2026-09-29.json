@@ -1,0 +1,316 @@
+{
+  "date": "2026-09-29",
+  "note": "The Red Sox open their Wild Card Series against the Yankees tonight.",
+  "front": [
+    {
+      "title": "AMD will acquire Fei-Fei Li's World Labs for $8.2 billion",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "tldr": "AMD is buying Fei-Fei Li's spatial intelligence startup for $8.2bn, and she becomes the chip maker's executive vice president and chief scientist, a rare move putting a leading AI researcher inside a hardware giant.",
+      "source": "TechCrunch",
+      "published": "2026-09-28T20:39:33.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1833911955.jpg?resize=1200,800"
+    },
+    {
+      "title": "Rookie Payton Tolle will start the Wild Card Series opener for the Red Sox",
+      "url": "https://www.boston.com/sports/boston-red-sox/2026/09/28/payton-tolle-will-start-al-wild-card-series-opener-vs-yankees",
+      "tldr": "Boston hands its playoff opener to rookie Payton Tolle, with Cam Schlittler starting for the Yankees. Game one of the AL Wild Card Series is tonight in New York.",
+      "source": "Boston.com",
+      "published": "2026-09-28T17:34:17.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/09/Guardians_Red_Sox_Baseball__3532-6abaa6f8ae58a-850x638.jpg"
+    },
+    {
+      "title": "Emmy wins and recent premieres help Apple TV reach highest weekly viewership ever",
+      "url": "https://9to5mac.com/2026/09/28/emmy-wins-and-recent-premieres-help-apple-tv-reach-highest-weekly-viewership-ever",
+      "tldr": "Apple TV posted its biggest viewership week on record, driven by its 29 Emmy wins and new releases including Ted Lasso and Mayday, Deadline reports.",
+      "source": "9to5Mac",
+      "published": "2026-09-29T01:44:04.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-intro-vibrant.jpg?quality=82&strip=all&w=1600"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+          "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
+          "tldr": "Anthropic released Sonnet 5.5, the newest version of its mid-range model, with faster response times and lower token use, pitched as a cheaper, faster work partner for most tasks.",
+          "source": "TechCrunch",
+          "published": "2026-09-28T18:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024"
+        },
+        {
+          "title": "Nvidia launches new platform for reining in rogue AI agents",
+          "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
+          "tldr": "Nvidia's Jensen Huang unveiled a toolkit of software and hardware that adds independent security layers around AI agents, aiming to keep them inside their test environments.",
+          "source": "TechCrunch",
+          "published": "2026-09-28T18:31:23.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+        },
+        {
+          "title": "Shopify opens checkout to browser-based AI agents",
+          "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents",
+          "tldr": "Shopify is extending its WebMCP support to checkout, letting browser-based AI agents update orders and complete purchases with a buyer's authorisation.",
+          "source": "TechCrunch",
+          "published": "2026-09-28T19:33:57.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800"
+        },
+        {
+          "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+          "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
+          "tldr": "Modal Labs is reportedly nearing a $750m round that would more than triple its valuation to $15.75bn in four months, a sign of demand for AI inference infrastructure.",
+          "source": "TechCrunch",
+          "published": "2026-09-28T21:29:18.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+          "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative",
+          "tldr": "Meta is starting an enterprise business selling its AI stack, including Muse and Meta Business Agent, to other companies, and has hired MongoDB's chief executive to run it.",
+          "source": "TechCrunch",
+          "published": "2026-09-28T16:52:38.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024"
+        },
+        {
+          "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+          "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation",
+          "tldr": "Edge computing startup SiMa AI raised a $150m Series C led by Fidelity and Amplify, taking its valuation to $1.45bn.",
+          "source": "TechCrunch",
+          "published": "2026-09-28T15:29:21.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806"
+        },
+        {
+          "title": "Commonwealth Fusion Systems' Brandon Sorbom and Helion's David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026",
+          "tldr": "Executives from Commonwealth Fusion Systems and Helion discussed the breakthroughs still needed to bring fusion power to the grid, and what challenges remain, at TechCrunch Disrupt.",
+          "source": "TechCrunch",
+          "published": "2026-09-28T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sorbom-Kirtley-16x9-Dark.png?resize=1200,675"
+        },
+        {
+          "title": "Ayaneo shrank down the Game Boy form factor with its latest $89 handheld",
+          "url": "https://www.engadget.com/2271129/ayaneo-shrank-down-the-game-boy-form-factor-with-its-latest-89-handheld",
+          "tldr": "Ayaneo's Konkr Pocket Block squeezes the classic Game Boy shape into an $89 handheld, up for preorder now and shipping in October.",
+          "source": "Engadget",
+          "published": "2026-09-28T18:31:44.000Z",
+          "image": "https://www.engadget.com/img/gallery/ayaneo-shrank-down-the-game-boy-form-factor-with-its-latest-89-handheld/l-intro-1790620236.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "iOS 26.7.1 Fixes Vulnerability Used in Targeted Attacks",
+          "url": "https://www.macrumors.com/2026/09/28/ios-26-7-1-active-exploit-fixed",
+          "tldr": "iOS 26.7.1, iPadOS 26.7.1, macOS Tahoe 26.7.1 and macOS Sequoia 15.8.1 patch a vulnerability Apple says was used against a small number of people. Worth updating promptly.",
+          "source": "MacRumors",
+          "published": "2026-09-28T18:46:03.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/03/apple-lock-security-bug-vulnerability-fix-privacy.jpg"
+        },
+        {
+          "title": "This website lets you explore nearly 30 years of Apple product colors",
+          "url": "https://9to5mac.com/2026/09/28/this-website-lets-you-explore-nearly-30-years-of-apple-product-colors",
+          "tldr": "Sheets.works has built an interactive archive of 341 Apple product colours spanning almost three decades, a neat bit of design history to browse.",
+          "source": "9to5Mac",
+          "published": "2026-09-29T01:01:54.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-in-colour.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Watch Elton John give the first-ever performance at Apple Music Hall",
+          "url": "https://9to5mac.com/2026/09/28/watch-elton-john-give-the-first-ever-performance-at-apple-music-hall",
+          "tldr": "Elton John opened Apple Music Hall in London with its inaugural concert, streamed live for Apple Music subscribers.",
+          "source": "9to5Mac",
+          "published": "2026-09-28T19:17:47.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/elton-john-apple-music-hall.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple Releases macOS Golden Gate 27.0.1 With Bug Fixes",
+          "url": "https://www.macrumors.com/2026/09/28/apple-releases-macos-27-0-1",
+          "tldr": "Apple shipped macOS 27.0.1, the first update to Golden Gate since it launched in mid-September, with bug fixes for Mac users.",
+          "source": "MacRumors",
+          "published": "2026-09-28T17:13:46.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/06/macOS-27-next-to-MacBook-Pro-Running-macOS-27.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Avengers: Endgame Encore' Tops U.K., Ireland Box Office",
+          "url": "https://variety.com/2026/film/box-office/avengers-endgame-encore-uk-ireland-box-office-1236877848",
+          "tldr": "Disney's Avengers: Endgame Encore opened top of the UK and Ireland box office with £4.1m, ahead of Resident Evil in second.",
+          "source": "Variety",
+          "published": "2026-09-29T03:53:21.000Z",
+          "image": "https://variety.com/wp-content/uploads/2023/12/MCDAVEN_EC256-1-e1701645483602.jpg"
+        },
+        {
+          "title": "Tokyo Film Festival to Honor Mohammad Rasoulof and Mipo O With Kurosawa Akira Award",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-mohammad-rasoulof-mipo-o-honors-1236714063",
+          "tldr": "The Tokyo International Film Festival will honour directors Mohammad Rasoulof and Mipo O with its Kurosawa Akira Award, with Alice in Borderland's Hayato Isomura also chairing the Ethical Film Award jury.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-29T02:58:50.000Z",
+          "image": ""
+        },
+        {
+          "title": "Richard Linklater Gives Major 'Merrily We Roll Along' Update",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/richard-linklater-merrily-we-roll-along-film-update-zurich-1236713752",
+          "tldr": "Richard Linklater gave a progress report on Merrily We Roll Along, the film he has been shooting across 20 years with Paul Mescal, Ben Platt and Beanie Feldstein.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-28T19:55:07.000Z",
+          "image": ""
+        },
+        {
+          "title": "Julianne Moore to Receive Icon Award at SCAD Savannah Film Festival With 'The Debut' Set as Centerpiece Selection",
+          "url": "https://variety.com/2026/film/news/the-debut-scad-centerpiece-julianne-moore-honor-1236877183",
+          "tldr": "SCAD Savannah Film Festival will present Julianne Moore with its Icon Award, and centre the event on The Debut, Jesse Eisenberg's A24 musical comedy.",
+          "source": "Variety",
+          "published": "2026-09-28T20:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/Julianne-Moore-1-1.jpg"
+        },
+        {
+          "title": "Kristen Stewart, Riley Keough and Wagner Moura to Star in Olivier Assayas' Next Film 'Spiritual World'",
+          "url": "https://variety.com/2026/film/global/kristen-stewart-riley-keough-olivier-assayas-spiritual-world-1236877487",
+          "tldr": "Olivier Assayas has cast Kristen Stewart, Vicky Krieps, Riley Keough and Wagner Moura in his next film, Spiritual World.",
+          "source": "Variety",
+          "published": "2026-09-28T18:34:58.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/FotoJet-2026-09-28T202655.821.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Paul George used to 'despise' Celtics, but his tune has changed: 'I wish I was here a lot sooner'",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/09/28/celtics-paul-george-lakers-rivalry-media-day-commetns",
+          "tldr": "Paul George says joining the Celtics has brought him nothing but happiness, a marked change from his old rivalry-fuelled view of the team, ahead of his 17th NBA season.",
+          "source": "Boston.com",
+          "published": "2026-09-28T21:17:41.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/SFXEXLFGMO7DXI3N6CMQGW2HS4-6abac9274ae4e-850x638.jpeg"
+        },
+        {
+          "tag": "Celtics",
+          "title": "It's a new era for Jayson Tatum and the Celtics, plus other takeaways from Media Day",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/09/28/celtics-jayson-tatum-paul-george-media-day-takeaways",
+          "tldr": "With Jaylen Brown traded to Philadelphia and Paul George in, Boston's Media Day made clear this season's Celtics look markedly different from last year's.",
+          "source": "Boston.com",
+          "published": "2026-09-28T18:55:19.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/TQVEMSUCZBHI5C5CQ6UH33HKYU-6abab1c8c35b5-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "What Drake Maye said on WEEI about playing through potential shoulder injury",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/28/drake-maye-shoulder-injury-weei-nfl-football-new-england-patriots",
+          "tldr": "Drake Maye said he will play through a potential shoulder issue, insisting he gives full effort whenever he takes the field, after New England's 35-6 loss to Jacksonville.",
+          "source": "Boston.com",
+          "published": "2026-09-29T00:37:25.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Patriots_Jaguars_Football_54799-6abb000b82e3b-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "'Less pressure on me than there is him' – Russell on title",
+          "url": "https://www.formula1.com/en/latest/article/theres-much-less-pressure-on-me-than-there-is-him-russell-on-title-fight.6GVALSvKMH4XSTz3wndlLm",
+          "tldr": "George Russell won his third race of the season in Baku, closing the gap to his Mercedes team mate at the top of the standings, and says the title pressure sits more with his rival.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Azerbaijan/Rus%20Ant%20header.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "Norris apologises to Colapinto for ban comments",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cm87vz5w4jwro",
+          "tldr": "Lando Norris apologised to Franco Colapinto for saying the Argentine should be banned after their collision at the Azerbaijan Grand Prix.",
+          "source": "BBC Sport",
+          "published": "2026-09-28T10:11:33.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e7/live/be510740-b9b0-11f1-bc1f-3f186ca4140c.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "McLaren Racing reportedly set for historic $1billion revenue milestone",
+          "url": "https://www.motorsport.com/f1/news/mclaren-racing-reportedly-set-for-historic-1billion-revenue-milestone/10859918",
+          "tldr": "McLaren Racing is projected to become the first Formula 1 team to top $1bn in annual revenue, according to a Sky News report on its latest accounts.",
+          "source": "Motorsport.com",
+          "published": "2026-09-28T22:00:26.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/2jEAlXP0/s6/lando-norris-mclaren.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Crochet has chance to make Red Sox's Wild Card Series roster as reliever",
+          "url": "https://www.mlb.com/redsox/news/garrett-crochet-al-wild-card-series-roster",
+          "tldr": "Garrett Crochet, who threw a live batting practice session over the weekend, is travelling with Boston to New York and could make the Wild Card roster as a reliever.",
+          "source": "MLB.com",
+          "published": "2026-09-28T19:04:42.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/hxu7nuz1ciwvdmz58gn1.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "The Red Sox are heading to New York hurt, but injuries are no excuse",
+          "url": "https://www.overthemonster.com/red-sox-discussion/109550/the-red-sox-are-heading-to-new-york-hurt-but-injuries-are-no-excuse",
+          "tldr": "Boston heads into its Wild Card Series against the Yankees banged up, with Willson Contreras returning from a hand issue to DH in the finale.",
+          "source": "Over the Monster",
+          "published": "2026-09-28T17:00:00.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/reuters-tagreuters.com2026newsml_MT1USATODAY298600821287624361.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-get-your-entire-team-prototyping",
+    "why": "A guide to prototyping with AI across a team, apt on a day full of AI launches and close to the small products Damian builds on the side.",
+    "title": "How to get your entire team prototyping with AI",
+    "subtitle": "A guide to creating AI prototypes that match your brand and are integrated into every step of your development lifecycle",
+    "published": "2025-06-10",
+    "words": 4001,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/9b3f009b-0dd0-494a-8692-a36b77961620_2400x1260.jpeg",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/435-mark-zuckerbergs-empire/id1141877104?i=1000791983762&uo=4",
+      "why": "New this week, and a fitting companion to today's Meta and AI stories: the making of Zuckerberg's empire.",
+      "show": "Founders",
+      "title": "#435 Mark Zuckerberg's Empire",
+      "published": "2026-09-28",
+      "duration": "41m",
+      "apple": "https://podcasts.apple.com/us/podcast/435-mark-zuckerbergs-empire/id1141877104?i=1000791983762&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/david-baszucki",
+      "why": "Roblox's David Baszucki on building a creator platform, a good pairing with today's gaming and handheld hardware stories.",
+      "show": "David Senra",
+      "title": "David Baszucki, Roblox",
+      "published": "2026-04-26",
+      "duration": "1h 28m",
+      "apple": "https://podcasts.apple.com/us/podcast/david-baszucki-roblox/id1836497887?i=1000763644606&uo=4",
+      "page": "https://www.davidsenra.com/episode/david-baszucki",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/0b/96/c50b966c-bebd-02b0-6298-d3805952d5da/mza_3038762624920554390.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/starbucks-with-howard-schultz",
+      "why": "Howard Schultz on building the Starbucks brand, a study in product marketing and storytelling close to Damian's own work.",
+      "show": "Acquired",
+      "title": "Starbucks (with Howard Schultz)",
+      "published": "2024-06-04",
+      "duration": "3h 07m",
+      "apple": "https://podcasts.apple.com/us/podcast/starbucks-with-howard-schultz/id1050462261?i=1000657758174&uo=4",
+      "page": "https://www.acquired.fm/episodes/starbucks-with-howard-schultz",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/06/ce/5f/06ce5f6f-cce5-63b3-38b4-7d72c1c7be22/mza_3497485950207005076.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Stevie Wonder releases four unheard songs for Songs in the Key of Life's 50th anniversary",
+    "url": "https://kottke.org/26/09/0049686-stevie-wonder-has-release",
+    "tldr": "The tracks come from the original recording sessions but never made the final album. They're being shared now to mark 50 years since the record's release.",
+    "source": "Kottke",
+    "published": "2026-09-29T00:45:00.000Z",
+    "image": ""
+  }
+}

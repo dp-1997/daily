@@ -241,7 +241,8 @@
       "published": "2026-09-27",
       "duration": "1h 30m",
       "page": "https://davidsenra.com/episode/ronnie-fieg",
-      "artwork": "https://megaphone.imgix.net/podcasts/9eb76400-b9f2-11f1-be95-7768896ad95f/image/cfde8fcd86bc8decbfc5c5eb2b2cafd3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+      "artwork": "https://megaphone.imgix.net/podcasts/9eb76400-b9f2-11f1-be95-7768896ad95f/image/cfde8fcd86bc8decbfc5c5eb2b2cafd3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "apple": "https://podcasts.apple.com/us/podcast/building-the-streetwear-empire-kith-ronnie-fieg/id1836497887?i=1000791842256&uo=4"
     },
     {
       "url": "https://www.acquired.fm/episodes/microsoft-volume-ii",
