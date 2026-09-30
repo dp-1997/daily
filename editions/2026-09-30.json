@@ -1,0 +1,333 @@
+{
+  "date": "2026-09-30",
+  "note": "The Red Sox play a must-win Game 2 against the Yankees tonight after last night's Game 1 loss.",
+  "front": [
+    {
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
+      "tldr": "OpenAI unveiled Dots at DevDay, an always-on AI agent that pursues goals in the background with minimal oversight, launching alongside a cheaper GPT-6.1 Sol model and new ChatGPT apps that take aim at the app store and office software markets.",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:17:15.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-1.16.22-PM.jpg?w=988"
+    },
+    {
+      "title": "Apple Pay finally launches in India after years on the sidelines",
+      "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say",
+      "tldr": "Apple Pay has launched in India, starting with Axis Bank's Visa and Mastercard credit cards on iPhone and Apple Watch, after years of stalled talks with the country's banks and regulators.",
+      "source": "TechCrunch",
+      "published": "2026-09-30T04:08:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1814216780-e1711055311427.jpg?resize=1200,674"
+    },
+    {
+      "title": "Red Sox can't solve Schlittler, offensive woes in Game 1 loss to Yankees",
+      "url": "https://www.mlb.com/redsox/news/red-sox-lose-to-yankees-al-wild-card-series-game-1-2026",
+      "tldr": "Cam Schlittler shut down Boston's offence as the Yankees won Game 1 of the AL Wild Card Series 9-0, with Payton Tolle's start undone by New York's bats. The Red Sox must win the next two to survive.",
+      "source": "MLB.com",
+      "published": "2026-09-30T03:23:58.000Z",
+      "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/ftoykpyhhcxn3bz3v0n0.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "OpenAI's latest features take direct aim at the app store model",
+          "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
+          "tldr": "OpenAI unveiled tools that let developers build and sell software directly inside ChatGPT, positioning it as a discovery platform for both people and AI agents rather than just a chatbot.",
+          "source": "TechCrunch",
+          "published": "2026-09-29T20:15:47.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+        },
+        {
+          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+          "tldr": "GPT-6.1 Sol offers most of the capability of OpenAI's flagship Astra model at a fifth of the price for coding, document understanding and multistep tasks, OpenAI said at DevDay.",
+          "source": "TechCrunch",
+          "published": "2026-09-29T17:15:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
+        },
+        {
+          "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+          "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
+          "tldr": "Codex now offers cloud development environments that persist across devices, plus a revamped CLI with voice controls, new code review tools and a security scanner for repositories.",
+          "source": "TechCrunch",
+          "published": "2026-09-29T17:15:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
+        },
+        {
+          "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
+          "tldr": "OpenAI is reportedly in talks for a $30bn funding round that would value the company at $1.4 trillion, expected to be its last before a planned 2027 public listing.",
+          "source": "TechCrunch",
+          "published": "2026-09-29T19:52:37.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "The start-ups hoping to return battery making to the US",
+          "url": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro",
+          "tldr": "A wave of US start-ups is trying to bring battery manufacturing back onshore using sodium-ion technology built from locally sourced materials, avoiding reliance on lithium supply chains dominated by China.",
+          "source": "BBC",
+          "published": "2026-09-29T23:06:50.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ff/live/33895530-a5e8-11f1-a019-f3ea5e194221.png"
+        },
+        {
+          "title": "After losing his voice to cancer, this founder is building 'glasses for voice'",
+          "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice",
+          "tldr": "Uhura Bionics, showing at TechCrunch Disrupt's Startup Battlefield, is building an emotive voice device for people who have lost their voice, after its founder lost his own to cancer.",
+          "source": "TechCrunch",
+          "published": "2026-09-29T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1362873121.jpg?resize=1200,800"
+        },
+        {
+          "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+          "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b",
+          "tldr": "EliseAI, the a16z-backed startup selling AI tools to property managers, raised $350m and doubled its valuation to $4bn within a year.",
+          "source": "TechCrunch",
+          "published": "2026-09-29T21:51:36.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669"
+        },
+        {
+          "title": "Mozilla deploys a new-look Firefox across desktop and mobile",
+          "url": "https://www.engadget.com/2272664/mozilla-deploys-a-new-look-firefox-across-desktop-and-mobile",
+          "tldr": "Mozilla has rolled out a redesigned Firefox across desktop and mobile, bringing back a compact mode and adding a new theme picker.",
+          "source": "Engadget",
+          "published": "2026-09-29T20:16:45.000Z",
+          "image": "https://www.engadget.com/img/gallery/mozilla-deploys-a-new-look-firefox-across-desktop-and-mobile/l-intro-1790712152.jpg"
+        },
+        {
+          "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
+          "url": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus",
+          "tldr": "Tesla has secured $30bn in new credit lines to help scale production of its Cybercab robotaxi and Optimus robot, though it says it will not draw on the debt this year.",
+          "source": "TechCrunch",
+          "published": "2026-09-29T21:20:12.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2183782412.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "iFixit teardown of the new AirPods 5 reveals first real repairability improvement",
+          "url": "https://9to5mac.com/2026/09/29/ifixit-teardown-of-the-new-airpods-5-reveals-first-real-repairability-improvement",
+          "tldr": "iFixit's teardown of the new AirPods 5 found a small but genuine repairability improvement over earlier models, the first such gain in the line's design.",
+          "source": "9to5Mac",
+          "published": "2026-09-29T20:54:37.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods-5-teardown.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "You Can 'Get Ready' for iPhone Duo Pre-Orders on October 12",
+          "url": "https://www.macrumors.com/2026/09/29/iphone-duo-get-ready-oct-12",
+          "tldr": "Apple has opened its 'Get Ready' process for the iPhone Duo ahead of pre-orders, which begin on Friday, 16 October.",
+          "source": "MacRumors",
+          "published": "2026-09-29T20:44:06.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-get-ready.jpg"
+        },
+        {
+          "title": "Final Cut Camera now supports variable aperture on iPhone 18 Pro",
+          "url": "https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro",
+          "tldr": "Apple updated Final Cut Camera with a new design and support for variable aperture on the iPhone 18 Pro, adding more professional controls as part of an iOS 27 update.",
+          "source": "Apple Newsroom",
+          "published": "2026-09-29T17:00:57.163Z",
+          "image": "https://www.apple.com/newsroom/images/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/tile/Apple-Final-Cut-Camera-hero-lp.jpg.og.jpg?202609291732"
+        },
+        {
+          "title": "Bank of America says Meta's Muse highlights a new risk for Apple's services revenue",
+          "url": "https://9to5mac.com/2026/09/29/bank-of-america-says-metas-muse-highlights-a-new-risk-for-apples-services-revenue",
+          "tldr": "Bank of America warned that Meta's new Muse AI agent shows how third-party agents could bypass Apple's ecosystem and erode its services revenue, in a note issued today.",
+          "source": "9to5Mac",
+          "published": "2026-09-30T00:41:46.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Jennifer Lawrence to Star in Zach Cregger's 'The Flood'",
+          "url": "https://variety.com/2026/film/news/jennifer-lawrence-zach-creggers-the-flood-1236878570",
+          "tldr": "Jennifer Lawrence will star in Zach Cregger's science fiction thriller The Flood for Warner Bros and New Line, with Cregger also writing, producing and directing.",
+          "source": "Variety",
+          "published": "2026-09-29T21:30:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/world-premiere-of-columbia-picture-s-resident-evil-35th-goth-1000x667-1.jpg"
+        },
+        {
+          "title": "'Game of Thrones' Finally Hitting Big Screen in 2029 With Warner Bros.' 'Aegon's Conquest'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/game-of-thrones-movie-aegons-conquest-warner-bros-release-1236714525",
+          "tldr": "Game of Thrones is heading to the big screen in 2029 with Aegon's Conquest, directed by Owen Harris from a script by Beau Willimon.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-29T17:55:05.000Z",
+          "image": ""
+        },
+        {
+          "title": "Tom Cruise 'Digger' Reviews Are Brutally Split: From \"Insufferable\" to \"Terrific\"",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-reviews-critics-1236714387",
+          "tldr": "Early reviews of Alejandro G. Iñárritu's Digger, starring Tom Cruise, are sharply divided, with critics calling it everything from insufferable to terrific.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-29T17:20:19.000Z",
+          "image": ""
+        },
+        {
+          "title": "'Making Marie Antoinette': A Mother's Love Letter to Sofia Coppola's Genius Charms NYFF",
+          "url": "https://variety.com/2026/film/news/making-marie-antoinette-sofia-coppola-mother-kirsten-dunst-nyff-1236878756",
+          "tldr": "Making Marie Antoinette, a documentary about Sofia Coppola directed by her mother, premiered at the New York Film Festival to warm reviews of its intimate look at her craft.",
+          "source": "Variety",
+          "published": "2026-09-30T00:38:14.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/MCDMAAN_EC030_61c5a8.jpg"
+        },
+        {
+          "title": "After 'Avengers Endgame: Encore,' Infinity Vision Might Turn Out to Be a Thing",
+          "url": "https://www.indiewire.com/news/box-office/avengers-endgame-encore-infinity-vision-box-office-results-1235218955",
+          "tldr": "Disney's Avengers Endgame: Encore re-release earned over half its $26m opening weekend from a special large-format theatrical designation, suggesting more studios may try the format.",
+          "source": "IndieWire",
+          "published": "2026-09-29T18:17:21.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/09/GettyImages-2271692578.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Conley confident heading into 20th season",
+          "url": "https://www.celticsblog.com/boston-celtics-news/146730/conley-confident-heading-into-20th-season",
+          "tldr": "Mike Conley, 38, is entering his 20th NBA season and says he is determined to contribute in a new role for the Celtics this year.",
+          "source": "CelticsBlog",
+          "published": "2026-09-29T10:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2297592779.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Jayson Tatum used his time on the bench to learn",
+          "url": "https://www.celticsblog.com/boston-celtics-news/146749/jayson-tatum-used-his-time-on-the-bench-to-learn-boston-celtics-joe-mazzulla-brad-stevens-coaching-bill-simmons",
+          "tldr": "Jayson Tatum says time out last season taught him to see the game from a coach's perspective, as he returns for a new Celtics campaign.",
+          "source": "CelticsBlog",
+          "published": "2026-09-29T09:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2297590734.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Game Preview: Patriots at Bills | NFL Week 4",
+          "url": "https://www.patriots.com/news/game-preview-patriots-at-bills-nfl-week-4",
+          "tldr": "New England travel to Buffalo to face the Bills on Sunday at Highmark Stadium, looking to respond after a rough 1-2 start to the season.",
+          "source": "Patriots.com",
+          "published": "2026-09-29T16:14:15.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/nm4zdf8fwmkqz3oubdqw.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots Place OL Greg Van Roten on Injured Reserve and Release LB Riley Wilson from the Practice Squad",
+          "url": "https://www.patriots.com/news/patriots-place-ol-greg-van-roten-on-injured-reserve-and-release-lb-riley-wilson-from-the-practice-squad",
+          "tldr": "The Patriots placed offensive lineman Greg Van Roten on injured reserve, their second starting guard lost in as many weeks, and released linebacker Riley Wilson from the practice squad.",
+          "source": "Patriots.com",
+          "published": "2026-09-29T20:00:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/gnatzcpqynoo5s2umeal.png"
+        },
+        {
+          "tag": "F1",
+          "title": "Alonso signs new contract to race for Aston Martin in 2027",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/cde0gz51g36o",
+          "tldr": "Fernando Alonso has signed a new contract to race for Aston Martin in Formula 1 next year, ending months of speculation about his future in the sport.",
+          "source": "BBC Sport",
+          "published": "2026-09-29T11:00:06.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74db/live/4c19fda0-aec8-11f1-89e2-171455bb2760.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Where does Russell's Baku win rank in the closest F1 finishes?",
+          "url": "https://www.formula1.com/en/latest/article/where-does-russells-baku-win-rank-in-the-closest-ever-f1-finishes.4bMRcAuAIS4dJY4flIHkUw",
+          "tldr": "George Russell's win over Max Verstappen in Azerbaijan was decided by just 0.196 seconds, one of the closest finishes in Formula 1 history.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Miscellaneous/Historic/GettyImages-2231805855.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "Antonelli vows to 're-establish the order' over Russell at Bahrain GP",
+          "url": "https://www.skysports.com/f1/news/12433/13592946/kimi-antonelli-vows-to-re-establish-the-order-over-george-russell-at-bahrain-gp-in-malaysia-after-losing-out-in-azerbaijan",
+          "tldr": "Championship leader Kimi Antonelli says he will re-establish the order over Mercedes team-mate George Russell at this weekend's Bahrain Grand Prix, held at Sepang in Malaysia.",
+          "source": "Sky Sports",
+          "published": "2026-09-29T06:00:00.000Z",
+          "image": "https://e0.365dm.com/26/09/1920x1080/skysports-kimi-antonelli-george_7363421.jpg?20260928154754"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Garrett Crochet included on Red Sox Wild Card Series roster",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/29/garrett-crochet-included-on-red-sox-wild-card-series-roster",
+          "tldr": "Garrett Crochet is on the Red Sox's Wild Card Series roster against the Yankees, who left slugger Aaron Judge off theirs with a calf injury.",
+          "source": "Boston.com",
+          "published": "2026-09-29T15:19:14.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Garrett-Crochet-Red-Sox-postseason-roster-6abbceddd36f8-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Yankees ace Cam Schlittler says he's 'keeping receipts' from Red Sox fans",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/28/cam-schlittler-new-york-yankees-boston-red-sox-mlb-baseball-payton-tolle",
+          "tldr": "Yankees starter Cam Schlittler said he is keeping receipts on criticism from Red Sox fans, hours before dominating Boston's lineup in Game 1 of the Wild Card Series.",
+          "source": "Boston.com",
+          "published": "2026-09-29T01:35:56.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Yankees_Angels_Baseball_93599-6abb08388a84d-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
+    "why": "All the Lenny & Friends Summit talks are now free to watch, a concentrated dose of product marketing and growth thinking from top operators.",
+    "title": "All of the Lenny & Friends Summit talks are now online!",
+    "subtitle": "Plus, some reflections and takeaways from the day",
+    "published": "2026-09-29",
+    "words": 1276,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/9fed347c-0e02-4190-a590-1236719b99de_9213x6142.jpeg",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/the-singular-life-of-rick-rubin/id1141877104?i=1000745366626&uo=4",
+      "why": "David Senra's deep dive into Rick Rubin's approach to creativity and taste, useful listening for anyone thinking about craft and product the way Damian does.",
+      "show": "Founders",
+      "title": "The Singular Life of Rick Rubin",
+      "published": "2026-01-16",
+      "duration": "1h 21m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-singular-life-of-rick-rubin/id1141877104?i=1000745366626&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/marc-andreessen",
+      "why": "Marc Andreessen on building Netscape and a16z ties neatly to today's AI funding news, from OpenAI's reported $30bn round to a16z's own EliseAI bet.",
+      "show": "David Senra",
+      "title": "Marc Andreessen, co-founder of a16z & Netscape",
+      "published": "2026-03-15",
+      "duration": "1h 50m",
+      "apple": "https://podcasts.apple.com/us/podcast/marc-andreessen-co-founder-of-a16z-netscape/id1836497887?i=1000755371069&uo=4",
+      "page": "https://www.davidsenra.com/episode/marc-andreessen",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/d7/08/eed708b8-ad42-d3ee-973e-3427ae8ea771/mza_3060786345037756618.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/microsoft",
+      "why": "With OpenAI increasingly squaring up to Microsoft's office software and platform business, this deep history of how Microsoft built its empire feels newly relevant.",
+      "show": "Acquired",
+      "title": "Microsoft Volume I",
+      "published": "2024-04-22",
+      "duration": "4h 16m",
+      "apple": "https://podcasts.apple.com/us/podcast/microsoft-volume-i/id1050462261?i=1000653148600&uo=4",
+      "page": "https://www.acquired.fm/episodes/microsoft",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a7/ad/43/a7ad43e9-4ae1-37d8-6cd1-0ea08ac4aebe/mza_14013098215098877662.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Niklas Roy Constructs a Functional Pendulum Clock Made Entirely of Trash",
+    "url": "https://www.thisiscolossal.com/2026/09/niklas-roy-glashutte-trash-clock-mechanical-sculpture",
+    "tldr": "Berlin artist and inventor Niklas Roy has built a working pendulum clock entirely from scavenged trash, the latest project exploring where art, science and technology meet.",
+    "source": "Colossal",
+    "published": "2026-09-29T15:01:46.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/09/roy-3.jpg"
+  }
+}

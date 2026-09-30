@@ -1,5 +1,17 @@
 [
  {
+  "id": 215694124,
+  "title": "All of the Lenny & Friends Summit talks are now online!",
+  "subtitle": "Plus, some reflections and takeaways from the day",
+  "url": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
+  "date": "2026-09-29",
+  "type": "newsletter",
+  "audience": "everyone",
+  "words": 1276,
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/9fed347c-0e02-4190-a590-1236719b99de_9213x6142.jpeg"
+ },
+ {
   "id": 216168140,
   "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
   "subtitle": "Why you should never skip error discovery",
@@ -298,6 +310,18 @@
   "words": 2660,
   "minutes": null,
   "image": "https://substackcdn.com/image/fetch/$s_!z9Ie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd7a56c2-5569-4009-b5f1-9236f147451c_1456x970.png"
+ },
+ {
+  "id": 169397510,
+  "title": "25 proven tactics to accelerate AI adoption at your company",
+  "subtitle": "Practical advice from AI-forward companies like Shopify, Ramp, Zapier, Duolingo, Intercom, and Whoop",
+  "url": "https://www.lennysnewsletter.com/p/25-proven-tactics-to-accelerate-ai",
+  "date": "2025-08-05",
+  "type": "newsletter",
+  "audience": "only_paid",
+  "words": 1970,
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!nXaI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa57910f7-d2b5-49a4-bea2-cc2f120e4986_2912x2912.png"
  },
  {
   "id": 168890236,
