@@ -1,0 +1,332 @@
+{
+  "date": "2026-10-01",
+  "front": [
+    {
+      "title": "Google releases Gemini 4 Argon, its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
+      "tldr": "Google is marketing the new model as a workhorse for coding and cybersecurity work, its latest move in the AI race.",
+      "source": "TechCrunch",
+      "published": "2026-09-30T23:43:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
+    },
+    {
+      "title": "Paramount-Warner Bros. Discovery merger clears last hurdle as judge approves settlement",
+      "url": "https://www.indiewire.com/news/breaking-news/paramount-last-hurdle-merger-warner-bros-discovery-1235218714",
+      "tldr": "A federal judge approved the antitrust settlement clearing Paramount's merger with Warner Bros. Discovery, now expected to close as early as 6 October.",
+      "source": "IndieWire",
+      "published": "2026-09-30T20:08:13.000Z",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/Paramount-Warner-Bros-Discovery-Merger.jpg?w=650"
+    },
+    {
+      "title": "Report: Apple may hold its next hardware event on 13 October",
+      "url": "https://www.macrumors.com/2026/09/30/apple-event-on-october-13",
+      "tldr": "Daring Fireball's John Gruber floated 13 October as the date Apple may hand iPhone Duo review units to press, and other reports now back it up. It is a report, not a confirmed date.",
+      "source": "MacRumors",
+      "published": "2026-09-30T17:53:35.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/09/Apple-October-13.jpeg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "AI voice startup ElevenLabs doubles valuation to $22bn",
+          "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
+          "tldr": "A $300 million employee tender, co-led by Wellington and T. Rowe Price, values the voice AI company at $22bn, twice its previous mark.",
+          "source": "TechCrunch",
+          "published": "2026-09-30T18:23:57.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669"
+        },
+        {
+          "title": "Valor, Atreides and Sequoia back AI startup Flow Engineering at $750m valuation",
+          "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation",
+          "tldr": "The startup brings AI agents to hardware design and has added Sequoia's Roelof Botha as an angel investor and board member.",
+          "source": "TechCrunch",
+          "published": "2026-09-30T21:07:40.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800"
+        },
+        {
+          "title": "Google DeepMind unveils SynthID Bio to watermark AI-generated proteins",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio",
+          "tldr": "DeepMind's proof of concept watermarks AI-generated proteins while preserving their biological function, aimed at tracking synthetic biology safely.",
+          "source": "Google DeepMind",
+          "published": "2026-09-30T15:03:07.000Z",
+          "image": "https://lh3.googleusercontent.com/wNhpZFcXYLXFb6alIt0H5NRvEoso2ONZDhPKz6MYEcGltHPbDeHddzkvv5GXl3abW1PZ5ci1Y9lKoYOIjMuHLxATXfWp88-Al6eEmDENrpejIFeimw=w528-h297-n-nu-rw-lo"
+        },
+        {
+          "title": "DoorDash launches an AI agent you can text to order food",
+          "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
+          "tldr": "The agent lets US customers order food by text message, as DoorDash looks to gain an edge over Uber Eats and Grubhub.",
+          "source": "TechCrunch",
+          "published": "2026-09-30T16:00:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.47.10-AM.png?w=982"
+        },
+        {
+          "title": "OpenAI partners with America's SBDC to help small businesses use AI",
+          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "tldr": "The partnership expands hands-on AI training and local support for small business owners, alongside a new report on how small teams use the technology.",
+          "source": "OpenAI",
+          "published": "2026-09-30T10:00:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "BMW builds the same 3 Series for petrol and electric, with the EV $4,400 cheaper",
+          "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper",
+          "tldr": "The new BMW 3 Series shows how quickly EV prices have caught up with, and now undercut, the petrol version.",
+          "source": "TechCrunch",
+          "published": "2026-09-30T19:19:40.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/bmw-350-vs-i3-50.jpeg?resize=1200,800"
+        },
+        {
+          "title": "FedEx orders 2,000 electric trucks from Harbinger in $300m deal",
+          "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal",
+          "tldr": "It is Harbinger's biggest order yet, as the electric truck startup reportedly considers an IPO.",
+          "source": "TechCrunch",
+          "published": "2026-09-30T15:26:02.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/11/harbinger-fedex-electric-delivery-truck-series-c-funding-scaled-1.jpg?resize=1200,800"
+        },
+        {
+          "title": "Fujifilm's Instax Pal 2 plugs into your phone to transfer images",
+          "url": "https://www.engadget.com/2274075/fujifilm-instax-pal-2-can-plug-directly-into-your-smartphone-to-transfer-images",
+          "tldr": "The small digital camera pairs software filters with tactile controls, making it easy to pull images onto a phone.",
+          "source": "Engadget",
+          "published": "2026-09-30T22:04:10.000Z",
+          "image": "https://www.engadget.com/img/gallery/fujifilms-instax-pal-2-can-plug-directly-into-your-smartphone-to-transfer-images/l-intro-1790805837.jpg"
+        },
+        {
+          "title": "Breville's new $600 coffee machine makes pour-overs from scratch",
+          "url": "https://www.engadget.com/2273802/brevilles-new-600-coffee-machine-makes-pour-overs-from-scratch",
+          "tldr": "The machine automates the pour-over process start to finish, though you still need to buy your own beans.",
+          "source": "Engadget",
+          "published": "2026-09-30T18:37:29.000Z",
+          "image": "https://www.engadget.com/img/gallery/brevilles-new-600-coffee-machine-makes-pour-overs-from-scratch/l-intro-1790793356.jpg"
+        },
+        {
+          "title": "DoorDash's drone delivery strategy started on the ground",
+          "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground",
+          "tldr": "DoorDash unveiled the six-propeller aircraft for its new drone delivery business at its annual Dash Forward event.",
+          "source": "TechCrunch",
+          "published": "2026-09-30T19:22:13.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Doordash-Air-drone.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple's smart home hub will have an iMac G4-style design, report says",
+          "url": "https://www.macrumors.com/2026/09/30/apple-home-hub-imac-g4-style-design",
+          "tldr": "Bloomberg's Mark Gurman reports the hub will feature a square six-inch display and a design echoing the old iMac G4, as part of Apple's smart home push.",
+          "source": "MacRumors",
+          "published": "2026-09-30T11:36:13.000Z",
+          "image": "https://images.macrumors.com/article-new/2025/08/Home-Hub-Command-Center-with-Dome-Base-Feature.jpg"
+        },
+        {
+          "title": "iPad Mini 8 to offer 10 new features, leak suggests",
+          "url": "https://www.macrumors.com/2026/09/30/ipad-mini-8-rumored-features",
+          "tldr": "The next iPad mini is expected to bring Apple's A20 Pro chip, a landscape front camera and a redesigned speaker system, among other changes.",
+          "source": "MacRumors",
+          "published": "2026-09-30T15:54:43.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg"
+        },
+        {
+          "title": "Here's when to expect new M6 Macs",
+          "url": "https://9to5mac.com/2026/09/30/m6-mac-release-schedule-heres-when-new-macs-are-coming",
+          "tldr": "Apple's M6 chip debuted last week in the Mac mini, and more M6 upgrades, including an M6 iPad Pro, are expected to follow on a rolling schedule.",
+          "source": "9to5Mac",
+          "published": "2026-09-30T18:07:26.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/m6_regular.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple still plans to release a new full-sized HomePod",
+          "url": "https://www.macrumors.com/2026/09/30/apple-still-plans-to-update-larger-homepod",
+          "tldr": "Bloomberg's Mark Gurman says Apple remains committed to eventually updating its larger HomePod, though no timeline was given.",
+          "source": "MacRumors",
+          "published": "2026-09-30T13:11:52.000Z",
+          "image": "https://images.macrumors.com/article-new/2023/01/HomePod-2-White-and-Midnight-Feature-Blue-Orange.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "David Fincher ending Netflix deal after six years and three movies, including Cliff Booth",
+          "url": "https://variety.com/2026/film/news/david-fincher-netflix-deal-exit-1236878552",
+          "tldr": "The director of Fight Club, The Social Network and Gone Girl is not renewing his pact at Netflix when it expires next year.",
+          "source": "Variety",
+          "published": "2026-09-30T20:18:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2023/09/GettyImages-1657363318.jpg"
+        },
+        {
+          "title": "Neon plans a competing, open-source SCP Foundation anthology film",
+          "url": "https://deadline.com/2026/09/scp-foundation-movie-neon-open-source-creative-commons-license-1237143453",
+          "tldr": "Neon's anthology, built from the community-driven horror forum, will let emerging filmmakers contribute and release under a Creative Commons licence, countering A24's own SCP Foundation project.",
+          "source": "Deadline",
+          "published": "2026-09-30T20:45:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/09/Neon-SCP-Foundation.jpg"
+        },
+        {
+          "title": "Ben Affleck says he used AI 'for lots of things' in new Netflix movie Animals",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-ai-netflix-movie-animals-1236717919",
+          "tldr": "The actor-director did not specify how AI was used in the film.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-01T03:41:35.000Z",
+          "image": ""
+        },
+        {
+          "title": "Halsey on her new Hollywood chapter producing Our Hero, Balthazar",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/halsey-producing-new-chapter-our-hero-balthazar-interview-1236714676",
+          "tldr": "A decade after becoming a Grammy-nominated musician, Halsey talks about moving behind the camera with one of the year's more provocative independent films.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-09-30T20:47:38.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics notice Jayson Tatum's leadership leap as camp begins",
+          "url": "https://www.celticsblog.com/boston-celtics-news/146915/celtics-notice-jayson-tatum-leadership-leap-to-begin-camp",
+          "tldr": "Tatum organised workouts in Los Angeles last month that many teammates attended, getting a head start on chemistry with a new-look roster.",
+          "source": "CelticsBlog",
+          "published": "2026-09-30T20:28:30.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2297589062.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Payton Pritchard and Mike Conley are forming a close bond at Celtics camp",
+          "url": "https://www.celticsblog.com/boston-celtics-news/146902/payton-pritchard-mike-conley-celtics-training-camp",
+          "tldr": "The pair dribble up the court together at the start of practice, with Conley guiding Pritchard toward the basket as camp gets under way.",
+          "source": "CelticsBlog",
+          "published": "2026-09-30T15:38:48.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2297593114.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Manchester United",
+          "title": "Wayne Barton on the 'lost tapes' behind his new Alex Ferguson book",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pd8jcs",
+          "tldr": "The author discusses previously unheard recordings that inspired his new book about Sir Alex Ferguson's time at Manchester United.",
+          "source": "BBC Sport",
+          "published": "2026-09-30T18:38:00.000Z",
+          "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pd8jfn.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots vs. Bills preview for NFL Week 4",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/138967/patriots-vs-bills-preview-nfl-week-4",
+          "tldr": "New England, 1-2 after a 35-6 defeat to Jacksonville, face a pivotal divisional game against an unbeaten Buffalo side.",
+          "source": "Pats Pulpit",
+          "published": "2026-09-30T13:04:07.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2025/12/gettyimages-2243668887.jpg?quality=90&strip=all&crop=2.0390686035156,14.224347228081,97.960931396484,85.775652771919"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Christian Gonzalez misses practice through injury; Drake Maye also lands on report",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/09/30/new-england-patriots-injuries-christian-gonzalez-drake-maye-injury-report-nfl-football",
+          "tldr": "Both Christian Gonzalez and Christian Barmore sat out Wednesday's session in Foxborough as New England prepares to face an unbeaten Buffalo team.",
+          "source": "Boston.com",
+          "published": "2026-09-30T21:42:48.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Patriots_Jaguars_Football_57429-6abd7e1d2570d-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Ocon to leave Haas, putting F1 future in doubt",
+          "url": "https://www.bbc.co.uk/sport/formula1/articles/c9e8e5k21ge5o",
+          "tldr": "Esteban Ocon is fighting to save his Formula 1 career after Haas announced the split, effective at the end of the season.",
+          "source": "BBC Sport",
+          "published": "2026-09-30T10:24:02.000Z",
+          "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e9e/live/83101dd0-bcb5-11f1-a3e9-bbda6f9b9e25.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Honda secretly introduced its second F1 upgrade in Madrid",
+          "url": "https://www.motorsport.com/f1/news/why-honda-secretly-introduced-its-second-f1-aduo-upgrade-in-madrid/10860365",
+          "tldr": "Honda Racing Corporation's Koji Watanabe revealed the second ADUO upgrade was actually introduced as early as the Spanish Grand Prix.",
+          "source": "Motorsport.com",
+          "published": "2026-10-01T03:56:39.000Z",
+          "image": "https://cdn-9.motorsport.com/images/amp/Y9lNBgG2/s6/fernando-alonso-aston-martin-r.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Mercedes braced for tougher strategy calls as Russell closes on Antonelli",
+          "url": "https://www.motorsport.com/f1/news/mercedes-braced-for-tougher-strategy-calls-as-russell-closes-on-antonelli/10860271",
+          "tldr": "George Russell cut Kimi Antonelli's championship lead from 81 points to 66 at the Azerbaijan Grand Prix, prompting Mercedes boss Toto Wolff to acknowledge tougher strategy calls ahead.",
+          "source": "Motorsport.com",
+          "published": "2026-09-30T12:47:44.000Z",
+          "image": "https://cdn-5.motorsport.com/images/amp/YXyKvOo6/s6/andrea-kimi-antonelli-mercedes.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox fall flat in season-ending loss to Yankees",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/09/30/red-sox-yankees-takeaways-wild-card-series-sonny-gray-max-fried",
+          "tldr": "New York outscored Boston 18-2 across the Wild Card series, sweeping the Red Sox out of the playoffs for the second year running.",
+          "source": "Boston.com",
+          "published": "2026-10-01T03:30:28.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Sonny-Gray-6abdd01438ad7-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
+    "why": "A look at how Lenny turned free products into a growth lever, timely on a day full of product launches and funding rounds.",
+    "title": "11 products I love, free for a year—the biggest Product Pass expansion in 2 years",
+    "subtitle": "Runway, Higgsfield, Waking Up, Brain.fm, Customer.io, Resend, Pangram, Mercury Personal, Supercut, Readwise, and Jam are joining Product Pass today, all included with Annual and Insider memberships",
+    "published": "2026-07-28",
+    "words": 2163,
+    "image": "https://substackcdn.com/image/fetch/$s_!zA4i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd82569d-7b1e-43f1-a487-c9cb4da0435b_1456x970.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/411-tortured-into-greatness-the-life-of-andre-agassi/id1141877104?i=1000748209622&uo=4",
+      "why": "Agassi's obsession with reinvention pairs well with Tatum's leadership leap at Celtics camp this week.",
+      "show": "Founders",
+      "title": "#411 Tortured Into Greatness: The Life of Andre Agassi",
+      "published": "2026-02-04",
+      "duration": "1h 01m",
+      "apple": "https://podcasts.apple.com/us/podcast/411-tortured-into-greatness-the-life-of-andre-agassi/id1141877104?i=1000748209622&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/alexander-taubman",
+      "why": "New this week: Taubman on deploying AI inside real-world service businesses, a useful counterpoint to today's AI funding news.",
+      "show": "David Senra",
+      "title": "Bringing AI to the Real Economy | Alexander Taubman",
+      "published": "2026-09-30",
+      "duration": "1h 02m",
+      "page": "https://www.davidsenra.com/episode/alexander-taubman",
+      "artwork": "https://megaphone.imgix.net/podcasts/57d2fe40-bc73-11f1-823e-d7309e0e304b/image/03418f1afe3261163bbcb93db7a86bc3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/renaissance-technologies",
+      "why": "A look back at the quant pioneers who treated markets as a data problem, long before today's AI boom.",
+      "show": "Acquired",
+      "title": "Renaissance Technologies",
+      "published": "2024-03-18",
+      "duration": "3h 00m",
+      "apple": "https://podcasts.apple.com/us/podcast/renaissance-technologies/id1050462261?i=1000649514382&uo=4",
+      "page": "https://www.acquired.fm/episodes/renaissance-technologies",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Craig Mod built a mini-site cataloguing all his long walks since 2009",
+    "url": "https://kottke.org/26/09/0049700-a-cool-mini-site-catalogi",
+    "tldr": "The site maps years of long walks with GPS tracks and links to the essays and books that resulted from them.",
+    "source": "Kottke",
+    "published": "2026-09-30T15:08:00.000Z",
+    "image": ""
+  }
+}
