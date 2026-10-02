@@ -1,0 +1,271 @@
+{
+  "date": "2026-10-02",
+  "front": [
+    {
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai",
+      "tldr": "Shopify's new Canvas tool lets merchants build and customise online stores by chatting with its AI agent Sidekick, watching changes happen live. A real test of how far conversational building can go.",
+      "source": "TechCrunch",
+      "published": "2026-10-01T16:44:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517"
+    },
+    {
+      "title": "The new Kindle ditches the bezel for a smaller, lighter design",
+      "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader",
+      "tldr": "Amazon's new Kindle lineup is its lightest and thinnest yet, with a front-flush display that drops the raised bezel entirely. A small, deliberate redesign rather than a spec-sheet exercise.",
+      "source": "TechCrunch",
+      "published": "2026-10-01T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Kindle-Cafe-Reading.jpg?resize=1200,900"
+    },
+    {
+      "title": "Ben Affleck explains his approach to using AI ethically on new movie 'Animals'",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-approach-ai-ethically-animals-replacing-1236720613",
+      "tldr": "Affleck says he used AI on the Netflix film but would not use anything trained on copyrighted work or the work of a peer. A working line for the craft debate rather than a blanket stance.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-10-02T03:35:09.000Z",
+      "image": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "ChatGPT can now virtually try on clothes for you",
+          "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you",
+          "tldr": "OpenAI is rolling out shopping features that let ChatGPT users try on clothes and accessories using their own photos and save favourites. Moves the assistant further into everyday retail.",
+          "source": "TechCrunch",
+          "published": "2026-10-01T19:21:53.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675"
+        },
+        {
+          "title": "Brian Chesky interview: AI agents need their own operating system",
+          "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system",
+          "tldr": "Chesky talks about making Airbnb agent-friendly and why he thinks consumer AI needs a native operating system, not just apps bolted onto old interfaces.",
+          "source": "TechCrunch",
+          "published": "2026-10-01T15:12:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Brian-Chesky-Environmental-Headshot-3.jpg?resize=1200,675"
+        },
+        {
+          "title": "Hearing tech startup Legato launches its AI hearing glasses",
+          "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
+          "tldr": "Legato's new AI hearing glasses aim to make hearing care more accessible by addressing the cost, comfort and stigma of traditional hearing aids.",
+          "source": "TechCrunch",
+          "published": "2026-10-01T13:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670"
+        },
+        {
+          "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents",
+          "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents",
+          "tldr": "The startup helps developers build AI agents that work over iMessage, SMS and email, betting that people will use agents instead of downloading apps.",
+          "source": "TechCrunch",
+          "published": "2026-10-01T14:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "World's first enhanced geothermal power plant completed in just 23 months",
+          "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months",
+          "tldr": "Fervo Energy finished its first enhanced geothermal plant in under two years, with later phases expected to connect to the grid even faster.",
+          "source": "TechCrunch",
+          "published": "2026-10-01T18:35:55.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675"
+        },
+        {
+          "title": "NYC's click-to-cancel rule is now in effect",
+          "url": "https://www.engadget.com/2274831/nycs-click-to-cancel-rule-is-now-in-effect-to-save-consumers-from-subscription-hell",
+          "tldr": "New York's new rule requires subscriptions to be as easy to cancel as they are to start. A small, practical consumer win.",
+          "source": "Engadget",
+          "published": "2026-10-01T17:41:11.000Z",
+          "image": "https://www.engadget.com/img/gallery/nycs-click-to-cancel-rule-is-now-in-effect-to-save-consumers-from-subscription-hell/l-intro-1790876262.jpg"
+        },
+        {
+          "title": "Metro 2033 and Metro: Last Light remasters are getting free next-gen updates",
+          "url": "https://www.engadget.com/2275181/metro-2033-and-metro-last-light-remasters-are-getting-free-next-gen-updates",
+          "tldr": "The first two Metro games are getting free next-gen updates this month, a no-cost refresh for an older pair of favourites.",
+          "source": "Engadget",
+          "published": "2026-10-01T20:52:37.000Z",
+          "image": "https://www.engadget.com/img/gallery/metro-2033-and-metro-last-light-remasters-are-getting-free-next-gen-updates/l-intro-1790887879.jpg"
+        },
+        {
+          "title": "Samsung launches its first clip-on earbuds in South Korea",
+          "url": "https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea",
+          "tldr": "Samsung's first clip-on earbuds are launching in South Korea, with a global rollout to follow, though details are still unconfirmed.",
+          "source": "Engadget",
+          "published": "2026-10-01T20:57:39.000Z",
+          "image": "https://www.engadget.com/img/gallery/samsung-launches-its-first-clip-on-earbuds-in-south-korea/l-intro-1790888120.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple commissions photographers for new 'Shot on iPhone Duo' campaign",
+          "url": "https://9to5mac.com/2026/10/01/apple-commissions-photographers-for-new-shot-on-iphone-duo-campaign",
+          "tldr": "Apple's Instagram account published a carousel of photos commissioned from Jake Michaels and Jason Nocito to showcase the iPhone Duo's cameras, its latest marketing push for the device.",
+          "source": "9to5Mac",
+          "published": "2026-10-01T22:52:42.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-camera.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Audible announces AI-powered character guides, interactive stories, more",
+          "url": "https://9to5mac.com/2026/10/01/audible-announces-ai-powered-character-guides-interactive-stories-more",
+          "tldr": "Audible unveiled three new features meant to deepen listeners' connection to their favourite audiobooks, including AI character guides.",
+          "source": "9to5Mac",
+          "published": "2026-10-01T20:06:47.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/audible.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple TV's acclaimed 'The Last First: Winter K2' documentary now streaming",
+          "url": "https://9to5mac.com/2026/10/01/apple-tvs-acclaimed-the-last-first-winter-k2-documentary-now-streaming",
+          "tldr": "The extreme mountain climbing documentary has a 100% Rotten Tomatoes score and is now available to Apple TV subscribers.",
+          "source": "9to5Mac",
+          "published": "2026-10-02T01:00:20.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/last-first-k2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "iPhone 18 Pro aperture control goes fully manual in Halide 3.2",
+          "url": "https://www.macrumors.com/2026/10/01/iphone-18-pro-aperture-control-fully-manual-halide",
+          "tldr": "The award-winning Halide camera app has been updated to version 3.2, adding dedicated support for broadening manual control over the iPhone 18 Pro's variable aperture camera.",
+          "source": "MacRumors",
+          "published": "2026-10-01T12:39:41.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/halide-v3-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Monster Mash: legendary special-effects makeup creator Rick Baker on making decades of movie magic",
+          "url": "https://letterboxd.com/journal/monster-mash-rick-baker-career-interview",
+          "tldr": "Rick Baker talks through his career in special-effects makeup, from building Bigfoot for Harry and the Hendersons to his work with Eddie Murphy on Coming to America.",
+          "source": "Letterboxd Journal",
+          "published": "2026-10-01T19:40:28.000Z",
+          "image": "https://a.ltrbxd.com/resized/sm/upload/r1/ju/09/4m/Rick%20Baker-0-960-0-540-crop-fill.jpg?k=15ac9f53ab"
+        },
+        {
+          "title": "10 animators to watch on AI, animation's future and why the human hand still matters",
+          "url": "https://variety.com/2026/film/awards/10-animators-to-watch-ai-animation-future-scad-1236894996",
+          "tldr": "At SCAD AnimationFest, ten animators and an Oscar-nominated director discussed AI's role in animation and why the human hand still matters to the craft.",
+          "source": "Variety",
+          "published": "2026-10-01T19:14:15.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/2297113369.jpg"
+        },
+        {
+          "title": "Talia Ryder joins Tom Holland in Fred Astaire biopic",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/talia-ryder-joins-tom-holland-fred-astaire-biopic-1236717856",
+          "tldr": "Margaret Qualley and Sabrina Carpenter are also set to star in the Sony project from director Paul King, about the life of dancer Fred Astaire.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-01T18:30:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Bradley Cooper to star in new G.I. Joe movie for Paramount",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/bradley-cooper-g-i-joe-movie-paramount-danny-mcbride-1236720404",
+          "tldr": "Danny McBride is directing the live-action film and co-wrote the script, with Bradley Cooper set to star.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-01T18:46:23.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Jayson Tatum shares promising recovery update at Celtics practice",
+          "url": "https://www.celticsblog.com/boston-celtics-news/146975/jayson-tatum-injury-achilles-recovery-celtics",
+          "tldr": "Sixteen and a half months after rupturing his Achilles, Tatum gave an encouraging update on his recovery at Celtics practice.",
+          "source": "CelticsBlog",
+          "published": "2026-10-01T14:59:47.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2297316765.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "The reasons behind Alonso renewing his F1 contract with Aston Martin",
+          "url": "https://www.autosport.com/f1/news/why-alonso-is-staying-in-f1/10860518",
+          "tldr": "Fernando Alonso has signed on for another year at Aston Martin for 2027, a decision the team says has been on the cards for some time.",
+          "source": "Autosport",
+          "published": "2026-10-01T09:24:03.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/6lmAlbj0/s6/fernando-alonso-aston-martin-r-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Audi reveals plans for new F1 team base",
+          "url": "https://www.the-race.com/formula-1/audi-reveals-plans-for-new-f1-team-base",
+          "tldr": "Audi is developing a new Formula 1 campus close to Sauber's long-standing Swiss headquarters, as the manufacturer builds out its F1 operation.",
+          "source": "The Race",
+          "published": "2026-10-01T07:46:46.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/A2619405.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "The family behind one of F1's greatest archives",
+          "url": "https://www.the-race.com/extra/the-family-behind-one-of-f1s-greatest-archives",
+          "tldr": "For almost 70 years, Bernard and Paul-Henri Cahier have captured every aspect of Formula 1 on camera, building one of the sport's great photographic records.",
+          "source": "The Race",
+          "published": "2026-10-01T17:31:47.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/BC-PHC_99_Monaco_01_New.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/25-proven-tactics-to-accelerate-ai",
+    "why": "With Shopify, OpenAI and Airbnb all pushing AI products out today, this playbook of real adoption tactics from Shopify, Ramp and others is a useful companion read.",
+    "title": "25 proven tactics to accelerate AI adoption at your company",
+    "subtitle": "Practical advice from AI-forward companies like Shopify, Ramp, Zapier, Duolingo, Intercom, and Whoop",
+    "published": "2025-08-05",
+    "words": 1970,
+    "image": "https://substackcdn.com/image/fetch/$s_!nXaI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa57910f7-d2b5-49a4-bea2-cc2f120e4986_2912x2912.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/409-the-creative-genius-of-rick-rubin/id1141877104?i=1000744234795&uo=4",
+      "why": "A study of creative taste to sit alongside today's Rick Baker interview and the animators debating AI's limits.",
+      "show": "Founders",
+      "title": "#409 The Creative Genius of Rick Rubin",
+      "published": "2026-01-08",
+      "duration": "43m",
+      "apple": "https://podcasts.apple.com/us/podcast/409-the-creative-genius-of-rick-rubin/id1141877104?i=1000744234795&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/tony-xu-doordash/id1836497887?i=1000758009872&uo=4",
+      "why": "Tony Xu on building DoorDash is a good match for a day full of founders launching new consumer products.",
+      "show": "David Senra",
+      "title": "Tony Xu, DoorDash",
+      "published": "2026-03-29",
+      "duration": "1h 49m",
+      "apple": "https://podcasts.apple.com/us/podcast/tony-xu-doordash/id1836497887?i=1000758009872&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b5/5d/58/b55d5861-6bb5-fe1f-d2e0-deffa3c2dcf1/mza_9155168240954487602.jpeg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/hermes",
+      "why": "A story about craft and brand discipline, echoing today's Apple photography campaign and Rick Baker's practical artistry.",
+      "show": "Acquired",
+      "title": "Hermès",
+      "published": "2024-02-20",
+      "duration": "4h 01m",
+      "apple": "https://podcasts.apple.com/us/podcast/herm%C3%A8s/id1050462261?i=1000645939195&uo=4",
+      "page": "https://www.acquired.fm/episodes/hermes",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/72/20/52/722052de-2aca-d9a3-bef0-3cc62fc2696a/mza_14496132215949179362.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Map of the Lighthouses of the World",
+    "url": "https://kottke.org/26/10/map-of-the-lighthouses-of-the-world",
+    "tldr": "A map from mapped.earth plots every lighthouse on the planet, along with lighted buoys and other charted lights, with the lights on the live version moving in real time.",
+    "source": "Kottke",
+    "published": "2026-10-01T17:20:00.000Z",
+    "image": "http://kottke.org/images/posts/01/editor-1790840383-a20407d8.jpg"
+  }
+}

@@ -307,7 +307,8 @@
       "published": "2026-09-30",
       "duration": "1h 02m",
       "page": "https://www.davidsenra.com/episode/alexander-taubman",
-      "artwork": "https://megaphone.imgix.net/podcasts/57d2fe40-bc73-11f1-823e-d7309e0e304b/image/03418f1afe3261163bbcb93db7a86bc3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+      "artwork": "https://megaphone.imgix.net/podcasts/57d2fe40-bc73-11f1-823e-d7309e0e304b/image/03418f1afe3261163bbcb93db7a86bc3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "apple": "https://podcasts.apple.com/us/podcast/bringing-ai-to-the-real-economy-alexander-taubman/id1836497887?i=1000792339679&uo=4"
     },
     {
       "url": "https://www.acquired.fm/episodes/renaissance-technologies",
