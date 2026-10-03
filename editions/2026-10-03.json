@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-03",
+  "note": "Qualifying for the Bahrain Grand Prix in Malaysia, Formula 1's return to Sepang after nine years, is today.",
+  "front": [
+    {
+      "title": "Apple Is Going to Further Tighten the Screws on Full Disk Access on macOS, in Response to Agentic AI Apps Running Amok",
+      "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
+      "tldr": "Apple will add new controls to macOS's Full Disk Access permission after AI agents began requesting broad access to files, mail and messages. The change responds to growing agentic AI use on Mac, with specifics still unannounced.",
+      "source": "Daring Fireball",
+      "published": "2026-10-02T20:40:15.000Z",
+      "image": "https://daringfireball.net/graphics/df-wide-card.png"
+    },
+    {
+      "title": "OpenAI's Dots: A First Look",
+      "url": "https://www.macstories.net/stories/openais-dots-a-first-look",
+      "tldr": "OpenAI launched Dots, a personal agent inside the ChatGPT app, at its DevDay conference this week. MacStories' Federico Viticci set one up and named it Puck, previewing what day-to-day use looks like.",
+      "source": "MacStories",
+      "published": "2026-10-02T19:07:58.000Z",
+      "image": "https://cdn.macstories.net/images/uploads/2026/10/02/introducing-dots-carousel-launchpng-1790962549268-79f784f56b.webp"
+    },
+    {
+      "title": "Behemoth! Review: Pedro Pascal Finally Finds His Perfect Movie Star Role in Tony Gilroy's Virtuoso Drama",
+      "url": "https://www.slashfilm.com/2276428/behemoth-review-pedro-pascal-tony-gilroy-movie",
+      "tldr": "Tony Gilroy's new film, which premiered at the New York Film Festival, gives Pedro Pascal his most complex role to date as a classical cellist. /Film calls it his best performance yet.",
+      "source": "/Film",
+      "published": "2026-10-03T00:00:00.000Z",
+      "image": "https://www.slashfilm.com/img/gallery/behemoth-review-pedro-pascal-finally-finds-his-perfect-movie-star-role-in-tony-gilroys-virtuoso-drama-nyff/l-intro-1790979181.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Meta Wants Your Next Gadget to Be Muse-Infused",
+          "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
+          "tldr": "Meta is giving away the code behind its Muse AI model so hobbyists and hardware makers can build it into their own gadgets, from TVs to toasters, extending Meta's AI reach beyond its own devices.",
+          "source": "TechCrunch",
+          "published": "2026-10-03T00:45:39.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
+        },
+        {
+          "title": "Sean Parker Is Rebuilding Stability AI Around Music",
+          "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music",
+          "tldr": "Sean Parker, the former Napster and Facebook executive, is relaunching Stability AI with a focus on music generation, this time with licensing support from record labels rather than their lawsuits.",
+          "source": "TechCrunch",
+          "published": "2026-10-02T21:09:14.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024"
+        },
+        {
+          "title": "How I Used Notion, Agents, and Local AI to Research and Organize My iOS 27 Review",
+          "url": "https://www.macstories.net/club/how-i-used-notion-agents-and-local-ai-to-research-and-organize-my-ios-27-review",
+          "tldr": "Federico Viticci describes the Notion and local AI agent setup he built to research and write this year's iOS and iPadOS review, a rare detailed look at one writer's working AI toolkit.",
+          "source": "MacStories",
+          "published": "2026-10-02T13:30:25.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/10/02/features-map-full-resolution-1790940356858-ed5b37c83a.png"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Laytr's New App Lets You Save Anything You Find Online, Not Just Articles to Read",
+          "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read",
+          "tldr": "Laytr's new app lets people save articles, recipes, screenshots, videos and PDFs in one private, synced archive across Apple devices, aiming past read-it-later apps that only handle text.",
+          "source": "TechCrunch",
+          "published": "2026-10-02T15:31:20.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/laytr2.jpg?resize=1200,738"
+        },
+        {
+          "title": "Rivian's R2 Just Helped It Set a New Sales Record",
+          "url": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record",
+          "tldr": "Rivian delivered more than 19,000 EVs in the third quarter, up roughly 45 percent on the same period last year, with its new, cheaper R2 model driving the jump.",
+          "source": "TechCrunch",
+          "published": "2026-10-02T13:17:05.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/R2_CatalinaBlueExterior8.jpg?resize=1200,800"
+        },
+        {
+          "title": "YouTube Takes Aim at Clipper Accounts, Will Prioritize Original Shorts",
+          "url": "https://www.engadget.com/2275978/youtube-takes-aim-at-clipper-accounts-will-prioritize-original-shorts",
+          "tldr": "YouTube will start favouring original Shorts over accounts that simply re-clip other creators' longform videos, a change aimed at rewarding original work on the platform.",
+          "source": "Engadget",
+          "published": "2026-10-02T17:25:04.000Z",
+          "image": "https://www.engadget.com/img/gallery/youtube-takes-aim-at-clipper-accounts-will-prioritize-original-shorts/l-intro-1790961823.jpg"
+        },
+        {
+          "title": "Tesla Sustains Its EV Sales Momentum Despite US Troubles",
+          "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles",
+          "tldr": "Tesla delivered more than 486,000 EVs in the third quarter, below last year's record but still trending upward despite a tougher US market for the company.",
+          "source": "TechCrunch",
+          "published": "2026-10-02T13:39:23.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1246103921.jpg?resize=1200,789"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple TV Releases 'The Sisters Grimm' Season 2 in Full",
+          "url": "https://9to5mac.com/2026/10/02/apple-tv-releases-the-sisters-grimm-season-2-in-full",
+          "tldr": "Apple TV released all six new episodes of animated fantasy series 'The Sisters Grimm' season two at once, letting viewers binge the full run from today.",
+          "source": "9to5Mac",
+          "published": "2026-10-02T21:05:13.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/sisters-grimm.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Twelve South Launches Tiny New 'Airfly Drive' Wireless CarPlay Adapter",
+          "url": "https://9to5mac.com/2026/10/02/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter",
+          "tldr": "Twelve South has launched Airfly Drive, a small wireless adapter that adds CarPlay to older cars, with 9to5Toys since publishing a full vehicle compatibility list.",
+          "source": "9to5Mac",
+          "published": "2026-10-02T18:15:26.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/airfly-drive-plugged-usb-port-black-2.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Cameron Winter at Carnegie Hall' Review: PTA's Spellbinding Concert Doc Is a Gorgeously Tender Performance",
+          "url": "https://www.indiewire.com/criticism/movies/cameron-winter-at-carnegie-hall-movie-review-pta-concert-1235219827",
+          "tldr": "Paul Thomas Anderson operates his own camera for this New York Film Festival concert documentary of Geese frontman Cameron Winter playing sparse solo piano arrangements.",
+          "source": "IndieWire",
+          "published": "2026-10-02T18:06:32.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Screen-Shot-2026-08-24-at-3.42.53-PM.png?w=650"
+        },
+        {
+          "title": "J.A. Bayona Leads Field to Direct 'Jurassic World' Sequel",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ja-bayona-jurassic-world-rebirth-sequel-frontrunner-1236721214",
+          "tldr": "Universal is understood to be eyeing Spanish director J.A. Bayona to return to the dinosaur franchise and helm the follow-up to Jurassic World Rebirth.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-02T20:44:08.000Z",
+          "image": ""
+        },
+        {
+          "title": "Sony Pictures in Talks to Acquire Michael B. Jordan 'Battlefield' Video Game Movie",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/sony-pictures-michael-b-jordan-battlefield-1236721166",
+          "tldr": "Sony is in talks for a film adaptation of EA's Battlefield game, with Christopher McQuarrie set to write and direct and Michael B. Jordan producing and possibly starring.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-02T20:07:03.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "The New-Look Celtics Are Bonding, Thanks to Mike Conley",
+          "url": "https://www.celticsblog.com/boston-celtics-news/146985/celtics-team-bonding-ron-harper-jr-fantasy-football",
+          "tldr": "Most of the 2026-27 Celtics roster has joined a fantasy football league together, with veteran Mike Conley credited for fostering the team bonding early in the season.",
+          "source": "CelticsBlog",
+          "published": "2026-10-02T20:27:59.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2294936521.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "How the Patriots Plan to Replace Christian Gonzalez Against the Bills",
+          "url": "https://www.patspulpit.com/new-england-patriots-injuries/139263/patriots-plan-replace-christian-gonzalez-bills",
+          "tldr": "Top cornerback Christian Gonzalez is out for Sunday's divisional game at Buffalo with a shoulder injury, forcing New England to rework its secondary against Josh Allen's Bills.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-02T23:07:35.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2297016921.jpg?quality=90&strip=all&crop=5.3715484619141,0.60874150456996,94.628451538086,99.39125849543"
+        },
+        {
+          "tag": "F1",
+          "title": "Leclerc Quickest as Verstappen Avoids Softs and Hamilton Faces Investigation",
+          "url": "https://www.racefans.net/2026/10/02/leclerc-quickest-as-verstappen-avoids-softs-and-hamilton-faces-investigation",
+          "tldr": "Charles Leclerc set the pace in second practice at Formula 1's return to Sepang, as Max Verstappen skipped a qualifying simulation and Lewis Hamilton was referred for impeding a rival.",
+          "source": "RaceFans",
+          "published": "2026-10-02T09:06:13.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-02-12-35-04-2-6-kualalumpur-friday-2026.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Craig Breslow Started Building the 2027 Red Sox in 2026",
+          "url": "https://www.overthemonster.com/red-sox-discussion/109989/craig-breslow-started-building-the-2027-red-sox-in-2026",
+          "tldr": "After a Wild Card exit against the Yankees exposed scoring, bullpen and injury problems, Red Sox chief Craig Breslow is already working on fixes for 2027.",
+          "source": "Over the Monster",
+          "published": "2026-10-02T17:47:20.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/reuters-tagreuters.com2024newsml_MT1USATODAY22531155175583513.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
+    "why": "A reading list of 36 timeless books for builders and leaders, squarely in your wheelhouse of craft, product and the operators you study, like Jobs and Disney.",
+    "title": "Essential books for product builders—part 1",
+    "subtitle": "36 timeless books that’ll make you a better builder, leader, and person",
+    "published": "2026-05-26",
+    "words": 1428,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/af9115c4-7e08-458d-bfe9-1674aa5c3df2_2912x1940.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/410-excellent-advice-for-living/id1141877104?i=1000746605537&uo=4",
+      "why": "Pairs with today's Lenny pick on essential books: straight-talking advice distilled for builders and operators.",
+      "show": "Founders",
+      "title": "#410 Excellent Advice for Living",
+      "published": "2026-01-25",
+      "duration": "38m",
+      "apple": "https://podcasts.apple.com/us/podcast/410-excellent-advice-for-living/id1141877104?i=1000746605537&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://davidsenra.com/episode/jason-fried",
+      "why": "Jason Fried on building Basecamp, HEY and ONCE the deliberately small way, close to the independent software you build on the side.",
+      "show": "David Senra",
+      "title": "Jason Fried, 37signals (makers of Basecamp, HEY and ONCE)",
+      "published": "2026-02-15",
+      "duration": "2h 21m",
+      "apple": "https://podcasts.apple.com/us/podcast/jason-fried-37signals-makers-of-basecamp-hey-and-once/id1836497887?i=1000749812872&uo=4",
+      "page": "https://davidsenra.com/episode/jason-fried",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/60/8f/f3/608ff31f-ab47-8bb5-8e6b-33cc53769b86/mza_11837987153756843821.jpeg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/novo-nordisk-ozempic",
+      "why": "The story of Ozempic's rise, a product bet that remade an entire industry, in the vein of the breakout wins you follow in Acquired.",
+      "show": "Acquired",
+      "title": "Novo Nordisk (Ozempic)",
+      "published": "2024-01-22",
+      "duration": "3h 36m",
+      "apple": "https://podcasts.apple.com/us/podcast/novo-nordisk-ozempic/id1050462261?i=1000642431678&uo=4",
+      "page": "https://www.acquired.fm/episodes/novo-nordisk-ozempic",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Restorers Secretly Rebuilt a Workshop Inside the Panthéon to Repair Its Antique Clock",
+    "url": "https://kottke.org/26/10/0049708-link",
+    "tldr": "In 2005, a team of restorers built a hidden workshop inside Paris's Panthéon and spent a year secretly repairing its antique clock, a quiet act of craft and devotion.",
+    "source": "Kottke",
+    "published": "2026-10-02T21:18:00.000Z",
+    "image": ""
+  }
+}
