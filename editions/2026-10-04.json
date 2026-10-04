@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-04",
+  "note": "F1's Bahrain Grand Prix, raced in Malaysia, and the Patriots' away game at Buffalo both kick off later today.",
+  "front": [
+    {
+      "title": "Apple confirms iPhone 18 Pro Max AT&T issue needs hardware replacement",
+      "url": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement",
+      "tldr": "Apple says a small number of iPhone 18 Pro Max units on AT&T's network lose cellular service and must be physically replaced, not fixed by a software update.",
+      "source": "Daring Fireball",
+      "published": "2026-10-03T18:21:14.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-photos-21.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "title": "Verstappen takes Red Bull's first pole of 2026 in Malaysia",
+      "url": "https://www.the-race.com/formula-1/verstappen-takes-first-red-bull-f1-pole-of-2026-malaysia-sepang-bahrain",
+      "tldr": "Max Verstappen out-qualified Lewis Hamilton at Sepang for Red Bull's first pole of the season, a rare bright spot in a difficult year. The Bahrain Grand Prix, held in Malaysia, starts tonight.",
+      "source": "The Race",
+      "published": "2026-10-03T09:14:37.000Z",
+      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1441527_HiRes.jpg"
+    },
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps",
+      "tldr": "Simon Willison argues that AI and other usage-billed products need hard spending caps by default, not just alerts, after seeing people rack up surprise bills with no warning.",
+      "source": "Simon Willison",
+      "published": "2026-10-03T23:34:02.000Z",
+      "image": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+          "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+          "tldr": "Amazon Web Services pushed back on criticism of its data centre practices, saying it has dropped non-disclosure agreements that limited what nearby communities could say about facilities.",
+          "source": "TechCrunch",
+          "published": "2026-10-03T18:43:57.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
+        },
+        {
+          "title": "OpenAI safety employee resigns, claims company's 'culture is broken'",
+          "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+          "tldr": "David Robinson left OpenAI's safety team warning that its culture undermines its own safety commitments, the latest in a run of departures from AI labs' safety teams this year.",
+          "source": "TechCrunch",
+          "published": "2026-10-03T16:30:01.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "This app displays song lyrics on Apple CarPlay",
+          "url": "https://www.engadget.com/2273743/little-known-app-display-song-lyrics-apple-carplay",
+          "tldr": "A widget called Dynamic Lyrics brings synced song lyrics to Apple CarPlay, turning any drive into an impromptu karaoke session.",
+          "source": "Engadget",
+          "published": "2026-10-03T23:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/this-little-known-app-lets-you-display-song-lyrics-on-apple-carplay/l-intro-1790792332.jpg"
+        },
+        {
+          "title": "Vessev built an electric ferry that almost flies",
+          "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies",
+          "tldr": "New Zealand's Vessev has built an electric hydrofoil ferry designed to lift above the water, cutting fuel use and noise on short sea crossings.",
+          "source": "TechCrunch",
+          "published": "2026-10-03T14:42:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vessev_VS–9–NYCDrone-02.jpeg?resize=1200,675"
+        },
+        {
+          "title": "Spotify billionaire's body scan startup has come to America",
+          "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america",
+          "tldr": "Neko Health, the full-body scanning startup backed by Spotify's Daniel Ek, has launched in the US, betting that preventative health screening can go mainstream.",
+          "source": "TechCrunch",
+          "published": "2026-10-03T14:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Here's why I upgraded from the Apple Watch Series 10 to Series 12",
+          "url": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12",
+          "tldr": "A long-time Apple Watch holdout explains why the Series 12's upgrades were enough to retire a Series 10 bought only in January.",
+          "source": "9to5Mac",
+          "published": "2026-10-03T18:48:22.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-siri-ai.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Indie App Spotlight: 'HEVCut' helps you trim your photo library without deleting anything",
+          "url": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage",
+          "tldr": "HEVCut is a small iPhone app that shrinks photo library size by re-encoding video clips, without deleting a single memory.",
+          "source": "9to5Mac",
+          "published": "2026-10-03T19:30:00.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/HEVCut.png?w=1600"
+        },
+        {
+          "title": "Watch F1 on Apple TV tonight, free for everyone in the US",
+          "url": "https://9to5mac.com/2026/10/03/watch-f1-on-apple-tv-tonight-free-bahrain-gp",
+          "tldr": "Apple TV is streaming the Bahrain Grand Prix, raced in Malaysia, free and without a subscription for US viewers this weekend.",
+          "source": "9to5Mac",
+          "published": "2026-10-03T19:44:04.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-bahrain-grand-prix.jpg?quality=82&strip=all&w=1428"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'A Statement' review: a top ensemble breathes vitality into a dry docu-drama",
+          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/a-statement-review-paul-rudd-amy-ryan-john-turturro-1236721637",
+          "tldr": "Tom McCarthy's NYFF premiere, starring Paul Rudd, Amy Ryan and John Turturro, dramatises a 1980 conference on the climate crisis; critics say the cast elevates otherwise talky material.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-04T00:15:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Why Tony Gilroy needed nine composers to score 'Behemoth!'",
+          "url": "https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524",
+          "tldr": "Tony Gilroy's New York Film Festival premiere 'Behemoth!' used nine different composers for its score, a rare approach Variety breaks down track by track.",
+          "source": "Variety",
+          "published": "2026-10-03T17:41:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/07/behemoth.jpg"
+        },
+        {
+          "title": "Tom Cruise's 'Digger' plunges at the box office with under $10m",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-box-office-opening-verity-2-1236721548",
+          "tldr": "Alejandro G. Iñárritu's 'Digger', starring Tom Cruise, opened to less than $10 million, on course for one of Cruise's weakest openings in nearly two decades.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-03T16:02:54.000Z",
+          "image": ""
+        },
+        {
+          "title": "Denver Film Festival unveils lineup and honorees",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/denver-film-festival-2026-lineup-schedule-honorees-1236721487",
+          "tldr": "Denver Film Festival will open with Peter Farrelly's 'I Play Rocky' and close with James Gray's 'Paper Tiger', while honouring Carrie Coon and John Cho among others.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-03T14:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Pierre Le Gall's 'Flesh and Fuel' named best film at Zurich Film Festival",
+          "url": "https://variety.com/2026/film/global/pierre-le-gall-flesh-and-fuel-zurich-film-festival-1236898150",
+          "tldr": "The French drama, which premiered in Cannes' Critics' Week, won the Golden Eye, the top prize at the 22nd Zurich Film Festival.",
+          "source": "Variety",
+          "published": "2026-10-03T19:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Flesh-and-Fuel.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "The ultimate student for Boston's shooting development school",
+          "url": "https://www.celticsblog.com/celtics-analysis/147048/the-ultimate-student-for-bostons-shooting-development-school",
+          "tldr": "The Celtics' reputation for developing shooters continues, with one player singled out as the programme's standout example this off-season.",
+          "source": "CelticsBlog",
+          "published": "2026-10-03T10:55:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2285488993.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots elevate two DBs from practice squad ahead of Bills clash",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/03/nfl-patriots-injury-update-practice-squad-elevations",
+          "tldr": "New England has elevated safety Mike Brown and cornerback Kindle Vildor from the practice squad, adding depth to a thin secondary for Sunday's game at Buffalo.",
+          "source": "Boston.com",
+          "published": "2026-10-03T22:39:20.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Eagles_Patriots_Football_43735-6ac17f58ab9e5-scaled-e1791065964199-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots downgrade rookie cornerback Channing Canada on eve of Bills matchup",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/139318/patriots-downgrade-channing-canada-week-4-bills-out",
+          "tldr": "Rookie cornerback Channing Canada has been ruled out for Sunday's game against the Bills, the third active-roster Patriot to miss the trip to Orchard Park.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-03T21:22:46.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2294807610.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots worried about 'second play' with Bills QB Josh Allen",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/139229/patriots-defense-second-play-bills-qb-josh-allen",
+          "tldr": "New England's defence is bracing for Josh Allen's improvisation after the snap, not just his arm, ahead of Sunday's AFC East clash at Buffalo.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-03T10:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2251899266.jpg?quality=90&strip=all&crop=0,2.8187055412975,100,97.181294458702"
+        },
+        {
+          "tag": "F1",
+          "title": "Lewis Hamilton labels Sepang qualifying his 'best lap' of the 2026 season",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-labels-sepang-qualifying-as-best-lap-of-his-2026-f1-season-/10861539",
+          "tldr": "Hamilton says his front-row qualifying lap at Sepang, alongside pole-sitter Verstappen, was the best of his season so far for Ferrari.",
+          "source": "Motorsport.com",
+          "published": "2026-10-03T12:10:53.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/0o5ApxDY/s6/lewis-hamilton-ferrari-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Mercedes expected to gain three-tenths from upgrade but lost five, says Wolff",
+          "url": "https://www.racefans.net/2026/10/03/mercedes-expected-to-gain-three-tenths-from-upgrade-but-lost-five-wolff",
+          "tldr": "Mercedes team principal Toto Wolff admits a new aerodynamic package meant to add pace instead left the car slower and draggier through Malaysia's low-speed corners.",
+          "source": "RaceFans",
+          "published": "2026-10-03T09:38:20.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-02-14-12-06-1-M633958.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "What to watch for in the Bahrain Grand Prix in Malaysia",
+          "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-bahrain-grand-prix-in-malaysia.aO9imDCkBJFLUatxTR1v0",
+          "tldr": "Formula1.com's race-day preview flags Verstappen and Hamilton's front row, Mercedes' troubled upgrade, and the first wet-weather threat of the regulation era.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9South/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Bahrain_in_Malaysia___Practice/2298171052.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox DH Mickey Gasper undergoes surgery to repair torn bicep",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/02/red-sox-mickey-gasper-undergoes-surgery-to-repair-torn-bicep",
+          "tldr": "Mickey Gasper had surgery to repair a torn distal biceps tendon shortly after Boston's elimination from the playoffs.",
+          "source": "Boston.com",
+          "published": "2026-10-03T03:00:50.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Royals_Red_Sox_Baseball_56557-6ac06cbf2cdb7-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "The Red Sox need a lineup overhaul. It's complicated, though.",
+          "url": "https://www.overthemonster.com/red-sox-analysis/110068/the-red-sox-need-a-lineup-overhaul-its-complicated-though",
+          "tldr": "Boston's bats went quiet when the Yankees eliminated them, and fixing the lineup will mean hard decisions about last winter's signings, not just new additions.",
+          "source": "Over the Monster",
+          "published": "2026-10-03T11:41:34.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2297436708.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-consumer",
+    "why": "A craft-your-pitch guide drawn from Pinterest, Dropbox and DoorDash, useful for a product marketer who finds the story inside a launch.",
+    "title": "How to kickstart and scale a consumer business—Step 3: Craft your pitch",
+    "subtitle": "Lessons from Pinterest, Netflix, Tinder, Dropbox, DoorDash, Robinhood, Amazon, WhatsApp, and dozens of today’s most successful consumer businesses",
+    "published": "2022-07-19",
+    "words": 1955,
+    "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cabdf61-9abf-4dac-b647-71f5761c0ca2_4096x2048.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/408-how-to-make-a-few-more-billion-dollars-brad-jacobs/id1141877104?i=1000743074428&uo=4",
+      "why": "Brad Jacobs has built multiple billion-dollar companies from scratch, the kind of operator study Damian studies alongside Jobs and Disney.",
+      "show": "Founders",
+      "title": "#408 How to Make a Few MORE Billion Dollars: Brad Jacobs",
+      "published": "2025-12-29",
+      "duration": "43m",
+      "apple": "https://podcasts.apple.com/us/podcast/408-how-to-make-a-few-more-billion-dollars-brad-jacobs/id1141877104?i=1000743074428&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/adam-foroughi",
+      "why": "A builder's account of AppLovin, useful listening for someone who ships his own software products on the side.",
+      "show": "David Senra",
+      "title": "Adam Foroughi, AppLovin",
+      "published": "2026-05-03",
+      "duration": "1h 26m",
+      "apple": "https://podcasts.apple.com/us/podcast/adam-foroughi-applovin/id1836497887?i=1000765867558&uo=4",
+      "page": "https://www.davidsenra.com/episode/adam-foroughi",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/91/d2/3c91d29f-ad86-ce8c-18ec-ecfd613772d1/mza_8201413461751983300.jpeg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/indian-premier-league-cricket",
+      "why": "A deep dive on building a sports league into a business, relevant on a Sunday with F1 and the Patriots both live.",
+      "show": "Acquired",
+      "title": "Indian Premier League Cricket",
+      "published": "2025-03-24",
+      "duration": "4h 18m",
+      "apple": "https://podcasts.apple.com/us/podcast/indian-premier-league-cricket/id1050462261?i=1000700530469&uo=4",
+      "page": "https://www.acquired.fm/episodes/indian-premier-league-cricket",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4d/b3/25/4db32512-46fa-d20c-36da-9c9ae43b2624/mza_4811782238754872504.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Luxury ocean liners inform New York's Kimpton Era hotel by INC",
+    "url": "https://www.dezeen.com/2026/10/03/kimpton-era-hotel-new-york-city-inc",
+    "tldr": "Architecture studio INC designed every room at New York's 529-key Kimpton Era hotel, overlooking Rockefeller Plaza, to feel like a stateroom on a classic ocean liner.",
+    "source": "Dezeen",
+    "published": "2026-10-03T17:00:08.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/10/rocco-kimpton-era_inc_dezeen_sqex-411x411.jpg"
+  }
+}
