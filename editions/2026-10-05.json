@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-05",
+  "front": [
+    {
+      "title": "Apple's New CEO John Ternus Is Making Product Design a 'Major Priority'",
+      "url": "https://www.macrumors.com/2026/10/04/john-ternus-making-design-a-major-priority",
+      "tldr": "Since becoming Apple's chief executive last month, John Ternus has made product design a core priority, Bloomberg's Mark Gurman reports, taking a hands-on role with the design studio.",
+      "source": "MacRumors",
+      "published": "2026-10-05T02:35:01.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/10/John-Ternus-iPhone-Duo.jpg"
+    },
+    {
+      "title": "MacBook Pro With OLED Display Rumored to Be 'Significantly Lighter'",
+      "url": "https://www.macrumors.com/2026/10/04/oled-macbook-pro-significantly-lighter-rumor",
+      "tldr": "Bloomberg's Mark Gurman reports that Apple's new OLED MacBook Pro models will be significantly lighter than today's, thanks to a reengineered interior.",
+      "source": "MacRumors",
+      "published": "2026-10-05T01:22:06.000Z",
+      "image": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg"
+    },
+    {
+      "title": "Patriots Upset Previously Unbeaten Bills 29-26, Pulling Back to .500",
+      "url": "https://www.patspulpit.com/new-england-patriots-news/139287/nfl-week-4-instant-analysis-patriots-bills",
+      "tldr": "New England beat the previously unbeaten Buffalo Bills 29-26 in Sunday's close finish, pulling the Patriots back to a .500 record.",
+      "source": "Pats Pulpit",
+      "published": "2026-10-04T21:01:22.000Z",
+      "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2298566521.jpg?quality=90&strip=all&crop=0,0,100,100"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": []
+    },
+    {
+      "id": "technology",
+      "stories": []
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple Event Reportedly Planned for October 13",
+          "url": "https://www.macrumors.com/2026/10/04/apple-event-reportedly-planned-for-october-13",
+          "tldr": "Bloomberg's Mark Gurman reports Apple plans to unveil a new smart home hub, a HomePod mini and an Apple TV 4K at an event on 13 October.",
+          "source": "MacRumors",
+          "published": "2026-10-05T00:07:38.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/01/Apple-Event-Logo.jpeg"
+        },
+        {
+          "title": "Apple Hiring 'iCup' Specialist",
+          "url": "https://www.macrumors.com/2026/10/04/apple-icup-job-listing",
+          "tldr": "Apple has posted a job listing for an 'iCup Supply Specialist', responsible for keeping staff supplied with freshly brewed coffee in their break rooms.",
+          "source": "MacRumors",
+          "published": "2026-10-05T02:11:42.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/01/wwdc-sans-text-feature.jpg"
+        },
+        {
+          "title": "iPhone Duo Shows What the Future of Smartphones Could Look Like",
+          "url": "https://9to5mac.com/2026/10/04/iphone-duo-shows-what-the-future-of-smartphones-could-look-like",
+          "tldr": "Apple's iPhone Duo design puts every major navigation element within reach of your thumb, reviving a one-handed approach to smartphone interfaces.",
+          "source": "9to5Mac",
+          "published": "2026-10-04T21:32:00.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Avengers: Endgame Returns to No. 1 on the All-Time Global Box Office Chart, Surpassing Avatar",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-beats-avatar-highest-grossing-box-office-1236721833",
+          "tldr": "Marvel's 2019 release has returned to theatres and reclaimed the top spot on the all-time global box office chart from Avatar, ahead of this year's Doomsday.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-04T15:34:35.000Z",
+          "image": ""
+        },
+        {
+          "title": "Pedro Pascal's 'Behemoth!' Role Is the Oscar Case He and Latinos Have Been Waiting For",
+          "url": "https://variety.com/2026/film/awards/pedro-pascal-behemoth-oscars-chances-latino-best-actor-1236898464",
+          "tldr": "Pedro Pascal stars in Tony Gilroy's 'Behemoth!', his first feature as director since 'The Bourne Legacy', which world-premiered at Alice Tully Hall.",
+          "source": "Variety",
+          "published": "2026-10-04T16:15:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/BHMTH_01285_v1-e1790815108597.jpg"
+        },
+        {
+          "title": "Tom Cruise's 'Digger' Buried at Box Office With $8M as 'Verity' Wins Weekend",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-bombs-box-office-opening-verity-1236721814",
+          "tldr": "Alejandro G. Iñárritu's pricey satire 'Digger', starring Tom Cruise, opened to just $8 million, a big financial loss for Warner Bros.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-04T16:04:12.000Z",
+          "image": ""
+        },
+        {
+          "title": "J. Todd Anderson, 'The Nice Guys' Storyboard Artist and Longtime Coen Brothers Collaborator, Dies at 67",
+          "url": "https://variety.com/2026/film/people-news/j-todd-anderson-dead-the-nice-guys-coen-brothers-1236898722",
+          "tldr": "J. Todd Anderson, the storyboard artist behind 'The Nice Guys' and 'Raising Arizona' and a longtime Coen brothers collaborator, has died at 67 after a battle with cancer.",
+          "source": "Variety",
+          "published": "2026-10-05T00:12:43.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/j_todd_anderson_sq.jpg"
+        },
+        {
+          "title": "Box Office: John Wilson's 'The History of Concrete' From Magnolia Passes $1 Million",
+          "url": "https://www.indiewire.com/news/box-office/john-wilson-history-of-concrete-1-million-gross-record-1235220143",
+          "tldr": "John Wilson's Sundance documentary 'The History of Concrete' has passed $1 million at the box office, the year's highest-grossing platform release among documentaries.",
+          "source": "IndieWire",
+          "published": "2026-10-04T12:30:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/09/DA__7968.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics' Charleston Training Camp Notebook: Yoga, an Unlikely Vet and New Coaches",
+          "url": "https://www.celticsblog.com/boston-celtics-news/147076/celtics-charleston-training-camp-joe-mazzulla-jordan-walsh",
+          "tldr": "For the first time in nearly a decade, the Celtics held part of preseason camp away from home, training in Charleston, South Carolina, at The Citadel.",
+          "source": "CelticsBlog",
+          "published": "2026-10-04T15:52:45.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2239205652.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Efton Chism Provides Heroics With 'Snag of the Year' to Help Patriots Beat Bills",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/04/efton-chism-new-england-patriots-catch-touchdown-nfl-football-buffalo-bills",
+          "tldr": "Patriots receiver Efton Chism made what teammates called the 'snag of the year', a touchdown catch that proved decisive in New England's win over Buffalo.",
+          "source": "Boston.com",
+          "published": "2026-10-04T23:27:14.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Lee100426patsbills10SPTS-6ac2dba202174-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Mack Hollins Injury: Patriots Receiver Unable to Finish Bills Game",
+          "url": "https://www.patspulpit.com/new-england-patriots-injuries/139432/patriots-leading-receiver-leaves-bills-game-with-injury",
+          "tldr": "New England's leading receiver, Mack Hollins, was unable to finish Sunday's win over the Bills with a calf injury, though the Patriots held on to win.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-04T19:02:58.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2298553806.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Verstappen Takes First Win of 2026 in Malaysia After Power Unit Faults Delay Start",
+          "url": "https://www.racefans.net/2026/10/04/verstappen-takes-first-win-of-2026-in-malaysia-after-power-unit-faults-delay-start",
+          "tldr": "Max Verstappen claimed his first Formula 1 win of the season at the chaotic Bahrain Grand Prix in Malaysia, after rain and technical trouble delayed the start.",
+          "source": "RaceFans",
+          "published": "2026-10-04T10:45:48.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-04-11-44-19-2-SI202610040295.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Russell 'Beyond Disappointment' as Wolff 'Massively Annoyed' by Engine Failure",
+          "url": "https://www.skysports.com/f1/news/12433/13594862/george-russell-mercedes-boss-toto-wolff-massively-annoyed-by-bahrain-gp-unreliability-with-driver-now-beyond-disappointment",
+          "tldr": "A late engine failure ended George Russell's podium chance and dealt a blow to his title hopes, with Mercedes boss Toto Wolff calling himself 'massively annoyed'.",
+          "source": "Sky Sports",
+          "published": "2026-10-04T10:50:00.000Z",
+          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-george-russell_7367102.jpg?20261004144736"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/essential-reading-for-product-builderspart",
+    "why": "Today's news is thin on product and AI stories, so it's a good day to dip into seven timeless essays on craft, taste and product building instead.",
+    "title": "Essential reading for product builders—part 1",
+    "subtitle": "7 timeless essays you likely haven’t read but should",
+    "published": "2025-07-15",
+    "words": 2592,
+    "image": "https://substackcdn.com/image/fetch/$s_!-yGA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc230bf55-47d9-4798-a01d-1d4fbb48624d_2912x1940.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/red-bulls-billionaire-maniac-founder/id1141877104?i=1000738355889&uo=4",
+      "why": "Verstappen just won Red Bull's first race of the season, so this profile of Red Bull's risk-loving founder fits the day.",
+      "show": "Founders",
+      "title": "Red Bull's Billionaire Maniac Founder",
+      "published": "2025-11-25",
+      "duration": "60m",
+      "apple": "https://podcasts.apple.com/us/podcast/red-bulls-billionaire-maniac-founder/id1141877104?i=1000738355889&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/jeremy-stern",
+      "why": "Released yesterday: Jeremy Stern of Colossus on months of reporting into how Zuckerberg, Palmer Luckey, Josh Kushner and Scott Wu think.",
+      "show": "David Senra",
+      "title": "How Mark Zuckerberg, Palmer Luckey, Josh Kushner & Scott Wu Think | Jeremy Stern",
+      "published": "2026-10-04",
+      "duration": "1h 08m",
+      "apple": "https://podcasts.apple.com/us/podcast/how-mark-zuckerberg-palmer-luckey-josh-kushner-scott/id1836497887?i=1000793064145&uo=4",
+      "page": "https://www.davidsenra.com/episode/jeremy-stern",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/39/28/923928c5-4713-5e34-fc52-1355cd98fae1/mza_12926593244052744497.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/disney-the-renaissance-and-the-empire",
+      "why": "A deep dive on Disney's creative renaissance and empire-building, right in your wheelhouse given how closely you study Disney as an operator.",
+      "show": "Acquired",
+      "title": "Disney: The Renaissance and the Empire",
+      "published": "2026-08-10",
+      "duration": "4h 33m",
+      "apple": "https://podcasts.apple.com/us/podcast/disney-the-renaissance-and-the-empire/id1050462261?i=1000781367915&uo=4",
+      "page": "https://www.acquired.fm/episodes/disney-the-renaissance-and-the-empire",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/47/b2/98/47b298fb-43e6-0472-a780-ea357b41f8d0/mza_16422622195578935624.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=01QR2tmxSD4"
+    }
+  ],
+  "finally": {
+    "title": "Museum Vonk Is 'a Testing Ground for Affordable Bio-Based Construction'",
+    "url": "https://www.dezeen.com/2026/10/04/museum-vonk-studio-marco-vermeulen",
+    "tldr": "Dutch studio Studio Marco Vermeulen has completed Museum Vonk in Eindhoven, a wedge-shaped history museum with hempcrete facades coloured by pigmented lime plaster.",
+    "source": "Dezeen",
+    "published": "2026-10-04T10:00:01.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/10/vonk-museum-studio-marco-vemeulen-architecture-public-eindhoven_dezeen_2364_sq-411x411.jpg"
+  }
+}
