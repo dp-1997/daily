@@ -1,0 +1,308 @@
+{
+  "date": "2026-10-06",
+  "front": [
+    {
+      "title": "Artificial review: Luca Guadagnino made the real sequel to The Social Network",
+      "url": "https://variety.com/2026/film/reviews/artificial-review-andrew-garfield-luca-gaudagnino-1236898663",
+      "tldr": "Variety's review of Artificial, Guadagnino's drama about OpenAI's founding with Andrew Garfield as Sam Altman, calls it a meticulous, brilliantly acted docudrama. It opens in cinemas on 25 December.",
+      "source": "Variety",
+      "published": "2026-10-06T03:41:41.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Artificial_NYFF64_still.avif"
+    },
+    {
+      "title": "Apple reportedly planning second wave of product announcements later this month",
+      "url": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month",
+      "tldr": "MacRumors reports Apple plans a second wave of launches in the last week of October, beyond the home hub, HomePod mini and Apple TV 4K expected on 13 October.",
+      "source": "9to5Mac",
+      "published": "2026-10-06T03:25:14.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "Drake Maye and the Patriots saved their season with a gutsy victory over the Bills",
+      "url": "https://www.boston.com/sports/new-england-patriots/2026/10/05/drake-maye-patriots-bills-season-saving-victory",
+      "tldr": "New England beat Buffalo 29-26 on a 73-yard fourth-quarter drive finished by Efton Chism, lifting the Patriots to 2-2 and settling the quarterback question for now.",
+      "source": "Boston.com",
+      "published": "2026-10-05T11:34:17.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/10/MGVBUDTH7PD2VTJ2Y47UUNK7BM-6ac3697debed7-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+          "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
+          "tldr": "Reflection launched Beam, an open-weight model aimed at enterprises and governments wanting to build their own AI without relying on Chinese or closed US models.",
+          "source": "TechCrunch",
+          "published": "2026-10-05T19:33:53.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669"
+        },
+        {
+          "title": "OpenAI will start watermarking ChatGPT's text in the EU",
+          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu",
+          "tldr": "OpenAI will mark ChatGPT and Codex text generated in the EU to comply with the AI Act, though it admits the watermark is easy to remove by editing.",
+          "source": "TechCrunch",
+          "published": "2026-10-05T20:36:48.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+        },
+        {
+          "title": "OpenAI launches visual ads that appear alongside image generation results",
+          "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results",
+          "tldr": "OpenAI will start showing product ads next to ChatGPT image results this month, US only at first, with an initial group of advertisers testing the format.",
+          "source": "TechCrunch",
+          "published": "2026-10-05T15:14:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200"
+        },
+        {
+          "title": "HackerRank's AI interviewer offers a glimpse into what job interviews could become",
+          "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become",
+          "tldr": "HackerRank's AI interviewer has conducted more than 500,000 interviews, with Snowflake, Snorkel and Capgemini among the early companies testing it on real candidates.",
+          "source": "TechCrunch",
+          "published": "2026-10-05T16:43:35.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+          "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai",
+          "tldr": "Ghost's first product, Core, is a $3,499 computer built specifically for AI agents to take actions on a person's behalf. Its founder is 19 and just raised $11m.",
+          "source": "TechCrunch",
+          "published": "2026-10-05T18:07:07.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ghost-team.png?resize=1200,803"
+        },
+        {
+          "title": "Etched fields funding offers at $40B+ valuation, sources say",
+          "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say",
+          "tldr": "The AI chip startup is reportedly being offered investment at double or more its last valuation, only months after its previous funding round.",
+          "source": "TechCrunch",
+          "published": "2026-10-05T20:24:09.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846"
+        },
+        {
+          "title": "Wikimedia links OpenAI agents to an outage and unauthorized activity",
+          "url": "https://www.engadget.com/2278051/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity",
+          "tldr": "Wikimedia says it is concerned about the impact of 'rogue' AI agents on its platforms after linking OpenAI agents to a recent outage and unauthorised activity.",
+          "source": "Engadget",
+          "published": "2026-10-05T19:55:11.000Z",
+          "image": "https://www.engadget.com/img/gallery/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/l-intro-1791230037.jpg"
+        },
+        {
+          "title": "Instagram is toying with a read-only mode for Plus subscribers",
+          "url": "https://www.engadget.com/2278067/instagram-is-toying-with-a-read-only-mode-for-plus-subscribers",
+          "tldr": "Instagram is testing a mode that lets Plus subscribers browse without appearing active, letting them scroll without showing as online.",
+          "source": "Engadget",
+          "published": "2026-10-05T20:04:03.000Z",
+          "image": "https://www.engadget.com/img/gallery/instagram-is-toying-with-a-read-only-mode-for-plus-subscribers/l-intro-1791230585.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple Announces iPhone Duo Apps Can Now Be Submitted to App Store",
+          "url": "https://www.macrumors.com/2026/10/05/apple-opens-iphone-duo-app-submissions",
+          "tldr": "Developers can now submit apps optimised for the foldable iPhone Duo, built with Xcode 27.1, ahead of the device launching on Friday, 23 October.",
+          "source": "MacRumors",
+          "published": "2026-10-06T03:20:06.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Slack.jpg"
+        },
+        {
+          "title": "Sources: Apple Planning Two Sets of Product Launches in October",
+          "url": "https://www.macrumors.com/2026/10/05/apple-two-sets-of-product-launches-october",
+          "tldr": "Bloomberg's Mark Gurman reports Apple will unveil a new home hub, HomePod mini and Apple TV 4K on 13 October, with further products following later in the month.",
+          "source": "MacRumors",
+          "published": "2026-10-06T02:25:00.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/Black-Apple-Event-Logo.jpeg"
+        },
+        {
+          "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
+          "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code",
+          "tldr": "Code in the tvOS 27.2 beta references a new toggle for Siri and Apple Intelligence, a further sign the next Apple TV will support it. Unconfirmed until Apple says so.",
+          "source": "MacRumors",
+          "published": "2026-10-05T21:19:03.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
+        },
+        {
+          "title": "Apple Cash Adds ID Check for Reloads, Teases Bank Funding",
+          "url": "https://www.macrumors.com/2026/10/05/apple-cash-reload-id-check",
+          "tldr": "From 9 November, Green Dot Bank will require identity verification before adding money to Apple Cash, as Apple hints at new bank-funded top-up options.",
+          "source": "MacRumors",
+          "published": "2026-10-05T18:18:56.000Z",
+          "image": "https://images.macrumors.com/article-new/2023/01/Apple-Cash-banner.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Aaron Sorkin's 'The Social Reckoning': First Reactions",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/aaron-sorkin-the-social-reckoning-first-reactions-1236723046",
+          "tldr": "Critics are calling Sorkin's standalone Social Network sequel, about Mark Zuckerberg, a solid if not great follow-up. It hits theatres on 9 October.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-06T03:12:22.000Z",
+          "image": ""
+        },
+        {
+          "title": "George Fenton, Oscar-Nominated Composer for 'Cry Freedom' and 'Dangerous Liaisons,' Dies at 76",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/george-fenton-dead-film-composer-1236723045",
+          "tldr": "The British composer, also known for Groundhog Day and Planet Earth, has died at 76. His scores spanned four decades of film and television.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-06T03:32:20.000Z",
+          "image": ""
+        },
+        {
+          "title": "Carey Mulligan and Marcus Mumford Raise $7.65 Million for Children in War Zones",
+          "url": "https://variety.com/2026/global/columns/carey-mulligan-marcus-mumford-children-in-conflict-war-zones-1236899517",
+          "tldr": "The actor and musician raised $7.65m for Children in Conflict at a Los Angeles gala, funding mental health and education support for children in war zones.",
+          "source": "Variety",
+          "published": "2026-10-05T21:35:31.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/NL_20261004_LAWASSAIL2026_NAT01023-1000.jpg"
+        },
+        {
+          "title": "Peter Dinklage's 105-Minute Western Thriller Is One of Netflix's Biggest Streaming Hits",
+          "url": "https://www.slashfilm.com/2278229/peter-dinklage-western-thriller-the-thicket-streaming-netflix",
+          "tldr": "The Thicket had only a small theatrical release but has become one of Netflix's biggest hits, led by Peter Dinklage in a Western revenge story.",
+          "source": "/Film",
+          "published": "2026-10-05T21:55:17.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/peter-dinklages-105-minute-western-thriller-is-one-of-netflixs-biggest-streaming-hits/l-intro-1791236688.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Patriots",
+          "title": "Mike Vrabel's aggressiveness helped Drake Maye get his swagger back",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/05/patriots-bills-mike-vrabel-drake-maye-confidence-comments",
+          "tldr": "Maye credits Vrabel's aggressive play-calling for restoring his confidence after a shaky start to the season, pointing to the coach's trust as the turning point.",
+          "source": "Boston.com",
+          "published": "2026-10-05T23:22:15.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/KESTTP7MQPXOBQNINMYCGEJWPU-6ac41c6853646-850x638.webp"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Mack Hollins injury set to open door for more Efton Chism III",
+          "url": "https://www.patspulpit.com/new-england-patriots-injuries/139601/mack-hollins-injury-more-efton-chism",
+          "tldr": "Wide receiver Mack Hollins left Sunday's win with a calf injury, which should mean a bigger role for breakout rookie Efton Chism III.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-05T17:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2297424295.jpg?quality=90&strip=all&crop=0,0,91.533333333333,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Verstappen's Malaysia win hints at close 2027 battle",
+          "url": "https://www.formula1.com/en/latest/article/max-verstappens-malaysian-triumph-hints-at-a-close-title-battle-next-season.ZcVMKm6k8IYRaVcLSrmSs",
+          "tldr": "Max Verstappen took his first win of 2026 at a rain-hit Sepang, a result Formula1.com reads as an early sign of a tighter title fight next season.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Bahrain_in_Malaysia/2298518133.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "Mercedes pokes fun at Kimi Antonelli after Bahrain GP podium blunder",
+          "url": "https://www.motorsport.com/f1/news/mercedes-pokes-fun-at-kimi-antonelli-after-bahrain-gp-podium-blunder/10862391",
+          "tldr": "Mercedes teased championship leader Kimi Antonelli over a podium mix-up at the chaotic Bahrain Grand Prix in Malaysia, where Verstappen took the win.",
+          "source": "Motorsport.com",
+          "published": "2026-10-05T23:35:18.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/6O7zBaP6/s6/untitled-design-36.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Honda HRC to get new boss with Watanabe set to retire",
+          "url": "https://www.autosport.com/f1/news/honda-hrc-to-get-new-boss-with-koji-watanabe-set-for-retirement/10862195",
+          "tldr": "Koji Watanabe, long-time boss of Honda's F1 programme, retires on 1 January 2027. Keiichi Yasuda, a long-time Honda employee, succeeds him.",
+          "source": "Autosport",
+          "published": "2026-10-05T08:28:52.000Z",
+          "image": "https://cdn-4.motorsport.com/images/amp/YpbPZdZ0/s6/koji-watanabe-president-ceo-an.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "5 takeaways from Red Sox' end-of-season press conference",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/05/boston-red-sox-offseason-press-conference-craig-breslow-chad-tracy-sonny-gray-willson-contreras",
+          "tldr": "Craig Breslow and Chad Tracy addressed the painful wild-card exit at their end-of-season press conference, calling the way the season ended deeply disappointing.",
+          "source": "Boston.com",
+          "published": "2026-10-05T22:40:07.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Red-Sox-leadership2-6ac41e0ec84e5-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Anthony not expected to need surgery: 'Rest is likely the best path to recovery'",
+          "url": "https://www.mlb.com/redsox/news/roman-anthony-injury-update-october-2026",
+          "tldr": "Roman Anthony's hand injury should heal with rest rather than surgery, the Red Sox said, a relief after the slugger's breakout season.",
+          "source": "MLB.com",
+          "published": "2026-10-05T19:34:42.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/y5ypicej69nvl6xwpkjx.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Jackson Chourio's heroics provide a pleasing blueprint for Roman Anthony's rehab",
+          "url": "https://www.overthemonster.com/red-sox-analysis/110134/jackson-chourios-heroics-provide-a-pleasing-blueprint-for-roman-anthonys-rehab",
+          "tldr": "Jackson Chourio's quick return from injury to deliver in October offers an encouraging template for how Roman Anthony's own recovery and comeback could go.",
+          "source": "Over the Monster",
+          "published": "2026-10-05T12:58:57.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2298601525.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-successfully-launch-on-product",
+    "why": "A good day for it: Apple is staggering fresh launches this month and a 19-year-old just launched Ghost, so here is Lenny's tactical guide to launching well.",
+    "title": "How to successfully launch on Product Hunt (when it’s right for your startup)",
+    "subtitle": "Seven tips and five myths",
+    "published": "2024-03-05",
+    "words": 4452,
+    "image": "https://substackcdn.com/image/fetch/$s_!OFD4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bf62c98-6db3-433f-b344-203a92593ec9_4000x2000.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/436-ari-emanuels-autobiography/id1141877104?i=1000793225392&uo=4",
+      "why": "David Senra's notes on Ari Emanuel's relentless rise at WME, a fitting companion to today's Hollywood headlines.",
+      "show": "Founders",
+      "title": "#436 Ari Emanuel's Autobiography",
+      "published": "2026-10-05",
+      "duration": "1h 10m",
+      "apple": "https://podcasts.apple.com/us/podcast/436-ari-emanuels-autobiography/id1141877104?i=1000793225392&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/sam-altman",
+      "why": "Timed well against today's Artificial reviews: David Senra's conversation with the man Andrew Garfield is playing on screen.",
+      "show": "David Senra",
+      "title": "Sam Altman on Building OpenAI & Betting on the Impossible",
+      "published": "2026-08-23",
+      "duration": "1h 18m",
+      "apple": "https://podcasts.apple.com/us/podcast/sam-altman-on-building-openai-betting-on-the-impossible/id1836497887?i=1000785201420&uo=4",
+      "page": "https://www.davidsenra.com/episode/sam-altman",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/37/bc/e137bcb2-8dcc-f672-326f-35291e532ea9/mza_15456070769090341917.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=kG8AoExkX40"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-walt-disney-company",
+      "why": "Damian's favourite studio, told properly: Acquired's deep history of The Walt Disney Company.",
+      "show": "Acquired",
+      "title": "The Walt Disney Company",
+      "published": "2026-06-22",
+      "duration": "4h 31m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-walt-disney-company/id1050462261?i=1000773687734&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-walt-disney-company",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/09/41/c0/0941c036-555e-80aa-af76-860826211540/mza_17592569476655460113.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "The 2026 Comedy Wildlife Awards Finalists",
+    "url": "https://kottke.org/26/10/the-2026-comedy-wildlife-awards-finalists",
+    "tldr": "The Comedy Wildlife Photography Awards has announced its 2026 finalists, a gallery of perfectly timed animal shots that rarely misses.",
+    "source": "Kottke",
+    "published": "2026-10-05T13:30:00.000Z",
+    "image": "http://kottke.org/images/posts/01/editor-1791163802-1a71e73e.jpg"
+  }
+}

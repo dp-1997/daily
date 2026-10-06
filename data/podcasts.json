@@ -1,5 +1,18 @@
 [
  {
+  "show": "Founders",
+  "title": "#436 Ari Emanuel's Autobiography",
+  "url": "https://podcasts.apple.com/us/podcast/436-ari-emanuels-autobiography/id1141877104?i=1000793225392&uo=4",
+  "page": "",
+  "apple": "https://podcasts.apple.com/us/podcast/436-ari-emanuels-autobiography/id1141877104?i=1000793225392&uo=4",
+  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg",
+  "guid": "0a19dd5c-c071-11f1-ac8e-8b757b22b3b7",
+  "date": "2026-10-05",
+  "duration": "1h 10m",
+  "summary": "What I learned from reading Ari Emanuel's incredible autobiography Roll The Calls. Made possible by: Ramp: https://ramp.com Applovin: https://applovin.com Vanta: https://vanta.com/founders",
+  "youtube": ""
+ },
+ {
   "show": "David Senra",
   "title": "How Mark Zuckerberg, Palmer Luckey, Josh Kushner & Scott Wu Think | Jeremy Stern",
   "url": "https://www.davidsenra.com/episode/jeremy-stern",
@@ -3980,7 +3993,7 @@
  {
   "show": "Founders",
   "title": "#257 Richard Garriott (Video Games and Space Exploration)",
-  "url": "https://podcasts.apple.com/us/podcast/257-richard-garriott-video-games-and-space-exploration/id1141877104?i=1000570046935&uo=4",
+  "url": "https://podcasts.apple.com/gb/podcast/founders/id1141877104",
   "guid": "4c4f5c78-95cc-4f46-9132-0d5601a4a8f8",
   "date": "2022-07-15",
   "duration": "1h 18m",
