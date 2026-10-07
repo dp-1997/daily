@@ -1,0 +1,316 @@
+{
+  "date": "2026-10-07",
+  "front": [
+    {
+      "title": "Mistral's new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals",
+      "tldr": "French lab Mistral released Mistral Large 4, a trillion-parameter model with 49 billion active parameters, aimed at matching the best of OpenAI, Google and Chinese rivals.",
+      "source": "TechCrunch",
+      "published": "2026-10-06T14:33:16.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800"
+    },
+    {
+      "title": "Apple's smart home push includes LG-made doorbell, lock, thermostat",
+      "url": "https://9to5mac.com/2026/10/06/report-apples-smart-home-push-includes-lg-made-doorbell-lock-thermostat-more",
+      "tldr": "Bloomberg reports Apple is working with LG on devices, sensors and cameras for its coming smart home push. It is a report, not yet confirmed by Apple.",
+      "source": "9to5Mac",
+      "published": "2026-10-06T21:38:00.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "title": "Jaguar \"inaugurates a new era\" with Type 01 electric car",
+      "url": "https://www.dezeen.com/2026/10/07/jaguar-type-01-electric-car",
+      "tldr": "Jaguar has unveiled the Type 01, an electric car with thin headlights, a long bonnet and a rear-leaning stance designed to stand apart from homogenous EVs.",
+      "source": "Dezeen",
+      "published": "2026-10-07T00:00:46.000Z",
+      "image": "http://static.dezeen.com/uploads/2026/10/jaguar-type-01-_dezeen_2364_sq-411x411.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "tldr": "OpenAI published new results on open problems in mathematics from an internal frontier model, sharing Lean proof formalisations and research details on GitHub.",
+          "source": "OpenAI",
+          "published": "2026-10-06T12:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+          "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
+          "tldr": "Anthropic says the benefits of AI will reach most people through companies building on top of models, not the models alone, hence the free year and credits for startups.",
+          "source": "TechCrunch",
+          "published": "2026-10-06T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024"
+        },
+        {
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+          "tldr": "Google DeepMind released EmbeddingGemma 2, a small multimodal embedding model under the Apache 2.0 licence, a notably permissive choice for this kind of model.",
+          "source": "Google DeepMind",
+          "published": "2026-10-06T19:57:04.000Z",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.width-1300.png"
+        },
+        {
+          "title": "Hark releases an AI personal assistant with a focus on privacy",
+          "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy",
+          "tldr": "Hark's new personal assistant is designed to compete with Muse, Dots and Instinct by putting privacy first.",
+          "source": "TechCrunch",
+          "published": "2026-10-06T18:22:45.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Hark-Panels.png?resize=1200,675"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Bluesky wants to give you your own domain on the open web",
+          "url": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web",
+          "tldr": "Bluesky is working on letting users claim their own domain as a handle, though the company says the process will still take 18 to 24 months.",
+          "source": "TechCrunch",
+          "published": "2026-10-06T14:41:52.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024"
+        },
+        {
+          "title": "Doom on the Vectrex turns the classic shooter into Tron-like vector art",
+          "url": "https://www.engadget.com/2279239/doom-on-the-vectrex-turns-the-classic-shooter-into-tron-like-vector-art",
+          "tldr": "A developer ported Doom to the 1982 Vectrex console, rendering the classic shooter as glowing vector line art, with some processing caveats.",
+          "source": "Engadget",
+          "published": "2026-10-06T18:52:38.000Z",
+          "image": "https://www.engadget.com/img/gallery/doom-on-the-vectrex-turns-the-classic-shooter-into-tron-like-vector-art/l-intro-1791312647.jpg"
+        },
+        {
+          "title": "Emmys will move from broadcast TV to Prime Video in 2027",
+          "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027",
+          "tldr": "The Emmy Awards will shift from broadcast television to Prime Video from 2027, letting non-Amazon-Prime subscribers watch via the platform too.",
+          "source": "TechCrunch",
+          "published": "2026-10-06T14:37:31.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1240319612.jpg?resize=1200,800"
+        },
+        {
+          "title": "Remember MapQuest? You can now use it with Android Auto",
+          "url": "https://www.engadget.com/2277445/use-mapquest-with-android-auto",
+          "tldr": "MapQuest's mapping service is now available as a beta on Android Auto, giving the once-dominant navigation brand a small comeback.",
+          "source": "Engadget",
+          "published": "2026-10-06T22:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/remember-mapquest-you-can-now-use-it-with-android-auto/l-intro-1791146317.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple overtakes Samsung to lead European carrier smartphone sales in Q2",
+          "url": "https://9to5mac.com/2026/10/06/apple-overtakes-samsung-to-lead-european-carrier-smartphone-sales-in-q2-per-report",
+          "tldr": "Counterpoint Research reports Apple overtook Samsung in the second quarter of 2026 to lead smartphone sales through Europe's carrier channel.",
+          "source": "9to5Mac",
+          "published": "2026-10-07T02:00:52.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2022/02/apple-europe.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Formula 1 on Apple TV is getting Dolby Atmos, starting this month",
+          "url": "https://9to5mac.com/2026/10/06/formula-1-on-apple-tv-is-getting-dolby-atmos-starting-this-month",
+          "tldr": "Apple TV's Formula 1 coverage gains Dolby Atmos sound on supported devices from the US Grand Prix weekend on October 23.",
+          "source": "9to5Mac",
+          "published": "2026-10-07T03:05:17.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/02/Speculation-that-Apples-March-event-could-include-immersive-F1-on-Vision-Pro.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Three Years of 80% Charge Limits on iPhone: The Results",
+          "url": "https://www.macrumors.com/2026/10/06/iphone-17-pro-charge-limit",
+          "tldr": "Three years after Apple added an 80 percent charge limit option to extend battery lifespan, MacRumors looks at how well it has actually worked.",
+          "source": "MacRumors",
+          "published": "2026-10-06T22:24:55.000Z",
+          "image": "https://images.macrumors.com/article-new/2025/08/iOS-26-Battery-Glass-Feature.jpg"
+        },
+        {
+          "title": "macOS 27.2 Further Hints at MacBook With Touch-Enabled OLED Display",
+          "url": "https://www.macrumors.com/2026/10/06/macos-27-2-hints-at-macbook-with-touchscreen",
+          "tldr": "MacRumors says clues in the macOS 27.2 beta point again to a touchscreen MacBook, expected to be unveiled next month. This is a hint from software code, not a confirmed product.",
+          "source": "MacRumors",
+          "published": "2026-10-06T20:49:41.000Z",
+          "image": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Pan's Labyrinth' Returns to Theaters in 3D and Dolby Atmos",
+          "url": "https://www.indiewire.com/features/craft/pans-labyrinth-returns-3d-dolby-atmos-guillermo-del-toro-1235219554",
+          "tldr": "The team behind Guillermo del Toro's 2006 fantasy film has restored it for a new theatrical run in 3D and Dolby Atmos, looking and sounding better than ever.",
+          "source": "IndieWire",
+          "published": "2026-10-06T19:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2025/10/MCDPALA_EC006.jpg?w=650"
+        },
+        {
+          "title": "After 'Anora', Mikey Madison Craved the Restraint of 'The Social Reckoning'",
+          "url": "https://www.indiewire.com/features/interviews/mikey-madison-the-social-reckoning-after-anora-1235220304",
+          "tldr": "For her first role since winning Best Actress for 'Anora', Madison told IndieWire she was drawn to the restraint of Aaron Sorkin's take on a real person, unlike her past volatile roles.",
+          "source": "IndieWire",
+          "published": "2026-10-06T17:07:37.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2297743558.jpg?w=650"
+        },
+        {
+          "title": "Andrew Garfield Helps Neon's 'Artificial' Pay Off on the Awards Front",
+          "url": "https://www.indiewire.com/awards/predictions/andrew-garfield-neon-artificial-oscar-chances-1235220470",
+          "tldr": "Garfield's turn in Luca Guadagnino's 'Artificial' is building an awards narrative: from corporate martyr in 'The Social Network' to corporate menace here.",
+          "source": "IndieWire",
+          "published": "2026-10-06T19:36:32.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2298757543.jpg?w=650"
+        },
+        {
+          "title": "Zhang Yimou Teases Chinese 'Three-Body Problem' Movie at Busan Film Festival",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/zhang-yimou-chinese-three-body-problem-movi-1236723364",
+          "tldr": "Director Zhang Yimou gave a glimpse of his Chinese film adaptation of 'The Three-Body Problem' at Busan's star-packed festival opening.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-06T17:32:19.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Jayson Tatum explains 'totally different perspective' heading into 10th NBA season",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/06/jayson-tatum-10th-nba-season",
+          "tldr": "Tatum says he has a different kind of joy heading into his tenth season than he did in his first nine.",
+          "source": "Boston.com",
+          "published": "2026-10-06T19:44:16.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/UGW4VRQRXNBCFF3TFH3OKTQ4GY-6ac54bc2d7e71-850x638.jpg"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Mike Conley on finally landing with the Celtics and being a great teammate",
+          "url": "https://www.celticsblog.com/boston-celtics-news/147096/mike-conley-celtics-payton-pritchard",
+          "tldr": "Conley discusses joining the Celtics, his bond with Payton Pritchard, and what he has learned about being a good teammate since childhood.",
+          "source": "CelticsBlog",
+          "published": "2026-10-06T12:52:42.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2294936750.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots to Honor Adam Vinatieri During Halftime Ceremony on Sunday, October 11",
+          "url": "https://www.patriots.com/news/patriots-to-honor-adam-vinatieri-during-halftime-ceremony-on-sunday-october-11-against-raiders",
+          "tldr": "New England will celebrate Adam Vinatieri's Pro Football Hall of Fame induction at halftime against the Raiders on October 11.",
+          "source": "Patriots.com",
+          "published": "2026-10-06T19:52:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ngior35ufeflypi30xmq.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Julian Edelman on Efton Chism's catch: 'Plays like that can start a career'",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/06/julian-edelman-on-efton-chisms-catch-plays-like-that-can-start-a-career",
+          "tldr": "Edelman praised rookie Efton Chism's breakout catch against the Bills, saying it is the kind of play that can launch a career.",
+          "source": "Boston.com",
+          "published": "2026-10-06T14:37:57.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Lee100426patsbills10SPTS-6ac2dba202174-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Lewis Hamilton reveals full Ferrari F40 restoration in new video",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-full-ferrari-f40-restoration-in-new-video/10862512",
+          "tldr": "The seven-time champion has released the full video of his Ferrari F40 restoration, first revealed ahead of this year's Italian Grand Prix.",
+          "source": "Motorsport.com",
+          "published": "2026-10-06T12:28:49.000Z",
+          "image": "https://cdn-2.motorsport.com/images/amp/YK15Xd10/s6/untitled-design-37-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Ferrari reveals visual overhaul for Charles Leclerc ahead of the Singapore GP",
+          "url": "https://www.motorsport.com/f1/news/ferrari-reveals-visual-overhaul-for-charles-leclerc-ahead-of-the-singapore-gp/10862471",
+          "tldr": "Ferrari has dropped its usual red livery for a special-edition look on Leclerc's car, designed exclusively for the Singapore Grand Prix.",
+          "source": "Motorsport.com",
+          "published": "2026-10-06T14:43:27.000Z",
+          "image": "https://cdn-6.motorsport.com/images/amp/0JXRVgAY/s6/untitled-design-36-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Can Red Bull keep up their momentum after Verstappen's Sepang win?",
+          "url": "https://www.formula1.com/en/latest/article/can-red-bull-keep-up-their-momentum-after-verstappens-sepang-win.2YqIG9uyvXkWJPSexKwgwh",
+          "tldr": "Max Verstappen has been in immense form all year, and his Sepang win showed Red Bull now has the car to match, says former F1 driver Jolyon Palmer.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Bahrain_in_Malaysia/2298514570.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Trio of former Red Sox prospects are turning into playoff heroes for White Sox",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/06/boston-red-sox-prospects-chicago-white-sox-mlb-baseball-braden-montgomery-kyle-teel-meidroth",
+          "tldr": "Kyle Teel, Braden Montgomery and Chase Meidroth, all acquired by Chicago in the Garrett Crochet trade, are now making a major playoff impact for the White Sox.",
+          "source": "Boston.com",
+          "published": "2026-10-07T02:12:28.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/P5XBDAONGNDS5GGB5WMYTHZVAY-6ac5a47a9919c-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Tolle lands on Pipeline's All-Rookie Team",
+          "url": "https://www.mlb.com/redsox/news/2026-mlb-all-rookie-team",
+          "tldr": "A Red Sox rookie has been named to MLB Pipeline's All-Rookie Team.",
+          "source": "MLB.com",
+          "published": "2026-10-06T23:30:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/slv3prhwdvhfwoh6yviq.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/creating-buzz-at-launch",
+    "why": "With Mistral and Jaguar both launching big today, this back-catalogue piece on making buzz at launch is squarely in Damian's lane.",
+    "title": "Generating buzz",
+    "subtitle": "Ten strategies and 49 examples of successful buzz making",
+    "published": "2020-12-08",
+    "words": 1044,
+    "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff8bd15f-c93c-409b-9119-ab0e5c6c13f8_2400x1350.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/396-the-obsession-of-enzo-ferrari/id1141877104?i=1000719746555&uo=4",
+      "why": "Ferrari is all over today's F1 news, from the Singapore livery to Hamilton's F40 restoration, so Enzo's own obsession feels timely.",
+      "show": "Founders",
+      "title": "#396 The Obsession of Enzo Ferrari",
+      "published": "2025-07-30",
+      "duration": "57m",
+      "apple": "https://podcasts.apple.com/us/podcast/396-the-obsession-of-enzo-ferrari/id1141877104?i=1000719746555&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://davidsenra.com/episode/brian-armstrong",
+      "why": "A founder building a trillion-dollar company from a Y Combinator sketch fits a day full of AI labs racing to launch and scale.",
+      "show": "David Senra",
+      "title": "Brian Armstrong, Coinbase",
+      "published": "2026-03-01",
+      "duration": "1h 50m",
+      "apple": "https://podcasts.apple.com/us/podcast/brian-armstrong-coinbase/id1836497887?i=1000752296350&uo=4",
+      "page": "https://davidsenra.com/episode/brian-armstrong",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e3/30/ec/e330ecf7-411d-ac5d-75a9-66541e99aa75/mza_307277643359150155.jpeg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/ferrari",
+      "why": "The full Ferrari story rounds out the day's thread, alongside Founders' take on Enzo and this morning's F1 news.",
+      "show": "Acquired",
+      "title": "Ferrari",
+      "published": "2026-04-13",
+      "duration": "3h 59m",
+      "apple": "https://podcasts.apple.com/us/podcast/ferrari/id1050462261?i=1000761027849&uo=4",
+      "page": "https://www.acquired.fm/episodes/ferrari",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/7a/34/157a34e3-d93a-c379-71a9-5ea867627df1/mza_11606811380157897165.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Hannah Lim Draws on Her British-Singaporean Heritage in Sculptural Snuff Bottles",
+    "url": "https://www.thisiscolossal.com/2026/10/hannah-lim-sculptures-snuff-bottles",
+    "tldr": "Lim's sculptural snuff bottles draw on an ancient Chinese text and her British-Singaporean heritage, a quiet piece of craft worth a look.",
+    "source": "Colossal",
+    "published": "2026-10-06T22:19:03.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/lim-4.jpg"
+  }
+}
