@@ -1,0 +1,315 @@
+{
+  "date": "2026-10-08",
+  "front": [
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "tldr": "OpenAI has rolled out GPT-6 to all ChatGPT users worldwide, paired with a new Intelligent UI that answers with interactive visuals rather than plain text, its biggest interface change since launch.",
+      "source": "OpenAI",
+      "published": "2026-10-07T00:00:00.000Z",
+      "image": ""
+    },
+    {
+      "title": "Apple and The King's Trust launch initiative to empower young creatives",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives",
+      "tldr": "Apple and The King's Trust are expanding their partnership with a new programme of workshops to help young people in the UK build creative and digital skills for work.",
+      "source": "Apple Newsroom",
+      "published": "2026-10-07T21:01:58.215Z",
+      "image": "https://www.apple.com/newsroom/images/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/tile/Apple-x-Kings-Trust-Creative-Labs-Prophet-Guillory-His-Majesty-The-King-and-Tim-Cook-greet-cohort-lp.jpg.og.jpg?202610072102"
+    },
+    {
+      "title": "Drake Maye Named AFC Offensive Player of the Week",
+      "url": "https://www.patriots.com/news/drake-maye-named-afc-offensive-player-of-the-week-x6477",
+      "tldr": "Quarterback Drake Maye was named AFC Offensive Player of the Week after completing 22 of 37 passes for 269 yards and three touchdowns in New England's 29-26 win over Buffalo.",
+      "source": "Patriots.com",
+      "published": "2026-10-07T16:00:00.000Z",
+      "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/olehsusodekaogcavpcm.png"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Claude Haiku 5.5",
+          "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5",
+          "tldr": "Anthropic has released Claude Haiku 5.5, a faster, cheaper model replacing Haiku 4.5, which launched almost a year ago and had fallen behind on cost and speed for lightweight tasks.",
+          "source": "Simon Willison",
+          "published": "2026-10-07T20:56:21.000Z",
+          "image": "https://static.simonwillison.net/static/2026-10-07/haiku-5.5-max.webp"
+        },
+        {
+          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users",
+          "tldr": "Nous Research has confirmed a $1.5 billion valuation after raising a $90 million Series B, and is launching Hermes Agent, a set of AI agents built for business users.",
+          "source": "TechCrunch",
+          "published": "2026-10-07T20:48:45.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900"
+        },
+        {
+          "title": "Meta's Muse launches on iPad just a month after its mobile debut",
+          "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut",
+          "tldr": "Meta's AI agent Muse is now available on iPad, barely a month after its phone debut, as the company rapidly widens the assistant's reach across devices.",
+          "source": "TechCrunch",
+          "published": "2026-10-07T18:30:57.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
+        },
+        {
+          "title": "Introducing Playground: Create and play custom games",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+          "tldr": "Google Labs has launched Playground, an experimental platform that lets anyone create, play and share browser-based games using simple text prompts, no coding required.",
+          "source": "Google",
+          "published": "2026-10-07T12:00:00.000Z",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp"
+        },
+        {
+          "title": "Google's new SynthID website can identify AI-generated media",
+          "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
+          "tldr": "Google has launched a public SynthID website that lets anyone check whether an image, video or audio clip was generated using AI, extending a tool first given to journalists last year.",
+          "source": "TechCrunch",
+          "published": "2026-10-07T14:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+          "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
+          "tldr": "Mecka AI has raised $60 million from Sequoia to pay people for recordings of everyday tasks, building motion data used to train humanoid and other robots.",
+          "source": "TechCrunch",
+          "published": "2026-10-07T23:36:57.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857"
+        },
+        {
+          "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders 'elsewhere'",
+          "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere",
+          "tldr": "Endeavor Catalyst has raised $320 million to keep backing founders outside Silicon Valley, with half its profits returned to the nonprofit that sources them.",
+          "source": "TechCrunch",
+          "published": "2026-10-07T22:59:16.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Linda-Rottenberg.jpg?w=1024"
+        },
+        {
+          "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+          "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains",
+          "tldr": "Parallel Systems, founded by SpaceX alumni, has raised $100 million to scale its autonomous electric rail vehicle, which can move thousands of pounds of freight up to 500 miles.",
+          "source": "TechCrunch",
+          "published": "2026-10-07T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675"
+        },
+        {
+          "title": "Everything announced at Microsoft's Windows and Surface event",
+          "url": "https://www.engadget.com/2280298/everything-announced-at-microsofts-windows-and-surface-event",
+          "tldr": "Microsoft used its Windows and Surface event to unveil the $2,599 Surface Laptop Ultra built on Nvidia chips, alongside new agentic AI features coming to Windows.",
+          "source": "Engadget",
+          "published": "2026-10-07T17:41:41.000Z",
+          "image": "https://www.engadget.com/img/gallery/everything-announced-at-microsofts-windows-and-surface-event/l-intro-1791398448.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Manchester's Bee Card Now Fully Supported in Apple Wallet",
+          "url": "https://www.macrumors.com/2026/10/07/manchesters-bee-card-apple-wallet",
+          "tldr": "Transport for Greater Manchester's Bee Card now works fully in Apple Wallet on iPhone and Apple Watch, having previously been limited to younger riders on free or reduced fares.",
+          "source": "MacRumors",
+          "published": "2026-10-07T16:21:16.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/Apple-Wallet-Bee-Card.jpg"
+        },
+        {
+          "title": "Boston's MBTA Testing New Charlie Card With Apple Wallet Support",
+          "url": "https://www.macrumors.com/2026/10/07/new-charlie-card-apple-wallet-test",
+          "tldr": "Boston's MBTA is testing a new version of the Charlie Card with Apple Wallet support, letting riders add it to iPhone and Apple Watch for tapping through the T.",
+          "source": "MacRumors",
+          "published": "2026-10-07T18:03:31.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/MBTA-Testing-New-CharlieCard-With-Apple-Wallet-Support-in-Boston-Feature-scaled.jpg"
+        },
+        {
+          "title": "Spotify starts rolling out audiobooks to more than 180 markets",
+          "url": "https://9to5mac.com/2026/10/07/spotify-starts-rolling-out-audiobooks-to-more-than-180-markets",
+          "tldr": "Spotify is rolling out its audiobooks section globally, giving listeners in more than 180 markets access to over 350,000 titles spanning more than 120 languages.",
+          "source": "9to5Mac",
+          "published": "2026-10-07T20:19:51.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/Spotify.webp?w=1600"
+        },
+        {
+          "title": "WhatsApp expands the Liquid Glass design to its video player",
+          "url": "https://9to5mac.com/2026/10/07/whatsapp-expands-the-liquid-glass-design-to-its-video-player",
+          "tldr": "WhatsApp continues adopting Apple's Liquid Glass look, bringing the redesigned visual style to its in-app video player as the rollout spreads across the rest of the interface.",
+          "source": "9to5Mac",
+          "published": "2026-10-07T23:19:01.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "London Film Festival Hails the 'Great Andrew Scott' as 'Elsinore' Opens 70th Edition",
+          "url": "https://variety.com/2026/film/global/andrew-scott-elsinore-opens-london-film-festival-1236904258",
+          "tldr": "The 70th BFI London Film Festival opened with the European premiere of 'Elsinore', starring Andrew Scott, who received an emotional ovation from the Royal Festival Hall audience.",
+          "source": "Variety",
+          "published": "2026-10-07T21:35:51.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2299098464.jpg"
+        },
+        {
+          "title": "'The Debut': Jesse Eisenberg Praises Oscar Frontrunner Julianne Moore's 'Perfect Performance' at NYFF",
+          "url": "https://variety.com/2026/film/news/the-debut-jesse-eisenberg-julianne-moores-oscar-frontrunner-nyff-1236905218",
+          "tldr": "Jesse Eisenberg praised co-star Julianne Moore's performance in 'The Debut' as 'perfect' at its New York Film Festival premiere, where she is considered an early Oscar frontrunner.",
+          "source": "Variety",
+          "published": "2026-10-08T03:27:16.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2295144043.jpg"
+        },
+        {
+          "title": "International Oscar Submissions: China, Syria, Denmark, Italy, France and More Join the List",
+          "url": "https://variety.com/lists/international-oscar-submissions-2027",
+          "tldr": "Countries including China, Syria, Denmark, Italy and France have submitted films for the international feature Oscar, with the shortlist due on 15 December from this year's entries.",
+          "source": "Variety",
+          "published": "2026-10-07T23:32:41.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/mcdpolo-zx001-1000x667-1.jpg"
+        },
+        {
+          "title": "How Mike Flanagan's Carrie TV Series Sets Up A New Stephen King Universe",
+          "url": "https://www.slashfilm.com/2280223/mike-flanagan-carrie-tv-series-setup-stephen-king-universe",
+          "tldr": "Mike Flanagan's new Carrie series for Prime Video makes significant changes from Stephen King's novel, laying groundwork that could open the door to a wider Stephen King television universe.",
+          "source": "/Film",
+          "published": "2026-10-07T18:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/how-mike-flanagans-carrie-tv-series-sets-up-a-new-stephen-king-universe/l-intro-1791391997.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "How the Celtics' Roster Is Primed to Beat an NBA's Point of Emphasis",
+          "url": "https://www.celticsblog.com/celtics-analysis/147107/how-the-celtics-roster-is-primed-to-beat-an-nbas-point-of-emphasis",
+          "tldr": "The NBA's Competition Committee has flagged four officiating focus areas for 2026-27, including push-offs and hand-checking, and CelticsBlog argues Boston's roster is already built to exploit the new emphasis.",
+          "source": "CelticsBlog",
+          "published": "2026-10-07T10:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2148618789.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots News: Pats' Aggression Was Their Edge",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/139680/patriots-news-pats-aggression-was-their-edge",
+          "tldr": "New England went for it on fourth down twice and converted both, plus a two-point try, in Sunday's win over Buffalo, aggression Pats Pulpit credits for the result.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-07T14:59:51.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY29998527142364732.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "The Number Crunch: Patriots' Win in Buffalo a Tale of 2 Quarterbacks",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/139685/number-crunch-patriots-vs-bills-nfl-week-4-drake-maye-josh-allen",
+          "tldr": "Pats Pulpit's stats breakdown of Sunday's win over Buffalo frames it as one of New England's biggest regular-season results in years, contrasting Drake Maye's outing with Josh Allen's.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-07T10:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2298582819.jpg?quality=90&strip=all&crop=0,0,94.391284179687,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Apple TV Announces Major F1 Broadcast Upgrade for United States Grand Prix",
+          "url": "https://www.motorsport.com/f1/news/apple-tv-announces-major-f1-broadcast-upgrade-for-united-states-grand-prix/10862810",
+          "tldr": "Dolby and Apple are bringing upgraded Dolby Atmos sound to Apple TV's Formula 1 coverage from the United States Grand Prix weekend starting 23 October.",
+          "source": "Motorsport.com",
+          "published": "2026-10-07T23:38:45.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/2dEojkDY/s6/untitled-design-55-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Max Verstappen on Life After Christian Horner: 'It Is Less Stressful'",
+          "url": "https://www.motorsport.com/f1/news/max-verstappen-on-life-after-christian-horner-its-less-stressful/10862804",
+          "tldr": "Max Verstappen says the Red Bull paddock feels less stressful since Christian Horner's exit, telling the Press Association he no longer misses the friction Horner's leadership created.",
+          "source": "Motorsport.com",
+          "published": "2026-10-07T22:47:58.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/27NoydK0/s6/untitled-design-53-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Fernando Alonso Set for Dakar Rally Comeback With Aston Martin",
+          "url": "https://www.motorsport.com/dakar/news/fernando-alonso-to-contest-dakar-rally-with-aston-martin/10862699",
+          "tldr": "Fernando Alonso has reportedly agreed terms to contest the 2027 Dakar Rally with Aston Martin, adding a cross-discipline challenge alongside his Formula 1 commitments.",
+          "source": "Motorsport.com",
+          "published": "2026-10-07T12:06:04.000Z",
+          "image": "https://cdn-6.motorsport.com/images/amp/YN7v8yW6/s6/fernando-alonso-aston-martin-r.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Kiké Hernández Ties David Ortiz on All-Time Postseason Home Run Leaderboard",
+          "url": "https://www.overthemonster.com/red-sox-discussion/110264/kike-hernandez-passes-david-otriz-on-all-time-postseason-home-run-leaderboard",
+          "tldr": "Kiké Hernández hit his 17th career postseason home run, drawing level with David Ortiz on the Red Sox's all-time postseason leaderboard.",
+          "source": "Over the Monster",
+          "published": "2026-10-07T15:13:31.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-1471255135.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Alex Cora Reportedly Turned Down Phillies Offer Again, Won't Manage in 2027",
+          "url": "https://www.boston.com/sports/morning-sports-update/2026/10/07/alex-cora-reportedly-turned-down-phillies-offer-again-wont-manage-in-2027",
+          "tldr": "Alex Cora has reportedly turned down the Phillies' managerial offer for a second time and does not plan to manage any team in 2027.",
+          "source": "Boston.com",
+          "published": "2026-10-07T13:55:21.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Alex-Cora-Fired-Phillies-offer-Red_Sox_Orioles_Baseball_722_5-6ac64bdf8e1ba-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
+    "why": "A timely read on why a deliberate pause, not just a holiday, can reset how you build and think, useful if you're weighing when to step back.",
+    "title": "Why a sabbatical can change everything",
+    "subtitle": "How to take Big Time Off",
+    "published": "2026-07-21",
+    "words": 5388,
+    "image": "https://substackcdn.com/image/fetch/$s_!vNGP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F63592fe7-75fd-4e63-9fb2-a33c9301e39f_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/431-how-henry-singleton-worked/id1141877104?i=1000786905410&uo=4",
+      "why": "Henry Singleton's disciplined capital allocation is a good lens for today's funding stories, from Nous Research's $1.5B valuation to Endeavor Catalyst's $320M raise.",
+      "show": "Founders",
+      "title": "#431 How Henry Singleton Worked",
+      "published": "2026-08-31",
+      "duration": "49m",
+      "apple": "https://podcasts.apple.com/us/podcast/431-how-henry-singleton-worked/id1141877104?i=1000786905410&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/ari-emanuel",
+      "why": "Ari Emanuel on betting big on entertainment empires fits Damian's interest in how Disney- and Jobs-style operators build lasting companies.",
+      "show": "David Senra",
+      "title": "Channeling Rage, Rolling Calls & Building an Entertainment Empire | Ari Emanuel, WME & TKO",
+      "published": "2026-10-07",
+      "duration": "1h 24m",
+      "page": "https://www.davidsenra.com/episode/ari-emanuel",
+      "artwork": "https://megaphone.imgix.net/podcasts/b2fb32e6-c20f-11f1-88e3-a75966f52347/image/2cf5d4a91e73a2f7f2f9ba90b18d4d3d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/formula-1",
+      "why": "A deep dive on F1's business model lands well alongside today's news: Apple TV's broadcast upgrade, Verstappen's reflections on Horner, and Alonso's Dakar move.",
+      "show": "Acquired",
+      "title": "Formula 1",
+      "published": "2026-03-02",
+      "duration": "4h 19m",
+      "apple": "https://podcasts.apple.com/us/podcast/formula-1/id1050462261?i=1000752750417&uo=4",
+      "page": "https://www.acquired.fm/episodes/formula-1",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b2/85/d7/b285d768-2c75-4ad6-e89d-c14ab2fdadb5/mza_320358113452779533.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Blue Planet III",
+    "url": "https://kottke.org/26/10/blue-planet-iii",
+    "tldr": "BBC Earth is returning to the ocean 25 years after the original, with David Attenborough narrating 'Blue Planet III', and a first-look video is now out.",
+    "source": "Kottke",
+    "published": "2026-10-07T13:58:00.000Z",
+    "image": "https://i.ytimg.com/vi/LvjlkoWkaWA/sddefault.jpg"
+  }
+}
