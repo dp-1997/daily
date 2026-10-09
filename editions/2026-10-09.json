@@ -1,0 +1,298 @@
+{
+  "date": "2026-10-09",
+  "front": [
+    {
+      "title": "Apple confirms 'Welcome Home' product launch for October 13",
+      "url": "https://www.macrumors.com/2026/10/08/apple-product-launch-october-13",
+      "tldr": "Apple has confirmed a product launch for Tuesday 13 October, expected to focus on new smart home hardware rather than a traditional keynote event.",
+      "source": "MacRumors",
+      "published": "2026-10-08T16:04:12.000Z",
+      "image": "https://images.macrumors.com/t/ju7XQ6slWVcZwS7DKnggJ3zkfOs=/1600x/article-new/2026/10/apple-welcome-home-event.jpg"
+    },
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses",
+      "tldr": "Google is turning Gemini into an agent that can plan and execute tasks across business apps, delegating work to subagents and drawing on multiple AI models.",
+      "source": "TechCrunch",
+      "published": "2026-10-08T18:18:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image_3.max-2100x2100_0CYZWqn.jpg?resize=1200,591"
+    },
+    {
+      "title": "Ben Affleck's new Netflix thriller 'Animals' premieres to mixed reviews",
+      "url": "https://variety.com/2026/film/reviews/animals-review-ben-affleck-1236906114",
+      "tldr": "Ben Affleck directs and stars opposite Kerry Washington in 'Animals', a Netflix kidnapping thriller echoing Kurosawa's 'High and Low', out now to mixed reviews.",
+      "source": "Variety",
+      "published": "2026-10-08T23:05:48.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/10/MCDANIM_ZX002.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Natura's $99 smart ring puts AI agents on your finger",
+          "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger",
+          "tldr": "Natura has launched a $99 Interface smart ring that summons AI agents with a press of the finger to complete tasks, capture notes or control devices, while also tracking health.",
+          "source": "TechCrunch",
+          "published": "2026-10-08T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491"
+        },
+        {
+          "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+          "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
+          "tldr": "Ben Affleck has gone viral for his detailed knowledge of neural networks and open-weight models, surprising viewers given he sold his AI filmmaking startup to Netflix last year.",
+          "source": "TechCrunch",
+          "published": "2026-10-08T18:20:32.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/ben-affleck-GettyImages-2297443537.jpg?w=1024"
+        },
+        {
+          "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1 billion in 10 months",
+          "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months",
+          "tldr": "The company behind the LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now also measuring AI models on alignment issues such as lying.",
+          "source": "TechCrunch",
+          "published": "2026-10-08T18:19:45.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801"
+        },
+        {
+          "title": "Goodfire's new 'inside-out' monitors catch rogue AI agents at a fraction of the cost",
+          "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost",
+          "tldr": "Goodfire has launched monitors that peek inside a model as it works, rather than paying a second AI to review everything it does, to catch rogue agents more cheaply.",
+          "source": "TechCrunch",
+          "published": "2026-10-08T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675"
+        },
+        {
+          "title": "ttok 0.4 released, Simon Willison's CLI token counter",
+          "url": "https://simonwillison.net/2026/Oct/8/ttok",
+          "tldr": "Simon Willison has updated ttok, his command-line tool for counting tokens with OpenAI's tiktoken library, fixing a warning and refreshing it after a few years untouched.",
+          "source": "Simon Willison",
+          "published": "2026-10-08T23:34:28.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "The Atari 800XL hybrid gaming console is back after decades in obscurity",
+          "url": "https://www.engadget.com/2281551/the-atari-800xl-hybrid-gaming-console-is-back-after-decades-in-obscurity",
+          "tldr": "A revived Atari 800XL connects via HDMI and ships with 25 built-in games, bringing the 1980s hybrid computer-console back decades after it fell out of production.",
+          "source": "Engadget",
+          "published": "2026-10-08T18:51:28.000Z",
+          "image": "https://www.engadget.com/img/gallery/the-atari-800xl-hybrid-gaming-console-is-back-after-decades-in-obscurity/l-intro-1791485375.jpg"
+        },
+        {
+          "title": "Forza Horizon 6 is coming to PS5 on January 26",
+          "url": "https://www.engadget.com/2281683/forza-horizon-6-is-coming-to-ps5-on-january-26",
+          "tldr": "Forza Horizon 6 is heading to PS5 on 26 January, with the racing game's first expansion also due early next year.",
+          "source": "Engadget",
+          "published": "2026-10-08T20:08:45.000Z",
+          "image": "https://www.engadget.com/img/gallery/forza-horizon-6-is-coming-to-ps5-on-january-26/l-intro-1791490042.jpg"
+        },
+        {
+          "title": "Ex-con founder builds Commissary Club to help people leaving prison find work",
+          "url": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons",
+          "tldr": "Richard Bronson, a former Stratton Oakmont partner who served federal prison time for securities violations, has launched Commissary Club, using AI to help people leaving prison find jobs.",
+          "source": "TechCrunch",
+          "published": "2026-10-08T16:45:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Richard-Bronson-Pic.jpg?w=640"
+        },
+        {
+          "title": "Alexa Tablet vs iPad Pro: how Amazon is keeping up with Apple",
+          "url": "https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison",
+          "tldr": "Amazon's latest high-end tablet shares several design similarities with Apple's iPad Pro, though the two differ in the detail, according to a hands-on comparison.",
+          "source": "Engadget",
+          "published": "2026-10-08T21:40:59.000Z",
+          "image": "https://www.engadget.com/img/gallery/alexa-tablet-vs-ipad-pro-how-amazon-is-keeping-up-with-apple/l-intro-1791495275.jpg"
+        },
+        {
+          "title": "Spotify is getting more serious about selling enterprise software",
+          "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software",
+          "tldr": "Spotify has launched technology.spotify.com, a new site making its internal engineering tools available for other companies to buy and use.",
+          "source": "TechCrunch",
+          "published": "2026-10-08T14:34:33.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple to launch touchscreen OLED MacBook Pro and OLED iPad mini on October 27",
+          "url": "https://www.macrumors.com/2026/10/08/apple-october-27-macbook-pro",
+          "tldr": "Bloomberg reports Apple will introduce touchscreen OLED MacBook Pro models and an OLED iPad mini around 27 October, alongside a new M6 14-inch MacBook Pro.",
+          "source": "MacRumors",
+          "published": "2026-10-08T21:12:43.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Ultra-Feature-1.jpg"
+        },
+        {
+          "title": "Apple Home adds two powerful new features in iOS 27",
+          "url": "https://9to5mac.com/2026/10/08/heres-everything-new-for-apples-home-app-in-ios-27",
+          "tldr": "iOS 27 brings two new features to Apple's Home app, arriving ahead of a run of smart home product launches expected next week.",
+          "source": "9to5Mac",
+          "published": "2026-10-08T19:11:19.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "title": "Tim Cook explains why he stepped down as Apple CEO before the iPhone Duo launch",
+          "url": "https://www.macrumors.com/2026/10/08/tim-cook-interview-about-john-ternus",
+          "tldr": "Tim Cook told The Independent's David Phelan, in an interview at Apple's UK headquarters, why he chose to step back from the CEO role before the iPhone Duo's launch.",
+          "source": "MacRumors",
+          "published": "2026-10-08T18:21:59.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg"
+        },
+        {
+          "title": "You can now use TextExpander for free across Mac, iPhone, iPad and more",
+          "url": "https://9to5mac.com/2026/10/08/you-can-now-use-textexpander-for-free-across-mac-iphone-ipad-and-more",
+          "tldr": "Keyboard shortcut utility TextExpander now offers a free plan, giving users its core Snippets feature across Mac, iPhone, iPad, Windows and Chrome.",
+          "source": "9to5Mac",
+          "published": "2026-10-08T21:38:06.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/text-expander.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Alfonso Cuarón reflects on making 'Harry Potter': 'two of the most beautiful years of my life'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/alfonso-cuaron-harry-potter-children-of-men-busan-1236725983",
+          "tldr": "At a Busan Film Festival masterclass, Alfonso Cuarón reflected on lessons from 'Children of Men' and learning to put life before cinema.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-09T02:46:35.000Z",
+          "image": ""
+        },
+        {
+          "title": "'Crazy Rich Asians' series ordered at HBO with film's original cast returning",
+          "url": "https://www.indiewire.com/news/breaking-news/crazy-rich-asians-series-hbo-original-cast-returning-1235220956",
+          "tldr": "HBO has ordered an hour-long 'Crazy Rich Asians' drama series, with co-writer Adele Lim as showrunner and executive producer and the 2018 film's original cast returning.",
+          "source": "IndieWire",
+          "published": "2026-10-08T21:00:10.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2018/08/ct-crazy-rich-asians-movie-stereotypes-asian-men-20180803.jpg?w=650"
+        },
+        {
+          "title": "TCM is sticking around under Skydance, to be overseen by the film group instead of TV",
+          "url": "https://www.indiewire.com/news/business/tcm-sticking-around-under-skydance-1235220941",
+          "tldr": "Dana Goldberg and Josh Greenstein will oversee TCM going forward, after Mike De Luca and Pam Abdy previously led the classic film channel at Warner Bros.",
+          "source": "IndieWire",
+          "published": "2026-10-08T21:25:34.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2024/12/Turner-Classic-Movies-30th-Anniversary.jpg?w=650"
+        },
+        {
+          "title": "Matthew Lillard on resenting 'Scooby-Doo' after his career stalled when the sequel flopped",
+          "url": "https://variety.com/2026/film/news/matthew-lillard-resented-scooby-doo-career-failed-sold-house-1236905807",
+          "tldr": "Matthew Lillard said he expected 'Scooby-Doo' to launch a bigger career, and had to sell his house and downsize after the franchise's sequel underperformed.",
+          "source": "Variety",
+          "published": "2026-10-08T22:02:43.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/MCDSCDO_WB039.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Luka Garza headlines Celtics win over the Cavaliers, 124-113",
+          "url": "https://www.celticsblog.com/celtics-scores-results/147293/luka-garza-headlines-celtics-win-over-the-cavaliers-124-113",
+          "tldr": "Boston opened its preseason with a 124-113 win over Cleveland, with Luka Garza leading the way while the Celtics rested their top players.",
+          "source": "CelticsBlog",
+          "published": "2026-10-09T01:32:17.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299287948.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Russell and Antonelli to race with different specs amid Mercedes upgrade concern",
+          "url": "https://www.skysports.com/f1/news/12433/13596354/mercedes-drivers-george-russell-kimi-antonelli-to-split-car-packages-at-singapore-gp-after-sepang-struggles-with-updates",
+          "tldr": "George Russell will race Mercedes' older-specification car in Singapore while Kimi Antonelli runs the upgraded package, as the team tries to work out why the updates have underperformed.",
+          "source": "Sky Sports",
+          "published": "2026-10-08T14:30:00.000Z",
+          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-george-russell-kimi-antonelli_7371366.jpg?20261008151357"
+        },
+        {
+          "tag": "F1",
+          "title": "Oscar Piastri: Red Bull has become 'the class of the field' in F1 2026",
+          "url": "https://www.motorsport.com/f1/news/oscar-piastri-red-bull-has-become-the-class-of-the-field-in-f1-2026/10863147",
+          "tldr": "Oscar Piastri now rates Red Bull alongside Mercedes as Formula 1's strongest team, as McLaren loses ground after Red Bull's significant upgrade to the RB22.",
+          "source": "Motorsport.com",
+          "published": "2026-10-08T20:05:02.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/Y9lNq172/s6/max-verstappen-red-bull-racing.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "FIA introducing measures to avoid 'software bug' chaos repeat",
+          "url": "https://www.skysports.com/f1/news/12433/13596390/fia-reveals-bahrain-gp-software-bug-findings-and-planned-changes-after-glitch-caused-issues-before-rain-hit-malaysia-race",
+          "tldr": "The FIA will introduce further changes to wet-weather engine software from the United States Grand Prix, after a review into the bug that delayed last week's race start.",
+          "source": "Sky Sports",
+          "published": "2026-10-08T09:50:00.000Z",
+          "image": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-2026-bahrain-gp_7367708.jpg?20261004084949"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Actor Nick Offerman praises his 'son' Payton Tolle for his baseball antics and moustache",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/08/payton-tolle-boston-red-sox-ron-swanson-parks-and-rec-nick-offerman-mlb-baseball",
+          "tldr": "Nick Offerman praised Red Sox pitcher Payton Tolle, who has embraced comparisons to Offerman's Ron Swanson character, for his moustache and on-field personality.",
+          "source": "Boston.com",
+          "published": "2026-10-09T01:51:36.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN092226Guardians-Red-Sox_SPT16-6ac840ec92d3e-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/make-product-management-fun-again",
+    "why": "With Google turning Gemini into an agentic coworker today, Lenny's guide to folding AI agents into product management lands right on time.",
+    "title": "Make product management fun again with AI agents",
+    "subtitle": "A guide to AI agents for product managers",
+    "published": "2025-04-29",
+    "words": 5207,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7a2f4d73-bb94-4d79-ada4-2d7ac3b6b7c8_2913x3100.jpeg",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/430-how-to-write-ads-that-sell/id1141877104?i=1000785306106&uo=4",
+      "why": "A timely refresher on writing ads that sell, straight from Damian's own trade of product marketing and persuasion.",
+      "show": "Founders",
+      "title": "#430 How to Write Ads That Sell",
+      "published": "2026-08-23",
+      "duration": "1h 04m",
+      "apple": "https://podcasts.apple.com/us/podcast/430-how-to-write-ads-that-sell/id1141877104?i=1000785306106&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/doug-leone",
+      "why": "As Apple reshuffles its leadership around John Ternus, Doug Leone's take on great founders starting over late in their careers feels timely.",
+      "show": "David Senra",
+      "title": "Doug Leone on Sequoia, Fear, Great Founders & Starting Over at 69",
+      "published": "2026-08-30",
+      "duration": "1h 22m",
+      "apple": "https://podcasts.apple.com/us/podcast/doug-leone-on-sequoia-fear-great-founders-starting/id1836497887?i=1000786771634&uo=4",
+      "page": "https://www.davidsenra.com/episode/doug-leone",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/92/f5/bd92f5dc-5cfa-b21d-2b27-9cd67bac5504/mza_13027871745074978304.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=NR9NI51D7ek"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-nfl",
+      "why": "A deep dive into the NFL's business empire, good background for a Patriots fan ahead of Sunday's game against the Raiders.",
+      "show": "Acquired",
+      "title": "The NFL",
+      "published": "2026-01-27",
+      "duration": "4h 08m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-nfl/id1050462261?i=1000746788889&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-nfl",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/b1/9e/adb19ea5-b6b7-e42a-1f97-db9c336bb519/mza_16418780272218086998.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Margaret Hamilton, who led Apollo's onboard software team, dies at 90",
+    "url": "https://kottke.org/26/10/0049756-she-was-90",
+    "tldr": "Margaret Hamilton, who led the 100-person team that wrote the onboard software guiding Neil Armstrong and Buzz Aldrin to the Moon, has died aged 90.",
+    "source": "Kottke",
+    "published": "2026-10-08T00:10:00.000Z",
+    "image": ""
+  }
+}

@@ -290,7 +290,9 @@
       "published": "2026-10-07",
       "duration": "1h 24m",
       "page": "https://www.davidsenra.com/episode/ari-emanuel",
-      "artwork": "https://megaphone.imgix.net/podcasts/b2fb32e6-c20f-11f1-88e3-a75966f52347/image/2cf5d4a91e73a2f7f2f9ba90b18d4d3d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+      "artwork": "https://megaphone.imgix.net/podcasts/b2fb32e6-c20f-11f1-88e3-a75966f52347/image/2cf5d4a91e73a2f7f2f9ba90b18d4d3d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "apple": "https://podcasts.apple.com/us/podcast/channeling-rage-rolling-calls-building-an/id1836497887?i=1000793617594&uo=4",
+      "youtube": "https://www.youtube.com/watch?v=QeolP6gwSb4"
     },
     {
       "url": "https://www.acquired.fm/episodes/formula-1",
