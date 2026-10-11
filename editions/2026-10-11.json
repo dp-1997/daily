@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-11",
+  "note": "Apple's \"Welcome Home\" launch is Tuesday, and the Singapore Grand Prix is run today.",
+  "front": [
+    {
+      "title": "Is Apple coming home to stay?",
+      "url": "https://sixcolors.com/post/2026/10/is-apple-coming-home-to-stay",
+      "tldr": "Apple has invited media to a smart-home event on Tuesday, its second product push this month. Six Colors argues the company is finally committing to the home category it has circled for years.",
+      "source": "Six Colors",
+      "published": "2026-10-10T17:07:55.000Z",
+      "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/10/ternus-apple-spring26-6c.jpeg?ssl=1"
+    },
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalised podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+      "tldr": "Apple is hiring Huxe's team and licensing its tech, a startup that made AI-generated personalised podcasts. It points to Apple building its own AI-audio product rather than buying the company outright.",
+      "source": "TechCrunch",
+      "published": "2026-10-10T19:50:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200"
+    },
+    {
+      "title": "The F1 drivers Verstappen joins with 50 poles or more",
+      "url": "https://www.formula1.com/en/latest/article/the-f1-drivers-with-50-pole-positions-or-more-as-verstappen-joins-the-club.7yYHrMHRlBIX609WQwlJ8g",
+      "tldr": "Max Verstappen's pole for the Singapore Grand Prix, his 50th in Formula 1, puts him in an exclusive club of drivers who have reached that mark. He races from the front today.",
+      "source": "Formula1.com",
+      "image": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Singapore/GettyImages-2299526510.webp"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
+          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
+          "tldr": "Nadella wrote that it is time to step back and assess AI's trust architecture. It is a notable admission of caution from one of the industry's biggest builders.",
+          "source": "TechCrunch",
+          "published": "2026-10-10T21:47:51.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000"
+        },
+        {
+          "title": "Dwarf Fortress uses version control now",
+          "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress",
+          "tldr": "The notoriously idiosyncratic game, long rumoured to be built without version control, has finally adopted it. A small, satisfying piece of software trivia.",
+          "source": "Simon Willison",
+          "published": "2026-10-11T00:52:37.000Z",
+          "image": ""
+        },
+        {
+          "title": "Quoting The New York Times",
+          "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times",
+          "tldr": "Anthropic detailed the activity of its AI agents in a blog post without naming the websites involved, but two sources told the Times its agents had targeted specific sites. Thin on detail so far.",
+          "source": "Simon Willison",
+          "published": "2026-10-10T02:04:12.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Cloudflare acquires Deno to improve its Workers programming model",
+          "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model",
+          "tldr": "Cloudflare is buying the Deno runtime to strengthen the programming model behind its Workers platform, folding a well-regarded open-source project into its developer tools.",
+          "source": "TechCrunch",
+          "published": "2026-10-10T16:25:42.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800"
+        },
+        {
+          "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+          "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles",
+          "tldr": "The startup says its fuel cells are highly efficient, aimed at a moment when data centres and the wider tech industry cannot get enough electricity.",
+          "source": "TechCrunch",
+          "published": "2026-10-10T17:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6289.HEIC.jpg?resize=900,1200"
+        },
+        {
+          "title": "This Android Auto problem is affecting calls on foldable phones",
+          "url": "https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling",
+          "tldr": "Gemini appears to be causing a bug that disrupts phone calls over Android Auto on foldable handsets, a reminder of how fiddly software integrations still are.",
+          "source": "Engadget",
+          "published": "2026-10-10T18:45:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/this-android-auto-problem-is-affecting-calls-on-foldable-phones/l-intro-1791386416.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "A new Apple TV 4K is finally coming on Tuesday",
+          "url": "https://www.macrumors.com/2026/10/10/new-apple-tv-4k-is-coming-tuesday",
+          "tldr": "After nearly four years without an update, a new Apple TV is expected at Tuesday's \"Welcome home\" event, reportedly as part of a wider smart-home push.",
+          "source": "MacRumors",
+          "published": "2026-10-10T13:45:00.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
+        },
+        {
+          "title": "Apple's all-new home hub will be revealed October 13: what to expect",
+          "url": "https://www.macrumors.com/2026/10/10/apple-to-unveil-all-new-type-of-device",
+          "tldr": "Apple is expected to unveil a wholly new type of smart home hub device on Tuesday, its first attempt at a dedicated hub for the home rather than an accessory.",
+          "source": "MacRumors",
+          "published": "2026-10-10T13:58:00.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/Home-Hub-Command-Center-with-Dome-Base-Colors-Feature.jpg"
+        },
+        {
+          "title": "Apple announcing HomePod mini 2 next week with these new features",
+          "url": "https://www.macrumors.com/2026/10/10/apple-to-announce-new-homepod-mini-next-week",
+          "tldr": "A refreshed HomePod mini is reportedly due via press release as part of the home event, said to bring new features over the original released in 2020.",
+          "source": "MacRumors",
+          "published": "2026-10-10T13:55:00.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/HomePod-minis-on-gradient-feature.jpg"
+        },
+        {
+          "title": "'Proof-of-Human'",
+          "url": "https://x.com/bzamayo/status/2108498107184934914",
+          "tldr": "Apple shared behind-the-scenes footage showing the cross-stitch 'Welcome Home' logo for Tuesday's keynote was stitched by hand, not generated. A small, deliberate human touch.",
+          "source": "Daring Fireball",
+          "published": "2026-10-10T16:06:17.000Z",
+          "image": "https://pbs.twimg.com/profile_images/1742130125594865664/wu1qoLte_400x400.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Ray Gunn' review: Brad Bird's longtime passion project is a retro-futurist detective story with a muddled message",
+          "url": "https://www.indiewire.com/criticism/movies/ray-gunn-review-brad-bird-retro-detective-sam-rockwell-1235220330",
+          "tldr": "The Iron Giant and Incredibles director's decades-long passion project, starring Sam Rockwell and Scarlett Johansson, is immersive but doesn't fully land, per IndieWire's review.",
+          "source": "IndieWire",
+          "published": "2026-10-10T13:45:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Ray_Gunn_n_00_44_09_07.jpg?w=650"
+        },
+        {
+          "title": "Chris Rock takes a scalpel to L.A. in 'Misty Green,' makes a star of Rosalind Eleazar",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/misty-green-chris-rock-rosalind-eleazar-nyff-1236727022",
+          "tldr": "Premiering at the New York Film Festival, Chris Rock's fourth film as director gives the Slow Horses actor a standout lead performance, per The Hollywood Reporter.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-10T21:57:20.000Z",
+          "image": ""
+        },
+        {
+          "title": "Oscars: UK selects Iran doc 'Rehearsals for a Revolution' as Best International Feature entry",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/oscars-uk-rehearsals-for-a-revolution-international-feature-1236726918",
+          "tldr": "Pegah Ahangarani's documentary, made in the UK, was selected as the UK's Oscar entry after winning the L'Oeil d'Or for best documentary at Cannes.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-10T18:41:19.000Z",
+          "image": ""
+        },
+        {
+          "title": "Remembering 'Romeo + Juliet': when Baz Luhrmann put Leo in a Hawaiian shirt",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/romeo-juliet-baz-luhrmann-turns-30-1236723460",
+          "tldr": "Thirty years on from Baz Luhrmann's film, The Hollywood Reporter looks back at DiCaprio and Claire Danes as the star-crossed lovers in Verona Beach.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-10T17:30:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics crush Sixers 144-106 in first preseason matchup",
+          "url": "https://www.celticsblog.com/celtics-scores-results/147440/celtics-crush-sixers-144-106-in-first-preseason-matchup",
+          "tldr": "Payton Pritchard's 25 points and Jayson Tatum's 23 led Boston to a dominant home win over a Jaylen Brown-less Philadelphia side in the second preseason game.",
+          "source": "CelticsBlog",
+          "published": "2026-10-11T02:51:15.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299069270.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Paul George ready to help Jayson Tatum 'be in that MVP conversation' in first season with Celtics",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/10/paul-george-jayson-tatum-celtics",
+          "tldr": "George says he wants to help Tatum reach the best version of himself this season, after showing playoff-calibre defensive intensity in his own preseason debut.",
+          "source": "Boston.com",
+          "published": "2026-10-11T00:58:57.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/PALI3LTHOVAGDJRP4L42LQRMLE-6acad30a24e7c-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots activate S Brenden Schooler to the 53-man roster, place FB Reggie Gilliam and WR Mack Hollins on injured reserve",
+          "url": "https://www.patriots.com/news/patriots-activate-s-brenden-schooler-to-the-53-man-roster-place-fb-reggie-gilliam-and-wr-mack-hollins-on-injured-reserve-make-additional-roster-moves",
+          "tldr": "New England made a flurry of roster moves ahead of today's game against the Raiders, activating Schooler and signing cornerback depth while losing Gilliam and Hollins to IR.",
+          "source": "Patriots.com",
+          "published": "2026-10-10T20:00:13.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/fyzd1qroa4yfyto0gsjn.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "5 questions and answers about Patriots vs. Raiders",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/140119/patriots-vs-raiders-nfl-week-5-expert-questions-answers",
+          "tldr": "Pats Pulpit previews today's Week 5 game against Las Vegas, New England's chance for payback in the 1pm window after a rough start to the season.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-10T10:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2290446171.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "What to watch for in the Singapore Grand Prix",
+          "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-singapore-grand-prix.3sJXqpx3NdOWrrjnXZ7h0d",
+          "tldr": "Chris Medland picks out five things to watch when the lights go out at Marina Bay today, after a dramatic qualifying and sprint weekend.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_Of_Singapore___Sprint__Qualifying/2299530310.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "Lewis Hamilton plots Ferrari ambush on Max Verstappen after frustrating qualifying",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-plots-massive-ferrari-ambush-on-verstappen-after-frustrating-qualifying/10863953",
+          "tldr": "Hamilton starts third after a setup change cost him pole, but believes Ferrari can still work together to beat Verstappen in today's race.",
+          "source": "Motorsport.com",
+          "published": "2026-10-10T18:53:32.000Z",
+          "image": "https://cdn-7.motorsport.com/images/amp/2QedNqO2/s6/untitled-design-81-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Stewards rule Piastri shares blame for Norris clash",
+          "url": "https://www.the-race.com/formula-1/stewards-rule-piastri-shares-blame-for-norris-clash",
+          "tldr": "Singapore's stewards found both McLaren drivers contributed to their last-lap sprint collision and ruled no further action was necessary.",
+          "source": "The Race",
+          "published": "2026-10-10T14:24:53.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1443812_HiRes.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Gray intends to pitch in '27, open to Red Sox return",
+          "url": "https://www.mlb.com/redsox/news/sonny-gray-intends-to-pitch-in-2027-open-to-red-sox-return",
+          "tldr": "Sonny Gray says he plans to keep pitching next season and would be open to returning to Boston, per a new report.",
+          "source": "MLB.com",
+          "published": "2026-10-10T14:09:07.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/unplqogyjjjniiym2blz.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox prospect enjoys homecoming during Arizona Fall League",
+          "url": "https://www.mlb.com/redsox/news/arizona-fall-league-homecoming-tucson-natives-mason-white-cade-mcgee",
+          "tldr": "Tucson natives Mason White and Cade McGee got to play in front of family and friends during Arizona Fall League action this week.",
+          "source": "MLB.com",
+          "published": "2026-10-11T00:04:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/tgmg0ixanngi85fpq2b3.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/product-sense",
+    "why": "With Apple about to make a string of product calls on Tuesday and Verstappen's title bid built on sharp judgement, a primer on what good product sense actually looks like.",
+    "title": "How to develop product sense",
+    "subtitle": "With guest author Jules Walter",
+    "published": "2022-03-15",
+    "words": 3648,
+    "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9a440cde-98a4-4954-a5b4-365ba9df0786_1600x534.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/428-how-claude-shannon-worked/id1141877104?i=1000781268416&uo=4",
+      "why": "Shannon's information theory underpins the AI systems making today's headlines, from Nadella's warnings to Apple's new podcast AI.",
+      "show": "Founders",
+      "title": "#428 How Claude Shannon Worked",
+      "published": "2026-08-09",
+      "duration": "51m",
+      "apple": "https://podcasts.apple.com/us/podcast/428-how-claude-shannon-worked/id1141877104?i=1000781268416&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidenra.com/mati-staniszewski",
+      "why": "ElevenLabs' co-founder on building voice AI, timely alongside Apple's new personalised-podcast tech from its Huxe deal.",
+      "show": "David Senra",
+      "title": "Mati Staniszewski on ElevenLabs, Voice AI & Building the Communication Layer for AI",
+      "published": "2026-09-09",
+      "duration": "1h 11m",
+      "apple": "https://podcasts.apple.com/us/podcast/mati-staniszewski-on-elevenlabs-voice-ai-building-the/id1836497887?i=1000788628928&uo=4",
+      "page": "https://www.davidenra.com/mati-staniszewski",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/63/a5/2a/63a52ae5-3297-d076-0aef-87d12db38b62/mza_15911965899414927082.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/nest/id1050462261?i=1000428067499&uo=4",
+      "why": "Tony Fadell's Nest story, and his path from Steve Jobs's iPod team to the smart home, is the perfect warm-up for Tuesday's Apple home hub.",
+      "show": "Acquired",
+      "title": "Nest",
+      "published": "2018-02-20",
+      "duration": "1h 31m",
+      "apple": "https://podcasts.apple.com/us/podcast/nest/id1050462261?i=1000428067499&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Acronym Collective Studio transforms former brewery in Czech Republic into community centre",
+    "url": "https://www.dezeen.com/2026/10/10/brewery-cultural-centre-brno-acronym-collective-studio",
+    "tldr": "Near Brno, a former brewery has been restored into a community centre with a curved, perforated brick facade, named Kulturní.",
+    "source": "Dezeen",
+    "published": "2026-10-10T10:00:16.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/10/brewery-cultural-centre-acronym-collective-studio_dezeen_2364_col_0-411x411.jpg"
+  }
+}
