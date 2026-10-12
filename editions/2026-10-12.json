@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-12",
+  "note": "Apple's \"Welcome home\" launch event is on Tuesday, which is why Apple news dominates this week.",
+  "front": [
+    {
+      "title": "New Apple TV 4K and HomePod Mini 2 Pre-Orders Expected This Week",
+      "url": "https://www.macrumors.com/2026/10/11/new-apple-tv-homepod-mini-2-preorders",
+      "tldr": "Bloomberg's Mark Gurman says pre-orders for the new Apple TV 4K and HomePod mini open this week, ahead of Tuesday's \"Welcome home\" event and an October 30 launch.",
+      "source": "MacRumors",
+      "published": "2026-10-12T03:17:03.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/03/HomePod-mini-and-Apple-TV-Sage.jpg"
+    },
+    {
+      "title": "F1 Singapore GP: Verstappen Takes Comfortable Victory From Leclerc and Antonelli",
+      "url": "https://www.autosport.com/f1/news/f1-singapore-gp-report/10864312",
+      "tldr": "Max Verstappen won Formula 1's Singapore Grand Prix for the first time, leading home Charles Leclerc and Kimi Antonelli after fending off an early challenge.",
+      "source": "Autosport",
+      "published": "2026-10-11T13:53:45.000Z",
+      "image": "https://cdn-6.motorsport.com/images/amp/2GdKqjzY/s6/max-verstappen-red-bull-racing-2.jpg"
+    },
+    {
+      "title": "'Wildwood' Review: Laika's Ambitious Stop-Motion Epic Is Both a Technical and Emotional Triumph",
+      "url": "https://www.hollywoodreporter.com/movies/movie-reviews/wildwood-review-laika-travis-knight-1236726335",
+      "tldr": "A teenage girl enters a mysterious kingdom to find her kidnapped brother in Travis Knight's animated fantasy, voiced by Carey Mulligan and Mahershala Ali among an all-star cast.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-10-11T13:15:00.000Z",
+      "image": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "OpenAI's Dot and Meta's Muse AI Agents Compared",
+          "url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison",
+          "tldr": "Meta's Muse and OpenAI's Dot are now competing directly as personal AI agents, with different costs and access between the two.",
+          "source": "Engadget",
+          "published": "2026-10-12T00:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/openai-dot-vs-meta-muse-how-do-these-ai-agents-compare/l-intro-1791476289.jpg"
+        },
+        {
+          "title": "AI Industry Debates Dropping NDAs to Ease Data Center Opposition",
+          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+          "tldr": "On TechCrunch's Equity podcast, hosts debated whether data centre moratoriums reveal a communication problem for the AI industry, and whether dropping NDAs might ease local opposition.",
+          "source": "TechCrunch",
+          "published": "2026-10-11T16:52:33.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200"
+        },
+        {
+          "title": "Executives Say Voice AI Hasn't Reached Its ChatGPT Moment Yet",
+          "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
+          "tldr": "Industry executives say voice AI still misses important context cues, which can break the wider pipeline built around it, so the technology has yet to have its ChatGPT moment.",
+          "source": "TechCrunch",
+          "published": "2026-10-11T14:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Anbernic's Next Dual-Screen Handheld Has the Perfect Aspect Ratio for 3DS Games",
+          "url": "https://www.engadget.com/2283296/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games",
+          "tldr": "Anbernic's upcoming RG DDS handheld pairs a 5:3 main display with a 4:3 bottom screen, matching the Nintendo 3DS's dual-screen aspect ratio.",
+          "source": "Engadget",
+          "published": "2026-10-11T18:54:38.000Z",
+          "image": "https://www.engadget.com/img/gallery/anbernics-next-dual-screen-handheld-has-the-perfect-aspect-ratio-for-3ds-games/l-intro-1791743775.jpg"
+        },
+        {
+          "title": "TechCrunch Mobility: A Roadblock Clears for Self-Driving Trucks",
+          "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks",
+          "tldr": "This week's TechCrunch Mobility newsletter covers a cleared roadblock for self-driving trucks, as AI takes a bigger role in transport.",
+          "source": "TechCrunch",
+          "published": "2026-10-11T16:02:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/aurora-truck-and-beacons.jpg?resize=1200,673"
+        },
+        {
+          "title": "Efferon Wants to Eradicate the Devastating Toll of Pediatric Sepsis",
+          "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis",
+          "tldr": "Battlefield 200 startup Efferon has built blood-purification technology aimed at reducing deaths from paediatric sepsis in children.",
+          "source": "TechCrunch",
+          "published": "2026-10-11T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/ambulances-2191226563.jpg?resize=1200,900"
+        },
+        {
+          "title": "Dawn Myers Is Making It Easier to Style, Detangle and Care for Curly Hair",
+          "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair",
+          "tldr": "Richualist, one of TechCrunch's Battlefield 200 companies, is founder Dawn Myers's venture to make styling, detangling and caring for curly hair easier.",
+          "source": "TechCrunch",
+          "published": "2026-10-11T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Dawn-Myers.jpeg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "New Apple TV 4K, HomeView and HomePod Mini: 16 Details Leaked",
+          "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-homeview-homepod-mini-2-leaks",
+          "tldr": "Two days before Apple's \"Welcome home\" event, Bloomberg's Mark Gurman has leaked further details on the new products set to be unveiled, including an all-new smart home hub.",
+          "source": "MacRumors",
+          "published": "2026-10-11T19:56:28.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-HomeView-HomePod-Mini-tweaked.jpg"
+        },
+        {
+          "title": "Apple TV 4K Getting A19 Chip and a Potentially Easier-to-Find Siri Remote",
+          "url": "https://www.macrumors.com/2026/10/11/apple-tv-4k-a19-chip-easier-to-find-remote",
+          "tldr": "Apple's new Apple TV 4K will use a standard A19 chip, up from the A15 in the current 2022 model, Bloomberg's Mark Gurman reports.",
+          "source": "MacRumors",
+          "published": "2026-10-11T15:08:50.000Z",
+          "image": "https://images.macrumors.com/article-new/2024/06/apple-tv-4k-new-orange.jpg"
+        },
+        {
+          "title": "Apple Plans Major iPhone Duo Retail Showcase, but Supply Will Be Limited",
+          "url": "https://www.macrumors.com/2026/10/11/iphone-duo-retail-showcase",
+          "tldr": "Apple is preparing new displays and large numbers of demo units for the iPhone Duo's October 23 launch, but supply will be limited, according to Bloomberg's Mark Gurman.",
+          "source": "MacRumors",
+          "published": "2026-10-11T15:44:17.000Z",
+          "image": "https://images.macrumors.com/article-new/2025/03/Apple-Fifth-Avenue-Hero.jpeg"
+        },
+        {
+          "title": "Bloomberg: New iPad Mini With OLED Display Will Be Significantly More Expensive Than Current Model",
+          "url": "https://9to5mac.com/2026/10/11/ipad-mini-oled-higher-price",
+          "tldr": "The current iPad mini starts at $599 for 128GB. Bloomberg reports Apple's next-generation model, arriving later this month, may raise the starting price even as storage increases.",
+          "source": "9to5Mac",
+          "published": "2026-10-11T14:28:57.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ipad-mini-6-jb.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Aaron Sorkin's 'The Social Reckoning' Bombs With $5.5 Million Opening",
+          "url": "https://www.indiewire.com/news/box-office/social-reckoning-bombs-why-did-aaron-sorkin-facebook-follow-up-fail-1235221307",
+          "tldr": "Aaron Sorkin's Facebook follow-up opened to just $5.5 million. Bad reviews, David Fincher's decision not to return, and a focus on algorithms rather than AI are partly to blame.",
+          "source": "IndieWire",
+          "published": "2026-10-11T14:56:54.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/08/MCDSORE_CO001.jpg?w=650"
+        },
+        {
+          "title": "Quentin Tarantino Teaming With Sacha Baron Cohen on West End Play 'The Popinjay Cavalier'",
+          "url": "https://www.indiewire.com/news/general-news/quentin-tarantino-sacha-baron-cohen-play-popinjay-cavalier-1235221351",
+          "tldr": "Quentin Tarantino will write and direct a West End play inspired by the grand swashbuckling epics of stage and screen, with Sacha Baron Cohen attached to star.",
+          "source": "IndieWire",
+          "published": "2026-10-12T02:14:46.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2025/08/GettyImages-2215582927_43c854.jpg?w=650"
+        },
+        {
+          "title": "Andrew Garfield Reacts to Oscar Buzz as 'Artificial' Gets Resounding London Reception",
+          "url": "https://variety.com/2026/film/festivals/andrew-garfield-reacts-artificial-oscar-buzz-london-premiere-1236907596",
+          "tldr": "'Artificial' does not reach theatres until December, but Andrew Garfield is already drawing Oscar buzz for his performance as OpenAI's Sam Altman in Luca Guadagnino's tech drama.",
+          "source": "Variety",
+          "published": "2026-10-12T00:36:39.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/andrew-garfield.jpg"
+        },
+        {
+          "title": "'The Riverbank,' 'Elza' Top Rio Film Festival Awards",
+          "url": "https://variety.com/2026/film/global/the-riverbank-elza-top-rio-film-festival-awards-1236908331",
+          "tldr": "Enock Carvalho and Matheus Farias's Locarno-winning 'The Riverbank' won Best Fiction Feature at the Rio Film Festival, with Eryk Rocha's 'Elza' taking Best Documentary Feature.",
+          "source": "Variety",
+          "published": "2026-10-12T02:01:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/07/VARIETY-SIZING-2026-07-29T123642.469.png"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Jayson Tatum Shines, Paul George Debuts as Celtics Thump Sixers",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/11/jayson-tatum-shines-paul-george-debuts-as-celtics-thump-sixers-8-takeaways",
+          "tldr": "Jayson Tatum impressed and Paul George made his Celtics debut as Boston beat Philadelphia in preseason, though Tatum faces far tougher, more physical tests ahead than the Sixers.",
+          "source": "Boston.com",
+          "published": "2026-10-11T11:42:31.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN-101026-Celtics-76ers-Preseason_SPT12-1-6acb776870b9f-850x638.jpg"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Paul George Reflects on 'Extra' Nerves in Celtics Debut",
+          "url": "https://www.celticsblog.com/boston-celtics-news/147450/paul-george-celtics-76ers-preseason-debut",
+          "tldr": "Paul George's first three-pointer as a Celtic swished through the net, capping a preseason debut with nerves the 36-year-old says felt different despite nearly 3,000 career threes.",
+          "source": "CelticsBlog",
+          "published": "2026-10-11T10:42:32.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299058515.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots 45, Raiders 17: Drake Maye Dominates, Fernando Mendoza Makes NFL Debut",
+          "url": "https://www.boston.com/new-england-patriots/live/patriots-vs-raiders-live-coverage-can-shorthanded-patriots-overcome-3-1-raiders",
+          "tldr": "Drake Maye threw for four touchdowns and ran in another as the Patriots routed the Raiders 45-17, a blowout that also featured Fernando Mendoza's NFL debut.",
+          "source": "Boston.com",
+          "published": "2026-10-11T14:43:22.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/LVCZJPNJRC3DDCVTLZ2PNPGMX4-6acbd61f3776e-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Will Campbell Expected to 'Miss Some Time' After Knee Injury Vs. Raiders",
+          "url": "https://www.patspulpit.com/new-england-patriots-injuries/140240/will-campbell-injury-patriots-ot-suffers-knee-injury-vs-raiders",
+          "tldr": "Patriots left tackle Will Campbell is expected to miss some time after suffering a knee injury against the Raiders, the latest blow to New England's offensive line.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-12T01:09:34.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2299180897.jpg?quality=90&strip=all&crop=0,2.9761420832747,100,97.023857916725"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Mike Vrabel Tells Tedy Bruschi He Wants 2001 Patriots to Be the 'Blueprint' for 2026",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/11/mike-vrabel-tedy-bruschi-2001-patriots-2026-blueprint",
+          "tldr": "Mike Vrabel said he wants the 2001 Patriots to be the blueprint for this year's team, telling Tedy Bruschi they are a much-improved side from where they started the season.",
+          "source": "Boston.com",
+          "published": "2026-10-11T23:55:29.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Mike-Vrabel-Patriots-Raiders-6acc1f9493a56-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Kimi Antonelli Could Clinch the F1 World Title as Early as the Next Race",
+          "url": "https://www.skysports.com/f1/news/12433/13597654/kimi-antonelli-f1-title-permutations-how-mercedes-driver-could-clinch-world-championship-at-united-states-gp",
+          "tldr": "Kimi Antonelli could become Formula 1's youngest world champion as early as the next race, the United States Grand Prix on October 25.",
+          "source": "Sky Sports",
+          "published": "2026-10-11T18:20:00.000Z",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7374560.jpg?20261011191233"
+        },
+        {
+          "tag": "F1",
+          "title": "Hamilton Apologises to Ferrari for Overriding Strategy Call in Singapore",
+          "url": "https://www.skysports.com/f1/news/12433/13597653/lewis-hamilton-apologises-to-ferrari-for-costly-decision-to-override-strategy-call-during-singapore-gp",
+          "tldr": "Lewis Hamilton apologised to Ferrari after overriding the team's strategy call during the Singapore Grand Prix, a costly decision that cost him a possible podium.",
+          "source": "Sky Sports",
+          "published": "2026-10-11T15:43:00.000Z",
+          "image": "https://e2.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7374372.jpg?20261011163510"
+        },
+        {
+          "tag": "F1",
+          "title": "Lando Norris Accepts Blame for Clash With Oscar Piastri in Singapore Sprint",
+          "url": "https://www.the-race.com/formula-1/lando-norris-now-accepts-blame-for-oscar-piastri-clash-f1-singapore",
+          "tldr": "Lando Norris has accepted blame for clashing with McLaren team-mate Oscar Piastri during Formula 1's Singapore sprint race.",
+          "source": "The Race",
+          "published": "2026-10-11T15:18:36.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1443957_HiRes.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox Prospect Anderson Among Fall League's Week 1 Top Performers",
+          "url": "https://www.mlb.com/redsox/news/arizona-fall-league-top-performers-week-1-2026",
+          "tldr": "Red Sox corner infield prospect Anderson was named among the Arizona Fall League's top performers for its first week of action.",
+          "source": "MLB.com",
+          "published": "2026-10-12T03:03:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/xyrsaulxdhyixu8wlr0q.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Sonny Gray Will Pitch Next Year, Not Necessarily With the Red Sox",
+          "url": "https://www.overthemonster.com/red-sox-news/110408/red-sox-news-links-sonny-gray-will-pitch-next-year-not-necessarily-with-red-sox",
+          "tldr": "Sonny Gray, who had hinted all season he could retire, says he plans to keep pitching next year, though not necessarily in a Red Sox uniform.",
+          "source": "Over the Monster",
+          "published": "2026-10-11T12:50:08.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2297975709.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-tech-workers-are-feeling-in-2026",
+    "why": "Timely alongside today's AI-industry friction stories: Lenny's survey on how the tech workforce is splitting in two as AI reshapes roles and expectations.",
+    "title": "How tech workers are feeling in 2026: a workforce splitting in two",
+    "subtitle": "Results from our second annual tech worker sentiment survey",
+    "published": "2026-07-07",
+    "words": 5411,
+    "image": "https://substackcdn.com/image/fetch/$s_!cqwk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15ff6297-e313-469c-b9da-6ec414b950eb_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/426-how-obsession-built-christopher-nolan/id1141877104?i=1000778364358&uo=4",
+      "why": "Nolan's obsessive craft echoes today's Wildwood review and Tarantino's new stage project, both studies in creative commitment.",
+      "show": "Founders",
+      "title": "#426 How Obsession Built Christopher Nolan",
+      "published": "2026-07-26",
+      "duration": "51m",
+      "apple": "https://podcasts.apple.com/us/podcast/426-how-obsession-built-christopher-nolan/id1141877104?i=1000778364358&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/alexandr-wang",
+      "why": "Today's new episode, on the seven-month build of Meta's Muse, pairs well with the OpenAI Dot vs Muse story in today's AI section.",
+      "show": "David Senra",
+      "title": "Creating Muse: The Fastest-Growing AI Product Since ChatGPT | Alexandr Wang, Meta",
+      "published": "2026-10-11",
+      "duration": "1h 12m",
+      "apple": "https://podcasts.apple.com/us/podcast/creating-muse-the-fastest-growing-ai-product-since/id1836497887?i=1000795226761&uo=4",
+      "page": "https://www.davidsenra.com/episode/alexandr-wang",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/f0/39/04f039a2-6318-6179-d093-fa3c41dc090d/mza_406662140537295737.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/costco",
+      "why": "A classic study of a great operator, in the mould of the Apple and Disney builders Damian studies, as this week's Apple launch news builds.",
+      "show": "Acquired",
+      "title": "Costco",
+      "published": "2026-03-04",
+      "duration": "2h 53m",
+      "apple": "https://podcasts.apple.com/us/podcast/costco/id1050462261?i=1000625088063&uo=4",
+      "page": "https://www.acquired.fm/episodes/costco",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7d/1c/80/7d1c8085-9fc7-45da-bdab-9487e6917bcf/mza_677492021207196652.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "'Monolithic' Concrete House Informed by Rock-Cut Monastic Homes",
+    "url": "https://www.dezeen.com/2026/10/11/monastic-field-roomoor-india",
+    "tldr": "Architecture studio Roomoor has completed Monastic Field, a concrete home within a temple precinct in Baleshwar that recalls the rock-cut dwellings of monks on the Deccan Plateau.",
+    "source": "Dezeen",
+    "published": "2026-10-11T10:00:19.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/09/monastic-field-roomoor-india_dezeen_2364_sq_0-411x411.jpg"
+  }
+}
