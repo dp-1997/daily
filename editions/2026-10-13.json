@@ -1,0 +1,285 @@
+{
+  "date": "2026-10-13",
+  "note": "Apple's 'Welcome Home' event happens today, expected to focus on new smart home products.",
+  "front": [
+    {
+      "title": "Apple confirms 'Welcome Home' launch event, happening today",
+      "url": "https://9to5mac.com/2026/10/12/apple-welcome-home-event-three-new-products",
+      "tldr": "Apple's 'Welcome Home' product launch takes place today, with the tagline pointing to new smart home products.",
+      "source": "9to5Mac",
+      "published": "2026-10-12T23:39:16.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-welcome-home.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+      "tldr": "Muse Wonder is larger than Meta's earlier Muse Spark model, with higher benchmark scores and better results than its lightweight, low-latency predecessor, Meta said.",
+      "source": "TechCrunch",
+      "published": "2026-10-12T17:56:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676"
+    },
+    {
+      "title": "Patriots cruise to 45-17 win over the Raiders despite missing starters",
+      "url": "https://www.patriots.com/news/game-observations-8-takeaways-from-the-patriots-dominant-win-over-the-raiders-in-week-5",
+      "tldr": "The Patriots beat the Raiders 45-17 at Gillette Stadium on Sunday, despite missing multiple starters through injury.",
+      "source": "Patriots.com",
+      "published": "2026-10-11T22:48:00.000Z",
+      "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/kkkclsre2q3v7jte7vej.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+          "url": "https://simonwillison.net/2026/Oct/12/python-3-15",
+          "tldr": "Python 3.15 has launched, with Hugo van Kemenade's annual 'What's new' guide covering the release. Simon Willison, who builds open-source Python tools, flags it as essential reading.",
+          "source": "Simon Willison",
+          "published": "2026-10-12T18:15:38.000Z",
+          "image": "https://static.simonwillison.net/static/2026/profiler-output.webp"
+        },
+        {
+          "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+          "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
+          "tldr": "WindBorne, a Silicon Valley startup using weather balloons and AI to predict the weather, has won a US military contract worth almost $50 million.",
+          "source": "TechCrunch",
+          "published": "2026-10-12T17:19:14.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675"
+        },
+        {
+          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
+          "tldr": "Bootstrapped Santa Monica startup Blueprints AI has built software that turns a photo, PDF or sketch into code-compliant construction blueprints.",
+          "source": "TechCrunch",
+          "published": "2026-10-12T15:27:59.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799"
+        },
+        {
+          "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+          "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
+          "tldr": "Honeyjar is building AI tools aimed at fixing a PR process that journalists, entrepreneurs and even PR professionals often call broken.",
+          "source": "TechCrunch",
+          "published": "2026-10-12T15:45:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Fitbit Edge is Google's middle ground between Fitbit Air and Pixel Watch",
+          "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch",
+          "tldr": "Google's new Fitbit Edge wearable costs $179.99, pairing the sleek feel of the Fitbit Air with an OLED display.",
+          "source": "TechCrunch",
+          "published": "2026-10-12T15:11:19.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4514.webp?w=1200"
+        },
+        {
+          "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+          "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae",
+          "tldr": "Ultrahuman and Abu Dhabi will spend the next two years researching and clinically validating the smart ring maker's biological-age model across the UAE.",
+          "source": "TechCrunch",
+          "published": "2026-10-12T14:09:34.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?resize=1200,800"
+        },
+        {
+          "title": "Epic reportedly delays its Disney video game so it can be made using more AI",
+          "url": "https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai",
+          "tldr": "Epic has reportedly pushed back its Disney video game's release so developers can use more AI for both code and asset creation.",
+          "source": "Engadget",
+          "published": "2026-10-12T20:48:19.000Z",
+          "image": "https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "M6 MacBook Pro: three new upgrades launching later this month",
+          "url": "https://9to5mac.com/2026/10/12/m6-macbook-pro-three-new-upgrades-launching-this-fall",
+          "tldr": "Apple's new M6 MacBook Pro arrives later this month with a 14-inch screen, the current industrial design and three expected upgrades tied to its M6 chip.",
+          "source": "9to5Mac",
+          "published": "2026-10-12T20:23:21.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "iPhone hits record Q3 shipment share as global smartphone market plunges 20%",
+          "url": "https://9to5mac.com/2026/10/12/iphone-hits-record-q3-shipment-share-as-global-smartphone-market-plunges-20-per-report",
+          "tldr": "Apple's share of global smartphone shipments crossed 20% for the first time in a third quarter, Counterpoint Research found, even as the wider industry declined.",
+          "source": "9to5Mac",
+          "published": "2026-10-12T20:25:16.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple plans two-day event to showcase trio of new Macs and iPad mini",
+          "url": "https://www.macrumors.com/2026/10/12/new-macs-and-ipad-mini-in-los-angeles",
+          "tldr": "Apple is reportedly inviting content creators to a two-day showcase in Los Angeles on 27 and 28 October, Bloomberg's Mark Gurman says, rather than a traditional keynote event.",
+          "source": "MacRumors",
+          "published": "2026-10-12T16:49:04.000Z",
+          "image": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Other Mommy' nips 'Verity' in photo finish for UK, Ireland box office summit",
+          "url": "https://variety.com/2026/film/box-office/other-mommy-verity-uk-ireland-box-office-1236909721",
+          "tldr": "Universal horror film 'Other Mommy', directed by Rob Savage and starring Jessica Chastain and Jay Duplass, narrowly topped the UK and Ireland box office, debuting at No. 1 in a dead heat.",
+          "source": "Variety",
+          "published": "2026-10-13T04:10:47.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/MCDOTMO_UV016_f2a990.jpg"
+        },
+        {
+          "title": "'Ink' finally meets its native audience at London Film Festival",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ink-bfi-london-film-festival-danny-boyle-jack-o-connell-1236727950",
+          "tldr": "Danny Boyle's 'Ink', telling Rupert Murdoch's Fleet Street origin story, played to its home crowd at the London Film Festival, with Guy Pearce and Jack O'Connell among those speaking to press.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-12T23:49:38.000Z",
+          "image": ""
+        },
+        {
+          "title": "Sydney Sweeney's R-rated 131-minute thriller is officially HBO Max's biggest streaming hit",
+          "url": "https://www.slashfilm.com/2284837/sydney-sweeney-thriller-the-housemaid-streaming-hbo-max-october-2026",
+          "tldr": "Sydney Sweeney's mystery thriller 'The Housemaid' scored a box office hit, and is now topping HBO Max's streaming charts.",
+          "source": "/Film",
+          "published": "2026-10-13T00:10:12.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/sydney-sweeneys-r-rated-131-minute-thriller-is-officially-hbo-maxs-biggest-streaming-hit/l-intro-1791849919.jpg"
+        },
+        {
+          "title": "Fellow actors remember Breaking Bad's RJ Mitte",
+          "url": "https://www.indiewire.com/news/obituary/rj-mitte-dead-tributes-1235221547",
+          "tldr": "RJ Mitte, the actor and disability advocate who played Walter White Jr. on Breaking Bad, has died at 34, prompting tributes from fellow cast members.",
+          "source": "IndieWire",
+          "published": "2026-10-12T22:33:52.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/TCDBRBA_EC119.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "The Celtics' best closing lineup may change every night",
+          "url": "https://www.celticsblog.com/celtics-features-profiles/147529/the-celtics-best-closing-lineup-may-change-every-night",
+          "tldr": "Joe Mazzulla started Jayson Tatum, Paul George, Jordan Walsh, Derrick White and Mitchell Robinson on Saturday, showing the Celtics' closing lineup may vary from game to game this season.",
+          "source": "CelticsBlog",
+          "published": "2026-10-12T11:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/05/gettyimages-2274227439.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Drake Maye has found his mojo again",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/140322/drake-maye-found-his-rhythm-again-patriots-vs-raiders",
+          "tldr": "After turning the ball over seven times in his first three games this season, Patriots quarterback Drake Maye has delivered back-to-back resurgent performances.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-12T13:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2299198476.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Undrafted Elijah Ponder looks like a steal for the Patriots on the edge",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/11/patriots-elijah-ponder-undrafted-free-agent-breakout-comments",
+          "tldr": "Few believed in undrafted free agent Elijah Ponder last year, but Sunday's performance suggests the edge rusher could be turning into a steal for the Patriots.",
+          "source": "Boston.com",
+          "published": "2026-10-11T23:14:10.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/FKHE7UD2JVD73A22WKLJCFEARM-6acc0d3ce5ee2-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Why Kimi Antonelli was left fighting his Mercedes brakes during the Singapore GP",
+          "url": "https://www.motorsport.com/f1/news/why-kimi-antonelli-was-left-fighting-his-mercedes-brakes-during-the-singapore-gp/10864784",
+          "tldr": "Kimi Antonelli left Singapore with another podium and a 102-point lead over team-mate George Russell in the drivers' championship, despite fighting his Mercedes brakes all race.",
+          "source": "Motorsport.com",
+          "published": "2026-10-12T22:35:02.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/0R7BqJg2/s6/untitled-design-2026-10-12t230-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Red Bull's 'exceptionally fast' car alarms its rivals after Verstappen dominates again",
+          "url": "https://www.racefans.net/2026/10/12/red-bulls-exceptionally-fast-car-alarms-its-rivals-after-verstappen-dominates-again",
+          "tldr": "Red Bull's rivals are growing concerned after Max Verstappen's strong run over the last three Grands Prix, RaceFans reports.",
+          "source": "RaceFans",
+          "published": "2026-10-12T07:23:46.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-17-28-49-3-SI202610110451.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Toto Wolff reveals the problem behind George Russell's Singapore GP recovery",
+          "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-the-problem-behind-george-russells-singapore-gp-recovery/10864793",
+          "tldr": "George Russell climbed from 19th to 9th in Singapore, a decent recovery that still fell short of what Mercedes had planned, says team boss Toto Wolff.",
+          "source": "Motorsport.com",
+          "published": "2026-10-13T01:35:02.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/6zoDkLp0/s6/untitled-design-2026-10-13t003-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "What does the success of the Rays and Guardians mean for the Red Sox?",
+          "url": "https://www.overthemonster.com/red-sox-discussion/110422/what-does-the-success-of-the-rays-and-guardians-mean-for-the-red-sox",
+          "tldr": "As the ALCS opens at Tropicana Field between two long-starved franchises, Over the Monster asks what the Rays' and Guardians' success means for the Red Sox.",
+          "source": "Over the Monster",
+          "published": "2026-10-12T20:50:37.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2296122311.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/beyond-vibe-checks-a-pms-complete",
+    "why": "Useful if you're building AI products yourself: a practical framework for evals that goes beyond vibe checks.",
+    "title": "Beyond vibe checks: A PM’s complete guide to evals",
+    "subtitle": "How to master the emerging skill that can make or break an AI product",
+    "published": "2025-04-08",
+    "words": 3205,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/b36cea07-5af5-4d24-8f3f-ced3769ca20b_1457x971.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/424-peter-thiel-on-how-to-build-a-creative-monopoly/id1141877104?i=1000776309638&uo=4",
+      "why": "Thiel's case for building a creative monopoly pairs naturally with today's product launches, Apple's event included.",
+      "show": "Founders",
+      "title": "#424 Peter Thiel on How to Build a Creative Monopoly",
+      "published": "2026-07-10",
+      "duration": "54m",
+      "apple": "https://podcasts.apple.com/us/podcast/424-peter-thiel-on-how-to-build-a-creative-monopoly/id1141877104?i=1000776309638&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/lulu-cheng-meservey",
+      "why": "Meservey's take on PR and positioning pairs naturally with today's Honeyjar AI-for-comms story and your own marketing work.",
+      "show": "David Senra",
+      "title": "Lulu Cheng Meservey, Founder of Rostra",
+      "published": "2026-08-12",
+      "duration": "1h 18m",
+      "apple": "https://podcasts.apple.com/us/podcast/lulu-cheng-meservey-founder-of-rostra/id1836497887?i=1000782903883&uo=4",
+      "page": "https://www.davidsenra.com/episode/lulu-cheng-meservey",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/6e/7d/d66e7da6-f44a-d34f-ad8c-3eccb6521a42/mza_7053976884331272004.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=DFImJfJGXl0"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/vanguard",
+      "why": "Vanguard's story of inventing a new business model for an entire industry fits your interest in the great product operators.",
+      "show": "Acquired",
+      "title": "Vanguard",
+      "published": "2026-05-18",
+      "duration": "3h 48m",
+      "apple": "https://podcasts.apple.com/us/podcast/vanguard/id1050462261?i=1000768328125&uo=4",
+      "page": "https://www.acquired.fm/episodes/vanguard",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/ce/91/5fce91ea-be85-67a3-5053-62f49c75315f/mza_4700417078932584699.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Gustaf Westman creates Mickey Mouse-shaped sofa and cup for Disney",
+    "url": "https://www.dezeen.com/2026/10/12/gustaf-westman-mickey-mouse-collection-disney",
+    "tldr": "Swedish designer Gustaf Westman has teamed up with Disney to turn Mickey Mouse into furniture and accessories designed to convey joy and playfulness.",
+    "source": "Dezeen",
+    "published": "2026-10-12T12:00:31.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/10/disney-x-gustaf-westman_dezeen_2364_col_sq-1-411x411.jpg"
+  }
+}
