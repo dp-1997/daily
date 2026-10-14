@@ -1,0 +1,299 @@
+{
+  "date": "2026-10-14",
+  "front": [
+    {
+      "title": "Apple's home event: HomeView, HomePod mini 2 and a new Apple TV 4K",
+      "url": "https://www.macrumors.com/2026/10/13/apple-october-13-recap",
+      "tldr": "Apple launched a $299 smart display called HomeView, a new $149 HomePod mini 2 and a fourth-generation Apple TV 4K with an A19 chip, all gaining Siri AI features. It's Apple's biggest smart home push yet.",
+      "source": "MacRumors",
+      "published": "2026-10-13T22:22:05.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/10/Everything-Apple-Announced-at-Welcome-Home-Feature.jpg"
+    },
+    {
+      "title": "Google launches Gemini 4 Argon, its new frontier AI model",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon",
+      "tldr": "Google released Gemini 4 Argon, its newest frontier AI model, giving developers, enterprises and consumers access alongside a dedicated robotics version and a safety report explaining how it was trained.",
+      "source": "Google DeepMind",
+      "published": "2026-10-13T16:01:52.000Z",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__2784x1566.width-1300.png"
+    },
+    {
+      "title": "F1 returns to Africa with a 10-year deal to race in Rwanda",
+      "url": "https://www.formula1.com/en/latest/article/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda.13xs9VMK7cGFiBd2IplyES",
+      "tldr": "Formula 1 signed a 10-year deal to hold a new African Grand Prix in Kigali, Rwanda, from the early 2030s, marking the sport's first return to the continent. President Paul Kagame attended the announcement.",
+      "source": "Formula1.com",
+      "image": "https://media.formula1.com/image/upload/t_16by9South/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Miscellaneous/Africa/African%20Grand%20Prix%20announcement%20-%20Kigali.webp"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+          "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
+          "tldr": "Science Corporation, founded by Neuralink's former president, implanted its PRIMA vision chip in a patient with Stargardt disease, an inherited condition that causes blindness. The firm sees it as a step toward a broader brain-computer interface.",
+          "source": "TechCrunch",
+          "published": "2026-10-13T23:13:31.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800"
+        },
+        {
+          "title": "Redesigning source control at Anthropic",
+          "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
+          "tldr": "Anthropic explained why it built its own alternative to Git, citing the sharp rise in how fast code now changes as AI tools generate more of it. The piece details the system's design.",
+          "source": "Simon Willison",
+          "published": "2026-10-13T23:00:06.000Z",
+          "image": "https://static.simonwillison.net/static/2026/anthropic-merges-per-day.webp"
+        },
+        {
+          "title": "Google Play now lets anyone build private, vibe-coded apps for Android",
+          "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you",
+          "tldr": "Google Play now lets people build personal Android apps with AI and use them privately, without publishing them to the Play Store for everyone else to find.",
+          "source": "TechCrunch",
+          "published": "2026-10-13T17:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675"
+        },
+        {
+          "title": "Higgsfield takes AI video from one minute to over ten",
+          "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "tldr": "Higgsfield's video tool now generates clips beyond ten minutes, up from one, using GPT-6 Astra for longer footage, GPT-Image-2.5 for stills and GPT-Live pointing toward AI-assisted voice filmmaking.",
+          "source": "OpenAI",
+          "published": "2026-10-13T12:00:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
+          "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device",
+          "tldr": "Fusion startup Cambridge Heavy Industries is developing a small, laser-powered fusion device intended to help fuel future fusion power plants. It had operated largely under the radar until this disclosure.",
+          "source": "TechCrunch",
+          "published": "2026-10-13T20:13:53.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/nif-laser-preamplifiers.jpeg?resize=1200,800"
+        },
+        {
+          "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
+          "url": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt",
+          "tldr": "Helix Carbon has found a way to recycle pollution from steel blast furnaces to produce cheaper iron, cutting emissions while improving margins for a notoriously dirty industry.",
+          "source": "TechCrunch",
+          "published": "2026-10-13T21:15:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2242228718.jpeg?resize=1200,792"
+        },
+        {
+          "title": "Satlyt wants to be the Android of orbital computing",
+          "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
+          "tldr": "Satlyt, founded by a former Google and SpaceX product manager, raised $8 million for open software that runs AI on satellites from many manufacturers, unlike SpaceX's closed, all-in-one approach. Its software is flying on a SpaceX rocket.",
+          "source": "TechCrunch",
+          "published": "2026-10-13T16:30:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800"
+        },
+        {
+          "title": "Longshot wants to fire cargo into space from a gun",
+          "url": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026",
+          "tldr": "Longshot is building a large gun designed to launch cargo into orbit without rockets, aiming to make space-based data centres more practical and affordable.",
+          "source": "TechCrunch",
+          "published": "2026-10-13T18:05:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1104.jpg?resize=900,1200"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Meet Apple HomeView, a new way to enjoy entertainment and manage the home",
+          "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home",
+          "tldr": "Apple introduced HomeView, a $299 smart display with a seven-inch touchscreen designed to be the hub of the smart home, controlling HomeKit devices and Apple Music, TV and other services.",
+          "source": "Apple Newsroom",
+          "published": "2026-10-13T12:59:16.617Z",
+          "image": "https://www.apple.com/newsroom/images/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/tile/Apple-HomeView-lineup-261013-lp.jpg.og.jpg?202610131304"
+        },
+        {
+          "title": "Apple announces the next generation of HomePod mini",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini",
+          "tldr": "Apple unveiled HomePod mini 2 at $149, powered by the S10 chip and offering new colours and improved audio, though its promised Siri AI features are not yet switched on.",
+          "source": "Apple Newsroom",
+          "published": "2026-10-13T12:57:08.267Z",
+          "image": "https://www.apple.com/newsroom/images/2026/10/apple-announces-the-next-generation-of-homepod-mini/tile/Apple-HomePod-mini-2-color-lineup-261013-lp.jpg.og.jpg?202610131303"
+        },
+        {
+          "title": "Elevation Lab pulls AirTag Silencer after stalking concerns",
+          "url": "https://www.macrumors.com/2026/10/13/elevation-lab-airtag-silencer",
+          "tldr": "Elevation Lab withdrew its AirTag Silencer, an accessory that disabled the tracker's speaker while leaving its location function intact, after concerns it could be misused to stalk people undetected.",
+          "source": "MacRumors",
+          "published": "2026-10-13T21:14:42.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/elevation-lab-airtag-silencer.jpg"
+        },
+        {
+          "title": "Apple wins early access to OpenAI documents in trade secrets lawsuit",
+          "url": "https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit",
+          "tldr": "A federal judge granted Apple expedited access to OpenAI documents and employee testimony in its trade secrets case against former staff, OpenAI and io Products.",
+          "source": "9to5Mac",
+          "published": "2026-10-13T20:45:29.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Greta Gerwig debuts the first trailer for The Magician's Nephew",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/narnia-magicians-nephew-trailer-greta-gerwig-behind-scenes-1236728979",
+          "tldr": "Greta Gerwig released the first trailer for her Narnia adaptation, The Magician's Nephew, and discussed the project with Stephen Colbert, including how she landed a Led Zeppelin track in the preview.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-13T18:09:27.000Z",
+          "image": ""
+        },
+        {
+          "title": "Girls is coming back to HBO for a five-episode revival",
+          "url": "https://www.indiewire.com/news/breaking-news/girls-back-lena-dunham-full-cast-reunite-episode-revival-1235221747",
+          "tldr": "Lena Dunham and the original cast, Allison Williams, Jemima Kirke, Zosia Mamet and Andrew Rannells, will reunite for a five-episode limited series on HBO, a decade after the finale.",
+          "source": "IndieWire",
+          "published": "2026-10-13T19:12:25.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2017/04/dc1581dcdbdf0f4a34dd734b0ff5783aea6f3d17cd0abe2c3f4cf2dba9f0337f.jpg?w=650"
+        },
+        {
+          "title": "Behemoth! wouldn't have been possible without Andor's success, says Tony Gilroy",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/behemoth-london-film-festival-tony-gilroy-pedro-pascal-1236729199",
+          "tldr": "Tony Gilroy said his Star Wars series Andor made his new film Behemoth! possible, speaking at its BFI London Film Festival premiere alongside Pedro Pascal, who learned cello for the role.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-13T21:14:33.000Z",
+          "image": ""
+        },
+        {
+          "title": "Ben Affleck calls filming Justice League a low point in his career",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-calls-justice-league-low-point-career-1236729523",
+          "tldr": "Ben Affleck described making 2017's Justice League, which underwent extensive reshoots that altered Zack Snyder's original vision, as one of the toughest experiences of his career.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-14T03:49:22.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics and Payton Pritchard agree to two-year, $44.2 million extension",
+          "url": "https://www.celticsblog.com/boston-celtics-news/147626/celtics-payton-pritchard-agree-to-two-year-44-2-million-extension",
+          "tldr": "The Celtics signed Payton Pritchard to a fully guaranteed two-year, $44.2 million extension with a mutual option, after he set career highs in points, assists and rebounds last season.",
+          "source": "CelticsBlog",
+          "published": "2026-10-13T20:20:43.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/09/gettyimages-2273711531.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots' TreVeyon Henderson set to miss multiple weeks with high ankle sprain",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/13/patriots-treveyon-henderson-high-ankle-sprain-injury-timeline",
+          "tldr": "Patriots running back TreVeyon Henderson will miss several weeks with a high ankle sprain sustained against the Raiders, a blow to New England's run game after his strong start to the season.",
+          "source": "Boston.com",
+          "published": "2026-10-13T16:36:28.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/GC6BSDKS65GCNXQ4VLETCHRQMQ-6ace42cff22f3-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots' Will Campbell avoided a major knee injury",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/13/patriots-will-campbell-reportedly-avoided-a-major-knee-injury",
+          "tldr": "Starting left tackle Will Campbell avoided serious damage to his right knee and is considered week to week, good news for a Patriots offensive line key to their recent win streak.",
+          "source": "Boston.com",
+          "published": "2026-10-13T19:02:58.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Will-Campbell-Injury-Report-Update-2-6ace7a364102c-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Norris accepts blame for Piastri collision in Singapore sprint",
+          "url": "https://www.skysports.com/f1/news/12433/13598247/lando-norris-mclaren-driver-accepts-blame-for-collision-with-oscar-piastri-in-singapore-grand-prix-sprint",
+          "tldr": "Lando Norris said he let McLaren down and took responsibility for colliding with teammate Oscar Piastri during the Singapore Grand Prix sprint race.",
+          "source": "Sky Sports",
+          "published": "2026-10-13T05:00:00.000Z",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-lando-norris_7375223.jpg?20261012165323"
+        },
+        {
+          "tag": "F1",
+          "title": "Red Bull's Pierre Wache grades its first in-house engine four or five out of ten",
+          "url": "https://www.motorsport.com/f1/news/red-bull-sends-warning-to-f1-rivals-with-engine-development-admission/10865049",
+          "tldr": "Red Bull technical director Pierre Wache gave the team's first homemade F1 engine a middling four or five out of ten, a candid admission as it prepares for its new engine era.",
+          "source": "Motorsport.com",
+          "published": "2026-10-14T00:42:06.000Z",
+          "image": "https://cdn-2.motorsport.com/images/amp/0qgKovBY/s6/untitled-design-18-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "FIA could outlaw Red Bull's sidepod loophole ahead of 2027",
+          "url": "https://www.motorsport.com/f1/news/fia-outlaws-red-bulls-clever-sidepod-aerodynamic-loophole-ahead-of-2027-season/10864930",
+          "tldr": "Formula 1's governing body is considering closing a sidepod aerodynamic loophole that Red Bull has been exploiting, with any rule change due before the 2027 season.",
+          "source": "Motorsport.com",
+          "published": "2026-10-13T21:50:37.000Z",
+          "image": "https://cdn-6.motorsport.com/images/amp/6O7zqNX6/s6/untitled-design-2026-10-13t224-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Caleb Durbin undergoes surgery to correct lingering pinky injury",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/12/boston-red-sox-caleb-durbin-mlb-baseball-pinky-surgery",
+          "tldr": "Red Sox infielder Caleb Durbin had surgery to fix a pinky injury that bothered him for much of the season, during which he still batted .283 over his final 105 games.",
+          "source": "Boston.com",
+          "published": "2026-10-12T22:37:41.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/3HNYGZRAJ67ZDAD2QCSLI7TLPQ-6acd53c7e005c-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
+    "why": "A framework for assessing durable differentiation, useful for Damian as he thinks about positioning products like the ones Apple launched today.",
+    "title": "How to tell if a startup has a moat",
+    "subtitle": "A framework for assessing whether the company you’re considering joining is built to last",
+    "published": "2026-10-13",
+    "words": 4153,
+    "image": "https://substackcdn.com/image/fetch/$s_!7Uce!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb5a8d5c-1e31-45f5-b9f8-93426e87a971_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/437-the-tycoons-carnegie-rockefeller-gould-morgan/id1141877104?i=1000796222878&uo=4",
+      "why": "Carnegie, Rockefeller, Gould and Morgan built empires the hard way, a fitting companion to a day full of new product launches.",
+      "show": "Founders",
+      "title": "#437 The Tycoons: Carnegie, Rockefeller, Gould & Morgan",
+      "published": "2026-10-13",
+      "duration": "54m",
+      "apple": "https://podcasts.apple.com/us/podcast/437-the-tycoons-carnegie-rockefeller-gould-morgan/id1141877104?i=1000796222878&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/david-heinemeier-hansson",
+      "why": "DHH on staying profitable without losing control pairs well with today's Lenny's piece on what makes a startup's moat real.",
+      "show": "David Senra",
+      "title": "DHH: How to Build a Profitable Company Without Losing Control",
+      "published": "2026-07-26",
+      "duration": "1h 42m",
+      "apple": "https://podcasts.apple.com/us/podcast/dhh-how-to-build-a-profitable-company-without/id1836497887?i=1000778390525&uo=4",
+      "page": "https://www.davidsenra.com/episode/david-heinemeier-hansson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/07/c5/28/07c5288a-6148-036b-c0c3-78cc526e288a/mza_11308594220271943362.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=76rR68ktQvo"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/google-the-ai-company",
+      "why": "The history of Google's AI ambitions is worth revisiting the same week Gemini 4 Argon launched.",
+      "show": "Acquired",
+      "title": "Google Part III: The AI Company",
+      "published": "2025-10-06",
+      "duration": "3h 56m",
+      "apple": "https://podcasts.apple.com/us/podcast/google-part-iii-the-ai-company/id1050462261?i=1000730326283&uo=4",
+      "page": "https://www.acquired.fm/episodes/google-the-ai-company",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/d4/eb/77d4eb2e-a30c-44f5-2cca-383d10a86df8/mza_1526797956128173393.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "The people holding up the internet",
+    "url": "https://kottke.org/26/10/0049781-the-people-holding-up-the",
+    "tldr": "A piece celebrating the volunteers who quietly maintain unglamorous internet infrastructure, such as the time zone database that around four billion phones depend on every day.",
+    "source": "Kottke",
+    "published": "2026-10-13T16:10:00.000Z",
+    "image": ""
+  }
+}

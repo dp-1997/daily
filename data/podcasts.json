@@ -1,5 +1,18 @@
 [
  {
+  "show": "Founders",
+  "title": "#437 The Tycoons: Carnegie, Rockefeller, Gould & Morgan",
+  "url": "https://podcasts.apple.com/us/podcast/437-the-tycoons-carnegie-rockefeller-gould-morgan/id1141877104?i=1000796222878&uo=4",
+  "page": "",
+  "apple": "https://podcasts.apple.com/us/podcast/437-the-tycoons-carnegie-rockefeller-gould-morgan/id1141877104?i=1000796222878&uo=4",
+  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg",
+  "guid": "333ce5c4-c75d-11f1-a31e-7bbfecdd098c",
+  "date": "2026-10-13",
+  "duration": "54m",
+  "summary": "What I learned from reading The Tycoons: How Andrew Carnegie, John D. Rockefeller, Jay Gould, and J. P. Morgan Invented the American Supereconomy by Charles R. Morris. Made possible by: Ramp: https://ramp.com AppLovin: https://applovin.com Vanta: https://vanta.com/founders",
+  "youtube": ""
+ },
+ {
   "show": "David Senra",
   "title": "Creating Muse: The Fastest-Growing AI Product Since ChatGPT | Alexandr Wang, Meta",
   "url": "https://www.davidsenra.com/episode/alexandr-wang",
@@ -676,6 +689,32 @@
   "youtube": ""
  },
  {
+  "show": "Acquired",
+  "title": "Rolex",
+  "url": "https://www.acquired.fm/episodes/rolex",
+  "guid": "94dbf581-80c8-4b90-aff2-fa649cd90edd",
+  "date": "2026-05-03",
+  "duration": "4h 51m",
+  "summary": "Rolex is a series of paradoxes. They sell obsolete and objectively inferior mechanical devices for 10-1000x the price of their superior digital successors… and demand is stronger than ever in history! Their products are comparable to a Hermès Birkin bag in price, luxury status and waitlist times……",
+  "apple": "https://podcasts.apple.com/us/podcast/rolex/id1050462261?i=1000695429676&uo=4",
+  "page": "https://www.acquired.fm/episodes/rolex",
+  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a9/1c/46a91cba-ae7a-cda8-3997-21c7386e4d2e/mza_9296017867932731636.jpg/600x600bb.jpg",
+  "youtube": ""
+ },
+ {
+  "show": "Acquired",
+  "title": "Costco",
+  "url": "https://www.acquired.fm/episodes/costco",
+  "guid": "14ef00c6-30ba-44cc-9869-33d3d92828a3",
+  "date": "2026-05-02",
+  "duration": "2h 53m",
+  "summary": "Costco is not only Charlie Munger’s favorite company of all time (plus he’s on the board, natch), it’s an absolutely fascinating study in how seemingly opposite characteristics can combine to create incredible company value. For instance: Costco has the cheapest prices of any major retailer in…",
+  "apple": "https://podcasts.apple.com/us/podcast/costco/id1050462261?i=1000625088063&uo=4",
+  "page": "https://www.acquired.fm/episodes/costco",
+  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7d/1c/80/7d1c8085-9fc7-45da-bdab-9487e6917bcf/mza_677492021207196652.jpg/600x600bb.jpg",
+  "youtube": ""
+ },
+ {
   "show": "David Senra",
   "title": "David Baszucki, Roblox",
   "url": "https://www.davidsenra.com/episode/david-baszucki",
@@ -707,7 +746,7 @@
   "url": "https://www.acquired.fm/episodes/ferrari",
   "guid": "5ad38cec-40ac-43e1-bc70-1c32617e4573",
   "date": "2026-04-13",
-  "duration": "3h 59m",
+  "duration": "3h 52m",
   "summary": "Ferrari is the pinnacle of luxury scarcity — across its entire 79-year history, the company has sold just 330,000 cars at an average price today of $500,000. For context, Hermès sells that many Birkins and Kellys roughly every 2 years, and Rolex moves that many watches every 3 months. And yet this…",
   "apple": "https://podcasts.apple.com/us/podcast/ferrari/id1050462261?i=1000761027849&uo=4",
   "page": "https://www.acquired.fm/episodes/ferrari",
@@ -803,32 +842,6 @@
   "summary": "SpaceX is one of the most dominant companies on the planet and their performance gap just keeps getting bigger. In 2025, SpaceX launched more mass to orbit than every other provider on Earth combined. MUCH MORE: every payload from China, Russia, Europe, and all American launchers wasn’t even a…",
   "page": "",
   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg",
-  "youtube": ""
- },
- {
-  "show": "Acquired",
-  "title": "Rolex",
-  "url": "https://www.acquired.fm/episodes/rolex",
-  "guid": "94dbf581-80c8-4b90-aff2-fa649cd90edd",
-  "date": "2026-03-05",
-  "duration": "4h 51m",
-  "summary": "Rolex is a series of paradoxes. They sell obsolete and objectively inferior mechanical devices for 10-1000x the price of their superior digital successors… and demand is stronger than ever in history! Their products are comparable to a Hermès Birkin bag in price, luxury status and waitlist times……",
-  "apple": "https://podcasts.apple.com/us/podcast/rolex/id1050462261?i=1000695429676&uo=4",
-  "page": "https://www.acquired.fm/episodes/rolex",
-  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/46/a9/1c/46a91cba-ae7a-cda8-3997-21c7386e4d2e/mza_9296017867932731636.jpg/600x600bb.jpg",
-  "youtube": ""
- },
- {
-  "show": "Acquired",
-  "title": "Costco",
-  "url": "https://www.acquired.fm/episodes/costco",
-  "guid": "14ef00c6-30ba-44cc-9869-33d3d92828a3",
-  "date": "2026-03-04",
-  "duration": "2h 53m",
-  "summary": "Costco is not only Charlie Munger’s favorite company of all time (plus he’s on the board, natch), it’s an absolutely fascinating study in how seemingly opposite characteristics can combine to create incredible company value. For instance: Costco has the cheapest prices of any major retailer in…",
-  "apple": "https://podcasts.apple.com/us/podcast/costco/id1050462261?i=1000625088063&uo=4",
-  "page": "https://www.acquired.fm/episodes/costco",
-  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7d/1c/80/7d1c8085-9fc7-45da-bdab-9487e6917bcf/mza_677492021207196652.jpg/600x600bb.jpg",
   "youtube": ""
  },
  {
@@ -3993,7 +4006,7 @@
  {
   "show": "Founders",
   "title": "#258: Jay Gould (Dark Genius of Wall Street)",
-  "url": "https://podcasts.apple.com/us/podcast/258-jay-gould-dark-genius-of-wall-street/id1141877104?i=1000570839230&uo=4",
+  "url": "https://podcasts.apple.com/gb/podcast/founders/id1141877104",
   "guid": "94800ce9-c26a-47d4-b417-9c53e621fe9e",
   "date": "2022-07-22",
   "duration": "1h 39m",
