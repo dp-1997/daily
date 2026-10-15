@@ -1,0 +1,333 @@
+{
+  "date": "2026-10-15",
+  "front": [
+    {
+      "title": "Apple becomes second company to close above $5 trillion",
+      "url": "https://www.macrumors.com/2026/10/14/apple-5-trillion-close",
+      "tldr": "Apple's share price pushed its market value above five trillion dollars at Wednesday's close, the second company ever to pass the mark after Nvidia.",
+      "source": "MacRumors",
+      "published": "2026-10-14T22:37:41.000Z",
+      "image": "https://images.macrumors.com/t/tbbtyA1_rWog0wJbYaLY_rROx5U=/2500x/article-new/2025/04/Stocks-App-Icon-and-Apple-Logo-Feature.jpg"
+    },
+    {
+      "title": "HomeView is simple, and that's a good thing",
+      "url": "https://sixcolors.com/link/2026/10/homeview-is-simple-and-thats-a-good-thing",
+      "tldr": "Six Colors points to a Verge review arguing that HomeView's stripped-back design, though it may frustrate hardcore smart home users, is the right choice for Apple's new device, due in November.",
+      "source": "Six Colors",
+      "published": "2026-10-15T03:09:26.000Z",
+      "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2020/06/cropped-6c-1.png?fit=240%2C240&ssl=1"
+    },
+    {
+      "title": "OpenAI publishes 350+ proofs of mathematical theorems in one go",
+      "url": "https://kottke.org/26/10/0049791-openai-recently-released-",
+      "tldr": "OpenAI released more than 350 proofs of mathematical theorems in a single batch, prompting mathematicians to note that doing just one by hand would normally merit a Fields Medal.",
+      "source": "Kottke",
+      "published": "2026-10-14T02:36:00.000Z",
+      "image": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+          "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
+          "tldr": "Ricursive Intelligence is building AI that designs chips and improves its own designs with each iteration, aiming to automate and speed up chip development as compute demand soars.",
+          "source": "TechCrunch",
+          "published": "2026-10-15T01:01:32.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800"
+        },
+        {
+          "title": "Tree Appreciator",
+          "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator",
+          "tldr": "Developer Simon Willison prompted Claude Opus 5.5 Max from his phone's chat app to build a three.js game about appreciating trees, his latest small vibe-coded experiment.",
+          "source": "Simon Willison",
+          "published": "2026-10-14T21:23:01.000Z",
+          "image": "https://static.simonwillison.net/static/2026-10-14/image_crop_1320x2195_w1320_q0.7.webp"
+        },
+        {
+          "title": "Deezer will soon let you filter out AI-generated music",
+          "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music",
+          "tldr": "Deezer says it will roll out a toggle letting listeners filter AI-generated tracks out of search and recommendations by the end of the year.",
+          "source": "TechCrunch",
+          "published": "2026-10-14T15:16:04.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067"
+        },
+        {
+          "title": "Google DeepMind and Singapore government build fine-tuned AI model for scam detection",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+          "tldr": "Google DeepMind and Singapore's GovTech used lightweight, on-device Gemma models to intercept conversational scams in private chats without sending any data to the cloud.",
+          "source": "Google DeepMind",
+          "published": "2026-10-14T02:00:14.000Z",
+          "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "NASA explains how it's making batteries for the Moon's extreme temperatures",
+          "url": "https://www.engadget.com/2287038/nasa-explains-how-its-making-batteries-for-the-moons-extreme-temperatures",
+          "tldr": "NASA is developing new battery chemistry for lunar missions, since standard lithium-ion cells cannot handle the Moon's extreme temperature swings.",
+          "source": "Engadget",
+          "published": "2026-10-14T20:07:03.000Z",
+          "image": "https://www.engadget.com/img/gallery/nasa-explains-how-its-making-batteries-for-the-moons-extreme-temperatures/l-intro-1792008359.jpg"
+        },
+        {
+          "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+          "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes",
+          "tldr": "Database startup CedarDB is building an engine that handles both transactional and analytical workloads at once, a combination it says matters more now that AI agents query data constantly.",
+          "source": "TechCrunch",
+          "published": "2026-10-14T22:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933"
+        },
+        {
+          "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+          "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts",
+          "tldr": "Colossal Biosciences unveiled an AI platform meant to speed up its de-extinction research, alongside a new fund from Peter Diamandis to back startups building on it.",
+          "source": "TechCrunch",
+          "published": "2026-10-14T21:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Colossal-Labs-2.png?resize=1200,691"
+        },
+        {
+          "title": "Sony is taking on DJI with its new ECM-W5 wireless microphone kit",
+          "url": "https://www.engadget.com/2286975/sony-is-taking-on-dji-with-its-new-ecm-w5-wireless-microphone-kit",
+          "tldr": "Sony launched the ECM-W5, a wireless microphone kit aimed squarely at DJI's audio gear, though it comes at a price.",
+          "source": "Engadget",
+          "published": "2026-10-14T19:25:28.000Z",
+          "image": "https://www.engadget.com/img/gallery/sony-is-taking-on-dji-with-its-new-ecm-w5-wireless-microphone-kit/l-intro-1792005860.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "iPhone Duo's A20 Pro chip benchmarked ahead of launch",
+          "url": "https://www.macrumors.com/2026/10/14/iphone-duo-benchmark",
+          "tldr": "An early Geekbench listing shows the iPhone Duo's A20 Pro chip performing similarly to the iPhone 18 Pro's, ahead of pre-orders opening this Friday.",
+          "source": "MacRumors",
+          "published": "2026-10-15T00:20:32.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg"
+        },
+        {
+          "title": "Apple Maps launches Detailed City Experience in Austin, Texas",
+          "url": "https://9to5mac.com/2026/10/14/apple-maps-launches-detailed-city-experience-in-austin-texas",
+          "tldr": "Apple is rolling out its more detailed Apple Maps overhaul to Austin, Texas, extending the Detailed City Experience it has already brought to other markets.",
+          "source": "9to5Mac",
+          "published": "2026-10-14T23:03:45.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-maps-austin.webp?w=1600"
+        },
+        {
+          "title": "Third-party HomeView apps? Think CarPlay",
+          "url": "https://sixcolors.com/post/2026/10/third-party-homeview-apps-think-carplay",
+          "tldr": "HomeView ships without an App Store, but Six Colors argues its limited third-party app model works more like CarPlay's curated approach than a true app platform.",
+          "source": "Six Colors",
+          "published": "2026-10-14T00:14:38.000Z",
+          "image": "https://sixcolors.com/wp-content/uploads/2026/10/built-in-apps-and-iphone-available-apps-icons-6c.png"
+        },
+        {
+          "title": "WhatsApp takes on Zoom and Google Meet with guest calling",
+          "url": "https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling",
+          "tldr": "WhatsApp now lets people join group and one-on-one calls as guests without needing an account, putting it in more direct competition with Zoom and Google Meet.",
+          "source": "9to5Mac",
+          "published": "2026-10-14T22:39:29.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-guest-calling.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'To Be Ordinary' review: a compassionate, even-handed Taiwanese family melodrama",
+          "url": "https://variety.com/2026/film/reviews/to-be-ordinary-review-1236912654",
+          "tldr": "Variety praises \"To Be Ordinary,\" a Taiwanese drama about a college student left paralysed after a crash, for its sensitive, even-handed take on a hard subject.",
+          "source": "Variety",
+          "published": "2026-10-15T02:16:52.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/To-Be-Ordinary.jpg"
+        },
+        {
+          "title": "Harvey Keitel threw 'Bad Lieutenant' in the trash before giving one of his greatest performances",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/harvey-keitel-bad-lieutenant-abel-ferrara-1236730183",
+          "tldr": "Director Abel Ferrara recalls how Christopher Walken's last-minute exit nearly sank \"Bad Lieutenant\" in 1992, before Harvey Keitel stepped in for one of his best performances.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-14T20:13:22.000Z",
+          "image": ""
+        },
+        {
+          "title": "Liam Neeson's stunt double of nearly 30 years steps behind the camera for 'The Mongoose'",
+          "url": "https://www.indiewire.com/features/interviews/liam-neeson-stunt-double-directs-the-mongoose-interview-1235220493",
+          "tldr": "Mark Vanselow, who has doubled for Liam Neeson since 1998, draws on three decades of stunt work to direct Neeson in \"The Mongoose.\"",
+          "source": "IndieWire",
+          "published": "2026-10-14T17:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Mongoose_Still-6.jpg?w=650"
+        },
+        {
+          "title": "Mubi sets theatrical release for Sundance prize winning doc 'Nuisance Bear'",
+          "url": "https://variety.com/2026/film/news/film-news-in-brief-oct-12-2026-1236909107",
+          "tldr": "Mubi will give \"Nuisance Bear,\" winner of the Sundance Grand Jury documentary prize, a theatrical run starting in Los Angeles on 6 November before it expands.",
+          "source": "Variety",
+          "published": "2026-10-14T18:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/01/Nuisance_Bear-Still_1.jpg"
+        },
+        {
+          "title": "'Whalefall' review: Austin Abrams battles a bellyful of daddy issues in brutal survival thriller",
+          "url": "https://www.indiewire.com/criticism/movies/whalefall-review-austin-abrams-1235221552",
+          "tldr": "IndieWire calls \"Whalefall\" an exceptional piece of underwater body horror, a sincere adaptation of Daniel Kraus's novel that packs real emotional weight into its survival premise.",
+          "source": "IndieWire",
+          "published": "2026-10-14T16:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDWHAL_H3008.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics beat Hornets 114-93 in preseason dress rehearsal",
+          "url": "https://www.celticsblog.com/celtics-scores-results/147696/celtics-beat-hornets-114-93-in-preseason-dress-rehearsal",
+          "tldr": "Boston beat Charlotte 114-93 to move to 3-0 in the preseason, their final tune-up before the regular season opener.",
+          "source": "CelticsBlog",
+          "published": "2026-10-15T01:55:54.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2300252661.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Payton Pritchard's big contract is years in the making",
+          "url": "https://www.celticsblog.com/boston-celtics-news/147100/payton-pritchard-contract-extension-celtics",
+          "tldr": "Four years after nearly leaving Boston out of frustration over playing time, Payton Pritchard has earned a big new contract from the Celtics.",
+          "source": "CelticsBlog",
+          "published": "2026-10-14T13:45:30.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299066267.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Drake Maye named one of two FedEx Air & Ground Players of the Week",
+          "url": "https://www.patriots.com/news/drake-maye-named-one-of-two-fedex-air-ground-players-of-the-week",
+          "tldr": "Drake Maye was named a FedEx Air & Ground Player of the Week for Week 5, sharing the honour with the Packers' Jordan Love.",
+          "source": "Patriots.com",
+          "published": "2026-10-14T20:36:34.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/kv5cegz9gbw50v6ioqnt.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "A.J. Brown returns to Patriots practice, could play as soon as Sunday",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/14/a-j-brown-new-england-patriots-return-injury-update-nfl-football-ankle-practice",
+          "tldr": "A.J. Brown returned to practice five weeks after a high ankle sprain, with the Patriots opening his 21-day window to come off injured reserve for Sunday's Jets game.",
+          "source": "Boston.com",
+          "published": "2026-10-14T21:07:26.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/BNECV5HFCXADKUZ74NMP3S7RA4-6acfea943d496-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Christian Gonzalez says he's 'ready for Sunday' against Jets",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/14/patriots-jets-christian-gonzalez-injury-update-comments",
+          "tldr": "All-Pro cornerback Christian Gonzalez says he is ready to return this week after a shoulder injury kept him out for two games.",
+          "source": "Boston.com",
+          "published": "2026-10-14T20:32:14.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/Patriots_Jaguars_Football_57429-6abd7e1d2570d-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Mekies signs long-term contract extension with Red Bull",
+          "url": "https://www.formula1.com/en/latest/article/mekies-commits-to-long-term-contract-extension-as-red-bull-team-principal.1NfCP1Zas2IAzVa3sNa3yf",
+          "tldr": "Red Bull extended Laurent Mekies's contract as team principal through 2031, a strong endorsement after his first season leading the team.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Red%20Bull/16x9%20single%20image%20-%202026-10-14T172838.451.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "Christian Horner reveals secret battle with panic attacks during F1 career",
+          "url": "https://www.motorsport.com/f1/news/christian-horner-reveals-secret-battle-with-panic-attacks-during-high-pressure-f1-career/10864876",
+          "tldr": "In his new memoir, Christian Horner writes about the panic attacks he suffered behind the scenes during his high-pressure years leading Red Bull.",
+          "source": "Motorsport.com",
+          "published": "2026-10-14T10:52:23.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/2wlKwvWY/s6/untitled-design-17-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Verstappen says Red Bull's car was \"scary\" to drive early in 2026",
+          "url": "https://www.racefans.net/2026/10/14/verstappen-says-red-bulls-car-was-scary-to-drive-early-in-2026",
+          "tldr": "Max Verstappen says Red Bull's car felt \"scary\" to drive early this season, before a run of upgrades turned it into a race winner.",
+          "source": "RaceFans",
+          "published": "2026-10-14T10:48:46.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/03/racefansdotnet-24-03-08-07-07-16-1-SI202603080146.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Durbin, Rafaela, Abreu nominated for Gold Glove Awards",
+          "url": "https://www.mlb.com/redsox/news/2026-gold-glove-award-finalists",
+          "tldr": "Red Sox players Durbin, Rafaela and Abreu are finalists for this year's Gold Glove Awards.",
+          "source": "MLB.com",
+          "published": "2026-10-14T17:07:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/wfbuwgporg32wfwjttw8.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox star Payton Tolle hugged his way into our hearts",
+          "url": "https://www.overthemonster.com/red-sox-comentary/110507/red-sox-star-payton-tolle-hugged-his-way-into-our-hearts",
+          "tldr": "Over the Monster's look back at 2026 includes Payton Tolle, who won Red Sox fans over as much for his hugs as his play.",
+          "source": "Over the Monster",
+          "published": "2026-10-14T15:14:10.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/07/gettyimages-2276068927.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-ship-like-a-startup",
+    "why": "On a day Apple crossed $5 trillion, a look at how smaller teams ship with startup speed and focus feels like the right counterweight for Damian's own side projects.",
+    "title": "How to ship like a startup",
+    "subtitle": "Seven lessons from the story of Figma Slides",
+    "published": "2025-03-25",
+    "words": 2658,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ffe7e02-cbca-4c5d-ac5c-a146cfc40938_916x514.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/423-soichiro-honda/id1141877104?i=1000774523761&uo=4",
+      "why": "A classic product-and-engineering founder story in the vein of the operators Damian studies.",
+      "show": "Founders",
+      "title": "#423 Soichiro Honda",
+      "published": "2026-06-28",
+      "duration": "48m",
+      "apple": "https://podcasts.apple.com/us/podcast/423-soichiro-honda/id1141877104?i=1000774523761&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/lessons-from-napoleon-steve-jobs-joan-of-arc-other/id1836497887?i=1000796270200&uo=4",
+      "why": "Today's new episode, including lessons from Steve Jobs, one of Damian's touchstones.",
+      "show": "David Senra",
+      "title": "Lessons from Napoleon, Steve Jobs, Joan of Arc & Other Leaders | Ben Wilson",
+      "published": "2026-10-14",
+      "duration": "1h 11m",
+      "apple": "https://podcasts.apple.com/us/podcast/lessons-from-napoleon-steve-jobs-joan-of-arc-other/id1836497887?i=1000796270200&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/38/05/8d/38058dad-2cf7-5bb0-db72-0cd824bf9421/mza_15879069794120001383.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/home-depot",
+      "why": "The newest unrecommended Acquired deep dive, a craft-and-operations story in the company-history mould Damian likes.",
+      "show": "Acquired",
+      "title": "The Home Depot",
+      "published": "2026-09-14",
+      "duration": "3h 35m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-home-depot/id1050462261?i=1000789467893&uo=4",
+      "page": "https://www.acquired.fm/episodes/home-depot",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e5/4b/eb/e54bebd6-32db-0a46-bb4b-f2acd3a8464b/mza_8660330428363636018.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=6Kq5e49MD6U"
+    }
+  ],
+  "finally": {
+    "title": "Whoa, the Lion Nebula!",
+    "url": "https://kottke.org/26/10/whoa-the-lion-nebula",
+    "tldr": "NASA's James Webb Space Telescope captured a striking new image of the Lion Nebula, the glowing remnant of a massive star's supernova explosion.",
+    "source": "Kottke",
+    "published": "2026-10-14T14:55:00.000Z",
+    "image": "http://kottke.org/images/posts/01/editor-1791942025-e398546e.jpg"
+  }
+}
