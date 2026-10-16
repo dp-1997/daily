@@ -1,0 +1,310 @@
+{
+  "date": "2026-10-16",
+  "note": "iPhone Duo pre-orders open today at 1pm UK time.",
+  "front": [
+    {
+      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style",
+      "tldr": "Tesla's redesigned Roadster used compressed-air thrusters to leap over a Cybercab, Cybertruck, Semi, Model Y and Model 3 at a Texas demo, previewing the car's planned flight mode.",
+      "source": "TechCrunch",
+      "published": "2026-10-16T01:17:43.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-roadster-2-fly.jpg?resize=1200,877"
+    },
+    {
+      "title": "iPhone Duo pre-orders open today",
+      "url": "https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo",
+      "tldr": "From 5am Pacific time today, customers can pre-order Apple's new iPhone Duo on apple.com and in the Apple Store app, ahead of its retail launch.",
+      "source": "Apple Newsroom",
+      "published": "2026-10-15T12:59:28.566Z",
+      "image": "https://www.apple.com/newsroom/images/2026/10/open-up-to-new-possibilities-with-iphone-duo/tile/Apple-iPhone-Duo-hero-lp.jpg.og.jpg?202610160241"
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+      "tldr": "Meta and Apple worked together on Muse Spark Open, a new open-weight model that runs locally on Apple silicon, extending their collaboration beyond hardware into on-device AI.",
+      "source": "TechCrunch",
+      "published": "2026-10-15T20:04:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Cal AI's viral success was built on a small army of paid influencers",
+          "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
+          "tldr": "Calorie-tracking app Cal AI generated over $30 million in revenue in two years before MyFitnessPal acquired it, built largely through paid influencer marketing rather than traditional ads.",
+          "source": "TechCrunch",
+          "published": "2026-10-15T23:44:56.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900"
+        },
+        {
+          "title": "Amazon's Panos Panay predicts AI devices will replace the need to use apps",
+          "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
+          "tldr": "Speaking at TechCrunch Disrupt, Amazon's devices chief described a future where ambient AI devices anticipate what people need in the background, rather than waiting for them to open an app.",
+          "source": "TechCrunch",
+          "published": "2026-10-15T19:55:25.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024"
+        },
+        {
+          "title": "Chirp Pong: a two-player game that syncs over audio chirps between phones",
+          "url": "https://simonwillison.net/2026/Oct/15/chirp-pong",
+          "tldr": "Developer Simon Willison built Chirp Pong, a two-player browser game that syncs state between separate phones using audio chirps instead of a network connection.",
+          "source": "Simon Willison",
+          "published": "2026-10-15T19:47:52.000Z",
+          "image": ""
+        },
+        {
+          "title": "Anthropic gives METR researchers employee-level access to its systems",
+          "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
+          "tldr": "Anthropic has given AI safety group METR employee-level access and given up the right to block its findings, so METR can publish its own assessments of Anthropic's risks and incidents.",
+          "source": "TechCrunch",
+          "published": "2026-10-15T19:14:26.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Intero Biosystems wins Startup Battlefield at Disrupt 2026",
+          "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems",
+          "tldr": "Intero Biosystems beat 199 other companies to take the $100,000 grand prize at TechCrunch Disrupt's Startup Battlefield this week.",
+          "source": "TechCrunch",
+          "published": "2026-10-15T23:33:45.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55592280883_eb4cee0d80_k.jpg?resize=1200,800"
+        },
+        {
+          "title": "E Ink's new Kaleido 4 display improves colour e-readers",
+          "url": "https://www.engadget.com/2288006/e-ink-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader",
+          "tldr": "E Ink's Kaleido 4 panel offers better colour reproduction and faster refresh rates, another step towards a genuinely good colour e-reader.",
+          "source": "Engadget",
+          "published": "2026-10-15T18:41:58.000Z",
+          "image": "https://www.engadget.com/img/gallery/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/l-intro-1792089646.jpg"
+        },
+        {
+          "title": "Figma adds new features for how AI agents work on its platform",
+          "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
+          "tldr": "Figma is releasing new tools to define how AI agents operate within its design platform, and is also opening its code layers feature to open beta.",
+          "source": "TechCrunch",
+          "published": "2026-10-15T04:30:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675"
+        },
+        {
+          "title": "Volvo deepens its Nvidia partnership for hands-free driving",
+          "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia",
+          "tldr": "Volvo is expanding its near decade-long partnership with Nvidia to extend hands-free automated driving beyond its battery-electric models.",
+          "source": "TechCrunch",
+          "published": "2026-10-15T17:34:40.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/volvo-s90.jpg?resize=1200,900"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple's new Apple TV 4K and HomePod mini 2 cost more than their predecessors",
+          "url": "https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepod_mini_2",
+          "tldr": "John Gruber tallies the price rises behind Apple's new Apple TV 4K and HomePod mini 2, which push the cost of a combination that was $350 before June noticeably higher.",
+          "source": "Daring Fireball",
+          "published": "2026-10-16T01:18:29.000Z",
+          "image": "https://daringfireball.net/graphics/df-wide-card.png"
+        },
+        {
+          "title": "New Withings users must pay $99 a year for Apple Health syncing",
+          "url": "https://www.macrumors.com/2026/10/15/withings-plus-apple-health-syncing",
+          "tldr": "Withings now requires customers who create an account from 13 October 2026 onward to subscribe to Withings+ for automatic Apple Health syncing, gating a feature that was previously free.",
+          "source": "MacRumors",
+          "published": "2026-10-15T20:18:32.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/Withings-iPhone.jpg"
+        },
+        {
+          "title": "Apple closes in on Samsung despite record smartphone shipment decline",
+          "url": "https://9to5mac.com/2026/10/15/idc-apple-closes-in-on-samsung-as-global-smartphone-shipments-see-record-decline-in-q3",
+          "tldr": "IDC says Apple's global iPhone shipments fell 4% year-on-year in Q3 2026, even as its share of the shrinking smartphone market rose to 23.1%.",
+          "source": "9to5Mac",
+          "published": "2026-10-15T20:35:49.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple's marketing chief says Apple Intelligence is for 'everyday people', not the 'lunatic fringe'",
+          "url": "https://www.macrumors.com/2026/10/15/greg-joswiak-lunatic-fringe",
+          "tldr": "In an interview with TIME, Apple marketing chief Greg Joswiak said Apple Intelligence is built for ordinary users rather than the AI power users he called the 'lunatic fringe'.",
+          "source": "MacRumors",
+          "published": "2026-10-15T15:13:56.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/Apple-Greg-Joswiak.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Norm: The Tale of Norm Macdonald' review: Judd Apatow's haunting portrait of a comedy star",
+          "url": "https://variety.com/2026/film/reviews/norm-the-tale-of-norm-macdonald-review-judd-apatow-1236911273",
+          "tldr": "Variety's review of Judd Apatow's documentary on Norm Macdonald finds a comic as troubled as he was hilarious, with a streak of Andy Kaufman's antisocial edge.",
+          "source": "Variety",
+          "published": "2026-10-16T03:43:27.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/08/Norm__The_Tale_of_Norm_Macdonald_n_00_48_23_20.png"
+        },
+        {
+          "title": "Steven Soderbergh steps in to finish filming The Batman Part II",
+          "url": "https://deadline.com/2026/10/steven-soderbergh-the-batman-part-ii-1237158482",
+          "tldr": "Soderbergh is helping complete the final weeks of principal photography on The Batman Part II while director Matt Reeves attends to a family matter.",
+          "source": "Deadline",
+          "published": "2026-10-15T22:16:16.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/Steven-Soderbergh-Batman-and-Matt-Reeves.jpg"
+        },
+        {
+          "title": "Denis Villeneuve explains why he chose Bond after finishing Dune 3",
+          "url": "https://variety.com/2026/film/news/denis-villeneuve-james-bond-dune-3-1236913390",
+          "tldr": "Villeneuve told Empire he returned for a third, final Dune so he could be 'severe with the material', and that directing the new James Bond film will be his next 'powerful rocket'.",
+          "source": "Variety",
+          "published": "2026-10-15T20:34:20.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/03/zendaya-dune-3-1.jpg"
+        },
+        {
+          "title": "Jenna Ortega hopes 'Klara and the Sun' encourages people to put down their phones",
+          "url": "https://variety.com/2026/film/festivals/jenna-ortega-klara-and-the-sun-put-down-phones-london-premiere-1236912808",
+          "tldr": "At the London premiere of her dystopian sci-fi film Klara and the Sun, Jenna Ortega said she hopes it reminds audiences to live in the moment rather than stay lost in technology.",
+          "source": "Variety",
+          "published": "2026-10-15T22:43:11.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/jenna-ortega-1000.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Jayson Tatum and Mitchell Robinson shine together in preseason win over Hornets",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/15/jayson-tatum-mitchell-robinson-shine-together-in-preseason-win-over-hornets-8-takeaways",
+          "tldr": "Tatum and Robinson looked like a problem for opposing defences in the Celtics' third straight preseason win, this time over the Hornets.",
+          "source": "Boston.com",
+          "published": "2026-10-15T11:06:48.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Jayson-Tatum-Preseason-Takeaways-Celtics_Basketball_4_973-6ad0b328a354b-850x638.jpg"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Celtics debut new twin-tower lineup in third straight preseason win",
+          "url": "https://www.celticsblog.com/celtics-analysis/147738/parquet-plays-boston-debuts-new-twin-tower-lineup",
+          "tldr": "Boston beat Charlotte 113-94 for a third consecutive preseason win, with a new twin-tower lineup among the game's notable takeaways.",
+          "source": "CelticsBlog",
+          "published": "2026-10-15T15:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/Untitled-design.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Payton Pritchard is adding another dimension to his game",
+          "url": "https://www.celticsblog.com/boston-celtics-news/147711/payton-pritchard-celtics-preseason-assists",
+          "tldr": "Known for shooting, Pritchard passed up an open three in Boston's preseason win to set up an even more open Baylor Scheierman look, a small sign of a more unselfish game.",
+          "source": "CelticsBlog",
+          "published": "2026-10-15T11:19:10.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299069125.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots vs. Jets preview for NFL Week 6",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/140660/patriots-vs-jets-preview-nfl-week-6",
+          "tldr": "New England host the Jets on Sunday, a meeting between two second-year head coaches who have had very different levels of success so far this season.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-15T11:47:08.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2290775467.jpg?quality=90&strip=all&crop=0,14.590849930272,86.9814453125,85.409150069728"
+        },
+        {
+          "tag": "Patriots",
+          "title": "A.J. Brown's return status still 'up in the air' for Sunday",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/140814/a-j-brown-says-return-status-still-up-in-the-air-for-sunday",
+          "tldr": "Patriots receiver A.J. Brown returned to practice this week for the first time since a high ankle sprain in Week 1, but his availability against the Jets remains unclear.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-15T19:24:17.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2294808418.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Rafael Camara to make F1 debut with Haas in 2027, replacing Esteban Ocon",
+          "url": "https://www.autosport.com/f1/news/camara-to-make-f1-debut-at-haas-replacing-ocon/10865325",
+          "tldr": "Formula 2 championship leader Rafael Camara will make his Formula 1 debut for Haas in 2027 alongside Oliver Bearman, replacing Esteban Ocon.",
+          "source": "Autosport",
+          "published": "2026-10-15T14:01:00.000Z",
+          "image": "https://cdn-7.motorsport.com/images/amp/01WVnzmY/s6/f3-drivers-champion-and-race-w-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Lando Norris's business empire: Quadrant, LN4 Fusion and Seat Unique explained",
+          "url": "https://www.motorsport.com/f1/news/lando-norriss-business-empire-explained-quadrant-ln4-fusion-and-seat-unique/10865417",
+          "tldr": "Beyond racing, Norris's business portfolio now spans a gaming brand founded in lockdown, a junior racing team and a stake in a ticketing platform, each betting on a different industry.",
+          "source": "Motorsport.com",
+          "published": "2026-10-15T13:55:18.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/0JXRqrMY/s6/untitled-design-29-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Payton Tolle was immaculate for the 2026 Red Sox",
+          "url": "https://www.overthemonster.com/red-sox-comentary/110519/payton-tolle-was-immaculate-for-the-2026-red-sox",
+          "tldr": "Looking back at Boston's 2026 season, Over the Monster highlights Payton Tolle's standout year as one of its most memorable moments.",
+          "source": "Over the Monster",
+          "published": "2026-10-15T11:10:32.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2294707469.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/essential-reading-for-product-builderspart-1ac",
+    "why": "Timeless essays for product builders, a good one to have on hand any week you're thinking about what to build or launch next.",
+    "title": "Essential reading for product builders—part 2",
+    "subtitle": "10 more timeless essays you probably haven’t read but should",
+    "published": "2025-08-12",
+    "words": 1986,
+    "image": "https://substackcdn.com/image/fetch/$s_!wy-H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77f6a1f9-9234-41fc-b5ee-d4e1c0e3d07b_2912x1940.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/421-jony-ive/id1141877104?i=1000772060625&uo=4",
+      "why": "With a new Apple TV and HomePod mini out and an iPhone Duo pre-order opening today, a return to Senra's episode on Jony Ive feels timely.",
+      "show": "Founders",
+      "title": "#421 Jony Ive",
+      "published": "2026-06-10",
+      "duration": "53m",
+      "apple": "https://podcasts.apple.com/us/podcast/421-jony-ive/id1141877104?i=1000772060625&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/zach-dell",
+      "why": "Pairs well with today's Tesla Roadster spectacle: a conversation about building for energy abundance from someone tackling the same problem from the grid side.",
+      "show": "David Senra",
+      "title": "Zach Dell on Base Power, Energy Abundance & Building a Company for Life",
+      "published": "2026-09-06",
+      "duration": "1h 16m",
+      "apple": "https://podcasts.apple.com/us/podcast/zach-dell-on-base-power-energy-abundance-building-a/id1836497887?i=1000788108719&uo=4",
+      "page": "https://www.davidsenra.com/zach-dell",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b2/14/9c/b2149cec-550e-9c79-6b15-b551d99989b3/mza_12846453047352593332.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=QFk6g5PQtqs"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/alphabet-inc",
+      "why": "With Meta's open-weight Muse Spark Open making news, Acquired's deep dive on Alphabet is a useful second data point on how the big AI labs actually make money.",
+      "show": "Acquired",
+      "title": "Google Part II: Alphabet",
+      "published": "2025-08-26",
+      "duration": "4h 02m",
+      "apple": "https://podcasts.apple.com/us/podcast/google-part-ii-alphabet/id1050462261?i=1000723582204&uo=4",
+      "page": "https://www.acquired.fm/episodes/alphabet-inc",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/e2/9f/84e29f13-dc8c-7bab-e12d-326bd02a4875/mza_17192775422872785600.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "'Welcoming and inclusive' London housing wins RIBA Stirling Prize 2026",
+    "url": "https://www.dezeen.com/2026/10/15/lion-green-road-riba-stirling-prize-2026",
+    "tldr": "Lion Green Road, a south London housing scheme by Mary Duggan Architects with Ruff Architects, has won the RIBA Stirling Prize for the UK's best new building.",
+    "source": "Dezeen",
+    "published": "2026-10-15T20:30:53.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/10/lion-green-road-mary-duggan-ruff-architects-london-riba-stirling-prize-2026-winner_dezeen_2364_sq-411x411.jpg"
+  }
+}
