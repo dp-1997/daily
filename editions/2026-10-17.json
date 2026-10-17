@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-17",
+  "front": [
+    {
+      "title": "iPhone Duo Pre-Orders Launched, and Three Hours Later It's Sold Out Through the End of January",
+      "url": "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas",
+      "tldr": "Apple's iPhone Duo pre-orders sold out in the US within three hours of launch, with new orders now estimated to ship after Christmas. Demand for the folding iPhone has outpaced supply from day one.",
+      "source": "Daring Fireball",
+      "published": "2026-10-16T15:19:28.000Z",
+      "image": "https://images.macrumors.com/t/Dub_itOZwc0Khx87nCgv4lVL5wc=/1600x/article-new/2026/09/iphone-duo-closed.jpg"
+    },
+    {
+      "title": "Tesla Launches Flying Roadster Concept Car",
+      "url": "https://www.dezeen.com/2026/10/16/tesla-launches-flying-roadster-concept-car",
+      "tldr": "Tesla showed its Roadster concept driving upside down, flipping off a ramp and briefly lifting off using compressed-air thrusters. The stunt is a concept demo; the production Roadster isn't expected before 2028.",
+      "source": "Dezeen",
+      "published": "2026-10-16T02:09:57.000Z",
+      "image": "http://static.dezeen.com/uploads/2026/10/tesla-roadster-flying-car_dezeen_2364_sq-411x411.jpg"
+    },
+    {
+      "title": "How 'Whalefall' Director Brian Duffield Built a Practical Whale Stomach to Crush Austin Abrams On Set",
+      "url": "https://variety.com/2026/film/features/whalefall-austin-abrams-crushed-whale-stomach-on-set-1236912491",
+      "tldr": "Director Brian Duffield built a practical rig to physically crush star Austin Abrams inside a whale's stomach for survival film Whalefall, now in cinemas, favouring real strain over digital effects.",
+      "source": "Variety",
+      "published": "2026-10-17T00:01:05.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/10/Brian-Duffield1669-FORWEB.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "A Better Question Than 'Did a Human Read the Code?'",
+          "url": "https://simonwillison.net/2026/Oct/16/code-review",
+          "tldr": "Simon Willison highlights a take arguing that asking whether a human reviewed AI-written code is the wrong question. The better one: what could go wrong, and which check, automated or human, should catch it.",
+          "source": "Simon Willison",
+          "published": "2026-10-16T22:06:37.000Z",
+          "image": ""
+        },
+        {
+          "title": "Stack Overflow for Agents Triples Signups With ChatGPT Plugin",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "tldr": "Two engineers built Stack Overflow for Agents in a few weeks using OpenAI's Codex, and a ChatGPT plugin has driven up to tenfold growth in agent creation. The tool helps developers debug and share fixes for AI agents.",
+          "source": "OpenAI",
+          "published": "2026-10-16T00:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Elorian's First AI Model Wants to Reason With Images, Not Just About Them",
+          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
+          "tldr": "Startup Elorian launched Glimpse, a model it says reasons directly with images rather than describing them. The company reports it outperforms GPT-6 Astra on scientific chart reasoning and short-form video captioning.",
+          "source": "TechCrunch",
+          "published": "2026-10-16T16:01:37.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675"
+        },
+        {
+          "title": "Replit Is No Longer Working With Anthropic, CEO Says",
+          "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
+          "tldr": "Replit CEO Amjad Masad said the company has ended its work with Anthropic, citing cost among several reasons. Replit struck a partnership with OpenAI in August.",
+          "source": "TechCrunch",
+          "published": "2026-10-16T21:22:28.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Waymo's Robotaxis Are Headed to Canada",
+          "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada",
+          "tldr": "Waymo will begin testing its self-driving vehicles on Toronto's streets, marking its first expansion outside the US. It is the company's latest step in widening its robotaxi footprint.",
+          "source": "TechCrunch",
+          "published": "2026-10-16T16:06:38.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675"
+        },
+        {
+          "title": "Analogue Returns to the 16-Bit Era With the Mega Sg+ and Super Nt+",
+          "url": "https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt",
+          "tldr": "Analogue has revived its 16-bit consoles with updated Mega Sg+ and Super Nt+ hardware for original Sega Genesis and Super Nintendo cartridges. Both promise modern connectivity alongside the old-school ports.",
+          "source": "Engadget",
+          "published": "2026-10-16T17:03:29.000Z",
+          "image": "https://www.engadget.com/img/gallery/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/l-intro-1792170102.jpg"
+        },
+        {
+          "title": "Tressfecta Wants to Make Hair Braiding a Less Arduous Task for Hairstylists",
+          "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists",
+          "tldr": "Startup Tressfecta builds tools for textured hair, starting with Plait Pilot, a device that helps braiders separate hair from packs before braiding begins. It targets the most tedious part of the job.",
+          "source": "TechCrunch",
+          "published": "2026-10-16T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800"
+        },
+        {
+          "title": "Steam Achievement Sets Will Stop DLCs From Ruining Your 100 Percent Record",
+          "url": "https://www.engadget.com/2288624/steam-achievement-sets-protect-100-percent-record-from-dlcs",
+          "tldr": "Steam has launched Achievement Sets in beta, letting a game's base achievements stay completable even after new DLC adds more. Completionists no longer need to worry about an expansion spoiling an old 100 percent record.",
+          "source": "Engadget",
+          "published": "2026-10-16T11:54:54.000Z",
+          "image": "https://www.engadget.com/img/gallery/steam-achievement-sets-will-stop-dlcs-from-ruining-your-100-percent-record/l-intro-1792151622.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "New App Store Rules Target AI Deepfakes and Nudify Apps",
+          "url": "https://www.macrumors.com/2026/10/16/app-store-rules-deepfakes",
+          "tldr": "Apple has expanded its App Store rules to explicitly ban apps that generate AI deepfake nudity, building on its existing ban on sexually explicit content. Developers must now also avoid bait-and-switch tactics that hide an app's real purpose.",
+          "source": "MacRumors",
+          "published": "2026-10-16T22:21:45.000Z",
+          "image": "https://images.macrumors.com/article-new/2025/12/Liquid-Glass-App-Store-Feature.jpg"
+        },
+        {
+          "title": "Verizon Will Charge $10 a Month for iPhone Handoff",
+          "url": "https://www.macrumors.com/2026/10/16/verizon-iphone-handoff-cost",
+          "tldr": "Verizon has confirmed it will charge $10 a month for iPhone Handoff, the iOS 27 feature that lets one phone number run across two iPhones, following similar moves by T-Mobile and Deutsche Telekom.",
+          "source": "MacRumors",
+          "published": "2026-10-16T23:37:48.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/iPhone-Handoff-Feature.jpeg"
+        },
+        {
+          "title": "HomeView Will Include These Apple Apps at Launch",
+          "url": "https://9to5mac.com/2026/10/16/homeview-will-include-these-apple-apps-at-launch",
+          "tldr": "Apple's new $299 HomeView smart home hub, available to pre-order now, ships November 13 with a defined set of first-party apps on board. It is part of a broader smart home refresh alongside the new Apple TV 4K and HomePod mini 2.",
+          "source": "9to5Mac",
+          "published": "2026-10-16T19:50:31.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-facetime.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Francis Lawrence to Direct Sci-Fi Film 'Red Rising' for Paramount",
+          "url": "https://deadline.com/2026/10/red-rising-movie-francis-lawrence-to-direct-paramount-1237165870",
+          "tldr": "Paramount has acquired film rights to Pierce Brown's bestselling sci-fi series Red Rising and set Hunger Games director Francis Lawrence to adapt the first novel. Justin Rhodes will write the script.",
+          "source": "Deadline",
+          "published": "2026-10-16T21:18:47.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/Red-Saga-and-Francis-Lawrence.jpg"
+        },
+        {
+          "title": "Chase Infiniti's 'The Julia Set' Acquired by Sony Pictures Classics",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/julia-set-sony-pictures-classics-1236733715",
+          "tldr": "Sony Pictures Classics has picked up US and international rights to The Julia Set, Niki Byrne's directorial debut about a young maths genius starring Chase Infiniti, Jason Isaacs and Gillian Anderson. The film premiered at the Toronto Film Festival.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-16T18:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "London Film Festival's Surprise Movie Is 'I Play Rocky'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/london-film-festival-surprise-movie-i-play-rocky-ippolito-1236733561",
+          "tldr": "Peter Farrelly surprised London Film Festival attendees by joining director Kristy Matheson on stage to unveil the festival's surprise screening, a biographical drama about the origins of Sylvester Stallone's Rocky franchise.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-16T20:47:52.000Z",
+          "image": ""
+        },
+        {
+          "title": "The Costumes of 'Sense and Sensibility' Are a Love Letter to Stealing Your Sister's Clothes",
+          "url": "https://www.indiewire.com/features/craft/sense-and-sensibility-costumes-sisters-who-steal-1235222259",
+          "tldr": "Costume designer Grace Snell tells IndieWire how modern and period influences shaped the Dashwood family's wardrobe in the new Sense and Sensibility adaptation. The costumes lean on the idea of sisters borrowing each other's clothes.",
+          "source": "IndieWire",
+          "published": "2026-10-16T17:30:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDSEAN_UC011.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Hugo González's Big Night Leads Celtics Over Jaylen Brown, 76ers",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/16/celtics-76ers-preseason-takeaways",
+          "tldr": "The Celtics closed their preseason with a win over Jaylen Brown's 76ers, with Hugo González turning in a standout performance. Boston played an aggressive defensive style for the third straight game.",
+          "source": "Boston.com",
+          "published": "2026-10-17T03:49:08.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/YEJD4NG4WL3X7MUTIUZGIOO22E-6ad2ed5b8f6e2-850x638.jpg"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Mazzulla's Group Is Ahead of Schedule",
+          "url": "https://www.celticsblog.com/boston-celtics-news/147721/mazzullas-group-is-ahead-of-schedule",
+          "tldr": "Three preseason games in, the Celtics are already playing with the sharpness and hype that usually takes longer to build. It is only preseason, but Joe Mazzulla's team is earning the early optimism.",
+          "source": "CelticsBlog",
+          "published": "2026-10-16T06:01:37.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299477229.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "This NFL Analyst, 2-Time Super Bowl Winner, Tabbed Patriots as League's 'Best Team'",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/16/patriots-best-team-nfl-phil-simms",
+          "tldr": "Veteran NFL analyst Phil Simms named the 3-2 Patriots the league's best team so far this season. It is high praise from a two-time Super Bowl-winning former quarterback.",
+          "source": "Boston.com",
+          "published": "2026-10-17T01:53:16.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/JSRRND3I4CQZEANWFUWG343KKE-6ad2d0dc16870-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots Injury Report: 2 Players Out vs. Jets, Plus Latest on A.J. Brown",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/16/patriots-jets-week-6-injury-report-aj-brown",
+          "tldr": "Two Patriots players have been ruled out for Sunday's game against the Jets, while wide receiver A.J. Brown remains questionable after returning to practice. His status should become clearer before kickoff.",
+          "source": "Boston.com",
+          "published": "2026-10-16T22:03:51.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/S3PB2QP6J7UN7BFJS6MIP63DAU-6ad29650c9eb6-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "3 Keys for the Patriots to Avoid a Feared 'Trap Game' Against the Jets",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/16/new-england-patriots-jets-keys-takeaways-preview-new-york-nfl-football",
+          "tldr": "The Jets are expected to blitz heavily on Sunday, hoping to rattle Drake Maye and force mistakes. Here is what the Patriots need to do to avoid a letdown against a divisional underdog.",
+          "source": "Boston.com",
+          "published": "2026-10-16T11:55:50.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Raiders_Patriots_Football_16921-6ad1d2c5dcdb4-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Singapore Victory Leaves Verstappen One Win Away From a Full Set",
+          "url": "https://www.racefans.net/2026/10/16/singapore-victory-leaves-verstappen-one-win-away-from-a-full-set-but-not-for-long",
+          "tldr": "Max Verstappen's Singapore Grand Prix win leaves him needing victory at just one more circuit to have won at every track on the calendar. That gap closes further next year as three new venues join the schedule.",
+          "source": "RaceFans",
+          "published": "2026-10-16T06:15:27.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/10/racefansdotnet-24-10-11-17-29-18-1-SI202610110401.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "United States GP: UK Schedule as F1 Returns to COTA",
+          "url": "https://www.skysports.com/f1/news/12433/13599576/united-states-gp-2026-dates-schedule-austin-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-cota-live-on-sky-sports",
+          "tldr": "Formula 1 heads to Austin's Circuit of the Americas for the United States Grand Prix after an extended run across Asia. Here is when to watch each session in UK time.",
+          "source": "Sky Sports",
+          "published": "2026-10-16T15:30:00.000Z",
+          "image": "https://e2.365dm.com/26/10/1920x1080/skysports-max-verstappen-red-bull_7378211.jpg?20261016121200"
+        },
+        {
+          "tag": "F1",
+          "title": "Camara on the 'Crazy' Achievement of Joining Haas in 2027",
+          "url": "https://www.formula1.com/en/latest/article/exclusive-its-really-crazy-to-achieve-this-camara-on-joining-haas-in-2027-and-the-intense-shoot-out-test-he-faced.Sx8HzUOO7WsUm0afvDcP4",
+          "tldr": "Rafael Camara tells Formula1.com what it meant to secure a 2027 Haas seat after an intense shoot-out test against rival candidates. He will partner the team as it builds for next season.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Haas/EXCLUSIVE_INTERVIEW_ADHOC%20FEATURE%20V4.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Handing Out Awards to the 2026 Red Sox",
+          "url": "https://www.overthemonster.com/red-sox-comentary/110465/handing-out-awards-to-the-2026-red-sox",
+          "tldr": "Over the Monster hands out its own awards for the 2026 Red Sox season, naming catcher Willson Contreras team MVP for a consistent, near-league-leading OPS. Sonny Gray also earns recognition for his year on the mound.",
+          "source": "Over the Monster",
+          "published": "2026-10-16T12:45:27.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/07/gettyimages-2286445819.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "A Brewers Playoff Hero Might Be the Ideal Offseason Target for the Red Sox",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/16/boston-red-sox-offseason-target-free-agency-jake-bauers-mlb-baseball-free-agents",
+          "tldr": "Jake Bauers won NLCS MVP after driving in six runs during the Brewers' sweep of the Dodgers, and Boston.com makes the case he could fit the Red Sox this winter. He is a pending free agent this offseason.",
+          "source": "Boston.com",
+          "published": "2026-10-16T11:24:11.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/NLCS_Brewers_Dodgers_Baseball_2_449-6ad1a1c655f00-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox Infield Prospect Anderson Setting a Definite 'Tone' in the Desert",
+          "url": "https://www.mlb.com/redsox/news/red-sox-antonio-anderson-making-most-of-showcase-in-fall-league",
+          "tldr": "Red Sox infield prospect Antonio Anderson is making the most of his Arizona Fall League showcase this autumn. It is an early chance for the system's young talent to stand out before next season.",
+          "source": "MLB.com",
+          "published": "2026-10-16T04:11:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/evyqydsloi5seoit4lif.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/demand-driving-supply-marketplaces",
+    "why": "A fitting companion to today's lead story: a look at the growth loop behind products, like the iPhone Duo, that sell out the moment supply meets pent-up demand.",
+    "title": "Demand driving supply: The little-understood growth loop behind a surprising number of iconic billion-dollar companies",
+    "subtitle": "Guest post by Brian Rothenberg, Partner at Defy.vc, former VP of Growth at Eventbrite, and two-time founder",
+    "published": "2021-09-14",
+    "words": 4566,
+    "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b6662ab-bb41-4979-99a6-88b7882e10b0_1368x1238.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/420-steve-jobs-in-exile/id1141877104?i=1000771074198&uo=4",
+      "why": "Apple's iPhone Duo frenzy makes this a fitting week to revisit the Jobs who got fired, rebuilt and came back smarter.",
+      "show": "Founders",
+      "title": "#420 Steve Jobs In Exile",
+      "published": "2026-06-04",
+      "duration": "54m",
+      "apple": "https://podcasts.apple.com/us/podcast/420-steve-jobs-in-exile/id1141877104?i=1000771074198&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/jonathan-ross",
+      "why": "Today's AI section is full of startups racing to ship faster models; Groq's founder is the person who helped make that race possible.",
+      "show": "David Senra",
+      "title": "Jonathan Ross, Founder of Groq",
+      "published": "2026-07-05",
+      "duration": "1h 12m",
+      "apple": "https://podcasts.apple.com/us/podcast/jonathan-ross-founder-of-groq/id1836497887?i=1000775505304&uo=4",
+      "page": "https://www.davidsenra.com/episode/jonathan-ross",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/4f/59/954f5947-cd92-1684-74e7-29ad8a348eec/mza_2635725368845158042.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis",
+      "why": "A milestone episode with a master storyteller, good listening for anyone who thinks about how a company's story gets told.",
+      "show": "Acquired",
+      "title": "10 Years of Acquired (with Michael Lewis)",
+      "published": "2025-12-15",
+      "duration": "2h 38m",
+      "apple": "https://podcasts.apple.com/us/podcast/10-years-of-acquired-with-michael-lewis/id1050462261?i=1000741297651&uo=4",
+      "page": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/b3/bf/5bb3bf66-cb58-d65c-f994-74f680e2bb34/mza_10419917004390918792.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Going 94 MPH on a Skateboard (New World Record)",
+    "url": "https://kottke.org/26/10/going-94-mph-on-a-skateboard-new-world-record",
+    "tldr": "Diego Poncelet set a new world speed record on a skateboard, hitting 151.8 km/h (94.3 mph) and beating the old mark of 146.7 km/h. It is a wild, slightly terrifying new benchmark for speed on four small wheels.",
+    "source": "Kottke",
+    "published": "2026-10-16T15:32:00.000Z",
+    "image": "https://i.ytimg.com/vi/u3ydV2RVJvc/sddefault.jpg"
+  }
+}
