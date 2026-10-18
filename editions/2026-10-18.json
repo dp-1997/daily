@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-18",
+  "front": [
+    {
+      "title": "Apple Calls iPhone Duo Demand 'Extraordinary' as Orders Slip to 2027",
+      "url": "https://www.macrumors.com/2026/10/16/apple-iphone-duo-demand-extraordinary",
+      "tldr": "Apple told the Financial Times demand for the iPhone Duo has been 'nothing short of extraordinary', even as new orders now won't arrive until 2027. The company says it is working to meet demand for the foldable phone.",
+      "source": "MacRumors",
+      "published": "2026-10-16T22:53:57.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-feature.jpg"
+    },
+    {
+      "title": "Harry Styles' 'Together, Together' Tour Documentary Coming From John Wilson",
+      "url": "https://variety.com/2026/film/news/harry-styles-john-wilson-tour-documentary-universal-1236914875",
+      "tldr": "Documentarian John Wilson, fresh off his feature debut The History of Concrete, will direct a film on Harry Styles' Together, Together tour with Universal Pictures Content Group, following his Madison Square Garden residency.",
+      "source": "Variety",
+      "published": "2026-10-17T19:00:20.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/10/harry-styles-john-wilson.jpg"
+    },
+    {
+      "title": "Patriots Activate WR A.J. Brown for Sunday's Game vs. the Jets",
+      "url": "https://www.patriots.com/news/roster-analysis-patriots-activate-wr-a-j-brown-for-sunday-s-game-vs-the-jets-in-week-6",
+      "tldr": "New England activated wide receiver A.J. Brown from injured reserve ahead of Sunday's Week 6 game against the Jets, while elevating safety Elliott Davison from the practice squad. Brown had been out since injuring his ankle in the season opener.",
+      "source": "Patriots.com",
+      "published": "2026-10-17T20:00:05.000Z",
+      "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/tfeceshcghdclebyudzt.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Meta Removes Language That Raised AI Scraping and Training Concerns",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+          "tldr": "Meta has dropped language from its terms that had raised concerns about scraping and AI training. A Meta spokesperson said the updated terms do not reflect a change in how Meta actually crawls the web.",
+          "source": "TechCrunch",
+          "published": "2026-10-17T21:31:32.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024"
+        },
+        {
+          "title": "Anthropic Says Its Workforce Has Grown Less Junior and Spends More Time in Meetings",
+          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+          "tldr": "Anthropic says the makeup of its workforce and the kind of work being done have changed significantly over the past year, with staff now more senior and spending more time in meetings.",
+          "source": "TechCrunch",
+          "published": "2026-10-17T20:21:19.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+        },
+        {
+          "title": "Replit Makes OpenAI Its Default Model Provider Over Anthropic",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+          "tldr": "Replit chief executive Amjad Masad confirmed OpenAI has replaced Anthropic as the coding platform's default model provider. Claude will still be available to Replit customers.",
+          "source": "TechCrunch",
+          "published": "2026-10-17T18:48:08.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "OpenAI Is Building a Humanoid Robot, but the Body Isn't the Real Challenge",
+          "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge",
+          "tldr": "OpenAI chief executive Sam Altman says the company is building a humanoid robot meant to operate in spaces designed for people, but argues that building the robot's 'brain' is the far harder problem.",
+          "source": "Engadget",
+          "published": "2026-10-17T23:45:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/openai-is-building-a-humanoid-robot-but-the-body-isnt-the-real-challenge/l-intro-1791892991.jpg"
+        },
+        {
+          "title": "Ember's New Temperature-Controlled Mug Skips the App for Everyday Adjustments",
+          "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better",
+          "tldr": "Ember's latest temperature-controlled mug lets you adjust your drink's warmth without opening the companion app, the biggest change in the device's newest version.",
+          "source": "TechCrunch",
+          "published": "2026-10-17T15:30:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ember_Table-with-Phone-Dark-Black-10oz_030326.png?w=1200"
+        },
+        {
+          "title": "Mark Wahlberg Builds an Affordable Gym to Challenge the Longevity-Startup Crowd",
+          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept",
+          "tldr": "Mark Wahlberg is building his own gym chain, promising a cold plunge, a blood panel and a protein muffin at an affordable price, after previously investing in a gym chain that was kicked off the NYSE.",
+          "source": "TechCrunch",
+          "published": "2026-10-17T02:36:18.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024"
+        },
+        {
+          "title": "The Tesla Roadster Isn't the First Car to Use Fans for Downforce",
+          "url": "https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce",
+          "tldr": "Tesla's upcoming Roadster isn't the first vehicle to use fans to generate downforce; several older cars used the same trick well before it, Engadget notes.",
+          "source": "Engadget",
+          "published": "2026-10-17T21:20:21.000Z",
+          "image": "https://www.engadget.com/img/gallery/the-tesla-roadster-is-far-from-the-first-car-to-use-fans-for-downforce/l-intro-1792267762.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple Tightens App Store Rules Against AI Nudification and Bait-and-Switch Apps",
+          "url": "https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps",
+          "tldr": "Apple updated its App Review Guidelines to explicitly ban AI apps that generate nonconsensual nude images, building on its existing ban on sexually explicit content, and to crack down on apps that mislead users about their real purpose.",
+          "source": "9to5Mac",
+          "published": "2026-10-16T22:17:07.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?w=1600"
+        },
+        {
+          "title": "Apple TV Price History, Charted",
+          "url": "https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history",
+          "tldr": "Glenn Fleishman charted the launch price of every Apple TV model since 2007, as Apple's new $299 Apple TV 4K marks one of the priciest debuts in the device's history.",
+          "source": "Daring Fireball",
+          "published": "2026-10-17T14:06:18.000Z",
+          "image": "https://glog.glennf.com/content/images/2026/10/apple-tv-price-history-chart.png"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Street Fighter' Scores $31M Opening as 'Whalefall' Sinks at Box Office",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/street-fighter-box-office-you-can-see-everything-whalefall-1236734312",
+          "tldr": "Street Fighter opened to $31 million at the US box office this weekend, as A24's Elizabeth Holmes documentary You Can See Everything drew attention and survival film Whalefall struggled to hold on.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-17T15:55:39.000Z",
+          "image": ""
+        },
+        {
+          "title": "How 'Whalefall's Production Designer Built the Creature's Stomach From Mattress Foam and Silicone",
+          "url": "https://variety.com/2026/artisans/features/whalefall-production-design-whale-stomach-bile-1236910368",
+          "tldr": "Production designer Ramsey Avery built the whale's stomach interior for survival film Whalefall using mattress foam and silicone bits, creating the cramped, visceral set where Austin Abrams' character is trapped.",
+          "source": "Variety",
+          "published": "2026-10-17T18:22:56.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/WHALEFALL-TF-3.jpg"
+        },
+        {
+          "title": "Bill Hader on Finally Directing His First Film, 'They Know'",
+          "url": "https://www.indiewire.com/news/events/bill-hader-first-film-they-know-snl-divorce-1235222526",
+          "tldr": "Bill Hader, creator of Barry, had long wanted to direct a film; his divorce, his time on SNL and the influence of director Kiyoshi Kurosawa helped him finally make his upcoming horror film They Know.",
+          "source": "IndieWire",
+          "published": "2026-10-17T21:43:45.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2099/10/RP_A1168-3000x1687-1.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics Beat 76ers in Overtime Thriller to Close Out Preseason, 125-120",
+          "url": "https://www.celticsblog.com/celtics-scores-results/147880/stay-ready-celtics-beat-76ers-in-overtime-thriller-125-120",
+          "tldr": "Boston closed out its preseason with a 125-120 overtime win over the 76ers in Philadelphia, resting its key starters and veterans while the bench carried the game.",
+          "source": "CelticsBlog",
+          "published": "2026-10-17T01:46:06.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2300026211.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots-Jets Week 6: Five Questions and Answers",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/140985/questions-answers-patriots-vs-jets-nfl-week-6",
+          "tldr": "New England and New York have trended in different directions since each hired a new head coach last year, with the Patriots reaching last season's Super Bowl, as the two meet in Sunday's Week 6 game.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-17T14:41:44.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2298693140.jpg?quality=90&strip=all&crop=0,0,94.096704101562,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Max Verstappen Charges Through the Field After Penalty in GT Racing Return",
+          "url": "https://www.the-race.com/gt/penalty-sets-up-epic-verstappen-charge-in-his-gt-return",
+          "tldr": "Max Verstappen's return to GT racing during F1's break featured a penalty and a fightback to a top-10 finish, another chapter in his history of racing outside Formula 1.",
+          "source": "The Race",
+          "published": "2026-10-17T19:09:29.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/Screenshot-2026-10-17-at-19.52.00.png"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Rafaela, Abreu and Durbin Named Gold Glove Finalists for Red Sox",
+          "url": "https://www.overthemonster.com/red-sox-news/110601/ceddanne-rafaela-wilyer-abreu-caleb-durbin-finalists-for-gold-gl0ve",
+          "tldr": "Ceddanne Rafaela, Wilyer Abreu and Caleb Durbin have all been named finalists for this year's Gold Glove awards, giving the Red Sox three defensive standouts up for recognition.",
+          "source": "Over the Monster",
+          "published": "2026-10-17T15:25:51.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2275350833.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/saas-pricing-strategy",
+    "why": "Today's Apple section charts the price of every Apple TV since 2007; this classic on SaaS pricing strategy is a good companion for thinking about how to price a product.",
+    "title": "Pricing your SaaS product",
+    "subtitle": "By Patrick Campbell, CEO of ProfitWell",
+    "published": "2020-10-27",
+    "words": 3580,
+    "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F971baee8-62bc-4007-8a62-b2179faef927_1600x900.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&uo=4",
+      "why": "A profile of one of the great information-business builders, fitting listening for anyone who studies product and company builders.",
+      "show": "Founders",
+      "title": "#433 How Michael Bloomberg Works",
+      "published": "2026-09-14",
+      "duration": "49m",
+      "apple": "https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://davidsenra.com/episode/luca-ferrari",
+      "why": "Bending Spoons' culture of extreme ownership and relentless simplification is a sharp contrast to today's story about Anthropic's workforce spending more time in meetings.",
+      "show": "David Senra",
+      "title": "Luca Ferrari on Building Bending Spoons: Extreme Ownership, Talent Science & Relentless Simplification",
+      "published": "2026-09-13",
+      "duration": "2h 01m",
+      "apple": "https://podcasts.apple.com/us/podcast/luca-ferrari-on-building-bending-spoons-extreme-ownership/id1836497887?i=1000789287660&uo=4",
+      "page": "https://davidsenra.com/episode/luca-ferrari",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/61/52/6d6152f4-19d7-46ea-032b-ac81c01be6ed/mza_10680068299434896450.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/home-depot",
+      "why": "A classic Acquired deep dive on how Home Depot built lasting category dominance through obsessive customer service, good Sunday listening.",
+      "show": "Acquired",
+      "title": "The Home Depot",
+      "published": "2026-09-14",
+      "duration": "3h 35m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-home-depot/id1050462261?i=1000789467893&uo=4",
+      "page": "https://www.acquired.fm/episodes/home-depot",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e5/4b/eb/e54bebd6-32db-0a46-bb4b-f2acd3a8464b/mza_8660330428363636018.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=6Kq5e49MD6U"
+    }
+  ],
+  "finally": {
+    "title": "Snøhetta Completes Landmark Opera House in Shanghai",
+    "url": "https://www.dezeen.com/2026/10/17/snohetta-shanghai-grand-opera-house",
+    "tldr": "International studio Snøhetta has completed the Shanghai Grand Opera House, designed around a giant spiral staircase that leads visitors to a rooftop meant to double as a civic destination, not just a performance venue.",
+    "source": "Dezeen",
+    "published": "2026-10-17T11:30:27.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/10/shanghai-grand-opera-house-snohetta-architecture-public-leisure-cultural-china-exclusive_dezeen_2364_sq-411x411.jpg"
+  }
+}
