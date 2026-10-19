@@ -1,5 +1,31 @@
 [
  {
+  "show": "Acquired",
+  "title": "Seinfeld",
+  "url": "https://www.acquired.fm/episodes/seinfeld",
+  "page": "https://www.acquired.fm/episodes/seinfeld",
+  "apple": "",
+  "artwork": "https://img.transistorcdn.com/UeflZq2BnWJL1OgSrOEoiAs2XTQAn_T8KemShoFGQ3Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYTMw/MDFhMjlmMmNhZTNl/ZDMxNWVhNzJlNzZh/NjRiNC5qcGc.jpg",
+  "guid": "9c3ce276-af3c-49a3-9d45-94b784b9c6a5",
+  "date": "2026-10-19",
+  "duration": "3h 50m",
+  "summary": "Seinfeld, which ended three decades ago, has been watched by 72 million Americans so far THIS YEAR. Behind that incredible stat is an equally incredible business story: obsessive creators, perfect market timing, an ownership structure that aligned incentives for the long term…all of which created a…",
+  "youtube": ""
+ },
+ {
+  "show": "David Senra",
+  "title": "Managing $525 Billion by Rethinking Wealth Management | Kurt MacAlpine, Corient",
+  "url": "https://www.davidsenra.com/episode/kurt-macalpine",
+  "page": "https://www.davidsenra.com/episode/kurt-macalpine",
+  "apple": "https://podcasts.apple.com/us/podcast/managing-%24525-billion-by-rethinking-wealth-management/id1836497887?i=1000796897591&uo=4",
+  "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e7/d8/2c/e7d82cfc-8da6-6dbb-d69b-22d72568a910/mza_16325754222585144131.jpg/600x600bb.jpg",
+  "guid": "1c170f54-ca79-11f1-9497-3784be4db4a3",
+  "date": "2026-10-18",
+  "duration": "1h 20m",
+  "summary": "Kurt MacAlpine is a partner and the CEO of Corient, which manages approximately $525 billion in client assets. He became a first-time CEO at 39, believes wealth management was built on a flawed incentive structure, and applied a professional services partnership model to the industry. Kurt explains…",
+  "youtube": ""
+ },
+ {
   "show": "David Senra",
   "title": "Lessons from Napoleon, Steve Jobs, Joan of Arc & Other Leaders | Ben Wilson",
   "url": "https://podcasts.apple.com/us/podcast/lessons-from-napoleon-steve-jobs-joan-of-arc-other/id1836497887?i=1000796270200&uo=4",

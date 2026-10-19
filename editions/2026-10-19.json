@@ -1,0 +1,309 @@
+{
+  "date": "2026-10-19",
+  "front": [
+    {
+      "title": "'You Can See Everything' opens to $15 million at the box office",
+      "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-record-breaking-opening-a24-hollywoods-hottest-brand-1235222446",
+      "tldr": "Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary opened to $15 million, one of the strongest opening weekends ever for a documentary and another data point for A24's box-office pull.",
+      "source": "IndieWire",
+      "published": "2026-10-18T13:47:28.000Z",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/2d3f51a9-3bc5-4121-3462-d1841a44fc60.jpg?w=650"
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI's workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
+      "tldr": "Most Character.AI staff who were offered jobs at Disney have accepted, according to a regulatory filing, though the deal remains a stalking-horse bid another company could still top.",
+      "source": "TechCrunch",
+      "published": "2026-10-18T16:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675"
+    },
+    {
+      "title": "Patriots beat Jets 26-19 to make it three straight wins",
+      "url": "https://www.boston.com/new-england-patriots/live/patriots-vs-jets-live-coverage-can-drake-maye-new-england-keep-momentum-rolling-at-home",
+      "tldr": "Drake Maye threw three touchdowns as New England beat the Jets 26-19 at Gillette Stadium, extending the Patriots' winning streak to three games after wins over the Bills and Raiders.",
+      "source": "Boston.com",
+      "published": "2026-10-18T14:51:31.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/10/CCYXLLUDL5AVZJMVQAR6AH3PFA-6ad510bbebb16-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Anthropic commits 5% of its shares to a public benefit fund",
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
+          "tldr": "Anthropic said it will commit 5% of its shares to a newly created public benefit fund, though it has not yet detailed how the fund's proceeds will be used.",
+          "source": "TechCrunch",
+          "published": "2026-10-18T20:37:40.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024"
+        },
+        {
+          "title": "Simon Willison ships llm-tools-datasette 0.1.1",
+          "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
+          "tldr": "Willison patched his LLM plugin for querying Datasette databases after it broke when LLM switched its HTTP library to httpx2, a reminder of how small dependency changes ripple through a plugin ecosystem.",
+          "source": "Simon Willison",
+          "published": "2026-10-18T23:43:09.000Z",
+          "image": ""
+        },
+        {
+          "title": "Simon Willison updates his llm-echo debug plugin to version 0.5",
+          "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
+          "tldr": "Willison revisited llm-echo, a debugging plugin that mimics a model's responses without calling one, while testing pull requests ahead of a new LLM release.",
+          "source": "Simon Willison",
+          "published": "2026-10-18T23:16:16.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Benchmark's partners on investing without the rush",
+          "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market",
+          "tldr": "Benchmark's five remaining partners discussed staying disciplined and based in San Francisco even as the venture market around them has sped up and grown more frenzied.",
+          "source": "TechCrunch",
+          "published": "2026-10-18T21:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark2.jpg?w=799"
+        },
+        {
+          "title": "Inscryption is coming to mobile, five years after launch",
+          "url": "https://www.engadget.com/2289805/after-five-years-inscryption-is-finally-coming-to-mobile",
+          "tldr": "The acclaimed deck-building horror game Inscryption is heading to mobile, with its developer marking the five-year anniversary of the original release with a Twitch stream.",
+          "source": "Engadget",
+          "published": "2026-10-18T20:27:30.000Z",
+          "image": "https://www.engadget.com/img/gallery/after-five-years-inscryption-is-finally-coming-to-mobile/l-intro-1792354834.jpg"
+        },
+        {
+          "title": "A neat trick for inline-rendering widgets with document.currentScript",
+          "url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
+          "tldr": "Developer Lean Rada describes using the document.currentScript property to drop a tiny inline script element into a page without extra boilerplate, a small trick for embeddable widgets.",
+          "source": "Simon Willison",
+          "published": "2026-10-17T21:11:12.000Z",
+          "image": ""
+        },
+        {
+          "title": "Starlink's two $55 plans trade speed for data caps",
+          "url": "https://www.engadget.com/2286681/starlink-residential-vs-roam-55-dollar-plan-how-different",
+          "tldr": "Starlink offers two different $55-a-month plans, Residential and Roam, that trade download speed against data allowance depending on how you use it.",
+          "source": "Engadget",
+          "published": "2026-10-18T22:45:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/starlink-has-two-55-plans-that-are-wildly-different-heres-how/l-intro-1791994899.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple's next iPhone, iPad and Mac could all land on November 6",
+          "url": "https://www.macrumors.com/2026/10/18/apple-product-releases-next-four-fridays",
+          "tldr": "MacRumors reports Apple is likely to begin a run of Friday product releases on November 6, potentially including OLED MacBook Pro and iMac models with M6 chips and an OLED iPad mini 8.",
+          "source": "MacRumors",
+          "published": "2026-10-18T18:01:53.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg"
+        },
+        {
+          "title": "Apple reveals iPhone Duo's battery capacity: 4,883 mAh",
+          "url": "https://www.macrumors.com/2026/10/18/iphone-duo-battery-capacity",
+          "tldr": "An EU energy label confirms the iPhone Duo has a 4,883 mAh battery, settling earlier leaks and giving a clearer picture of how Apple's folding phone compares with the rest of the iPhone line.",
+          "source": "MacRumors",
+          "published": "2026-10-18T15:07:06.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-closed-1.jpg"
+        },
+        {
+          "title": "Apple hires former Meta lawyer to lead global litigation",
+          "url": "https://www.macrumors.com/2026/10/17/apple-hires-former-meta-lawyer",
+          "tldr": "Apple has hired Scott Tucker, previously of Meta, as its new vice president of global litigation, according to Bloomberg's Mark Gurman.",
+          "source": "MacRumors",
+          "published": "2026-10-17T20:21:20.000Z",
+          "image": "https://images.macrumors.com/article-new/2022/05/apple-park-at-night-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Taika Waititi says his Star Wars film is on hold indefinitely",
+          "url": "https://variety.com/2026/film/news/taika-waititi-confirms-star-wars-movie-is-on-hold-1236916086",
+          "tldr": "Taika Waititi confirmed his Star Wars movie, in development since 2020, has been put on ice indefinitely while he promotes his new film, Klara and the Sun.",
+          "source": "Variety",
+          "published": "2026-10-18T23:39:01.000Z",
+          "image": "https://variety.com/wp-content/uploads/2024/12/Taika-Waititi-by-Gareth-Cattermole-Getty-Images.jpg"
+        },
+        {
+          "title": "Julianne Moore calls Jesse Eisenberg's 'The Debut' one of the best scripts she's read",
+          "url": "https://variety.com/2026/film/festivals/julianne-moore-jesse-eisenberg-the-debut-london-premiere-1236915637",
+          "tldr": "Jesse Eisenberg's musical comedy The Debut closed the London Film Festival on a high note, with star Julianne Moore calling the script one of the best she has ever read.",
+          "source": "Variety",
+          "published": "2026-10-18T20:40:12.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/the-debut-1000.jpg"
+        },
+        {
+          "title": "'Imperium', 'Concrete Land' and '9 Temples to Heaven' win BFI London Film Festival awards",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/bfi-lff-2026-awards-winners-imperium-concrete-land-1236734344",
+          "tldr": "The BFI London Film Festival gave its main prizes to Imperium, Concrete Land and 9 Temples to Heaven, while Aman won the short-film competition and three other films received special mentions.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-18T13:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Netflix reports box office grosses for the first time, as 'La Bola Negra' earns $277,500",
+          "url": "https://variety.com/2026/film/news/la-bola-negra-box-office-netflix-reports-grosses-1236915765",
+          "tldr": "Netflix disclosed box-office numbers for one of its films for the first time ever, with Spanish drama La Bola Negra taking $277,500 from four theatres as its awards-season run begins.",
+          "source": "Variety",
+          "published": "2026-10-18T17:12:54.000Z",
+          "image": "https://variety.com/wp-content/uploads/2025/12/la-bola-negra-Credit-Carla-Oset.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics beat the 76ers in overtime to close the preseason",
+          "url": "https://www.celticsblog.com/celtics-analysis/147893/10-takeaways-from-the-celtics-overtime-victory-vs-the-76ers",
+          "tldr": "Boston closed its preseason with an overtime win over the 76ers, a tense finish that had the CelticsBlog team on the edge of their seats despite it being only an exhibition game.",
+          "source": "CelticsBlog",
+          "published": "2026-10-17T08:32:06.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2300034788.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Hugo González caps a growth-filled preseason for the Celtics",
+          "url": "https://www.celticsblog.com/boston-celtics-news/147912/hugo-gonzalez-puts-cherry-on-top-of-growth-filled-preseason",
+          "tldr": "Hugo González closed out a preseason of visible growth for the Celtics, built on his summer with Spain's national team at the FIBA World Cup qualifiers.",
+          "source": "CelticsBlog",
+          "published": "2026-10-17T08:31:38.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2300028045.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Celtics convert Devin Carter to a two-way contract",
+          "url": "https://www.celticsblog.com/boston-celtics-news/147957/celtics-make-final-call-on-devin-carter-after-just-one-appearance",
+          "tldr": "The Celtics converted Devin Carter's Exhibit 10 training-camp deal into a two-way contract after a single preseason appearance impressed the coaching staff.",
+          "source": "CelticsBlog",
+          "published": "2026-10-17T14:24:53.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299560626.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "A.J. Brown struggles in his Patriots home debut",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/18/new-england-patriots-a-j-brown-drops-struggles-nfl-football-new-york-jets-drake-maye",
+          "tldr": "A.J. Brown had a difficult first home game for the Patriots at Gillette Stadium, saying afterwards: 'There are no excuses. I'll be better.'",
+          "source": "Boston.com",
+          "published": "2026-10-18T23:15:11.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/EIIOOMGRFBE3NO3IR7F6Z7CK2U-6ad54db410e3d-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots lose starting tackle Morgan Moses to an ankle injury",
+          "url": "https://www.patspulpit.com/new-england-patriots-injuries/141120/morgan-moses-injury-patriots-ot-exits-jets-game-in-first-half",
+          "tldr": "Morgan Moses was unable to finish Sunday's win over the Jets after suffering an ankle injury, and was later seen in a walking boot.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-18T20:35:50.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2025/11/gettyimages-2244891873.jpg?quality=90&strip=all&crop=8.6027191162109,0,91.397280883789,80.067761068532"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Drake Maye says the Patriots' offensive line deserves treats from Ann Michael",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/18/drake-maye-nfl-football-new-england-patriots-injuries-offensive-line-jets",
+          "tldr": "Drake Maye praised the Patriots' offensive line after Sunday's gutsy win over the Jets, joking that Ann Michael should keep bringing them baked treats.",
+          "source": "Boston.com",
+          "published": "2026-10-18T23:52:59.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Jets_Patriots_Football__7865-6ad550aac2f7d-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Verstappen hits back at former F1 drivers over 2026 rules criticism",
+          "url": "https://www.motorsport.com/f1/news/max-verstappen-hits-back-at-former-f1-drivers-over-criticism-of-2026-regulations/10866045",
+          "tldr": "Max Verstappen pushed back on criticism of the 2026 regulations from former drivers, suggesting their complaints come from not understanding the new rules.",
+          "source": "Motorsport.com",
+          "published": "2026-10-18T11:35:02.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/YBVjpbvY/s6/72945935-2-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Ferrari reveals its biggest F1 upgrade of the year, bound for the US Grand Prix",
+          "url": "https://www.the-race.com/formula-1/what-ferrari-is-changing-biggest-f1-2026-upgrade",
+          "tldr": "Ferrari is preparing its largest upgrade package of the 2026 season for the United States Grand Prix, with just two months of the season left to run.",
+          "source": "The Race",
+          "published": "2026-10-18T09:31:47.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/TR-48-26-ARROWS-FERRARI-SF-26-threequarter-view.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "The maths behind Mercedes' potential 2026 title double",
+          "url": "https://www.autosport.com/f1/news/the-maths-behind-when-mercedes-could-become-f1-world-champions-in-2026/10866008",
+          "tldr": "Mercedes is on course to become double F1 world champions in 2026 for the first time since the Covid-hit 2020 season, according to the numbers behind its resurgent form this year.",
+          "source": "Autosport",
+          "published": "2026-10-18T08:13:32.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/0Ld53Zj0/s6/george-russell-mercedes-andrea-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Rafaela, Abreu and Durbin named Red Sox Gold Glove finalists",
+          "url": "https://www.overthemonster.com/red-sox-news/110601/ceddanne-rafaela-wilyer-abreu-caleb-durbin-finalists-for-gold-glove",
+          "tldr": "Ceddanne Rafaela, Wilyer Abreu and Caleb Durbin are among this year's Gold Glove finalists, with all three considered strong contenders for the award.",
+          "source": "Over the Monster",
+          "published": "2026-10-17T15:25:51.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2275350833.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-todays-top-consumer-brands-measure",
+    "why": "A24's $15 million weekend is proof of brand power; this is the playbook 40-plus brands, from McDonald's to Airbnb, use to prove their marketing actually works.",
+    "title": "How today’s top consumer brands measure marketing’s impact",
+    "subtitle": "Lessons from how 40+ brands measure their marketing impact, including McDonald’s, H&M, TikTok, Amazon, Airbnb, and Uber",
+    "published": "2023-07-18",
+    "words": 5474,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4903d09f-d04e-4666-8afe-90f3e14b732c_1137x632.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/422-joseph-pulitzer/id1141877104?i=1000773486278&uo=4",
+      "why": "A media empire built on storytelling and scoops, which should resonate with Damian's own broadcast-journalism roots.",
+      "show": "Founders",
+      "title": "#422 Joseph Pulitzer",
+      "published": "2026-06-20",
+      "duration": "53m",
+      "apple": "https://podcasts.apple.com/us/podcast/422-joseph-pulitzer/id1141877104?i=1000773486278&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/kurt-macalpine",
+      "why": "A first-time CEO at 39 who rebuilt wealth management's incentive structure, the kind of rule-rewriting operator Damian studies.",
+      "show": "David Senra",
+      "title": "Managing $525 Billion by Rethinking Wealth Management | Kurt MacAlpine, Corient",
+      "published": "2026-10-18",
+      "duration": "1h 20m",
+      "apple": "https://podcasts.apple.com/us/podcast/managing-%24525-billion-by-rethinking-wealth-management/id1836497887?i=1000796897591&uo=4",
+      "page": "https://www.davidsenra.com/episode/kurt-macalpine",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e7/d8/2c/e7d82cfc-8da6-6dbb-d69b-22d72568a910/mza_16325754222585144131.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/seinfeld",
+      "why": "The business story behind a 30-year-old sitcom still watched by 72 million Americans this year alone.",
+      "show": "Acquired",
+      "title": "Seinfeld",
+      "published": "2026-10-19",
+      "duration": "3h 50m",
+      "page": "https://www.acquired.fm/episodes/seinfeld",
+      "artwork": "https://img.transistorcdn.com/UeflZq2BnWJL1OgSrOEoiAs2XTQAn_T8KemShoFGQ3Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYTMw/MDFhMjlmMmNhZTNl/ZDMxNWVhNzJlNzZh/NjRiNC5qcGc.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Karimoku and ASICS turn crushed trainers into furniture",
+    "url": "https://www.dezeen.com/2026/10/18/karimoku-new-standard-asics-furniture-crushed-trainers",
+    "tldr": "Karimoku New Standard and ASICS have released furniture cushioned with upcycled foam from unused trainers, a small, satisfying piece of circular design.",
+    "source": "Dezeen",
+    "published": "2026-10-18T05:00:58.000Z",
+    "image": "http://static.dezeen.com/uploads/2026/10/kns-x-asics-furniture-karimoku_dezeen_2364_col_sq-411x411.jpg"
+  }
+}
