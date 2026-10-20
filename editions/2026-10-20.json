@@ -1,0 +1,284 @@
+{
+  "date": "2026-10-20",
+  "note": "The Celtics' season opens tonight against the Pistons.",
+  "front": [
+    {
+      "title": "Apple confirms October 28 'Pro and Tell' launch event",
+      "url": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch",
+      "tldr": "Apple will unveil a second wave of new products on 28 October in an event called 'Pro and Tell,' following its 13 October 'Welcome Home' announcement. It won't be a traditional keynote.",
+      "source": "MacRumors",
+      "published": "2026-10-19T23:51:05.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/10/apple-pro-tell-logo.jpg"
+    },
+    {
+      "title": "Jaafar Jackson's 'Michael' biopic crosses $1 billion, beating his own goal",
+      "url": "https://variety.com/2026/film/awards/jaafar-jackson-michael-oscars-sequel-third-act-cut-1236913769",
+      "tldr": "Two years before filming began, Jaafar Jackson wrote down a goal to beat 'Bohemian Rhapsody' and cross $1 billion at the box office playing his uncle in 'Michael.' He has done both.",
+      "source": "Variety",
+      "published": "2026-10-19T21:01:51.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/10/P1186FJS.jpg"
+    },
+    {
+      "title": "Nvidia launches open models to run AI agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+      "tldr": "Nvidia released new open models aimed at running AI agents in corporate data centres and locally on PCs, as it leans into the shift toward private, on-device AI agents.",
+      "source": "TechCrunch",
+      "published": "2026-10-19T15:37:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Simon Willison on 'an obituary for programming'",
+          "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
+          "tldr": "Simon Willison points to Jeremy Scheff's essay on how coding agents have taken away the puzzle-solving joy that drew many career programmers to the craft in the first place.",
+          "source": "Simon Willison",
+          "published": "2026-10-19T23:58:25.000Z",
+          "image": ""
+        },
+        {
+          "title": "Amazon takes aim at Nvidia with new TorchNeuron developer tool",
+          "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+          "tldr": "Amazon launched TorchNeuron, a tool meant to help developers run PyTorch, the free toolkit behind most AI apps, on its own chips rather than Nvidia's, challenging Nvidia's grip on the ecosystem.",
+          "source": "TechCrunch",
+          "published": "2026-10-19T20:09:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800"
+        },
+        {
+          "title": "Tenstorrent hits $6.2 billion valuation to scale open-weight AI chips",
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+          "tldr": "Nvidia challenger Tenstorrent raised $1.5 billion to remain independent after fielding acquisition interest earlier this year, lifting its valuation to $6.2 billion as it scales open-weight AI chips.",
+          "source": "TechCrunch",
+          "published": "2026-10-19T18:37:27.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970"
+        },
+        {
+          "title": "People are using AI to make their smart TVs dumb again",
+          "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again",
+          "tldr": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip out bloatware and take back control of their sets.",
+          "source": "TechCrunch",
+          "published": "2026-10-19T16:13:22.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Amazon to fund 12 small nuclear reactors at a former Indiana coal plant",
+          "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant",
+          "tldr": "Amazon and X-energy have struck another deal to bring nuclear power to the grid, this time funding 12 small reactors expected to generate nearly a gigawatt of electricity.",
+          "source": "TechCrunch",
+          "published": "2026-10-19T16:55:56.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-487821.jpeg?resize=1200,792"
+        },
+        {
+          "title": "Rivian's CEO says autonomy will enable 'dramatically different' vehicle designs",
+          "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs",
+          "tldr": "RJ Scaringe said he expects autonomous driving to let Rivian build vehicles radically different from the outdoorsy SUVs and trucks it currently makes.",
+          "source": "TechCrunch",
+          "published": "2026-10-19T17:39:51.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/rj-scaringe-disrupt-2026-getty.jpg?resize=1200,800"
+        },
+        {
+          "title": "Laplace Intelligence red-teams robots and self-driving cars before they ship",
+          "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+          "tldr": "University of Michigan spinout Laplace Intelligence uses AI agents and simulation to stress-test robots and self-driving vehicles before they reach the real world, and says it is already profitable.",
+          "source": "TechCrunch",
+          "published": "2026-10-19T12:30:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
+        },
+        {
+          "title": "The mystery of Super Mario 64's cryptic plaque may finally be solved",
+          "url": "https://www.engadget.com/2290685/we-might-finally-know-whats-written-on-that-mysterious-plaque-in-super-mario-64",
+          "tldr": "A message on a mysterious plaque in Super Mario 64 has puzzled the internet for 30 years, and Engadget reports we may finally know what it says.",
+          "source": "Engadget",
+          "published": "2026-10-19T18:10:14.000Z",
+          "image": "https://www.engadget.com/img/gallery/we-might-finally-know-whats-written-on-that-mysterious-plaque-in-super-mario-64/l-intro-1792433283.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple acquired AI audio editing app Samplab",
+          "url": "https://www.macrumors.com/2026/10/19/apple-samplab-acquisition",
+          "tldr": "Apple bought Samplab, an AI audio editing app that converts audio to MIDI with desktop and plugin tools, according to a European Commission notice. The deal closed back in June.",
+          "source": "MacRumors",
+          "published": "2026-10-19T22:35:24.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/samplab.jpg"
+        },
+        {
+          "title": "HomePod software update adds a colourful 'Sound Glow' light show",
+          "url": "https://www.macrumors.com/2026/10/19/homepod-27-2-sound-glow",
+          "tldr": "Apple's HomePod 27.2 update brings Sound Glow to the HomePod and HomePod mini, lighting up the speaker's touch surface with colours that match the album art of what's playing.",
+          "source": "MacRumors",
+          "published": "2026-10-19T20:31:09.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/homepod-sound-glow.jpg"
+        },
+        {
+          "title": "Apple limits US iPhone Duo orders to two per customer",
+          "url": "https://www.macrumors.com/2026/10/19/iphone-duo-order-limit-us",
+          "tldr": "Apple is capping iPhone Duo purchases at two per customer in the US; attempting to buy more via the website or Apple Store app triggers a limit notice.",
+          "source": "MacRumors",
+          "published": "2026-10-19T23:42:24.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/09/iphone-duo-standby.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Kris Bowers to score Disney's animated feature 'Hexed'",
+          "url": "https://variety.com/2026/artisans/news/kris-bowers-composer-original-score-hexed-disney-1236916751",
+          "tldr": "Oscar-winning composer Kris Bowers will score Disney's upcoming animated film 'Hexed,' which stars Hailee Steinfeld, Rashida Jones, Jodie Foster and Walton Goggins.",
+          "source": "Variety",
+          "published": "2026-10-19T19:48:06.000Z",
+          "image": "https://variety.com/wp-content/uploads/2022/06/Kris-Bowers-Composer.jpg"
+        },
+        {
+          "title": "Tom Hiddleston's new biopic is Apple TV's biggest streaming hit",
+          "url": "https://www.slashfilm.com/2290772/tom-hiddleston-biopic-tenzing-streaming-apple-tv-october-2026",
+          "tldr": "Tom Hiddleston's new 125-minute biographical film is drawing large audiences on Apple TV, where it has become the streaming service's biggest hit right now.",
+          "source": "/Film",
+          "published": "2026-10-19T18:44:07.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/tom-hiddlestons-breathtaking-125-minute-biopic-is-officially-apple-tvs-biggest-streaming-hit/l-intro-1792434812.jpg"
+        },
+        {
+          "title": "Ken Russell's 'The Devils' sets return in new restoration",
+          "url": "https://www.indiewire.com/features/craft/ken-russell-the-devils-restoration-derek-jarman-sets-1235222226",
+          "tldr": "A new restoration of Ken Russell's 'The Devils' spotlights production designer Derek Jarman's distinctive sets, which critics say remain unlike those of any other period film.",
+          "source": "IndieWire",
+          "published": "2026-10-19T21:30:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/M8DDEVI_EC004.jpg?w=650"
+        },
+        {
+          "title": "Richard Riehle, 'Office Space' actor, dies at 78",
+          "url": "https://deadline.com/2026/10/richard-riehle-dead-office-space-actor-1237168053",
+          "tldr": "Richard Riehle, who played cynical manager Tom Smykowski in 'Office Space' and also appeared in 'Bridesmaids,' 'Casino' and 'The Fugitive,' has died at 78.",
+          "source": "Deadline",
+          "published": "2026-10-19T20:51:49.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/Richard-Riehle.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics will be near full strength for season opener against the Pistons",
+          "url": "https://www.celticsblog.com/boston-celtics-news/148052/celtics-pistons-opening-day-injury-report",
+          "tldr": "Boston will be at near-full strength as it opens its season against the Detroit Pistons, with only Devin Carter listed as out.",
+          "source": "CelticsBlog",
+          "published": "2026-10-19T19:38:47.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2256606516.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots get mixed injury news ahead of Thursday's game in Chicago",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/19/new-england-patriots-injury-report-update-nfl-football-morgan-moses-practice",
+          "tldr": "Morgan Moses has a chance of playing on Thursday night against the Bears, New England's latest injury update ahead of the trip to Chicago shows.",
+          "source": "Boston.com",
+          "published": "2026-10-20T01:08:35.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Patriots_Jaguars_Football_38423-6ad6b79fa36b0-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots place Romeo Doubs on injured reserve, sign Elliott Davison",
+          "url": "https://www.patriots.com/news/patriots-place-wr-romeo-doubs-on-injured-reserve-sign-db-elliott-davison-to-the-53-man-roster-from-the-practice-squad-announce-additional-practice-squad-moves",
+          "tldr": "New England placed wide receiver Romeo Doubs on injured reserve and signed defensive back Elliott Davison to the 53-man roster from the practice squad, among several roster moves.",
+          "source": "Patriots.com",
+          "published": "2026-10-19T20:00:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/gnatzcpqynoo5s2umeal.png"
+        },
+        {
+          "tag": "F1",
+          "title": "How soon could Mercedes win the 2026 F1 constructors' title?",
+          "url": "https://www.motorsport.com/f1/news/how-soon-can-mercedes-win-the-2026-f1-constructors-championship/10866296",
+          "tldr": "Mercedes has dominated under F1's new 2026 regulations, and driver Kimi Antonelli could technically clinch the drivers' championship as early as this weekend's United States Grand Prix.",
+          "source": "Motorsport.com",
+          "published": "2026-10-19T21:03:36.000Z",
+          "image": "https://cdn-6.motorsport.com/images/amp/0mXyo5M6/s6/72945935-6.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Christian Horner says building Red Bull's F1 engine was 'scary as hell'",
+          "url": "https://www.motorsport.com/f1/news/christian-horner-receives-unexpected-call-from-red-bull-after-breakthrough/10866228",
+          "tldr": "Christian Horner said building Red Bull's in-house power unit from scratch was frightening, after the engine claimed its first race wins this season.",
+          "source": "Motorsport.com",
+          "published": "2026-10-19T21:13:42.000Z",
+          "image": "https://cdn-7.motorsport.com/images/amp/6VyKwqdY/s6/72945935-4-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox report cards show mixed grades across the roster",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/19/red-sox-report-cards-plenty-of-mixed-grades-across-bostons-roster",
+          "tldr": "Willson Contreras and Ceddanne Rafaela impressed in 2026, while veterans Trevor Story and Jarren Duran left a lot to be desired, Boston.com's season report cards found.",
+          "source": "Boston.com",
+          "published": "2026-10-19T17:02:37.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Cubs_Red_Sox_Baseball_62421-6ad57828cc180-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/the-secret-to-duolingos-growth",
+    "why": "Today's Apple launch and the 'Michael' box-office win are both stories made bigger by marketing; Duolingo's growth playbook is the sharpest guide to doing that deliberately.",
+    "title": "The secret to Duolingo’s exponential growth",
+    "subtitle": "Don’t kill the golden goose, maintain a sense of urgency to drive compounding growth, copy first, and more of their biggest growth lessons",
+    "published": "2024-04-02",
+    "words": 4980,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a5d0692-48c4-4814-9231-a623d7053633_1171x726.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/419-kelly-johnson-skunk-works/id1141877104?i=1000768152084&uo=4",
+      "why": "Kelly Johnson's secretive, fast-moving Skunk Works is the engineering culture Apple's own product teams are often compared to.",
+      "show": "Founders",
+      "title": "#419 Kelly Johnson: Skunk Works",
+      "published": "2026-05-16",
+      "duration": "50m",
+      "apple": "https://podcasts.apple.com/us/podcast/419-kelly-johnson-skunk-works/id1141877104?i=1000768152084&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/scott-wu",
+      "why": "Scott Wu built Cognition's AI coding agent, the exact shift in programming that Simon Willison's linked essay mourns today.",
+      "show": "David Senra",
+      "title": "Scott Wu, Cognition",
+      "published": "2026-06-28",
+      "duration": "1h 05m",
+      "apple": "https://podcasts.apple.com/us/podcast/scott-wu-cognition/id1836497887?i=1000774533148&uo=4",
+      "page": "https://www.davidsenra.com/episode/scott-wu",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/56/5f/01/565f01c1-c7da-a443-3dbc-7dd52214ce12/mza_10994771088807369856.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=PYobZzjW_ic"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/trader-joes",
+      "why": "A masterclass in building a beloved, story-driven grocery brand without a single advert, pure product marketing territory for Damian.",
+      "show": "Acquired",
+      "title": "Trader Joe’s",
+      "published": "2025-10-27",
+      "duration": "3h 18m",
+      "apple": "https://podcasts.apple.com/us/podcast/trader-joes/id1050462261?i=1000733630276&uo=4",
+      "page": "https://www.acquired.fm/episodes/trader-joes",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/31/51/833151a1-d31b-b277-db05-d44c1cc9a3d9/mza_10997712225950733623.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "A tiny Game Boy emulator runs smoothly on an e-ink screen",
+    "url": "https://kottke.org/26/10/a-tiny-24-fps-e-ink-game-boy-emulator",
+    "tldr": "A software engineer built a Game Boy emulator that runs smoothly on a tiny e-ink display, impressive given how slowly e-paper screens normally refresh.",
+    "source": "Kottke",
+    "published": "2026-10-19T19:33:00.000Z",
+    "image": "https://i.ytimg.com/vi/XiZmM6hwwAU/sddefault.jpg"
+  }
+}
