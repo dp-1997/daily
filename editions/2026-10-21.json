@@ -1,0 +1,317 @@
+{
+  "date": "2026-10-21",
+  "front": [
+    {
+      "title": "First iPhone Duo unboxing video surfaces ahead of Friday launch",
+      "url": "https://www.macrumors.com/2026/10/20/iphone-duo-unboxing-video",
+      "tldr": "A leaked unboxing video shows Apple's iPhone Duo in hand for the first time, two days before its Friday launch.",
+      "source": "MacRumors",
+      "published": "2026-10-20T23:31:23.000Z",
+      "image": "https://images.macrumors.com/t/CyGdNbVv8jZwO-HTOZrHs9IFbWY=/1886x/article-new/2026/10/iPhone-Duo-Hinge-Feature-3.jpg"
+    },
+    {
+      "title": "SpaceX's AI business is beating expectations",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+      "tldr": "SpaceX posted third-quarter net income of $4.4 billion, with its AI business the main driver of the profit, the company said.",
+      "source": "TechCrunch",
+      "published": "2026-10-20T20:40:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200"
+    },
+    {
+      "title": "David Fincher cut 60 pages from Tarantino's 'Cliff Booth' script",
+      "url": "https://deadline.com/2026/10/david-fincher-cut-tarantino-cliff-booth-script-1237169234",
+      "tldr": "Fincher cut 60 pages from Quentin Tarantino's script for 'The Further Mis-Adventures of Cliff Booth,' the Once Upon a Time in Hollywood follow-up starring Brad Pitt, saying it was essentially two movies.",
+      "source": "Deadline",
+      "published": "2026-10-21T00:19:01.000Z",
+      "image": "https://deadline.com/wp-content/uploads/2026/10/brad-pitt-cliff-booth-david-fincher-quentin-tarantino.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "OpenAI acquires Orchestra Bio",
+          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "tldr": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences research, aiming to help biopharma teams speed up drug development.",
+          "source": "OpenAI",
+          "published": "2026-10-20T00:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Google joins Amazon in taking on Nvidia with new AI developer tool",
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
+          "tldr": "Google has released a developer tool, following Amazon, that makes it easier for PyTorch users to move their AI apps off Nvidia GPUs.",
+          "source": "TechCrunch",
+          "published": "2026-10-20T18:38:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800"
+        },
+        {
+          "title": "Physical AI is in its 'LEGO era', says ex-Nvidia VC",
+          "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
+          "tldr": "Former Nvidia executive turned VC Amulya Vishwanath says physical AI, robots that act in the real world, is at an early, LEGO-like stage, ahead of its own ChatGPT moment.",
+          "source": "TechCrunch",
+          "published": "2026-10-20T16:20:06.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675"
+        },
+        {
+          "title": "Franchisee cuts repricing time 95% with ChatGPT Work",
+          "url": "https://openai.com/index/ted-taylor-restaurant",
+          "tldr": "A Schlotzsky's and Cinnabon franchisee used ChatGPT Work to cut menu repricing time by 95% and build a workflow that could free up $100,000 in cash flow.",
+          "source": "OpenAI",
+          "published": "2026-10-20T10:00:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "SpaceX and Tesla boards form special committees to review merger",
+          "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger",
+          "tldr": "SpaceX and Tesla's boards have formed special committees of independent directors to review a potential merger. Elon Musk said he likes the idea but sits on neither committee.",
+          "source": "TechCrunch",
+          "published": "2026-10-20T22:57:57.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801"
+        },
+        {
+          "title": "The next Xbox might cost $1,800, report says",
+          "url": "https://www.engadget.com/2292408/the-next-xbox-might-cost-1800-report-says",
+          "tldr": "Microsoft is targeting a 2028 release for its next Xbox, which could cost as much as $1,800, according to a profile of the company's Xbox CEO.",
+          "source": "Engadget",
+          "published": "2026-10-20T22:01:23.000Z",
+          "image": "https://www.engadget.com/img/gallery/the-next-xbox-might-cost-1800-report-says/l-intro-1792533408.jpg"
+        },
+        {
+          "title": "Streaming guide JustWatch becomes a streamer itself",
+          "url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself",
+          "tldr": "JustWatch, the streaming search guide used by 50 million people, is launching its own service: a free, ad-supported tier alongside a $3.99-a-month ad-free option.",
+          "source": "TechCrunch",
+          "published": "2026-10-20T16:01:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Multi_device_mock.png?resize=1200,675"
+        },
+        {
+          "title": "SpaceX alum's aviation startup Reliable Robotics tops $1B valuation",
+          "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation",
+          "tldr": "Reliable Robotics, an aviation startup founded by a SpaceX alum, raised $115 million in equity plus $25 million in debt, pushing its valuation past $1 billion.",
+          "source": "TechCrunch",
+          "published": "2026-10-20T13:17:36.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Autonomous-Flight_820-Autoland_2026-09.jpg?resize=1200,675"
+        },
+        {
+          "title": "This startup built an AI model to decipher what plants are saying",
+          "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language",
+          "tldr": "Startup Electric Plant has built an AI translator that listens to the subtle electrical signals running through plant stems, aiming to decode what they are saying.",
+          "source": "TechCrunch",
+          "published": "2026-10-20T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/electric-plant-bud-sensor.jpeg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup",
+          "tldr": "Apple announced new and expanded partnerships with American companies supplying materials and components for the iPhone Duo and iPhone 18 Pro.",
+          "source": "Apple Newsroom",
+          "published": "2026-10-20T12:00:22.992Z",
+          "image": "https://www.apple.com/newsroom/images/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/tile/Apple-American-Manufacturing-Program-employee-mixing-raw-material-lp.jpg.og.jpg?202610201500"
+        },
+        {
+          "title": "Skyrim comes to Apple Silicon Macs with new unofficial installer",
+          "url": "https://www.macrumors.com/2026/10/20/skyrim-comes-to-apple-silicon-macs",
+          "tldr": "A new unofficial installer brings Bethesda's 'The Elder Scrolls V: Skyrim' to Apple Silicon Macs for the first time, 15 years after its original release.",
+          "source": "MacRumors",
+          "published": "2026-10-21T02:56:30.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/skyrim.jpg"
+        },
+        {
+          "title": "Apple's App Store chief explains its push for premium games",
+          "url": "https://www.macrumors.com/2026/10/20/app-store-chief-explains-premium-games-push",
+          "tldr": "More premium games are launching on the App Store this year than last, Apple's App Store head Carson Oliver told Polygon, including more franchises moving over from PC and consoles.",
+          "source": "MacRumors",
+          "published": "2026-10-21T03:58:10.000Z",
+          "image": "https://images.macrumors.com/article-new/2022/01/iOS-App-Store-General-Feature-Clorange.jpg"
+        },
+        {
+          "title": "iPad mini 8 expected next week with these new features",
+          "url": "https://www.macrumors.com/2026/10/20/ipad-mini-8-10-rumored-features",
+          "tldr": "MacRumors reports that Apple plans to unveil an OLED iPad mini 8 next week, with attendees at its October 28 Los Angeles event expected to get hands-on time.",
+          "source": "MacRumors",
+          "published": "2026-10-21T02:19:49.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/07/iPad-mini-7-Review-Thumb-1-sans-text.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Whalefall' director and star resisted the new ending before embracing it",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/whalefall-ending-brian-duffield-interview-1236736368",
+          "tldr": "'Whalefall' director Brian Duffield and star Austin Abrams were initially hesitant about the film's new ending, which was added after test screenings.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-20T23:34:32.000Z",
+          "image": ""
+        },
+        {
+          "title": "Julia Stiles cries during Heath Ledger tribute on 'Dancing with the Stars'",
+          "url": "https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762",
+          "tldr": "Julia Stiles paid tribute to the late Heath Ledger on 'Dancing with the Stars', performing a contemporary routine with her partner to mark Dedication Night.",
+          "source": "Variety",
+          "published": "2026-10-21T02:01:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Cant-take-our-eyes-off-Julia-Ezra-and-their-Contemporary-😍-They-closed-DedicationNight-with-.jpg"
+        },
+        {
+          "title": "Lance Oppenheim bribed Robert Pattinson with 200 Zyn canisters to star in 'Primetime'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/lance-oppenheim-bribed-robert-pattinson-zyn-star-primetime-1236736866",
+          "tldr": "Robert Pattinson agreed to play Chris Hansen in 'Primetime' after director Lance Oppenheim bribed him with 200 canisters of Zyn. The film chronicles 'To Catch a Predator.'",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-21T00:15:51.000Z",
+          "image": ""
+        },
+        {
+          "title": "'Wildwood' review: Laika's stop-motion wonder lacks its studio's usual magic",
+          "url": "https://www.indiewire.com/criticism/movies/wildwood-movie-review-laika-1235221279",
+          "tldr": "IndieWire's review says Laika's stop-motion film 'Wildwood' avoids the worst trends in mainstream animation but loses its way between reality and imagination.",
+          "source": "IndieWire",
+          "published": "2026-10-20T19:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/03/wildwood.avif?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics collapse, lose season opener to Pistons 121-113",
+          "url": "https://www.celticsblog.com/celtics-scores-results/148125/boston-celtics-collapse-lose-season-opener-to-detriot-pistons-121-113-jayson-tatum-paul-george-joe-mazzulla-cade-cunningham",
+          "tldr": "The Celtics led the Pistons by 22 points in the second half of their season opener, then collapsed to lose 121-113 in Detroit.",
+          "source": "CelticsBlog",
+          "published": "2026-10-20T21:43:54.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2301195633.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "It's not so #DifferentHere after all without Jaylen Brown",
+          "url": "https://www.celticsblog.com/celtics-analysis/148147/its-not-so-differenthere-after-all-without-jaylen-brown",
+          "tldr": "Paul George hit his third straight three-pointer to give the Celtics a 72-50 lead in the third quarter of his debut, before Boston's collapse in the fourth.",
+          "source": "CelticsBlog",
+          "published": "2026-10-21T00:32:30.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2300665379.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots power rankings: win streak sends message from the mess",
+          "url": "https://www.patspulpit.com/new-england-patriots-power-rankings/141346/patriots-power-rankings-week-7-win-streak-sends-message-from-the-mess",
+          "tldr": "Experts' power rankings now have the Patriots climbing from irrelevance back toward credible contender status after their recent win streak.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-21T00:42:47.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY30124017974469474.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "FIA imposes new rules on F1 teams to stop cost cap exploitation",
+          "url": "https://www.the-race.com/formula-1/fia-imposes-draconian-new-rules-on-f1-teams-to-stop-cost-cap-exploitation",
+          "tldr": "The FIA will stop F1 personnel sharing office space or communal areas with a team's non-F1 staff, part of a wider clampdown on cost cap exploitation.",
+          "source": "The Race",
+          "published": "2026-10-21T03:32:18.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/Spacesuit-CE-F1-SGP-11-10-26-5094.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Five talking points for the United States Grand Prix",
+          "url": "https://www.racefans.net/2026/10/20/early-coronation-for-antonelli-five-talking-points-for-the-united-states-grand-prix",
+          "tldr": "Andrea Kimi Antonelli could clinch the championship as early as this weekend's United States Grand Prix in Austin, one of several storylines heading into the race.",
+          "source": "RaceFans",
+          "published": "2026-10-20T06:15:02.000Z",
+          "image": ""
+        },
+        {
+          "tag": "F1",
+          "title": "Formula 1's move to shorter grands prix in 2027 will not be permanent",
+          "url": "https://www.racefans.net/2026/10/20/formula-1s-move-to-shorter-grands-prix-in-2027-will-not-be-permanent",
+          "tldr": "The FIA has confirmed that Formula 1 will reinstate full grand prix distances in 2028, after shortening races for the 2027 season.",
+          "source": "RaceFans",
+          "published": "2026-10-20T11:21:36.000Z",
+          "image": ""
+        },
+        {
+          "tag": "Red Sox",
+          "title": "The moments that made the 2026 Red Sox: one lucky night in August",
+          "url": "https://www.overthemonster.com/red-sox-analysis/110702/the-moments-that-made-the-2026-red-sox-one-lucky-night-in-august-was-the-fork-in-the-road",
+          "tldr": "A wild 3-2 walk-off win over the Giants in August may have been the turning point of the Red Sox's season, Over the Monster argues in its look back.",
+          "source": "Over the Monster",
+          "published": "2026-10-20T13:17:31.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2291324581.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox report cards: Boston's pitching corps earns higher marks",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/20/boston-red-sox-report-cards-grades-grading-mlb-baseball-pitching-tolle-suarez",
+          "tldr": "Boston.com's season report cards give the Red Sox starting rotation, strengthened by several newcomers, its highest marks of the summer.",
+          "source": "Boston.com",
+          "published": "2026-10-20T12:39:50.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Guardians_Red_Sox_Baseball_16_1-6ad69031c8da1-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/the-definitive-guide-to-mastering",
+    "why": "A sharp breakdown of the judgment calls behind strong product instinct, worth reading for sharpening taste even outside an interview room.",
+    "title": "The definitive guide to mastering product sense interviews",
+    "subtitle": "A step-by-step playbook to help you ace your PM interview",
+    "published": "2025-04-01",
+    "words": 8797,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/6aa1ade2-c82b-4a4c-a938-4a36f32bf98d_2400x1260.jpeg",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/418-phil-knight-founder-of-nike/id1141877104?i=1000766662563&uo=4",
+      "why": "Phil Knight's founding of Nike is a masterclass in brand-building and storytelling, squarely in Damian's product marketing wheelhouse.",
+      "show": "Founders",
+      "title": "#418 Phil Knight: Founder of Nike",
+      "published": "2026-05-07",
+      "duration": "1h 03m",
+      "apple": "https://podcasts.apple.com/us/podcast/418-phil-knight-founder-of-nike/id1141877104?i=1000766662563&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/travis-kalanick",
+      "why": "Travis Kalanick's relentless founder story, including his new venture Atoms, pairs well with today's physical AI stories.",
+      "show": "David Senra",
+      "title": "Travis Kalanick, Founder of Uber & Atoms",
+      "published": "2026-08-16",
+      "duration": "1h 49m",
+      "apple": "https://podcasts.apple.com/us/podcast/travis-kalanick-founder-of-uber-atoms/id1836497887?i=1000783566781&uo=4",
+      "page": "https://www.davidsenra.com/episode/travis-kalanick",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/19/22/d2/1922d243-0c7d-c8c8-b8af-7bd568ff955e/mza_17854511174282367109.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=QVnU5lGlKE8"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/google",
+      "why": "Google's origin story is a natural companion to today's AI news, including Google's own moves against Nvidia.",
+      "show": "Acquired",
+      "title": "Google Part I: Origins of Search",
+      "published": "2025-06-30",
+      "duration": "3h 29m",
+      "apple": "https://podcasts.apple.com/us/podcast/google-part-i-origins-of-search/id1050462261?i=1000715075095&uo=4",
+      "page": "https://www.acquired.fm/episodes/google",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/86/2f/63862fa2-7d9b-86d0-67ff-1512b0a2a827/mza_11743760503072097107.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Astronomers identify the first green star",
+    "url": "https://kottke.org/26/10/0049829-a-green-star",
+    "tldr": "Astronomers have identified the first green star, a white dwarf that turned a ghostly shade of chartreuse after swallowing rocky debris from a shattered planet.",
+    "source": "Kottke",
+    "published": "2026-10-20T18:46:00.000Z",
+    "image": ""
+  }
+}
