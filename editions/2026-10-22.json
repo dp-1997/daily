@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-22",
+  "note": "iPhone Duo launches in Apple stores this Friday, and the Patriots play the Bears tonight on Thursday Night Football.",
+  "front": [
+    {
+      "title": "iPhone Duo Review Roundup: Great Hinge, Messy Apps, and Everybody Misses Face ID",
+      "url": "https://www.macstories.net/roundups/iphone-duo-review-roundup-great-hinge-messy-apps-and-everybody-misses-face-id",
+      "tldr": "Reviews of Apple's iPhone Duo, out before Friday's launch, highlight a well-engineered hinge alongside inconsistent app support and widespread complaints about losing Face ID.",
+      "source": "MacStories",
+      "published": "2026-10-21T15:07:32.000Z",
+      "image": "https://cdn.macstories.net/images/uploads/2026/10/21/apple-iphone-duo-hero-bigjpglarge-2x-1792595146631-6af85fcdcc.jpg"
+    },
+    {
+      "title": "Anthropic Launches Claude Duet, a Proactive AI Agent",
+      "url": "https://www.macrumors.com/2026/10/21/anthropic-claude-duet",
+      "tldr": "Anthropic launched Claude Duet, a proactive agent that works across connected apps without being asked, following Meta's Muse and OpenAI's Dots into the same space.",
+      "source": "MacRumors",
+      "published": "2026-10-21T20:53:08.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/10/claude-duet-scaled.jpg"
+    },
+    {
+      "title": "Kimi Antonelli could be crowned Formula 1 world champion this weekend",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-down-to-earth-habit-ahead-of-potential-f1-title-win/10866796",
+      "tldr": "Mercedes' Kimi Antonelli heads into this weekend's United States Grand Prix with a chance to clinch the Formula 1 title, while still washing his own car by hand.",
+      "source": "Motorsport.com",
+      "published": "2026-10-21T20:59:49.000Z",
+      "image": "https://cdn-6.motorsport.com/images/amp/6lmAorm0/s6/72945935-7.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Meta says Muse has over 10M users, with shopping a top activity",
+          "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+          "tldr": "Meta says its Muse AI app has passed 10 million users, with shopping and personal productivity among the most common uses, the company said at Q3 earnings.",
+          "source": "TechCrunch",
+          "published": "2026-10-21T21:14:19.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
+        },
+        {
+          "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+          "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+          "tldr": "Startup Recursive released Flint, a free, laptop-sized coding model it says was built largely by its own AI research system, an early test of self-improving AI.",
+          "source": "TechCrunch",
+          "published": "2026-10-21T20:27:41.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800"
+        },
+        {
+          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+          "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+          "tldr": "As Amazon blocks AI shopping agents, Walmart is doing the opposite, rolling out technology that lets agents buy on customers' behalf with spending controls.",
+          "source": "TechCrunch",
+          "published": "2026-10-21T19:30:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800"
+        },
+        {
+          "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+          "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+          "tldr": "Blacksmith, whose platform helps companies build and test AI code, raised a $66 million Series C led by Sequoia, valuing the company at $1 billion.",
+          "source": "TechCrunch",
+          "published": "2026-10-21T17:18:27.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Tesla says it will start selling Cybercabs by end of year",
+          "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year",
+          "tldr": "Tesla said it will start selling its Cybercab to customers by the end of the year, even as regulators investigate whether the vehicle meets safety standards.",
+          "source": "TechCrunch",
+          "published": "2026-10-22T00:17:54.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675"
+        },
+        {
+          "title": "Sony's PlayStation Pulse headset arrives on November 19 for $100",
+          "url": "https://www.engadget.com/2293077/sonys-playstation-pulse-headset-arrives-on-november-19-for-dollar100",
+          "tldr": "Sony's new PlayStation Pulse headset launches on 19 November for $100, with pre-orders opening on 29 October.",
+          "source": "Engadget",
+          "published": "2026-10-21T16:09:48.000Z",
+          "image": "https://www.engadget.com/img/gallery/sonys-playstation-pulse-headset-arrives-on-november-19-for-100/l-intro-1792598917.jpg"
+        },
+        {
+          "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+          "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
+          "tldr": "GM's fourth-generation EV platform will add a new central computer and AI-driven electrical architecture, debuting in 2028 on the Cadillac line, as it looks to compete with Chinese rivals.",
+          "source": "TechCrunch",
+          "published": "2026-10-21T19:52:20.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Row-of-pre-production-vehicles-at-PPO.jpg?resize=1200,801"
+        },
+        {
+          "title": "Xbox is previewing paid cloud gaming for players without Game Pass",
+          "url": "https://www.engadget.com/2293519/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass",
+          "tldr": "Microsoft is previewing a paid cloud gaming option for Xbox players who don't subscribe to Game Pass, alongside new rate limits.",
+          "source": "Engadget",
+          "published": "2026-10-21T19:52:50.000Z",
+          "image": "https://www.engadget.com/img/gallery/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/l-intro-1792612307.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "The iPhone Duo",
+          "url": "https://daringfireball.net/2026/10/the_iphone_duo",
+          "tldr": "John Gruber's review says the iPhone Duo feels like 'an extraordinarily polished prototype' rather than a finished product he'd want to buy, after a week of use.",
+          "source": "Daring Fireball",
+          "published": "2026-10-21T22:59:14.000Z",
+          "image": "https://daringfireball.net/misc/2026/10/duo-home-screen-dock.png"
+        },
+        {
+          "title": "Apple must open iPhone to alternative app stores in Australia after Epic Games ruling",
+          "url": "https://9to5mac.com/2026/10/21/apple-must-open-iphone-to-alternative-app-stores-in-australia-after-epic-games-ruling",
+          "tldr": "An Australian federal judge has ordered Apple to open the iPhone to alternative app stores following its long antitrust battle with Epic Games. Apple plans to appeal.",
+          "source": "9to5Mac",
+          "published": "2026-10-22T03:57:58.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/app-store.webp?w=1600"
+        },
+        {
+          "title": "iOS 27.2 reveals Apple's Messages app could soon get highly requested change",
+          "url": "https://9to5mac.com/2026/10/21/ios-27-2-reveals-apples-messages-app-could-soon-get-highly-requested-change",
+          "tldr": "Code in next week's iOS 27.2 points to a long-requested Messages change: the ability to exclude muted conversations from the unread badge count.",
+          "source": "9to5Mac",
+          "published": "2026-10-21T20:05:13.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "title": "What 32,000 Folds Did to the iPhone Duo's Hinge",
+          "url": "https://www.macrumors.com/2026/10/21/iphone-duo-fold-test-hinge",
+          "tldr": "Joanna Stern put more than 32,000 folds on her iPhone Duo review unit over four nights to stress-test the hinge, a test Apple itself hasn't published.",
+          "source": "MacRumors",
+          "published": "2026-10-21T20:05:27.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/joanna-stern-fold-test.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Mark Kermode and Daphne Dentz on restoring Ken Russell's The Devils",
+          "url": "https://deadline.com/2026/10/mark-kermode-daphne-dentz-restoring-ken-russells-the-devils-1237170140",
+          "tldr": "Critic Mark Kermode and restorer Daphne Dentz discuss piecing together a definitive version of Ken Russell's 1971 film The Devils, more than 20 years after Kermode first tried.",
+          "source": "Deadline",
+          "published": "2026-10-21T22:30:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/201043.jpg"
+        },
+        {
+          "title": "Clayface review: DC horror film is good, gross fun with no franchise homework required",
+          "url": "https://variety.com/2026/film/news/clayface-review-1236918659",
+          "tldr": "Variety's review calls Clayface a gross, fun body-horror entry in the DC Universe that doesn't require knowledge of the wider franchise to enjoy.",
+          "source": "Variety",
+          "published": "2026-10-21T19:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/MCDCLAY_WB009-1000.jpg"
+        },
+        {
+          "title": "Tom Cruise to Be Honored With AFI Life Achievement Award in 2027",
+          "url": "https://variety.com/2026/film/news/tom-cruise-afi-life-achievement-award-2027-1236919013",
+          "tldr": "Tom Cruise will receive the 52nd AFI Life Achievement Award at a gala in Hollywood on 24 April 2027, the American Film Institute announced.",
+          "source": "Variety",
+          "published": "2026-10-21T19:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/P105JBB5.jpg"
+        },
+        {
+          "title": "Cory Michael Smith joins Scarlett Johansson in Scapegoat at Square Peg and A24",
+          "url": "https://deadline.com/2026/10/cory-michael-smith-scarlett-johansson-scapegoat-a24-square-peg-1237170198",
+          "tldr": "Cory Michael Smith has joined the ensemble cast of Ari Aster's thriller Scapegoat, starring Scarlett Johansson alongside Jacob Elordi, Jude Law and Ella Purnell.",
+          "source": "Deadline",
+          "published": "2026-10-21T22:06:22.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/Corey-Michael-Smith-and-Scarlett-Johansson.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics fall apart in season opener, lose to Pistons despite big Paul George debut",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/20/celtics-fall-apart-in-season-opener-lose-to-pistons-despite-big-paul-george-debut-8-takeaways",
+          "tldr": "The Celtics gave up a 20-0 fourth-quarter run and lost their season opener to the Pistons, despite a big debut from new signing Paul George.",
+          "source": "Boston.com",
+          "published": "2026-10-20T22:43:26.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Celtics-6ad7eda696919-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "3 matchups that will decide Patriots vs. Bears",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/21/new-england-patriots-a-j-brown-nfl-football-drake-maye-matchups-chicago-bears",
+          "tldr": "The Patriots will need to contain Chicago's run game and limit the Bears' clock control to win Thursday night's Week 7 matchup, Boston.com says.",
+          "source": "Boston.com",
+          "published": "2026-10-22T01:09:14.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/35ARACYZZES3PR57PCSSWSYHBU-6ad94e7ec9fd6-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots to start Walter Rouse, Matt Pryor at guard against Bears",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/141612/patriots-start-walter-rouse-matt-pryor-guard-against-bears-tnf-nfl-week-7",
+          "tldr": "New England will be without both starting guards for Thursday's game against the Bears, with Walter Rouse and Matt Pryor stepping in at the position.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-21T19:49:58.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2301227405.jpg?quality=90&strip=all&crop=0,11.790300486404,87.020965576172,88.209699513596"
+        },
+        {
+          "tag": "F1",
+          "title": "Lando Norris risks unwanted F1 record as disastrous title defence continues",
+          "url": "https://www.motorsport.com/f1/news/lando-norris-risks-unwanted-f1-record-as-disastrous-title-defence-continues/10866802",
+          "tldr": "Reigning champion Lando Norris is on course for one of the worst title defences in Formula 1 history, a year after winning his first championship.",
+          "source": "Motorsport.com",
+          "published": "2026-10-21T22:04:40.000Z",
+          "image": "https://cdn-9.motorsport.com/images/amp/6n7boZm0/s6/72945935-21.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "FIA set to close F1 cost cap loophole with new rules",
+          "url": "https://www.autosport.com/f1/news/fia-set-to-close-f1-cost-cap-loophole/10866649",
+          "tldr": "The FIA's World Motor Sport Council has approved new rules stopping teams' non-F1 staff from working on Formula 1 projects, closing a cost cap loophole.",
+          "source": "Autosport",
+          "published": "2026-10-21T08:52:58.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/6AErNjN6/s6/f1-and-fia-logo-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox reportedly make two changes on Chad Tracy's coaching staff",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/21/boston-red-sox-coaching-change-mlb-baseball-chad-tracy",
+          "tldr": "The Red Sox have reportedly made two more changes to Chad Tracy's coaching staff, months after overhauling it following Alex Cora's firing.",
+          "source": "Boston.com",
+          "published": "2026-10-21T21:30:51.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Lee062826soxyankees28SPTS-6ad929d7a5784-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-shopify-builds-product",
+    "why": "With Apple and Anthropic both shipping big product bets this week, a look at how Shopify plans, organises and ships product is a useful companion for a product marketer.",
+    "title": "How Shopify builds product",
+    "subtitle": "VP of Product Glen Coates on how Shopify plans around yearly themes, organizes around jobs to be done, tracks using a homegrown tool, why they shifted away from a GM structure, and much more",
+    "published": "2023-07-25",
+    "words": 4254,
+    "image": "https://substackcdn.com/image/fetch/$s_!f1ad!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F586ee879-d8a7-48e0-b926-e49cd1f2378b_1066x1600.jpeg",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/415-how-elon-thinks/id1141877104?i=1000757119172&uo=4",
+      "why": "Tesla's Cybercab sales push and Optimus production ramp make this a timely look at how Elon Musk thinks.",
+      "show": "Founders",
+      "title": "#415 How Elon Thinks",
+      "published": "2026-03-24",
+      "duration": "51m",
+      "apple": "https://podcasts.apple.com/us/podcast/415-how-elon-thinks/id1141877104?i=1000757119172&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/peter-rahal",
+      "why": "A builder's story of turning a protein bar into a category leader, useful craft for any product marketer.",
+      "show": "David Senra",
+      "title": "Building One of the Fastest Growing CPG Companies in History | Peter Rahal of David Protein, Medici Brands & RXBAR",
+      "published": "2026-09-20",
+      "duration": "1h 21m",
+      "apple": "https://podcasts.apple.com/us/podcast/building-one-of-the-fastest-growing-cpg-companies/id1836497887?i=1000790757685&uo=4",
+      "page": "https://www.davidsenra.com/episode/peter-rahal",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/fe/8e/73fe8e22-fd06-16a4-dff0-f58db09a2acb/mza_12162952990155392706.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-steve-ballmer-interview",
+      "why": "With Anthropic and Apple both making big product bets this week, Ballmer's view from inside Microsoft's biggest calls is a good companion.",
+      "show": "Acquired",
+      "title": "The Steve Ballmer Interview",
+      "published": "2025-06-02",
+      "duration": "2h 49m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-steve-ballmer-interview/id1050462261?i=1000710802439&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-steve-ballmer-interview",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/10/61/4910616b-6f78-522e-58dc-69520eed200a/mza_12071236440639884160.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "A New Wildlife Crossing in Colorado Has Already Cut Vehicle Collisions by 91 Percent",
+    "url": "https://www.thisiscolossal.com/2026/10/colorado-i25-wildlife-crossing",
+    "tldr": "Colorado's new wildlife-only highway bridge, the largest of its kind in North America, has already cut vehicle collisions with animals by 91 percent since opening in December 2025.",
+    "source": "Colossal",
+    "published": "2026-10-21T15:32:34.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/10/image_1.jpeg"
+  }
+}
