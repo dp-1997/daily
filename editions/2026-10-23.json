@@ -1,0 +1,353 @@
+{
+  "date": "2026-10-23",
+  "note": "The iPhone Duo launches today, and Kimi Antonelli could clinch his maiden F1 title at this weekend's US Grand Prix.",
+  "front": [
+    {
+      "title": "iPhone Duo Launch Begins as First Orders Reach Customers",
+      "url": "https://www.macrumors.com/2026/10/22/iphone-duo-australia-launch",
+      "tldr": "The iPhone Duo, Apple's first foldable iPhone, reached its first customers in Australia and New Zealand as the global launch rolled out through Friday. Early impressions are already surfacing online ahead of wider availability.",
+      "source": "MacRumors",
+      "published": "2026-10-22T22:21:59.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/10/boardiesboi-duo-australia.jpg"
+    },
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
+      "tldr": "MIT researchers left 13 AI agents alone on a virtual island with nothing to do. They invented games, mourned a lost ring, then got better at their actual jobs.",
+      "source": "TechCrunch",
+      "published": "2026-10-23T00:45:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590"
+    },
+    {
+      "title": "Travis Knight reveals the innovations that made Wildwood's stop-motion possible",
+      "url": "https://www.slashfilm.com/2294693/wildwood-director-travis-knight-interview",
+      "tldr": "Laika's Travis Knight explains the technical innovations behind Wildwood, the studio's biggest stop-motion production yet, as the film debuts at AFI Fest.",
+      "source": "/Film",
+      "published": "2026-10-22T19:08:03.000Z",
+      "image": "https://www.slashfilm.com/img/gallery/wildwood-director-travis-knight-reveals-the-innovations-that-made-the-epic-stop-motion-film-possible-exclusive/l-intro-1792694265.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+          "tldr": "OpenAI is reportedly raising $30 billion at a $1.25 trillion valuation, which would make it the most valuable private company ever, ahead of a planned IPO.",
+          "source": "TechCrunch",
+          "published": "2026-10-22T22:08:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680"
+        },
+        {
+          "title": "Canva releases its first image generation model",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+          "tldr": "Canva has launched its first in-house image generation model, available to all users, promising better results at a lower cost than relying on outside AI providers.",
+          "source": "TechCrunch",
+          "published": "2026-10-22T19:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675"
+        },
+        {
+          "title": "Claude Duet app is Anthropic's bet on agents",
+          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
+          "tldr": "Anthropic has opened a waitlist for Claude Duet, a new app for Pro and Max subscribers built around AI agents rather than a single chatbot.",
+          "source": "TechCrunch",
+          "published": "2026-10-22T13:53:26.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675"
+        },
+        {
+          "title": "Donating Agent Skills to the Agentic AI Foundation",
+          "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
+          "tldr": "Anthropic is donating its Agent Skills standard to a new vendor-neutral Agentic AI Foundation, aiming to keep the format open as rivals build competing agent tools.",
+          "source": "Simon Willison",
+          "published": "2026-10-22T18:09:56.000Z",
+          "image": ""
+        },
+        {
+          "title": "Beyond tree cover: mapping the world's forest types",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+          "tldr": "Google DeepMind has built a global map that categorises every 10-metre patch of land on Earth by forest type, a tool for tracking deforestation and restoration.",
+          "source": "Google DeepMind",
+          "published": "2026-10-22T14:30:24.000Z",
+          "image": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+          "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
+          "tldr": "Ride-hailing firm inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027, backed by Nvidia technology.",
+          "source": "TechCrunch",
+          "published": "2026-10-23T04:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800"
+        },
+        {
+          "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+          "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions",
+          "tldr": "Rivian has acquired Third Dimension, a startup building AI world models, pairing the technology with Rivian's own driving data to improve its self-driving simulator.",
+          "source": "TechCrunch",
+          "published": "2026-10-22T21:05:05.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1200,900"
+        },
+        {
+          "title": "Daft Punk is getting an official Lego set",
+          "url": "https://www.engadget.com/2294668/daft-punk-is-getting-an-official-lego-set",
+          "tldr": "A fan-built Lego model of Daft Punk's Alive tour pyramid has been approved to become an official set, after winning enough support on Lego Ideas.",
+          "source": "Engadget",
+          "published": "2026-10-22T18:59:09.000Z",
+          "image": "https://www.engadget.com/img/gallery/daft-punk-is-getting-an-official-lego-set/l-intro-1792695430.jpg"
+        },
+        {
+          "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+          "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots",
+          "tldr": "A former OpenAI science lead has launched Warp Science, training robots on camera and sensor-glove data from human chemists to automate lab work.",
+          "source": "TechCrunch",
+          "published": "2026-10-22T18:38:47.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2016/10/4528869007_4484c3d401_b-1.jpg?w=1024"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Building for iPhone Duo, in App Developers' Own Words",
+          "url": "https://www.macstories.net/stories/building-for-iphone-duo-in-app-developers-own-words",
+          "tldr": "MacStories spent a day in New York interviewing developers about building apps for the iPhone Duo, a new and unusually shaped device to design for.",
+          "source": "MacStories",
+          "published": "2026-10-22T16:32:11.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/10/22/img-1751-1792685099715-5350fcd093.jpg"
+        },
+        {
+          "title": "Apple's iWork Apps Get 'Intelligent Assistant' and iPhone Duo Support",
+          "url": "https://www.macrumors.com/2026/10/22/iwork-apps-intelligent-assistant",
+          "tldr": "Apple has added an Intelligent Assistant to Keynote, Numbers and Pages, available in beta to Creator Studio subscribers, alongside iPhone Duo support.",
+          "source": "MacRumors",
+          "published": "2026-10-22T20:15:24.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-keynote.jpg"
+        },
+        {
+          "title": "Is the beloved iPad mini the best iPad?",
+          "url": "https://sixcolors.com/post/2026/10/is-the-beloved-ipad-mini-the-best-ipad",
+          "tldr": "Six Colors considers whether the iPad mini remains Apple's best iPad, as invitations go out for a Los Angeles event next week rumoured to include a new mini.",
+          "source": "Six Colors",
+          "published": "2026-10-22T21:16:52.000Z",
+          "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2024/10/ipad-mini-dan-book-6c.jpg?ssl=1"
+        },
+        {
+          "title": "MacBook Neo helps Apple soften the blow of global PC market downturn, per report",
+          "url": "https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report",
+          "tldr": "Counterpoint Research says Apple outperformed the broader PC market in Q3, with the MacBook Neo helping cushion the impact of a wider decline in shipments.",
+          "source": "9to5Mac",
+          "published": "2026-10-22T22:35:38.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Wildwood Director Hopes People See The Danger In GenAI, Calls It Antithetical To Laika's Work",
+          "url": "https://deadline.com/2026/10/wildwood-director-danger-gen-ai-antithetical-laika-1237171243",
+          "tldr": "Travis Knight, Wildwood's director and Laika's CEO, says generative AI is incompatible with the studio's stop-motion craft and hopes audiences recognise what that craft costs to protect.",
+          "source": "Deadline",
+          "published": "2026-10-22T21:36:56.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/MCDWILD_EC246.jpg"
+        },
+        {
+          "title": "Wicker Review: Olivia Colman and Peter Dinklage turn Alexander Skarsgård into a comic delight",
+          "url": "https://deadline.com/2026/10/wicker-olivia-colman-peter-dinklage-alexander-skarsgard-1237170426",
+          "tldr": "Deadline calls Wicker the year's most unexpected comedy, with Olivia Colman and Peter Dinklage turning Alexander Skarsgård's basket-case character into pure delight.",
+          "source": "Deadline",
+          "published": "2026-10-22T20:00:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2025/12/Wicker-Still_1.jpg"
+        },
+        {
+          "title": "Amanda Seyfried Joins Ramy Youssef's Martha & Muhammad At A24",
+          "url": "https://deadline.com/2026/10/amanda-seyfried-joins-ramy-youssef-martha-and-muhammad-1237171034",
+          "tldr": "Amanda Seyfried is set to star opposite Ramy Youssef and Sharon Stone in Martha & Muhammad, an A24 comedy marking Youssef's feature directorial debut.",
+          "source": "Deadline",
+          "published": "2026-10-22T19:45:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/Amanda-Seyfried-credit-Nico-Bustos.jpg"
+        },
+        {
+          "title": "Moonlight Turns 10: Tarell Alvin McCraney on the Film's Lasting Legacy and That Best Picture Mix-Up",
+          "url": "https://www.indiewire.com/features/interviews/moonlight-turns-10-tarell-alvin-mccraney-interview-1235223404",
+          "tldr": "A24's Moonlight turns ten this year. Its Oscar-winning screenwriter Tarell Alvin McCraney reflects on the film's legacy, including its infamous Best Picture mix-up.",
+          "source": "IndieWire",
+          "published": "2026-10-22T18:30:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MCDMOON_EC125.jpg?w=650"
+        },
+        {
+          "title": "Laika's First PG-13 Film, Brad Bird's Neo-Noir and an Alzheimer's Memoir: Animation's Revolution Isn't for Kids",
+          "url": "https://variety.com/2026/film/awards/animation-adults-wildwood-ray-gunn-tangles-hoppers-scad-1236917883",
+          "tldr": "Wildwood earned the MPA's first PG-13 rating for a Laika film, part of a wider move by animation studios toward stories aimed squarely at adults.",
+          "source": "Variety",
+          "published": "2026-10-22T21:11:06.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Wildwood-Laika-1000.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "With The Truth in the building, Celtics give honest perspective on loss to Pistons",
+          "url": "https://www.celticsblog.com/boston-celtics-news/148246/with-the-truth-in-the-building-celtics-give-honest-perspective-on-loss-to-pistons",
+          "tldr": "Paul George scored 38 points in his Celtics debut, but Boston were out-rebounded and lost the margin battle as Detroit beat them 121-113.",
+          "source": "CelticsBlog",
+          "published": "2026-10-22T17:38:08.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-1340492008.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Paul George, Randy Moss and the greatest debuts in Boston sports history",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/22/paul-george-boston-sports-debuts-ranking-celtics-red-sox-bruins-patriots",
+          "tldr": "Paul George's 38 points on Tuesday marked the most by a Celtics player in a debut game, placing him among the greatest debuts in Boston sports history.",
+          "source": "Boston.com",
+          "published": "2026-10-22T11:18:21.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Celtics_Pistons_Basketball_1319_-6ad96217335a7-850x638.jpg"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Hauser-Queta lineup makes early case for starting five",
+          "url": "https://www.celticsblog.com/celtics-analysis/148144/hauser-queta-lineup-makes-early-case-for-starting-five",
+          "tldr": "Boston opened the season with Derrick White, Jordan Walsh, Jayson Tatum, Paul George and Mitchell Robinson, but an alternative lineup is already making a case to start instead.",
+          "source": "CelticsBlog",
+          "published": "2026-10-22T10:02:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2264584298.jpg?quality=90&strip=all&crop=0,3.9466650390625,100,48.906665039063"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Bears 30, Patriots 24: Drake Maye's three touchdowns not enough in loss to Chicago",
+          "url": "https://www.boston.com/new-england-patriots/live/patriots-vs-bears-live-coverage-christian-gonzalez-listed-as-active",
+          "tldr": "Drake Maye threw two touchdowns and ran in a third, but Caleb Williams and Luther Burden picked apart New England's defence as the Patriots fell 30-24 to Chicago.",
+          "source": "Boston.com",
+          "published": "2026-10-22T23:08:01.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/FKOPTI2KOJC3EW6WXH45ASIV64-6adab017c3f06-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots playoff picture after losing to the Bears in Week 7",
+          "url": "https://www.patspulpit.com/new-england-patriots-nfl-playoffs/141849/afc-playoff-picture-new-england-patriots-wild-card-standings-bears-nfl-week-7",
+          "tldr": "New England's three-game winning streak ended against Chicago, a defeat that also shifts the Patriots' position in the AFC wild-card picture.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-23T03:36:31.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2301556992.jpg?quality=90&strip=all&crop=0,5.1397134867342,77.739953613281,94.860286513266"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots place Alijah Vera-Tucker on injured reserve, elevate pair for Week 7",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/141714/patriots-place-alijah-vera-tucker-injured-reserve-elevate-xavier-newman-johnson-benton-whitley",
+          "tldr": "New England has placed starting left guard Alijah Vera-Tucker on injured reserve for at least four games, elevating two players to fill the gap on an already battered line.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-22T20:31:18.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/09/gettyimages-2294807613.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Kimi Antonelli ready to 'finish the job' as first F1 title chance beckons at US GP",
+          "url": "https://www.motorsport.com/f1/news/kimi-antonelli-ready-to-finish-the-job-as-first-f1-title-chance-beckons-at-us-gp/10867163",
+          "tldr": "Kimi Antonelli, F1's championship leader at 20, could become the sport's youngest ever world champion this weekend in Austin if results go his way.",
+          "source": "Motorsport.com",
+          "published": "2026-10-22T21:15:16.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/0LdeAdv0/s6/andrea-kimi-antonelli-mercedes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Verstappen criticises 'unacceptable' COTA surface amid concerns over injury",
+          "url": "https://www.skysports.com/f1/news/12433/13602372/max-verstappen-red-bull-driver-hits-out-at-unacceptable-bumpy-united-states-gp-surface-at-cota-amid-safety-concerns",
+          "tldr": "Max Verstappen says the bumpy track surface at the Circuit of the Americas is 'out of control' and has raised concerns about long-term spinal injury to drivers.",
+          "source": "Sky Sports",
+          "published": "2026-10-22T23:00:00.000Z",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-max-verstappen-red-bull_7384210.jpg?20261023000829"
+        },
+        {
+          "tag": "F1",
+          "title": "Norris: 'Incredible' Antonelli two levels above Russell all season",
+          "url": "https://www.skysports.com/f1/news/12433/13602369/kimi-antonelli-lando-norris-lewis-hamilton-praise-mercedes-driver-ahead-of-first-f1-2026-title-win-chance-at-united-states-gp",
+          "tldr": "Lando Norris says Kimi Antonelli has performed 'two levels above' his Mercedes team-mate George Russell this season, ahead of Antonelli's first shot at the title.",
+          "source": "Sky Sports",
+          "published": "2026-10-22T22:50:00.000Z",
+          "image": "https://e2.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-lando-norris_7384209.jpg?20261022234513"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Rafaela beats PCA for Fielding Bible Award in center; Wilyer also wins",
+          "url": "https://www.mlb.com/redsox/news/fielding-bible-award-winners-for-2026",
+          "tldr": "Red Sox centre fielder Rafaela won the Fielding Bible Award for his position, with Wilyer Abreu also honoured, as the annual awards recognised 2026's best defenders.",
+          "source": "MLB.com",
+          "published": "2026-10-22T19:13:23.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/uu88gvkhrx20whyhcxif.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "In the middle of the win streak, Wilyer Abreu mashed for the Red Sox",
+          "url": "https://www.overthemonster.com/red-sox-analysis/110736/in-the-middle-of-the-win-streak-wilyer-abreu-mashed-for-the-red-sox",
+          "tldr": "A look back at Wilyer Abreu's hitting during the Red Sox's win streak this season, now that Boston's year has ended without a World Series return.",
+          "source": "Over the Monster",
+          "published": "2026-10-22T12:21:36.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2286289436.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product",
+    "why": "You build software on the side with AI already; this is Lenny's own playbook for turning an idea into a working prototype fast.",
+    "title": "A guide to AI prototyping for product managers",
+    "subtitle": "How to turn your idea into a working prototype in minutes",
+    "published": "2025-01-07",
+    "words": 3831,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F263e0c31-8ed5-40d0-b3d3-2fff6ef4f129_2912x1858.jpeg",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://www.founderspodcast.com/episodes/416-the-relentless-missionary-creating-agi-demis-hassabis",
+      "why": "With OpenAI chasing a $1.25 trillion valuation and Anthropic pushing Claude Duet, the founder story behind DeepMind's Demis Hassabis is worth revisiting today.",
+      "show": "Founders",
+      "title": "#416 The Relentless Missionary Creating AGI: Demis Hassabis",
+      "published": "2026-04-01",
+      "duration": "55m",
+      "apple": "https://podcasts.apple.com/us/podcast/416-the-relentless-missionary-creating-agi-demis-hassabis/id1141877104?i=1000758557794&uo=4",
+      "page": "https://www.founderspodcast.com/episodes/416-the-relentless-missionary-creating-agi-demis-hassabis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/steve-stoute",
+      "why": "Stoute built his career on finding the story inside a product, the same instinct you bring to product marketing.",
+      "show": "David Senra",
+      "title": "Steve Stoute, UnitedMasters",
+      "published": "2026-06-21",
+      "duration": "1h 35m",
+      "apple": "https://podcasts.apple.com/us/podcast/steve-stoute-unitedmasters/id1836497887?i=1000773587421&uo=4",
+      "page": "https://www.davidsenra.com/episode/steve-stoute",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/af/4f/63/af4f639c-7d8f-2f80-0452-5bb59d620ac7/mza_6627752318604786696.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang",
+      "why": "Every iPhone Duo shipping today runs on chips from the company Morris Chang built; worth knowing how he built it.",
+      "show": "Acquired",
+      "title": "TSMC Founder Morris Chang",
+      "published": "2025-01-27",
+      "duration": "2h 48m",
+      "apple": "https://podcasts.apple.com/us/podcast/tsmc-founder-morris-chang/id1050462261?i=1000685569822&uo=4",
+      "page": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/08/2d/65082d51-4c48-f604-a480-38839bf89028/mza_12588002078552567770.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "The Flipbook of the Rings",
+    "url": "https://kottke.org/26/10/the-flipbook-of-the-rings",
+    "tldr": "More than 1,000 artists spent over a year hand-drawing a shot-for-shot flipbook version of Peter Jackson's The Lord of the Rings, led by animator Andy Bailey.",
+    "source": "Kottke",
+    "published": "2026-10-22T20:31:00.000Z",
+    "image": "https://i.ytimg.com/vi/lWtX7nVFrUw/sddefault.jpg"
+  }
+}
