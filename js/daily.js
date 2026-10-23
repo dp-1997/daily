@@ -55,6 +55,18 @@
     var pickerAnimation = null;
     var collapsedPicker = "none";
     var afterPickerClose = null;
+    // An open foldable shows the paper as two pages: the masthead and
+    // shortcuts on the left, the stories on the right. Keep this query
+    // in step with the spread at the end of css/daily.css.
+    var spread = window.matchMedia("screen and (min-width: 760px) and (max-width: 1100px) and (orientation: landscape) and (min-height: 460px) and (max-height: 760px)");
+    // Where a chosen section's heading lands: level with the masthead
+    // on the spread, just below the top edge on a phone.
+    function headingGap() { return spread.matches ? 40 : 24; }
+    // On a phone the shortcuts belong to the front page; on the spread
+    // the left page has room for them on every view.
+    function showOverview(id) {
+      overview.hidden = !spread.matches && id !== "front" && id !== "all";
+    }
 
     function route() {
       var id;
@@ -80,7 +92,7 @@
       panels.forEach(function (panel) {
         panel.hidden = next.id !== "all" && panel !== next.panel && !(next.id === "front" && panel.id === "finally");
       });
-      overview.hidden = next.id !== "front" && next.id !== "all";
+      showOverview(next.id);
       viewLinks.forEach(function (link) {
         var selected = link.hash === "#" + next.id || (next.panel && link.hash === "#" + next.panel.id);
         if (selected) link.setAttribute("aria-current", "location");
@@ -97,8 +109,10 @@
       var heading = next.target.matches("h2, h3") ? next.target : next.target.querySelector("h2, h3");
       if (options.focus && heading) heading.focus({ preventScroll: true });
       var top = options.restore && positions.has(next.id) ? positions.get(next.id) :
-        next.id === "front" || next.id === "all" ? 0 : next.target.getBoundingClientRect().top + window.scrollY - 24;
+        next.id === "front" || next.id === "all" ? 0 : next.target.getBoundingClientRect().top + window.scrollY - headingGap();
       window.scrollTo({ top: Math.max(0, top), behavior: "auto" });
+      // A view switch need not scroll, so note the new top here too.
+      noteAnchor();
     }
 
     function updateDock() {
@@ -239,7 +253,44 @@
         picker.classList.remove("is-opening");
       }
     });
+    // Folding or unfolding moves the masthead in or out of the reading
+    // column. Remember what sits at the top of the screen, and put it
+    // back in the same place when the layout switches.
+    var anchor = null;
+    var anchorTop = 0;
+    var anchorQueued = false;
+    function noteAnchor() {
+      anchorQueued = false;
+      anchor = null;
+      // The first heading, story or pick that starts on screen; failing
+      // that, the one that runs off the top.
+      var items = document.querySelectorAll("[data-edition-panel]:not([hidden]) :is(.section-h, .group-h, .story, .pick)");
+      for (var i = 0; i < items.length; i++) {
+        var top = items[i].getBoundingClientRect().top;
+        anchor = items[i];
+        anchorTop = top;
+        if (top >= 0) return;
+      }
+    }
+    window.addEventListener("scroll", function () {
+      if (anchorQueued) return;
+      anchorQueued = true;
+      requestAnimationFrame(noteAnchor);
+    }, { passive: true });
+    spread.addEventListener("change", function () {
+      showOverview(current);
+      // Positions saved for Back and Forward belong to the other layout.
+      positions.clear();
+      // At the very top of the front page the masthead leads either way.
+      var atFrontTop = window.scrollY === 0 && (current === "front" || current === "all");
+      if (anchor && anchor.getClientRects().length && !atFrontTop) {
+        var top = anchor.getBoundingClientRect().top + window.scrollY - Math.max(anchorTop, headingGap());
+        window.scrollTo({ top: Math.max(0, top), behavior: "auto" });
+      }
+      noteAnchor();
+    });
     renderView({ initial: true });
+    noteAnchor();
     requestAnimationFrame(function () { dock.classList.add("is-ready"); });
   }
 

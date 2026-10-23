@@ -41,7 +41,7 @@ const SECTIONS = [
   { id: "sport", title: "Sport" }
 ];
 const SPORT_ORDER = ["Celtics", "Manchester United", "Patriots", "F1", "Red Sox"];
-const ASSET_VERSION = "20260905-pills";
+const ASSET_VERSION = "20261023-duo";
 const sportId = (tag) => `sport-${tag.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`;
 
 /* ---------- Helpers ---------- */
@@ -499,6 +499,7 @@ function editionHtml(ed, number, feedCount, { editionPage = false } = {}) {
   }).join("");
 
   const body = `
+    <div class="page-lead">
     <header class="masthead fade-in" style="--d: 0">
       <p class="masthead-kicker"><a href="${esc(site.owner_url)}">${esc(site.owner)}</a> · No. ${number}</p>
       <h1 class="page-title">${esc(site.name)}</h1>
@@ -510,6 +511,7 @@ function editionHtml(ed, number, feedCount, { editionPage = false } = {}) {
       <p class="section-index-label">In this edition</p>
       <div class="section-shortcuts">${sectionLinksHtml(ed)}</div>
     </nav>
+    </div>
 
     <section id="front" class="section front" data-edition-panel aria-labelledby="h-front">
       <h2 class="section-h" id="h-front" tabindex="-1">Today’s highlights <span class="heading-count">${ed.front.length} stories</span></h2>
@@ -551,11 +553,13 @@ function archiveHtml(editions, feedCount) {
     )
     .join("");
   const body = `
+    <div class="page-lead">
     <header class="masthead fade-in" style="--d: 0">
       <p class="masthead-kicker"><a href="/">${esc(site.name)}</a></p>
       <h1 class="page-title">Archive</h1>
       <p class="dateline">${editions.length} edition${editions.length === 1 ? "" : "s"}</p>
     </header>
+    </div>
     <section class="section fade-in" style="--d: 1">
       <ol class="editions">${rows}
       </ol>
@@ -577,12 +581,14 @@ function sourcesHtml(feedCount) {
     .join("");
   const pods = sources.podcasts.map((p) => `<li><a href="${esc(p.youtube || p.site)}" rel="noopener">${esc(p.show)}</a><span class="source-host">${esc(p.host)}</span></li>`).join("");
   const body = `
+    <div class="page-lead">
     <header class="masthead fade-in" style="--d: 0">
       <p class="masthead-kicker"><a href="/">${esc(site.name)}</a></p>
       <h1 class="page-title">Sources</h1>
       <p class="dateline">${feedCount} feeds, one newsletter, three podcasts</p>
       <p class="standfirst">Every story links to the outlet that reported it. Sources are chosen for reliability and for being readable without a paywall; the exception is Lenny's Newsletter, which is worth it.</p>
     </header>
+    </div>
     <section class="section fade-in" style="--d: 1">${groups}
       <div class="source-group">
         <h2 class="group-h">Read</h2>
