@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-24",
+  "front": [
+    {
+      "title": "iPhone Duo launch day brings long queues back to Apple Stores",
+      "url": "https://www.macrumors.com/2026/10/23/iphone-duo-long-lines-at-apple-stores",
+      "tldr": "Apple's foldable iPhone Duo went on sale on Friday, and queues formed outside stores for the first time in years. Early buyers also found hinge cracks and a same-day jailbreak, alongside reviews calling it an expensive, messy good time.",
+      "source": "MacRumors",
+      "published": "2026-10-23T18:42:54.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/10/Apple-Store-Austin-Texas-iPhone-Duo-Launch-Day.jpg"
+    },
+    {
+      "title": "OpenAI will stop training frontier models on the live internet",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+      "tldr": "OpenAI says it will cut future frontier models off from live internet access during training, citing significant risks, weeks after an engineer said the idea would not work.",
+      "source": "TechCrunch",
+      "published": "2026-10-23T23:05:49.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+    },
+    {
+      "title": "Jayson Tatum scores 36 as Celtics edge past Knicks 107-103",
+      "url": "https://www.boston.com/sports/boston-celtics/2026/10/24/celtics-knicks-jayson-tatum-score",
+      "tldr": "Tatum scored 36 points, including two clutch baskets late, as the Celtics outscored the Knicks 33-24 in the third quarter to win their home opener 107-103.",
+      "source": "Boston.com",
+      "published": "2026-10-24T04:05:38.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/10/Knicks_Celtics_Basketball_4224_-6adc13fcbd394-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Quick Study",
+          "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter",
+          "tldr": "Simon Willison shares a prompt that has Claude Opus 5.5 build an artifact which repaints an uploaded photo in real time using a canvas and simulated brush strokes, a neat demo of what a few lines of AI-written code can do.",
+          "source": "Simon Willison",
+          "published": "2026-10-23T21:35:13.000Z",
+          "image": "https://static.simonwillison.net/static/2026/heron-oil.webp"
+        },
+        {
+          "title": "Nvidia's CEO plays with Microduck robots, the hot Christmas toy",
+          "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
+          "tldr": "Nvidia's chief executive demonstrated tiny Microduck robots that sit, nap and somersault on voice command, with 20,000 already sold ahead of Christmas.",
+          "source": "TechCrunch",
+          "published": "2026-10-23T21:59:19.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676"
+        },
+        {
+          "title": "Introducing Kimi K3.1 Pro",
+          "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+          "tldr": "Moonshot's Kimi K3.1 Pro landed on the Kimi API today, not yet open weights, with full model weights promised by 4 November.",
+          "source": "Simon Willison",
+          "published": "2026-10-23T19:40:54.000Z",
+          "image": "https://static.simonwillison.net/static/2026-10-23/image-2.png"
+        },
+        {
+          "title": "OpenAI explains how it secured its frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "tldr": "OpenAI says it has strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming, as it tightens safety ahead of future releases.",
+          "source": "OpenAI",
+          "published": "2026-10-23T10:00:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Startups don't need to go viral to win customers",
+          "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers",
+          "tldr": "At TechCrunch Disrupt, two founders and a VC discussed how to build an early following and keep it, arguing durable growth beats one viral moment.",
+          "source": "TechCrunch",
+          "published": "2026-10-23T23:07:45.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=1200,800"
+        },
+        {
+          "title": "VCs and Superhuman's founder share red flags about product-market fit",
+          "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit",
+          "tldr": "Investors from Iconiq and Sapphire Ventures, plus Superhuman Mail founder Rahul Vohra, set out the do's and don'ts of building a product people actually want.",
+          "source": "TechCrunch",
+          "published": "2026-10-23T20:57:13.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/PMf-panel.jpg?resize=1200,800"
+        },
+        {
+          "title": "Commonwealth Fusion Systems gets $85m to build fusion-ready semiconductors",
+          "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors",
+          "tldr": "The top-funded fusion startup received an $85 million federal award to develop conductors that can withstand the conditions inside a fusion power plant.",
+          "source": "TechCrunch",
+          "published": "2026-10-23T16:20:28.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/CFS-Brandon-Sorbom-Disrupt-2026.jpg?resize=1200,800"
+        },
+        {
+          "title": "ASUS ProArt P16 review: a sleek showcase for Nvidia's RTX Spark",
+          "url": "https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review",
+          "tldr": "Engadget tests the ProArt P16 and finds Nvidia's new RTX Spark platform off to a good start, though the laptop is really built for AI enthusiasts rather than everyone.",
+          "source": "Engadget",
+          "published": "2026-10-23T12:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark/l-intro-1792702282.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "The iPhone Duo can be a tiny Mac, a toaster, or a Nintendo DS",
+          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-fun-apps",
+          "tldr": "Developers are already stretching the iPhone Duo's new foldable form factor, building apps that turn it into a miniature Mac, a toaster animation and a Nintendo DS-style console.",
+          "source": "MacRumors",
+          "published": "2026-10-23T23:22:55.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/tiny-computer-iphone-duo.jpg"
+        },
+        {
+          "title": "Some iPhone Duo owners report screens cracking along the hinge",
+          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-screen-cracks",
+          "tldr": "Photos shared on Reddit and the MacRumors forums show a small number of new iPhone Duo units developing display cracks right along the hinge.",
+          "source": "MacRumors",
+          "published": "2026-10-23T18:05:41.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/iphone-duo-screen-crack.jpg"
+        },
+        {
+          "title": "Joanna Stern folded the iPhone Duo 32,000 times to test its hinge",
+          "url": "https://www.youtube.com/watch?v=bxDTWuL9GxY",
+          "tldr": "Joanna Stern's 16-minute video review commissioned a custom robot to fold the Duo 32,000 times in a week to test whether the hinge would loosen.",
+          "source": "Daring Fireball",
+          "published": "2026-10-23T14:42:06.000Z",
+          "image": ""
+        },
+        {
+          "title": "An iPhone Duo was jailbroken hours after launch",
+          "url": "https://www.macrumors.com/2026/10/23/iphone-duo-jailbreak",
+          "tldr": "Hacker team Calif jailbroke an iPhone Duo running iOS 27.1 within hours of release, showing off bouncing icons, widgets and an animated extra on the outer display.",
+          "source": "MacRumors",
+          "published": "2026-10-23T19:53:55.000Z",
+          "image": "https://images.macrumors.com/t/Im11BUuuIFrgQlKCgYNZc5nbdm8=/2500x/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg"
+        },
+        {
+          "title": "Apple is exploring a fix for Safari's cramped layout on the Duo's outer display",
+          "url": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display",
+          "tldr": "Apple's Jen Simmons says the company is exploring ways to let websites make better use of the iPhone Duo's smaller outer screen, detailed in a new WebKit blog post on Safari 27.1.",
+          "source": "9to5Mac",
+          "published": "2026-10-23T23:50:49.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Sofia Coppola on how Marie Antoinette almost broke her, 20 years on",
+          "url": "https://www.indiewire.com/features/podcast/marie-antoinette-sofia-coppola-critical-backlash-music-mom-1235223601",
+          "tldr": "Marking 20 years since Marie Antoinette, Sofia Coppola tells IndieWire what she learned about the film's critical backlash, and about her late mother, while finishing Eleanor Coppola's own documentary.",
+          "source": "IndieWire",
+          "published": "2026-10-23T20:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/MA_800dpi_23_Credit_Sofia-Coppola.jpeg?w=650"
+        },
+        {
+          "title": "Zendaya to campaign for best actress for Dune: Part Three",
+          "url": "https://variety.com/2026/film/awards/zendaya-oscars-dune-3-best-actress-1236918133",
+          "tldr": "Variety reports Zendaya will push for a lead actress Oscar campaign as Chani in Dune: Part Three, the final instalment of Denis Villeneuve's trilogy, a shift from the supporting category.",
+          "source": "Variety",
+          "published": "2026-10-23T19:02:02.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/03/zendaya-dune-3-1.jpg"
+        },
+        {
+          "title": "Pedro Pascal learned the cello for Behemoth! before it was even greenlit",
+          "url": "https://variety.com/2026/film/awards/pedro-pascal-behemoth-cello-avengers-doomsday-line-podcast-1236921933",
+          "tldr": "Pedro Pascal describes more than a year of cello lessons for Behemoth!, taken before the film was greenlit, alongside reflections on breaking into Hollywood.",
+          "source": "Variety",
+          "published": "2026-10-23T18:13:48.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/P1075CPY-1000.jpg"
+        },
+        {
+          "title": "Deadline reviews this weekend's box office openers: Clayface, Wildwood and more",
+          "url": "https://deadline.com/lists/playing-in-movie-theaters-this-weekend-reviews",
+          "tldr": "Deadline rounds up reviews for the week's new theatrical releases, led by DC Studios' Clayface, as a busy weekend begins at the box office.",
+          "source": "Deadline",
+          "published": "2026-10-23T22:28:39.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/mcdclay-wb002-1000x667-1.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "What is going on with Celtics guard Payton Pritchard?",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/23/nba-celtics-payton-pritchard-commentary",
+          "tldr": "Pritchard received a contract extension before the season, but his role has not expanded to match it, Boston.com notes early in the Celtics' title defence.",
+          "source": "Boston.com",
+          "published": "2026-10-24T02:57:34.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/pritch-6adc1a6ee82a6-scaled-e1792809597208-850x638.jpg"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Joe Mazzulla says the Eastern Conference 'could go either way' this season",
+          "url": "https://www.celticsblog.com/boston-celtics-news/148320/joe-mazzulla-shares-expectations-for-east-it-could-go-either-way",
+          "tldr": "Celtics coach Joe Mazzulla says he does not see a clear path through a much-improved Eastern Conference this season.",
+          "source": "CelticsBlog",
+          "published": "2026-10-23T23:49:17.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY300530991273522642.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots fall to Bears 30-24 in Thursday night loss",
+          "url": "https://www.patriots.com/news/game-observations-8-takeaways-from-the-patriots-loss-to-the-bears-on-thursday-night-football-in-week-7",
+          "tldr": "New England lost 30-24 to the Bears in Chicago on Thursday night in their Week 7 game.",
+          "source": "Patriots.com",
+          "published": "2026-10-23T13:01:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/y8hp8z43kivo0mtp2wuq.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "A costly Drake Maye interception proved decisive in Patriots' loss to Bears",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/141869/drake-maye-mistake-interception-patriots-loss-bears",
+          "tldr": "Drake Maye's second-quarter interception loomed large as the Patriots lost to the Bears, with the quarterback visibly frustrated at the postgame podium.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-23T10:30:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2301561129.jpg?quality=90&strip=all&crop=8.0235015869141,1.2903094677261,91.976498413086,98.709690532274"
+        },
+        {
+          "tag": "F1",
+          "title": "Leclerc tops Friday practice at the US Grand Prix in an upgraded Ferrari",
+          "url": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-pips-antonelli/10867584",
+          "tldr": "Charles Leclerc led both Friday practice sessions for the US Grand Prix in Austin, narrowly ahead of Kimi Antonelli, as McLaren struggled for grip.",
+          "source": "Autosport",
+          "published": "2026-10-23T22:10:00.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/6zoDqZk0/s6/charles-leclerc-ferrari-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Christian Horner says he may never return to F1 after his Red Bull exit",
+          "url": "https://www.motorsport.com/f1/news/christian-horner-admits-he-may-never-return-to-f1-after-red-bull-exit/10867605",
+          "tldr": "Horner says he is in no hurry to return to the paddock and could live with never working in Formula 1 again, having been sacked as Red Bull's team principal.",
+          "source": "Motorsport.com",
+          "published": "2026-10-23T23:00:28.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/0R7BAor2/s6/motorsport-com-graphics-4.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Hamilton eyes staying in F1 into the 2030s to race in Africa",
+          "url": "https://www.skysports.com/f1/news/12433/13602759/lewis-hamilton-ferrari-driver-eyes-continuing-his-f1-career-into-the-2030s-to-race-at-first-african-gp",
+          "tldr": "Lewis Hamilton says he wants to remain in Formula 1 into the 2030s so he can fulfil his ambition of racing at the sport's first African Grand Prix.",
+          "source": "Sky Sports",
+          "published": "2026-10-23T17:30:00.000Z",
+          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-lewis-hamilton-ferrari_7384880.jpg?20261023182644"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "The moments that made the 2026 Red Sox: the Dodgers sweep",
+          "url": "https://www.overthemonster.com/red-sox-comentary/110777/the-moments-that-made-the-2026-red-sox-the-dodger-sweep-allowed-us-to-dream-of-a-hollywood-ending",
+          "tldr": "Over the Monster looks back on the 2026 Red Sox season, starting with the 7 September sweep of the Dodgers that let fans dream of a Hollywood ending.",
+          "source": "Over the Monster",
+          "published": "2026-10-23T18:21:54.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2288081416.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Longtime Red Sox executive Larry Lucchino honoured with academic sports program",
+          "url": "https://www.mlb.com/redsox/news/larry-lucchino-institute-created-for-red-sox-executive",
+          "tldr": "An academic institute has been created in honour of longtime Red Sox executive Larry Lucchino, recognising his decades of work in baseball.",
+          "source": "MLB.com",
+          "published": "2026-10-23T12:57:06.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/hdoed4tawbl3416knjoj.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/what-it-feels-like-when-youve-found",
+    "why": "Launch day for the iPhone Duo and today's product-market-fit debate in the tech section make this a fitting reminder of what it actually feels like when a product clicks.",
+    "title": "What it feels like when you've found product-market fit",
+    "subtitle": "Stories from the founders of Netflix, Uber, Airbnb, Substack, Stripe, Datadog, GitHub, Segment, Dropbox, Superhuman, Instacart, Nextdoor, and many more",
+    "published": "2020-09-29",
+    "words": 3708,
+    "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fddea5493-43b6-4017-93b5-47a3b37e38b6_1766x994.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/434-sam-walton/id1141877104?i=1000790878150&uo=4",
+      "why": "On the day queues returned to Apple Stores, Sam Walton's obsession with the customer in-store feels apt.",
+      "show": "Founders",
+      "title": "#434 Sam Walton",
+      "published": "2026-09-21",
+      "duration": "49m",
+      "apple": "https://podcasts.apple.com/us/podcast/434-sam-walton/id1141877104?i=1000790878150&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/torsten-reil",
+      "why": "A founder building frontier defence technology makes a fitting companion to today's AI safety story.",
+      "show": "David Senra",
+      "title": "Building Defense Technologies to Protect Democracies | Torsten Reil, Helsing",
+      "published": "2026-08-26",
+      "duration": "1h 24m",
+      "apple": "https://podcasts.apple.com/us/podcast/building-defense-technologies-to-protect-democracies/id1836497887?i=1000785968395&uo=4",
+      "page": "https://www.davidsenra.com/episode/torsten-reil",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fd/1e/1d/fd1e1db1-67d3-8d4f-3402-baac47e426bd/mza_14139572383731533495.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=OduvOCrVpgo"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/coca-cola",
+      "why": "A study of one of the world's most enduring consumer products, a nice companion to iPhone Duo launch day.",
+      "show": "Acquired",
+      "title": "Coca-Cola",
+      "published": "2025-11-24",
+      "duration": "3h 54m",
+      "apple": "https://podcasts.apple.com/us/podcast/coca-cola/id1050462261?i=1000738059532&uo=4",
+      "page": "https://www.acquired.fm/episodes/coca-cola",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/22/14/8c/22148c4b-40c8-09ed-01ac-ad76f1bd8b3a/mza_16845767999812105218.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Loader Monteith expands red-brick bungalow within a remarkably compact footprint near Manchester",
+    "url": "https://www.dezeen.com/2026/10/23/loader-monteith-deyne-avenue",
+    "tldr": "A Scottish studio has transformed a two-bed, red-brick bungalow in Prestwich, near Manchester, into a four-bedroom family home, fitting a quart into a pint pot.",
+    "source": "Dezeen",
+    "published": "2026-10-23T10:30:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/10/loader-monteith-deyne-avenue-home-extension-manchester-sq_dezeen_2364_col_0-1024x1024.jpg"
+  }
+}
