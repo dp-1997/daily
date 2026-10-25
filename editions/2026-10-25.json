@@ -1,0 +1,282 @@
+{
+  "date": "2026-10-25",
+  "note": "Kimi Antonelli could seal the Formula 1 title at today's United States Grand Prix in Austin.",
+  "front": [
+    {
+      "title": "iPhone Duo goes on sale as Apple's Ternus greets queuing customers in Austin",
+      "url": "https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22",
+      "tldr": "Apple's first foldable iPhone went on sale Friday, with chief executive Ternus greeting queuing customers in person at the Austin store. Reuters and the Wall Street Journal both filed launch-day dispatches, reflecting how closely retail is being watched for Apple's biggest hardware bet in years.",
+      "source": "Daring Fireball",
+      "published": "2026-10-24T22:08:17.000Z",
+      "image": ""
+    },
+    {
+      "title": "Tarantino shows AFI Fest the first 17 minutes of his 'Cliff Booth' follow-up",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-cliff-booth-revive-character-afi-fest-1236739509",
+      "tldr": "Quentin Tarantino surprised an AFI Fest crowd with the first 17 minutes of 'Cliff Booth,' his follow-up to Once Upon a Time in Hollywood, and explained why he decided to revive the character after years away.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-10-24T13:00:00.000Z",
+      "image": ""
+    },
+    {
+      "title": "Antonelli takes surprise pole, boosting his chances of sealing the F1 title in Austin",
+      "url": "https://www.skysports.com/f1/news/12433/13603149/united-states-gp-qualifying-kimi-antonelli-beats-max-verstappen-to-surprise-pole-to-boost-chances-of-sealing-maiden-f1-title-on-sunday",
+      "tldr": "Kimi Antonelli claimed a surprise pole position for the United States Grand Prix, beating Max Verstappen, and could seal his maiden Formula 1 drivers' title in Sunday's race at Austin.",
+      "source": "Sky Sports",
+      "published": "2026-10-24T22:00:00.000Z",
+      "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7386309.jpg?20261024235707"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Block's new voice model sounds eerily human",
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+          "tldr": "Block built a voice model that can run locally on a MacBook M4 Max and sounds startlingly human, a sign speech AI is becoming good enough to deploy without sending audio to the cloud.",
+          "source": "TechCrunch",
+          "published": "2026-10-24T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/jack-dorsey.jpg?resize=1200,822"
+        },
+        {
+          "title": "Simon Willison adds a four-player map to his AI-built game Battledrones",
+          "url": "https://simonwillison.net/2026/Oct/24/battledrones",
+          "tldr": "Developer Simon Willison released Battledrones v14, adding a four-player Compass Rose map after previously limiting the game to two players, continuing his public experiments in building small games with AI coding tools.",
+          "source": "Simon Willison",
+          "published": "2026-10-24T03:59:57.000Z",
+          "image": "https://raw.githubusercontent.com/simonw/battledrones/v14/progress-shots/v14/compass-rose.jpg"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "How two critical PHP bugs almost broke the internet",
+          "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet",
+          "tldr": "Two critical bugs in PHP, the programming language behind most of the web, threatened to take down huge swathes of the internet this week, a reminder of how fragile much of online infrastructure still is.",
+          "source": "TechCrunch",
+          "published": "2026-10-24T15:30:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800"
+        },
+        {
+          "title": "Starlink is working normally again in Ukraine",
+          "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine",
+          "tldr": "Starlink access in Ukraine appears to have returned to normal, after reports that Elon Musk had ordered SpaceX to throttle the service.",
+          "source": "TechCrunch",
+          "published": "2026-10-24T20:46:34.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800"
+        },
+        {
+          "title": "Developers find clever uses for the iPhone Duo's two screens",
+          "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential",
+          "tldr": "Developers are already building apps that lean into the iPhone Duo's folding design, from retro cassette players and virtual notebooks to flight trackers and a digital toaster, showing early creativity around Apple's new form factor.",
+          "source": "TechCrunch",
+          "published": "2026-10-24T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675"
+        },
+        {
+          "title": "Steam rolls out a Personal Calendar of recommended games",
+          "url": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games",
+          "tldr": "Steam has added a Personal Calendar feature to its store homepage that continuously updates with game recommendations tailored to each player, viewable now on the storefront.",
+          "source": "Engadget",
+          "published": "2026-10-24T18:09:54.000Z",
+          "image": "https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg"
+        },
+        {
+          "title": "The Boox Palma 2 Pro e-reader finally got me off my phone",
+          "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone",
+          "tldr": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader with an E Ink display, built for people who want to read books and articles without the distractions of a phone.",
+          "source": "TechCrunch",
+          "published": "2026-10-24T14:15:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/boox-palma-2-pro.png?resize=1200,666"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple designer explains the iPhone Duo's open and close transition",
+          "url": "https://x.com/chan_k/status/2113622379050246243",
+          "tldr": "Apple human interface designer Chan Karunamuni detailed the thinking behind the iPhone Duo's open and close animation, designed to make its two displays feel like one continuous screen as the device folds and unfolds.",
+          "source": "Daring Fireball",
+          "published": "2026-10-24T15:03:44.000Z",
+          "image": "https://pbs.twimg.com/amplify_video_thumb/2113622313325543424/img/PtKK_WpkexUj4nmm?format=webp&name=large"
+        },
+        {
+          "title": "Apple built a working iPod Easter egg for Apple Music's 404 page",
+          "url": "https://music.apple.com/404",
+          "tldr": "Apple quietly built a photo-realistic, functional recreation of the original iPod into Apple Music's 404 error page, marking the device's 25th anniversary with a detailed, playable tribute.",
+          "source": "Daring Fireball",
+          "published": "2026-10-24T15:50:02.000Z",
+          "image": ""
+        },
+        {
+          "title": "iPhone Duo teardown reveals two battery cells inside the hinge",
+          "url": "https://www.macrumors.com/2026/10/24/iphone-duo-teardown-videos",
+          "tldr": "Early iPhone Duo teardowns by REWA Technology and Phone Repair Guru show the foldable phone packs two separate battery cells either side of its hinge, among other engineering details revealed for the first time.",
+          "source": "MacRumors",
+          "published": "2026-10-24T15:02:56.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-Duo-Outer-Display-Hand-scaled.jpg"
+        },
+        {
+          "title": "MKBHD says missing Face ID is the iPhone Duo's biggest flaw",
+          "url": "https://youtu.be/ESABTN4VtrA",
+          "tldr": "Marques Brownlee's review of the iPhone Duo concludes that the lack of Face ID will be its biggest gripe for most buyers, even as he praises how polished the folding design feels in daily use.",
+          "source": "Daring Fireball",
+          "published": "2026-10-24T20:47:28.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "How the 'Buddy' team made audiences fall for a murderous unicorn",
+          "url": "https://www.indiewire.com/news/events/how-buddy-became-breakout-hit-future-of-filmmaking-summit-1235223665",
+          "tldr": "At IndieWire's Future of Filmmaking Summit, the makers of horror hit 'Buddy' explained how producer Tracy Rosenblum, co-writer Jamie King and Roadside Attractions' marketing team turned a killer unicorn into one of the year's breakout stories.",
+          "source": "IndieWire",
+          "published": "2026-10-24T15:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/RP_A1332_e4d22d.jpg?w=650"
+        },
+        {
+          "title": "'Clayface' tops the box office with a $10.4m debut",
+          "url": "https://variety.com/2026/film/box-office/box-office-clayface-you-can-see-everything-wildwood-wicker-1236930256",
+          "tldr": "DC's 'Clayface' opened at number one with a $10.4 million debut, while 'You Can See Everything' added a further $6.14 million on Friday as it continues its awards-season run.",
+          "source": "Variety",
+          "published": "2026-10-24T15:44:43.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/MCDCLAY_WB009.jpg"
+        },
+        {
+          "title": "Olivia Wilde's dinner-party comedy becomes HBO Max's biggest streaming hit",
+          "url": "https://www.slashfilm.com/2296245/olivia-wilde-comedy-the-invite-streaming-hbo-max-october-2026",
+          "tldr": "Olivia Wilde's R-rated, 107-minute comedy, starring Seth Rogen, Penelope Cruz and Edward Norton, has officially become HBO Max's biggest streaming hit this month.",
+          "source": "/Film",
+          "published": "2026-10-24T19:12:54.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/olivia-wilde-comedy-the-invite-streaming-hbo-max-october-2026/l-intro-1792869294.jpg"
+        },
+        {
+          "title": "Nathan Fielder built a 'kill switch' into his documentary 'You Can See Everything'",
+          "url": "https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862",
+          "tldr": "Co-director Lance Oppenheim says Nathan Fielder negotiated a 'kill switch' clause on 'You Can See Everything,' letting them scrap the Elizabeth Holmes documentary entirely if they didn't find the right story.",
+          "source": "Variety",
+          "published": "2026-10-25T00:01:48.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/You-Can-See-everything.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Neemias Queta's practice reps paid off with the Celtics' play of the night",
+          "url": "https://www.celticsblog.com/boston-celtics-news/148342/neemias-queta-celtics-knicks-three-pointer",
+          "tldr": "Neemias Queta, who shoots three-pointer after three-pointer in practice most days, hit the Celtics' play of the night against the Knicks: years of repetition finally showing up in a live game.",
+          "source": "CelticsBlog",
+          "published": "2026-10-24T12:24:51.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2301191667.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots vs Bears: what could decide this week's game",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/142002/patriots-vs-bears-good-bad-ugly-nfl-week-7",
+          "tldr": "Pats Pulpit previews the Patriots' Week 7 matchup against the Bears, weighing the good, the bad and the mistakes that could decide the result.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-24T22:15:19.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2301561314.jpg?quality=90&strip=all&crop=2.2279357910156,15.659987901619,97.772064208984,78.338186356073"
+        },
+        {
+          "tag": "F1",
+          "title": "Why another Ferrari pole bid faltered in Austin",
+          "url": "https://www.the-race.com/formula-1/why-another-ferrari-f1-pole-bid-faltered-us-gp-2026",
+          "tldr": "Ferrari fell short of pole position for an 18th time this season at the United States Grand Prix, with two familiar weaknesses undoing a car that had led every practice session.",
+          "source": "The Race",
+          "published": "2026-10-25T01:35:47.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/261024_R18_USA_DP_XB3_6937_510af0f5-362a-41b8-b3f1-eaf88620a333.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "What to watch for in today's United States Grand Prix",
+          "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-united-states-grand-prix.1Ftck085fCa8NWcCRtR6yq",
+          "tldr": "Formula1.com's Chris Medland picks out the key things to watch when the lights go out for today's United States Grand Prix at the Circuit of the Americas.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9South/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_United_States___Practice/2301665005.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "Britain's Alisha Palmowski becomes 2026 F1 Academy champion",
+          "url": "https://www.skysports.com/f1/news/12433/13603359/f1-academy-alisha-palmowski-becomes-2026-champion-with-three-races-of-season-to-spare-in-austin",
+          "tldr": "Alisha Palmowski has wrapped up the 2026 F1 Academy title with three races still to go, after building an unassailable points lead through the season.",
+          "source": "Sky Sports",
+          "published": "2026-10-25T01:00:00.000Z",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-alisha-palmowski_7386147.jpg?20261024203143"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox prospects in action in the Arizona Fall League",
+          "url": "https://www.mlb.com/redsox/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
+          "tldr": "MLB.com rounds up the Red Sox prospects worth watching in the Arizona Fall League this winter, as the farm system gets an early look at next year's contenders.",
+          "source": "MLB.com",
+          "published": "2026-10-25T01:44:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/kdikhgkw7v8w8wdorlio.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/lessons-on-building-a-viral-consumer",
+    "why": "A case study in building something people fall for virally, apt alongside today's story about how 'Buddy' won hearts, and close to the products Damian builds on the side.",
+    "title": "Lessons on building a viral consumer app: The story of Saturn",
+    "subtitle": "How single-player utility, hyper-personalization, doing things unscalably, and thinking long-term helped us bootstrap a brand-new social network",
+    "published": "2023-12-05",
+    "words": 4003,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadfeaba2-6c27-4959-b7d8-77683a216a95_4000x2000.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/432-the-mind-of-napoleon/id1141877104?i=1000788032837&uo=4",
+      "why": "Napoleon's obsessive strategic mind feels apt on a day Apple bets big on a new form factor and Antonelli fights to seal an F1 title.",
+      "show": "Founders",
+      "title": "#432 The Mind of Napoleon",
+      "published": "2026-09-05",
+      "duration": "56m",
+      "apple": "https://podcasts.apple.com/us/podcast/432-the-mind-of-napoleon/id1141877104?i=1000788032837&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/ed-catmull",
+      "why": "Catmull co-built Pixar's culture of craft alongside Jobs, the exact blend of taste and process Damian studies.",
+      "show": "David Senra",
+      "title": "Ed Catmull, Co-founder of Pixar",
+      "published": "2026-06-14",
+      "duration": "1h 35m",
+      "apple": "https://podcasts.apple.com/us/podcast/ed-catmull-co-founder-of-pixar/id1836497887?i=1000772605875&uo=4",
+      "page": "https://www.davidsenra.com/episode/ed-catmull",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/94/dd/05/94dd0516-abd9-f48a-85ad-fc1814d99d4f/mza_2714801930459083697.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/ikea",
+      "why": "IKEA's design-led, product-obsessed culture is the same lens Damian applies to Apple and Disney.",
+      "show": "Acquired",
+      "title": "IKEA",
+      "published": "2024-11-18",
+      "duration": "3h 13m",
+      "apple": "https://podcasts.apple.com/us/podcast/ikea/id1050462261?i=1000677277227&uo=4",
+      "page": "https://www.acquired.fm/episodes/ikea",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Cloud House: a London home with marshmallow-pink walls and sweeping arches",
+    "url": "https://www.dezeen.com/2026/10/24/cloud-house-peter-morris",
+    "tldr": "Architect Peter Morris designed his own London home, Cloud House, with marshmallow-pink walls, sweeping arches and turquoise detailing inspired by a trip to Miami, built in Gospel Oak.",
+    "source": "Dezeen",
+    "published": "2026-10-24T10:00:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/10/cloud-house-peter-morris-gospel-oak-london-residential-architecture-pomo-exterior_dezeen_2364_sq-1024x1024.jpg"
+  }
+}
