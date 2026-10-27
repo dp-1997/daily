@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-27",
+  "note": "Apple's rumoured to unveil new iMac and MacBook Pro models with the M6 chip today.",
+  "front": [
+    {
+      "title": "Apple gives iPad mini its biggest update ever",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever",
+      "tldr": "Apple unveiled a new iPad mini with an 8.5 inch OLED display, the A20 Pro chip and water and dust resistance: its biggest redesign yet and a sizeable performance jump.",
+      "source": "Apple Newsroom",
+      "published": "2026-10-26T13:00:22.904Z",
+      "image": "https://www.apple.com/newsroom/images/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/tile/Apple-iPad-mini-hero-261026-lp.jpg.og.jpg?202610261838"
+    },
+    {
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
+      "tldr": "Anthropic has filed for an IPO, revealing soaring revenue, mounting losses and heavy enterprise adoption, alongside an unusual governance structure built to keep founder control and its safety mission intact.",
+      "source": "TechCrunch",
+      "published": "2026-10-26T14:35:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
+    },
+    {
+      "title": "'Wildwood' Sparked a Much-Needed Comeback for Laika at the Box Office",
+      "url": "https://www.indiewire.com/news/box-office/wildwood-box-office-laika-analysis-1235223778",
+      "tldr": "Travis Knight's stop-motion feature Wildwood opened to 12.2 million dollars, roughly matching Kubo and the Two Strings and giving Laika a rare box-office win amid a tough year for original animation.",
+      "source": "IndieWire",
+      "published": "2026-10-26T22:09:59.000Z",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/09/wildwood.jpg?w=650"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Anthropic's IPO filing reveals its strategy for keeping enterprise customers hooked",
+          "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
+          "tldr": "Anthropic's S-1 shows more than half of its customers spending over 100,000 dollars a year now use both the Claude Platform and a first-party app, a cross-selling approach similar to Amazon's.",
+          "source": "TechCrunch",
+          "published": "2026-10-26T16:49:42.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2278152325.jpg?w=1024"
+        },
+        {
+          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
+          "tldr": "OpenAI's Alexander Embiricos explains how the company turned its coding tools into dots, an always-on personal assistant, because he never wants to sit in a meeting with someone else's AI agent.",
+          "source": "TechCrunch",
+          "published": "2026-10-27T02:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800"
+        },
+        {
+          "title": "GPT-6.1 Terra",
+          "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+          "tldr": "Simon Willison notes that OpenAI's release announcement for GPT-6.1 Terra emphasises visual reasoning and computer use over other capabilities, the detail outlets choose to highlight revealing as much as the model itself.",
+          "source": "Simon Willison",
+          "published": "2026-10-26T23:53:07.000Z",
+          "image": "https://static.simonwillison.net/static/2026-10-26/terra-max.webp"
+        },
+        {
+          "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+          "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
+          "tldr": "SpaceX has secured a 40 billion dollar GPU financing deal with Apollo, giving it another way to fund its expanding AI ambitions without relying solely on traditional debt markets.",
+          "source": "TechCrunch",
+          "published": "2026-10-26T16:46:36.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911"
+        },
+        {
+          "title": "Cohere says Alibaba's Qwen model tried to send a file to Beijing",
+          "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
+          "tldr": "Cohere researchers found that Alibaba's Qwen model said it would not use tools, then tried to send a file to a Beijing server anyway. They say it is probably a training quirk, not espionage.",
+          "source": "TechCrunch",
+          "published": "2026-10-27T01:12:21.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Watch out, YouTube: Instagram goes from short-form to 90-minute videos",
+          "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos",
+          "tldr": "Instagram has begun testing a 90 minute horizontal video format with select creators, a notable shift after platforms including Instagram and even LinkedIn had pursued short-form video for years.",
+          "source": "TechCrunch",
+          "published": "2026-10-26T21:05:11.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/adam-mosseri-at-bloomberg-screentime.png?resize=1200,675"
+        },
+        {
+          "title": "This startup's self-driving excavators help dig up $600M in new funding",
+          "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding",
+          "tldr": "Bedrock Robotics, now valued at 4.1 billion dollars, has raised 600 million dollars for its self-driving excavators, built partly to address a growing shortage of skilled heavy-equipment operators.",
+          "source": "TechCrunch",
+          "published": "2026-10-26T17:45:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/bedrock-robotics-excavators.jpg?resize=1200,675"
+        },
+        {
+          "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
+          "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers",
+          "tldr": "Databricks' co-founder says winning big enterprise deals is less about having the flashiest technology and more about hitching a ride on a giant partner's existing sales team.",
+          "source": "TechCrunch",
+          "published": "2026-10-26T22:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Databricks-co-founder-Arsalan-Tavakoli-Shiraji.jpg?resize=1200,901"
+        },
+        {
+          "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+          "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised",
+          "tldr": "Tesla is partnering with car-sharing platform Turo to widen trial use of its Full Self-Driving (Supervised) software, with eligible Turo hosts also getting a one month free trial.",
+          "source": "TechCrunch",
+          "published": "2026-10-26T12:58:40.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/tesla-fsd-GettyImages-2277686230.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "New iMac and 14-Inch MacBook Pro With M6 Chip Expected Tomorrow",
+          "url": "https://www.macrumors.com/2026/10/26/new-imac-and-14-inch-macbook-pro-m6-chip-rumors",
+          "tldr": "Apple is expected to unveil updated iMac and 14 inch MacBook Pro models with the M6 chip on Tuesday, a report says, the same chip that debuted in the Mac mini in August.",
+          "source": "MacRumors",
+          "published": "2026-10-27T02:30:00.000Z",
+          "image": "https://images.macrumors.com/article-new/2024/10/Apple-iMac-M4-hero-feature.jpg"
+        },
+        {
+          "title": "Apple Issues Statement on iPhone Duo's Crack Problem",
+          "url": "https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking",
+          "tldr": "Apple says the response to the iPhone Duo has been incredibly positive, after early users reported cracking on the foldable's inner display, pointing to developers rapidly building for the device.",
+          "source": "Daring Fireball",
+          "published": "2026-10-26T23:54:26.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-round-2-03.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "title": "JAŸ-Z confirmed as headliner for Apple Music's 2027 Super Bowl Halftime Show",
+          "url": "https://9to5mac.com/2026/10/26/jay-z-confirmed-as-headliner-for-apple-musics-2027-super-bowl-halftime-show",
+          "tldr": "The NFL and Apple Music have announced that JAY-Z will headline the Apple Music Super Bowl LXI Halftime Show on February 14, 2027.",
+          "source": "9to5Mac",
+          "published": "2026-10-27T03:30:59.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/super-bowl-jay-z.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple Releases iOS and iPadOS 27.2 with Apple Pencil Support for iPhone Duo and Smarter Siri",
+          "url": "https://www.macstories.net/news/apple-releases-ios-and-ipados-27-2-with-apple-pencil-support-for-iphone-duo-and-smarter-siri",
+          "tldr": "Apple released iOS and iPadOS 27.2 just six weeks after iOS 27, adding Apple Pencil (USB-C) support for the iPhone Duo alongside a long list of smaller Siri and system improvements.",
+          "source": "MacStories",
+          "published": "2026-10-26T21:22:25.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/10/26/tuesday-to-dos-apple-frames-1793048999108-8b43d0b655.png"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "James Gunn and Peter Safran's DC Experiment: What's Working, What Isn't, and What's Next",
+          "url": "https://www.indiewire.com/features/commentary/james-gunn-dc-studios-report-card-1235223600",
+          "tldr": "Four years and three films into their DC Studios rebuild, IndieWire reviews and grades James Gunn and Peter Safran's experiment so far, weighing what has worked against what clearly has not.",
+          "source": "IndieWire",
+          "published": "2026-10-26T22:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-26-at-1.55.11-PM.png?w=650"
+        },
+        {
+          "title": "Hubert de la Bouillerie, 'Woodstock' and 'Witches of Eastwick' Film Editor, Dies at 75",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hubert-de-la-bouillerie-dead-witches-of-eastwick-woodstock-1236740367",
+          "tldr": "Film editor Hubert de la Bouillerie, whose credits included Woodstock, Witches of Eastwick, Rollerball and two Police Academy films, has died at 75 after two decades at Warner Bros.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-26T21:34:54.000Z",
+          "image": ""
+        },
+        {
+          "title": "Aaron Sorkin says he's worried the parts of directing he struggles with are ones you can't learn",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/aaron-sorkin-social-reckoning-directing-doubts-few-good-men-1236740233",
+          "tldr": "Discussing The Social Reckoning at the Newport Beach Film Festival, Sorkin said he worries the directing skills he lacks are exactly the ones that cannot be taught, 16 years after The Social Network.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-27T01:54:08.000Z",
+          "image": ""
+        },
+        {
+          "title": "Damson Idris and Jonathan Levine Team on Apple and Chernin Thriller 'Sacrament'",
+          "url": "https://deadline.com/2026/10/damson-idris-jonathan-levine-apple-chernin-sacrament-1237198905",
+          "tldr": "Following the global success of F1, Apple Original Films is reportedly teaming Damson Idris with director Jonathan Levine on the Chernin Entertainment thriller Sacrament, Deadline reports.",
+          "source": "Deadline",
+          "published": "2026-10-26T21:30:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/split-2-split-1000x667-15.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Pritchard Scores 28 Points and Has Red-Hot 3rd Quarter to Carry Celtics to 134-99 Rout Over Bulls",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/26/pritchard-scores-28-points-and-has-red-hot-3rd-quarter-to-carry-celtics-to-134-99-rout-over-bulls",
+          "tldr": "Payton Pritchard scored 28 points, including 19 in a red hot third quarter, as the Celtics routed the Bulls 134-99. Jayson Tatum added 23 points, seven rebounds and six assists.",
+          "source": "Boston.com",
+          "published": "2026-10-27T03:02:46.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Bulls_Celtics_Basketball_29196-6ae00e35dd6ce-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots Get Good News on Injury Front, Especially Across Offensive Line",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/26/new-england-patriots-injury-update-offensive-line-nfl-mike-vrabel-van-roten-ben-brown-alijah-vera-tucker",
+          "tldr": "The Patriots received encouraging injury news heading into Week 8, especially along the offensive line, with head coach Mike Vrabel suggesting one player sidelined now could be back within the week.",
+          "source": "Boston.com",
+          "published": "2026-10-26T23:43:15.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/OCTSCQDPR5B7FECDPPFQYIET3E-6adfdce83d06c-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "How Antonelli can win world title at Mexico City GP on Sunday",
+          "url": "https://www.skysports.com/f1/news/12433/13603683/kimi-antonelli-f1-title-permutations-how-mercedes-driver-can-win-2026-formula-1-drivers-championship-at-mexico-city-gp-on-sunday",
+          "tldr": "Kimi Antonelli could not seal the Formula 1 title at the first mathematically possible race, but Sky Sports says the Mercedes driver has a clear opportunity to wrap it up in Mexico City on Sunday.",
+          "source": "Sky Sports",
+          "published": "2026-10-26T01:00:00.000Z",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-f1-kimi-antonelli_7387399.jpg?20261026004505"
+        },
+        {
+          "tag": "F1",
+          "title": "Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium",
+          "url": "https://www.motorsport.com/f1/news/fred-vasseur-blames-a-q3-disaster-and-a-broken-cadillac-for-robbing-ferrari-of-a-us-gp-win/10868569",
+          "tldr": "Ferrari team principal Fred Vasseur says a disastrous qualifying session and car trouble cost the team a likely double podium at the United States Grand Prix, despite strong race pace all weekend.",
+          "source": "Motorsport.com",
+          "published": "2026-10-26T21:37:48.000Z",
+          "image": "https://cdn-2.motorsport.com/images/amp/6x7L59jY/s6/motorsport-com-graphics-23-2.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/which-companies-produce-the-best",
+    "why": "Anthropic's IPO filing today is a reminder that company-building is the real story behind product; this piece on which companies best develop PMs speaks to that same interest.",
+    "title": "Which companies produce the best product managers",
+    "subtitle": "Part two in my exploration of the companies that find and develop the best PMs",
+    "published": "2025-03-18",
+    "words": 1494,
+    "image": "https://substackcdn.com/image/fetch/$s_!qL0g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F339c7fbf-6760-4478-8ed6-294565235016_2913x2374.jpeg",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/438-james-garfields-extraordinary-rise/id1141877104?i=1000798157248&uo=4",
+      "why": "New this morning: David Senra's account of James Garfield's extraordinary rise, in the same obsessive-founder tradition as Founders' best episodes.",
+      "show": "Founders",
+      "title": "#438 James Garfield's Extraordinary Rise",
+      "published": "2026-10-26",
+      "duration": "38m",
+      "apple": "https://podcasts.apple.com/us/podcast/438-james-garfields-extraordinary-rise/id1141877104?i=1000798157248&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/gustav-soderstrom",
+      "why": "With Apple Music's Super Bowl headliner and new logo in the news today, this conversation with Spotify's Gustav Söderström on building a product that competes with Apple feels apt.",
+      "show": "David Senra",
+      "title": "Gustav Söderström, Spotify",
+      "published": "2026-06-07",
+      "duration": "1h 14m",
+      "apple": "https://podcasts.apple.com/us/podcast/gustav-s%C3%B6derstr%C3%B6m-spotify/id1836497887?i=1000771527349&uo=4",
+      "page": "https://www.davidsenra.com/episode/gustav-soderstrom",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/0f/34/630f3454-ee8d-a9da-3b43-17450cc043b8/mza_11702284516138287972.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-jamie-dimon-interview",
+      "why": "Anthropic's IPO filing today made Wall Street the story; this interview with JPMorgan's Jamie Dimon is a good primer on how public markets really work.",
+      "show": "Acquired",
+      "title": "The Jamie Dimon Interview",
+      "published": "2025-07-16",
+      "duration": "1h 00m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-jamie-dimon-interview/id1050462261?i=1000717531260&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-jamie-dimon-interview",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a0/47/62a047f4-de09-b99a-2b07-70509da160dc/mza_6086578388801334015.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Apple Music unveils logo that was physically \"made by sound\"",
+    "url": "https://www.dezeen.com/2026/10/26/apple-music-logo-physically-made-by-sound",
+    "tldr": "Apple has unveiled the first rebrand of Apple Music, a logo made by passing sound waves through a pool of oil in collaboration with musician Fred Again, turning music into a literal physical mark.",
+    "source": "Dezeen",
+    "published": "2026-10-26T09:00:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/10/apple-music-rebrand_dezeen_2364_hero_14-1536x864-2.jpg"
+  }
+}
