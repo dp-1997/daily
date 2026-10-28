@@ -1,0 +1,317 @@
+{
+  "date": "2026-10-28",
+  "note": "Apple's MacBook Pro event, expected to introduce the first touchscreen Mac, is reported for later today.",
+  "front": [
+    {
+      "title": "New M6 Macs buck Apple’s second wave of price hikes",
+      "url": "https://9to5mac.com/2026/10/27/new-m6-macs-buck-apples-second-wave-of-price-hikes",
+      "tldr": "Apple's new M6-powered iMac and 14-inch MacBook Pro keep last year's prices unchanged, a rare bit of restraint during a broader round of Apple price rises.",
+      "source": "9to5Mac",
+      "published": "2026-10-28T02:09:46.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "Entertainment hits $332 billion to become world's second most valuable sector as Netflix, YouTube and Spotify fly",
+      "url": "https://deadline.com/2026/10/entertainment-second-most-valuable-interbrand-global-report-1237206126",
+      "tldr": "Entertainment overtook the automotive industry to become the world's second-largest business sector, Interbrand found, powered by the growth of Netflix, YouTube and Spotify.",
+      "source": "Deadline",
+      "published": "2026-10-28T04:01:00.000Z",
+      "image": "https://deadline.com/wp-content/uploads/2026/06/hollywood-sign.jpg"
+    },
+    {
+      "title": "Jayson Tatum hits a buzzer-beating jumper in OT to give the Celtics a 125-124 win over the Nets",
+      "url": "https://www.boston.com/sports/boston-celtics/2026/10/27/jayson-tatum-hits-a-buzzer-beating-jumper-in-ot-to-give-the-celtics-a-125-124-win-over-the-nets",
+      "tldr": "Jayson Tatum sank a buzzer-beating jumper in overtime as the Celtics edged the Nets 125-124, finishing 10 of 20 from the field and 18 of 22 from the free-throw line.",
+      "source": "Boston.com",
+      "published": "2026-10-28T03:14:35.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/10/Nets_Celtics_Basketball_28481-6ae163d33ac5f-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Genie 4: A new generation of world simulation",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+          "tldr": "Google DeepMind's Genie 4 world model can maintain a consistent generated scene for up to two minutes, double its predecessor's limit, with steerable real-time interaction and audio.",
+          "source": "Google DeepMind",
+          "published": "2026-10-27T16:01:38.000Z",
+          "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo"
+        },
+        {
+          "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+          "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
+          "tldr": "Rohit Patel is leaving Meta after eight years working on AI evaluation and reinforcement learning to start Ndoc, a venture aiming to challenge Microsoft Office and Google Workspace.",
+          "source": "TechCrunch",
+          "published": "2026-10-27T14:59:09.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800"
+        },
+        {
+          "title": "Game Boy Color on My Conference Badge",
+          "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge",
+          "tldr": "Simon Willison is at GitHub Universe this week, where the conference badge is once again a full colour-screen computer, and he has been hacking around with it.",
+          "source": "Simon Willison",
+          "published": "2026-10-27T19:34:18.000Z",
+          "image": "https://static.simonwillison.net/static/2026-10-27/IMG_9339.jpeg"
+        },
+        {
+          "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis",
+          "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+          "tldr": "Frontier AI labs say their models have refuted the Exponential Time Hypothesis, a long-standing assumption in computer science; TechCrunch asked an MIT researcher to explain what that means.",
+          "source": "TechCrunch",
+          "published": "2026-10-27T17:08:08.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+          "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house",
+          "tldr": "Ford is rolling out two new chargers for its upcoming Fathom EV that can power a house or feed electricity back to the grid, so-called vehicle-to-everything capability.",
+          "source": "TechCrunch",
+          "published": "2026-10-27T14:51:33.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1200,675"
+        },
+        {
+          "title": "GM is embracing hybrids now",
+          "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now",
+          "tldr": "After years favouring battery-electric vehicles over hybrids, GM is reversing course and preparing hybrid versions of its SUVs.",
+          "source": "TechCrunch",
+          "published": "2026-10-27T21:47:02.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/01/2024-chevrolet-corvette-e-ray-3lz-010.jpg?resize=1200,899"
+        },
+        {
+          "title": "The best ways to tell if someone is using AI glasses",
+          "url": "https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses",
+          "tldr": "AI smart glasses are common enough now that Engadget has put together tips for spotting a pair on a stranger, useful now the technology is less obvious at a glance.",
+          "source": "Engadget",
+          "published": "2026-10-27T22:30:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg"
+        },
+        {
+          "title": "Don't throw away your old Kindle: repurpose it instead",
+          "url": "https://www.engadget.com/2296053/dont-throw-away-your-old-kindle-repurpose-it",
+          "tldr": "An old Kindle can still be read on, and with a little effort it can be turned into a useful always-on display instead of being thrown away.",
+          "source": "Engadget",
+          "published": "2026-10-28T00:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/dont-throw-away-your-old-kindle-repurpose-it-instead/l-intro-1792793145.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple Expected to Announce MacBook Pro With Touchscreen Today",
+          "url": "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorrow",
+          "tldr": "Bloomberg's Mark Gurman reports that Apple will unveil 14-inch and 16-inch MacBook Pro models today with touch-enabled OLED screens, thinner bezels, a Dynamic Island and new M5 Pro and M5 Max chips.",
+          "source": "MacRumors",
+          "published": "2026-10-27T15:57:14.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Dynamic-Island-multicolor.jpg"
+        },
+        {
+          "title": "iOS 27.2 now available: Here's everything new for iPhone",
+          "url": "https://9to5mac.com/2026/10/27/ios-27-2-new-features-release-date",
+          "tldr": "iOS 27.2 is rolling out to everyone after six weeks of beta testing, bringing a batch of new iPhone features including expanded Siri AI language support.",
+          "source": "9to5Mac",
+          "published": "2026-10-27T20:45:46.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27.2-guide.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple releases two new real-life Apple Watch stories, including a life-saving alert",
+          "url": "https://9to5mac.com/2026/10/27/apple-releases-two-new-real-life-apple-watch-stories-including-a-life-saving-alert",
+          "tldr": "Apple's YouTube channel posted two new instalments of its 'True Apple Watch Story' series, including one where the watch's alert helped save a woman's life.",
+          "source": "9to5Mac",
+          "published": "2026-10-28T00:10:09.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12-heart-health-sensing.webp?w=1600"
+        },
+        {
+          "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools",
+          "tldr": "Apple is updating Creator Studio, its suite of creative apps, with new AI features and tools aimed at giving creators more studio-grade capability.",
+          "source": "Apple Newsroom",
+          "published": "2026-10-27T12:58:45.444Z",
+          "image": "https://www.apple.com/newsroom/images/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/tile/Apple-Creator-Studio-hero-261027-lp.jpg.og.jpg?202610271832"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Oscars will 'always' reward human excellence in the AI era, Academy chiefs say",
+          "url": "https://variety.com/2026/film/festivals/oscars-always-reward-human-excellence-ai-era-academy-1236932637",
+          "tldr": "Academy president Lynette Howell Taylor told Variety in Tokyo that the Oscars will keep honouring human-driven filmmaking as AI spreads through the industry.",
+          "source": "Variety",
+          "published": "2026-10-28T03:48:43.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Academy-leadership.jpg"
+        },
+        {
+          "title": "Dune: Part Three Reveals First Look At Paul Atreides & Chani's Children",
+          "url": "https://www.slashfilm.com/2298706/dune-part-three-paul-atreides-chani-children-first-look",
+          "tldr": "The final trailer for Dune: Part Three gives a first look at Paul Atreides and Chani's children, who look set to play a crucial role in the story.",
+          "source": "/Film",
+          "published": "2026-10-27T18:14:43.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/dune-part-three-reveals-first-look-at-paul-atreides-chanis-children/l-intro-1793124694.jpg"
+        },
+        {
+          "title": "Brad Pitt's survival thriller has quietly become a sleeper box office hit",
+          "url": "https://www.slashfilm.com/2298532/brad-pitt-survival-thriller-heart-of-the-beast-sleeper-box-office-hit",
+          "tldr": "David Ayer's survival thriller Heart of the Beast has quietly turned into a box office hit, proof that Brad Pitt can still draw a crowd.",
+          "source": "/Film",
+          "published": "2026-10-27T19:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/brad-pitts-survival-thriller-became-a-sleeper-box-office-hit-while-you-werent-looking/l-intro-1793120683.jpg"
+        },
+        {
+          "title": "'You Can See Everything' is a box office hit, but unlikely to beat 'Fahrenheit 9/11' as the highest-grossing documentary ever",
+          "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-catch-fahrenheit-9-11-box-office-1235223865",
+          "tldr": "Nathan Fielder's documentary 'You Can See Everything' is a box office hit, though unlikely to match Michael Moore's 'Fahrenheit 9/11' as the highest-grossing documentary ever.",
+          "source": "IndieWire",
+          "published": "2026-10-27T19:42:02.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/09/MCDYOCA_EC124.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics injury report against Nets reveals great health news",
+          "url": "https://www.celticsblog.com/boston-celtics-news/148627/celtics-nets-injury-report-jayson-tatum-paul-george-derrick-white",
+          "tldr": "The Celtics will not need to sit Jayson Tatum, Paul George or Mitchell Robinson against the Nets, a rare run of good health for three players who have battled major injuries recently.",
+          "source": "CelticsBlog",
+          "published": "2026-10-27T17:13:51.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2300667722.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Payton Pritchard and the Celtics streak to a big win over the Bulls",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/27/payton-pritchard-celtics-streak-to-big-win-over-bulls-7-takeaways",
+          "tldr": "Payton Pritchard led the way as the Celtics continued their hot start to the season with a big win over the Bulls.",
+          "source": "Boston.com",
+          "published": "2026-10-27T11:37:48.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Payton-Pritchard-Celtics-Bulls-Takeaways-6ae087e3c98fb-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots Power Rankings Week 8: Streak stops, Pats drop",
+          "url": "https://www.patspulpit.com/new-england-patriots-power-rankings/142131/patriots-power-rankings-week-8-streak-stops-pats-drop",
+          "tldr": "New England's power rankings slipped after a Week 8 loss to the Bears, a result many pundits had pencilled in as soon as the schedule came out.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-28T01:03:24.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2301564038.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Game Preview: Patriots at Dolphins | NFL Week 8",
+          "url": "https://www.patriots.com/news/game-preview-patriots-at-dolphins-nfl-week-8",
+          "tldr": "The Patriots travel to Miami to face the Dolphins on Sunday 1 November at 4:15pm ET.",
+          "source": "Patriots.com",
+          "published": "2026-10-27T14:17:35.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/faoixn9bcwqms9jmxpzf.png"
+        },
+        {
+          "tag": "F1",
+          "title": "Kimi Antonelli extends F1 title lead with US GP win Mercedes didn't expect",
+          "url": "https://www.motorsport.com/f1/news/mercedes-admits-they-were-clueless-before-kimi-antonellis-austin-miracle-a-remarkable-turnaround/10868571",
+          "tldr": "Kimi Antonelli extended his championship lead with a win at the United States Grand Prix that Mercedes did not see coming after a poor Friday practice.",
+          "source": "Motorsport.com",
+          "published": "2026-10-27T22:05:19.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/0JXRrDpY/s6/motorsport-com-graphics-29-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Max Verstappen admits Red Bull was 'just a little average' in Austin",
+          "url": "https://www.motorsport.com/f1/news/max-verstappen-admits-red-bull-was-just-a-little-average-in-austin/10868963",
+          "tldr": "Despite finishing on the podium at the United States Grand Prix, Max Verstappen said Red Bull was 'just a little average' all weekend.",
+          "source": "Motorsport.com",
+          "published": "2026-10-28T02:50:03.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/68Vw45X2/s6/motorsport-com-graphics-32.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "The mistakes that cost Lewis Hamilton a podium at F1's US GP",
+          "url": "https://www.motorsport.com/f1/news/the-mistakes-that-cost-lewis-hamilton-a-podium-at-f1s-us-gp/10868845",
+          "tldr": "Lewis Hamilton explained how he narrowly missed a podium at the United States Grand Prix, having started fifth and overtaken Isack Hadjar before losing out again.",
+          "source": "Motorsport.com",
+          "published": "2026-10-27T15:01:07.000Z",
+          "image": "https://cdn-6.motorsport.com/images/amp/2jEANNM0/s6/lewis-hamilton-ferrari.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox Roster Problem or Solution: Kristian Campbell",
+          "url": "https://www.overthemonster.com/red-sox-analysis/110934/red-sox-roster-problem-or-solution-kristian-campbell",
+          "tldr": "Over the Monster asks whether Kristian Campbell is part of the Red Sox's roster problem or part of the solution, as Boston remains stuck finishing behind its rivals.",
+          "source": "Over the Monster",
+          "published": "2026-10-27T13:00:00.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/07/gettyimages-2265989791.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Payton Tolle is keeping busy as MLB correspondent during World Series",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/26/payton-tolle-viral-social-media-boston-red-sox-world-series-mlb-slide",
+          "tldr": "Red Sox prospect Payton Tolle has been doubling as a World Series correspondent this week, joking that he is 'in one piece' after the assignment.",
+          "source": "Boston.com",
+          "published": "2026-10-26T22:54:59.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/World_Series_Rays_Brewers_Baseball_44_26-6adfd5ab45365-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-close-is-ai-to-replacing-product",
+    "why": "Today's AI news, from Genie 4 to Apple baking more AI into Creator Studio, makes this question about AI's reach into product work newly relevant.",
+    "title": "How close is AI to replacing product managers?",
+    "subtitle": "Closer than you think",
+    "published": "2024-07-09",
+    "words": 6242,
+    "image": "https://substackcdn.com/image/fetch/$s_!zk_N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80761805-aa31-4255-ae20-8a66abd3de16_8000x4000.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/349-how-steve-jobs-kept-things-simple/id1141877104?i=1000656093680&uo=4",
+      "why": "A fitting companion to today's Apple hardware news: the design simplicity ethos behind the machines Apple is launching this week.",
+      "show": "Founders",
+      "title": "#349 How Steve Jobs Kept Things Simple",
+      "published": "2024-05-20",
+      "duration": "52m",
+      "apple": "https://podcasts.apple.com/us/podcast/349-how-steve-jobs-kept-things-simple/id1141877104?i=1000656093680&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/james-dyson",
+      "why": "Another obsessive product engineer, in the same week Apple ships new hardware built on that same fixation with detail.",
+      "show": "David Senra",
+      "title": "James Dyson, Dyson",
+      "published": "2025-12-07",
+      "duration": "1h 38m",
+      "apple": "https://podcasts.apple.com/us/podcast/james-dyson-dyson/id1836497887?i=1000740057726&uo=4",
+      "page": "https://www.davidsenra.com/episode/james-dyson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/be/be/45bebec6-1e1b-6b5a-b764-5109a78a2323/mza_15594347845367130256.jpeg/600x600bb.jpg"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/netflix-part-1/id1050462261?i=1000428067501&uo=4",
+      "why": "Netflix is one of the names behind today's front-page story about entertainment overtaking the auto industry, so it's a good day to revisit how it was built.",
+      "show": "Acquired",
+      "title": "Netflix (Part 1)",
+      "published": "2018-11-12",
+      "duration": "1h 25m",
+      "apple": "https://podcasts.apple.com/us/podcast/netflix-part-1/id1050462261?i=1000428067501&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Apple Music's 404 page features a fully functional iPod simulator",
+    "url": "https://kottke.org/26/10/0049874-apple-musics-404-page",
+    "tldr": "Apple Music's error page hides a fully working iPod click-wheel simulator, a small touch of craft tucked away where most people will never find it.",
+    "source": "Kottke",
+    "published": "2026-10-27T17:46:00.000Z",
+    "image": ""
+  }
+}
