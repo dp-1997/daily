@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-29",
+  "note": "Apple's MacBook Pro event spills into its second day, and the Mexico City GP title picture sharpens this weekend.",
+  "front": [
+    {
+      "title": "Apple unveils MacBook Pro with PROLED XDR display",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display",
+      "tldr": "Apple's new 14- and 16-inch MacBook Pro brings a touchscreen tandem OLED display to the Mac for the first time, starting at $2,899, with battery life unchanged at up to 24 hours.",
+      "source": "Apple Newsroom",
+      "published": "2026-10-28T17:09:28.430Z",
+      "image": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/tile/Apple-MacBook-Pro-with-PROLED-XDR-Display-Touch-experience-261028-lp.jpg.og.jpg?202610281719"
+    },
+    {
+      "title": "Google DeepMind launches Gemini 4 Carbon, its next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "tldr": "Google DeepMind has released Gemini 4 Carbon, the latest entry in its Gemini line, as AI labs keep up a rapid pace of frontier model launches.",
+      "source": "Google DeepMind",
+      "published": "2026-10-28T17:00:58.000Z",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png"
+    },
+    {
+      "title": "Tatum's buzzer-beater and 40 points lift Celtics past Nets in overtime",
+      "url": "https://www.boston.com/sports/boston-celtics/2026/10/28/jayson-tatum-buzzer-beater-40-point-game-celtics-nets-ot-7-takeaways",
+      "tldr": "Jayson Tatum scored 40 points and hit the game winner as the Celtics beat the 0-3 Nets 125-124 in overtime on the second night of a back-to-back, their 39th win under Joe Mazzulla.",
+      "source": "Boston.com",
+      "published": "2026-10-28T10:54:33.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/10/Jayson-Tatum-1-Nets_Celtics_Basketball_33784-6ae1cc25c066b-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+          "tldr": "Microsoft said it made $10 billion in revenue from commercial OpenAI arrangements, including revenue-sharing payments, in the quarter to 30 September, underlining how central the partnership remains.",
+          "source": "TechCrunch",
+          "published": "2026-10-28T21:34:30.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800"
+        },
+        {
+          "title": "Anthropic launches tools to show companies what their AI spending buys",
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+          "tldr": "Anthropic has introduced tools letting companies track how they spend on its models, giving customers more visibility ahead of the firm's planned IPO.",
+          "source": "TechCrunch",
+          "published": "2026-10-28T19:19:58.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080"
+        },
+        {
+          "title": "Google opens Gemini and Search to more apps",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+          "tldr": "Google is launching a developer platform letting businesses bring their services into Gemini and Search, aiming to reshape how people discover and use apps through AI.",
+          "source": "TechCrunch",
+          "published": "2026-10-28T17:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blog_ConnectedApps_1027_2.width-2200.format-webp.webp?resize=1200,675"
+        },
+        {
+          "title": "October marks an inflection point for vibe-coded game development",
+          "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development",
+          "tldr": "Simon Willison argues October 2026 looks like the inflection point for AI-built games, mirroring how November 2025's model upgrades transformed coding agents.",
+          "source": "Simon Willison",
+          "published": "2026-10-28T13:55:15.000Z",
+          "image": "https://static.simonwillison.net/static/2026/tree-appreciator.webp"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+          "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer",
+          "tldr": "Cloud security startup Upwind raised a $400 million Series C at a $3.8 billion valuation, choosing independence over an acquisition offer from Datadog at the same price.",
+          "source": "TechCrunch",
+          "published": "2026-10-28T23:15:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800"
+        },
+        {
+          "title": "Nvidia releases new open transcription model",
+          "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
+          "tldr": "Nvidia has released a free speech-to-text model that transcribes up to 40 languages, though it works only on recordings rather than live audio, a step for meeting and medical transcription tools.",
+          "source": "TechCrunch",
+          "published": "2026-10-28T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600"
+        },
+        {
+          "title": "Reddit embraces the 'For You' feed",
+          "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed",
+          "tldr": "Reddit is rolling out a For You feed that blends posts from communities users have joined with personalised recommendations, following other platforms toward algorithmic discovery.",
+          "source": "TechCrunch",
+          "published": "2026-10-28T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800"
+        },
+        {
+          "title": "Sony's new see-through DualSense controllers let you game like it's 1999",
+          "url": "https://www.engadget.com/2300152/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999",
+          "tldr": "Sony is releasing transparent DualSense controllers and matching PS5 console covers, echoing the clear-plastic look of 1990s consoles.",
+          "source": "Engadget",
+          "published": "2026-10-28T18:38:17.000Z",
+          "image": "https://www.engadget.com/img/gallery/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/l-intro-1793212633.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Ternus addresses Apple breaking the touchscreen Mac taboo",
+          "url": "https://9to5mac.com/2026/10/28/ternus-addresses-apple-breaking-touchscreen-mac-taboo-who-knew",
+          "tldr": "In an interview with Wired, Apple executives John Ternus, Johny Srouji and Greg Joswiak discussed the decision to finally bring touch to the Mac after years of resisting it.",
+          "source": "9to5Mac",
+          "published": "2026-10-28T20:33:05.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-clique-interview.jpg?quality=82&strip=all&w=1500"
+        },
+        {
+          "title": "MacBook Pro with Touch is a Mac for the iPad generation",
+          "url": "https://www.macstories.net/stories/macbook-pro-with-touch-a-mac-for-the-ipad-generation",
+          "tldr": "Federico Viticci reflects on Apple's first touchscreen MacBook Pro, having used touch on the iPad since 2015, and on how the Mac has finally caught up.",
+          "source": "MacStories",
+          "published": "2026-10-28T22:23:20.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/10/28/img-0196-1793225267881-2c6346eeee.jpg"
+        },
+        {
+          "title": "Adding touch didn't cost the MacBook Pro any battery life",
+          "url": "https://www.macrumors.com/2026/10/28/macbook-pro-touch-battery-life",
+          "tldr": "Despite the switch to an OLED touch display, the new MacBook Pro still offers up to 24 hours of battery life, matching the previous mini-LED models.",
+          "source": "MacRumors",
+          "published": "2026-10-28T18:55:00.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/macbook-pro-proled-touch.jpg"
+        },
+        {
+          "title": "Siri AI expands to more languages in OS 27.2",
+          "url": "https://nr.apple.com/Du9G9W8Nq1",
+          "tldr": "Apple's overhauled Siri AI, released with the 27.2 software updates, is expanding to more languages as part of its push to make the assistant more conversational and personal.",
+          "source": "Daring Fireball",
+          "published": "2026-10-27T22:19:39.000Z",
+          "image": "https://www.apple.com/newsroom/images/logos/quick-reads-logos/Apple-Siri.jpg.og.jpg?202610281721"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Hunger Games: Sunrise on the Reaping reactions call it the franchise's Rogue One",
+          "url": "https://variety.com/2026/film/news/hunger-games-sunrise-on-the-reaping-first-reactions-1236933573",
+          "tldr": "Early reactions to The Hunger Games: Sunrise on the Reaping call the prequel a near-perfect adaptation, with particular praise for Joseph Zada's performance as young Haymitch.",
+          "source": "Variety",
+          "published": "2026-10-29T00:20:57.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/The-Hunger-Games-Sunrise-on-the-Reaping-112025-2-898cb8cfc0dd456aa1349862722bdf26.jpg"
+        },
+        {
+          "title": "Giancarlo Esposito and John Turturro break character to cry mid-scene",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/giancarlo-esposito-breaking-bad-prequel-idea-1236742217",
+          "tldr": "Esposito discusses his new film The Only Living Pickpocket in New York with Turturro, and reveals he has already conceived a Breaking Bad prequel centred on Gus Fring.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-28T22:08:03.000Z",
+          "image": ""
+        },
+        {
+          "title": "Cate Blanchett warns against 'unthinking certainty' accepting Japan's Praemium Imperiale",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/cate-blanchett-japan-praemium-imperiale-award-tokyo-1236742351",
+          "tldr": "The two-time Oscar winner accepted one of the art world's most prestigious prizes and will take part in the Tokyo International Film Festival this week.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-29T02:50:02.000Z",
+          "image": ""
+        },
+        {
+          "title": "David Bruckner set to direct Smile 3",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/david-bruckner-direct-smile-3-parker-finn-produce-1236742326",
+          "tldr": "Hellraiser director David Bruckner will take over Smile 3 from franchise creator Parker Finn, who developed the story and remains involved as producer.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-29T00:53:54.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "An ordinary night at TD Garden, until Jayson Tatum had other plans",
+          "url": "https://www.celticsblog.com/celtics-features-profiles/148772/i-went-looking-for-an-ordinary-night-at-td-garden-but-jayson-tatum-had-other-plans",
+          "tldr": "A feature on the Celtics' overtime win over the Nets, in which Tatum's late heroics turned what looked like a routine night into their 39th win of the season under Joe Mazzulla.",
+          "source": "CelticsBlog",
+          "published": "2026-10-28T14:00:29.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2301833049.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots announce date for Rob Gronkowski's Hall of Fame induction",
+          "url": "https://www.patriots.com/news/rob-gronkowski-induction-ceremony-to-be-held-on-saturday-november-7",
+          "tldr": "Rob Gronkowski, the most productive tight end in NFL history, will be inducted into the Patriots Hall of Fame on 7 November at Patriot Place.",
+          "source": "Patriots.com",
+          "published": "2026-10-28T14:00:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/fbooufiozgmgntjfeqfe.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "What are the Patriots' top needs approaching the NFL trade deadline?",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/28/what-are-the-patriots-top-needs-approaching-the-nfl-trade-deadline",
+          "tldr": "With a playoff spot in sight, the Patriots are weighing what they can add before the trade deadline to strengthen their roster for the stretch run.",
+          "source": "Boston.com",
+          "published": "2026-10-29T02:33:54.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/5OA3ONRX4OO5LE6APSHAS6KKSI-1-6ae2a0f6749ba-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Sergio Perez signs new Cadillac contract through 2029",
+          "url": "https://www.skysports.com/f1/news/12433/13604899/sergio-perez-signs-new-cadillac-f1-contract-until-2029-ahead-of-home-race-at-mexico-city-grand-prix",
+          "tldr": "Sergio Perez has signed a multi-year extension to stay at Cadillac until at least 2029, days before he starts his 300th grand prix at home in Mexico.",
+          "source": "Sky Sports",
+          "published": "2026-10-28T15:16:00.000Z",
+          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-sergio-perez_7389933.jpg?20261028151438"
+        },
+        {
+          "tag": "F1",
+          "title": "FIA to use AI to help shape future F1 regulations",
+          "url": "https://www.motorsport.com/f1/news/fia-to-use-ai-to-help-shape-future-f1-regulations-in-new-aws-partnership/10869165",
+          "tldr": "The FIA has signed a partnership with Amazon Web Services to use AI in drawing up the rules for Formula 1's next era of cars.",
+          "source": "Motorsport.com",
+          "published": "2026-10-29T00:16:47.000Z",
+          "image": "https://cdn-7.motorsport.com/images/amp/YK1589z0/s6/motorsport-com-graphics-27.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "The moments that made the 2026 Red Sox: the Scottish invasion of Fenway",
+          "url": "https://www.overthemonster.com/red-sox-comentary/110935/the-moments-that-made-the-2026-red-sox-the-scottish-invasion-of-fenway",
+          "tldr": "As part of a season review, Over the Monster looks back at one of 2026's strangest and most memorable moments at Fenway Park.",
+          "source": "Over the Monster",
+          "published": "2026-10-28T13:13:57.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2281631545.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/the-inside-story-of-facebook-marketplace",
+    "why": "On a day stuffed with big product launches, Deb Liu's account of how a landmark feature actually got built and shipped is worth your time.",
+    "title": "The inside story of Facebook Marketplace",
+    "subtitle": "A guest post by Deb Liu",
+    "published": "2022-01-18",
+    "words": 3065,
+    "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa64a9018-b4d0-4834-88ca-b3ac179cd9fb_4096x1368.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/264-the-story-of-edwin-land-and-polaroid/id1141877104?i=1000577158688&uo=4",
+      "why": "Edwin Land was one of Steve Jobs's heroes, and his story of inventing and launching a breakthrough hardware product echoes today's MacBook Pro event.",
+      "show": "Founders",
+      "title": "#264 The Story of Edwin Land and Polaroid",
+      "published": "2022-08-24",
+      "duration": "54m",
+      "apple": "https://podcasts.apple.com/us/podcast/264-the-story-of-edwin-land-and-polaroid/id1141877104?i=1000577158688&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/kenn-ricci",
+      "why": "Today's new episode: how Kenn Ricci built a small Cleveland charter company into Flexjet, the world's largest Gulfstream operator.",
+      "show": "David Senra",
+      "title": "From a $27,500 Charter Company to a $4 Billion Private Jet Giant | Kenn Ricci, Flexjet",
+      "published": "2026-10-28",
+      "duration": "1h 11m",
+      "apple": "https://podcasts.apple.com/us/podcast/from-a-%2427-500-charter-company-to-a-%244/id1836497887?i=1000798484942&uo=4",
+      "page": "https://www.davidsenra.com/episode/kenn-ricci",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fc/98/3e/fc983e5f-e7e2-4ac7-bc75-48b8718a8368/mza_11599041006473072381.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/apple-beats/id1050462261?i=1000428067448&uo=4",
+      "why": "A look back at Apple's biggest acquisition ever, fitting on a day Apple unveiled its biggest MacBook Pro redesign in years.",
+      "show": "Acquired",
+      "title": "Apple - Beats",
+      "published": "2017-12-11",
+      "duration": "1h 13m",
+      "apple": "https://podcasts.apple.com/us/podcast/apple-beats/id1050462261?i=1000428067448&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Norman Foster creates his first watch, in collaboration with Lebond",
+    "url": "https://www.dezeen.com/2026/10/28/norman-foster-first-watch-lebond",
+    "tldr": "The architect has designed his first watch with British brand Lebond, saying the process felt very similar to architecture.",
+    "source": "Dezeen",
+    "published": "2026-10-28T15:00:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/10/lebond-norman-foster-watch_dezeen_2364_col_sq3-1024x1024.jpg"
+  }
+}
