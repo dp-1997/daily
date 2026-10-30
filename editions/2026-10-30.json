@@ -1,0 +1,307 @@
+{
+  "date": "2026-10-30",
+  "note": "Patrick Stewart has died at 86, and Formula 1's title could be settled in Mexico City this weekend.",
+  "front": [
+    {
+      "title": "Patrick Stewart, Legendary Star Trek And X-Men Actor, Has Died At 86",
+      "url": "https://www.slashfilm.com/2301597/patrick-stewart-star-trek-x-men-actor-dead-obituary",
+      "tldr": "Sir Patrick Stewart, who played Jean-Luc Picard in Star Trek: The Next Generation and Professor X in the X-Men films, died at his Los Angeles home on Wednesday, aged 86, from Alzheimer's disease and Lewy body dementia.",
+      "source": "/Film",
+      "published": "2026-10-29T19:47:24.000Z",
+      "image": "https://www.slashfilm.com/img/gallery/patrick-stewart-legendary-star-trek-and-x-men-actor-has-died-at/l-intro-1793304940.jpg"
+    },
+    {
+      "title": "Apple's best MacBook Pro decision this week had nothing to do with touch",
+      "url": "https://9to5mac.com/2026/10/29/apples-best-macbook-pro-decision-this-week-had-nothing-to-do-with-touch",
+      "tldr": "Apple's new touchscreen MacBook Pro arrives with welcome upgrades, but 9to5Mac argues the best decision in this week's launch was what Apple chose not to change.",
+      "source": "9to5Mac",
+      "published": "2026-10-30T02:06:23.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-hand.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "Celtics owners make unprecedented $200 million gift to Boston Children's Hospital",
+      "url": "https://www.boston.com/sports/boston-celtics/2026/10/29/celtics-boston-childrens-hospital-record-gift-bill-chisholm-comments",
+      "tldr": "Celtics owner Bill Chisholm and his partners have given Boston Children's Hospital $200 million, the largest gift in its history, with its CEO saying its significance lies in lives saved, not records broken.",
+      "source": "Boston.com",
+      "published": "2026-10-29T20:16:43.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/10/MNLTY4JEYOBXRPII2CR5I2XRCQ-6ae3298eb1936-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+          "tldr": "Mistral has released the weights for a trillion-parameter model aimed at cybersecurity, arguing open models give organisations more control over their defences than closed rivals can.",
+          "source": "TechCrunch",
+          "published": "2026-10-29T17:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798"
+        },
+        {
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec",
+          "tldr": "OpenAI has updated its Model Spec, the document defining how its models should behave, around five core values meant to guide more capable systems toward sound judgment and faithfulness to human intent.",
+          "source": "OpenAI",
+          "published": "2026-10-29T17:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Granola crunches up a dictation feature to compete with Wispr",
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+          "tldr": "Note-taking app Granola is adding a dictation feature, days after rival Wispr added meeting notes to its own dictation app, as voice AI tools increasingly chase the same ground.",
+          "source": "TechCrunch",
+          "published": "2026-10-29T17:54:38.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Granola.jpg?resize=1200,675"
+        },
+        {
+          "title": "Meta quietly launches an AI fashion app called Style Sketch",
+          "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
+          "tldr": "Meta has launched Style Sketch, an AI fashion app that builds a virtual closet from photos shared on Instagram, or from pictures, videos and images added manually.",
+          "source": "TechCrunch",
+          "published": "2026-10-29T19:14:36.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625"
+        },
+        {
+          "title": "Building a multiplayer game world with autonomous Fable-class models",
+          "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
+          "tldr": "Simon Willison highlights Jacob Sansbury's account of building Spawn, a multiplayer game world driven by autonomous AI agents, as a rare look past the clickbait at what building seriously with AI looks like.",
+          "source": "Simon Willison",
+          "published": "2026-10-29T17:00:26.000Z",
+          "image": "https://static.simonwillison.net/static/2026-10-29/IMG_9406.webp"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "The R2 SUV is already Rivian's best-selling vehicle",
+          "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle",
+          "tldr": "Rivian's new R2 SUV is selling well enough that the company has raised its sales guidance to Wall Street for the second time this year.",
+          "source": "TechCrunch",
+          "published": "2026-10-29T20:02:03.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Rivian-R2-Headlight.jpg?resize=1200,900"
+        },
+        {
+          "title": "Andy Jassy says Prime Video is on track to earn 'tens of billions of dollars'",
+          "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars",
+          "tldr": "Amazon's Andy Jassy said Prime Video is on track to earn tens of billions of dollars, with hits like Project Hail Mary and Verity only part of the story.",
+          "source": "TechCrunch",
+          "published": "2026-10-29T23:44:56.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767"
+        },
+        {
+          "title": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "tldr": "Reddit is moving toward a logged-in experience as AI search tools cut into the traffic it gets from the open web, rethinking the open approach that built its audience and business.",
+          "source": "TechCrunch",
+          "published": "2026-10-29T20:08:31.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800"
+        },
+        {
+          "title": "Meta is testing 'Threads Friends' for sharing posts with smaller groups",
+          "url": "https://www.engadget.com/2301804/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups",
+          "tldr": "Meta is testing Threads Friends, a feature for sharing posts with a smaller, invite-only circle rather than a public feed, echoing Twitter's earlier Circle feature.",
+          "source": "Engadget",
+          "published": "2026-10-29T22:05:39.000Z",
+          "image": "https://www.engadget.com/img/gallery/meta-is-testing-threads-friends-for-sharing-posts-with-smaller-groups/l-intro-1793307612.jpg"
+        },
+        {
+          "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
+          "url": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks",
+          "tldr": "Archive of Our Own could stay offline for up to four weeks after a security incident, though the site says its data is intact; its fanfiction community has watched the outage closely.",
+          "source": "TechCrunch",
+          "published": "2026-10-29T20:43:56.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "New Apple TV 4K and iPad Mini: RAM Amounts Revealed",
+          "url": "https://www.macrumors.com/2026/10/29/new-apple-tv-4k-ipad-mini-ram-amounts",
+          "tldr": "Apple's Xcode 27.2 release reveals how much RAM the new fourth-generation Apple TV 4K and the OLED iPad mini carry, confirming expectations ahead of the hardware's launch.",
+          "source": "MacRumors",
+          "published": "2026-10-30T00:50:44.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/Apple-TV-4K-4th-Generation-Top-View5.jpg"
+        },
+        {
+          "title": "You Can Turn Off the New MacBook Pro's Touchscreen Functionality",
+          "url": "https://www.macrumors.com/2026/10/29/macbook-pro-touch-input-can-be-turned-off",
+          "tldr": "The new OLED MacBook Pro models include an accessibility setting that lets owners switch off touch input entirely, according to MacStories' Federico Viticci.",
+          "source": "MacRumors",
+          "published": "2026-10-29T17:47:11.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-PROLED-Touch-1.jpg"
+        },
+        {
+          "title": "Apple Lowers App Store Fees in Taiwan Starting October 31",
+          "url": "https://www.macrumors.com/2026/10/29/app-store-fees-taiwan",
+          "tldr": "Apple is cutting its standard App Store commission in Taiwan to 26%, from 30%, for in-app purchase and paid app transactions from 31 October, following talks with the territory's Fair Trade Commission.",
+          "source": "MacRumors",
+          "published": "2026-10-29T19:06:08.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/08/apple-app-store-ios.jpg"
+        },
+        {
+          "title": "iPhone 18 Pro Review: Apple's priciest Pro phone ever poses a challenge for upgraders",
+          "url": "https://sixcolors.com/post/2026/10/iphone-18-pro-review-apples-priciest-pro-phone-ever-poses-a-challenge-for-upgraders",
+          "tldr": "Six Colors reviews the iPhone 18 Pro, Apple's most expensive Pro iPhone yet, and asks whether the case for upgrading holds up for existing Pro owners.",
+          "source": "Six Colors",
+          "published": "2026-10-29T15:00:00.000Z",
+          "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/10/glacier-18-iphone-rotate-6c.png?fit=680%2C464&ssl=1"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Chase Sui Wonders in Talks to Join A24's 'Goblin'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/chase-sui-wonders-talks-goblin-cast-1236743116",
+          "tldr": "Chase Sui Wonders is in talks to join A24's Goblin, from director David Mikalson, joining previously announced cast members Kenneth Branagh, Skyler Gisondo and Will Forte.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-29T22:49:50.000Z",
+          "image": ""
+        },
+        {
+          "title": "Sony Takes Rights To 'Mouthwashing' Videogame; Karyn Kusama Directing",
+          "url": "https://deadline.com/2026/10/sony-mouthwashing-videogame-movie-karyn-kusama-1237208566",
+          "tldr": "Sony Pictures has acquired the film rights to psychological horror game Mouthwashing, with Destroyer director Karyn Kusama attached and Crooked Highway producing.",
+          "source": "Deadline",
+          "published": "2026-10-29T20:05:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/Mouthwashing_Key_Art-1080.png"
+        },
+        {
+          "title": "'Clayface' Breakout Star Tom Rhys Harries on Surviving a Multi-Day Screen Test",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/clayface-tom-rhys-harries-surviving-multi-day-screen-test-1236742744",
+          "tldr": "Tom Rhys Harries, 36, beat four battle-tested peers in a multi-day screen test to land the lead role in DC's Clayface.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-29T21:45:13.000Z",
+          "image": ""
+        },
+        {
+          "title": "California Begins Discussion on Unlimited Film Incentives: 'That Is a Heavy Lift'",
+          "url": "https://variety.com/2026/film/news/california-film-incentives-unlimited-1236934661",
+          "tldr": "California lawmakers have opened talks on removing the cap on the state's $750 million film and TV production incentive, while acknowledging the move would strain the budget.",
+          "source": "Variety",
+          "published": "2026-10-30T00:16:35.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/Rick-Chavez-Zbur.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Patriots",
+          "title": "A.J. Brown injury: Patriots WR misses practice with 'flared up' knee issue",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/142329/a-j-brown-injury-patriots-wr-misses-practice-with-flared-up-knee-issue",
+          "tldr": "Patriots receiver A.J. Brown missed Thursday's practice after being added to the injury report the day before with a knee issue, in an already difficult first season in New England.",
+          "source": "Pats Pulpit",
+          "published": "2026-10-29T19:14:44.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2301985674.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Kimi Antonelli to miss Mexico City GP media day due to viral illness ahead of likely world championship coronation",
+          "url": "https://www.skysports.com/f1/news/12433/13605421/kimi-antonelli-to-miss-mexico-city-gp-media-day-due-to-viral-illness-ahead-of-likely-world-championship-coronation",
+          "tldr": "Kimi Antonelli will miss Thursday's Mexico City Grand Prix media day because of a viral illness, days before he could be confirmed as Formula 1's youngest world champion.",
+          "source": "Sky Sports",
+          "published": "2026-10-29T17:00:00.000Z",
+          "image": "https://e1.365dm.com/26/10/1920x1080/skysports-kimi-antonelli-mercedes_7391128.jpg?20261029171045"
+        },
+        {
+          "tag": "F1",
+          "title": "'I don't care' about the Drivers' Championship – Verstappen",
+          "url": "https://www.formula1.com/en/latest/article/verstappen-explains-why-he-doesnt-really-care-about-the-drivers-championship.3MV9VgrNtTXBwMPVvg9N7c",
+          "tldr": "Max Verstappen says he isn't focused on this year's drivers' championship race, as he sets out his priorities for Formula 1's final five races of the season.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico___Previews/2302595709.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "Cadillac 'honoured' to have Perez as special 300th race celebration planned for Mexico GP",
+          "url": "https://www.autosport.com/f1/news/cadillac-honoured-to-have-perez-as-special-300th-race-celebration-planned-for-mexico-gp/10869139",
+          "tldr": "Cadillac is planning a celebration for Sergio Perez's 300th Formula 1 race at this weekend's Mexico City Grand Prix, with GM president Mark Reuss calling it an honour to have him on the grid.",
+          "source": "Autosport",
+          "published": "2026-10-29T13:00:03.000Z",
+          "image": "https://cdn-6.motorsport.com/images/amp/63QaoRw2/s6/sergio-perez-cadillac-racing-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "No one was happier for the Brewers' World Series MVP than his brother, Willson Contreras",
+          "url": "https://www.boston.com/sports/morning-sports-update/2026/10/29/willson-contreras-william-contreras-world-series-mvp",
+          "tldr": "Red Sox catcher Willson Contreras was on hand to celebrate after his younger brother William was named World Series MVP for the Brewers.",
+          "source": "Boston.com",
+          "published": "2026-10-29T15:26:28.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/William-Contreras-Brewers-6ae35c6733ba7-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox kick off offseason by trading Nate Eaton to A's amid roster crunch",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/29/boston-red-sox-trade-nate-eaton-mlb-baseball-roster-offseason",
+          "tldr": "The Red Sox have traded outfielder Nate Eaton to the Athletics for a pitching prospect, the first move in clearing three more spots from a crowded 40-man roster before Monday's deadline.",
+          "source": "Boston.com",
+          "published": "2026-10-29T20:53:20.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Red_Sox_Rangers_Baseball_567_5-6ae3acff6cfd9-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-techs-most-resilient-workers",
+    "why": "A framework for handling burnout worth bookmarking as you balance the day job with building on the side.",
+    "title": "How tech’s most resilient workers handle burnout",
+    "subtitle": "Introducing ARMOR: a new framework building on our tech worker sentiment survey insights",
+    "published": "2025-06-17",
+    "words": 3046,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/2e4dfa9b-0cb2-405b-8a46-60137db43939_2401x1261.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/435-mark-zuckerbergs-empire/id1141877104?i=1000791983762&uo=4",
+      "why": "Meta keeps shipping new products, today an AI fashion app and Threads Friends, and this traces how Zuckerberg built the machine behind it.",
+      "show": "Founders",
+      "title": "#435 Mark Zuckerberg's Empire",
+      "published": "2026-09-28",
+      "duration": "41m",
+      "apple": "https://podcasts.apple.com/us/podcast/435-mark-zuckerbergs-empire/id1141877104?i=1000791983762&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://davidsenra.com/episode/ronnie-fieg",
+      "why": "A streetwear brand built almost entirely on storytelling and taste, the exact craft Damian studies in product marketing.",
+      "show": "David Senra",
+      "title": "Building the Streetwear Empire Kith | Ronnie Fieg",
+      "published": "2026-09-27",
+      "duration": "1h 30m",
+      "apple": "https://podcasts.apple.com/us/podcast/building-the-streetwear-empire-kith-ronnie-fieg/id1836497887?i=1000791842256&uo=4",
+      "page": "https://davidsenra.com/episode/ronnie-fieg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/6b/da/c16bdaee-42c1-42d2-0467-a63c32ee2263/mza_8354939668545325068.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=X_vTHe_23dc"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/mars-inc-the-chocolate-story",
+      "why": "Halloween is tomorrow, so there's no better moment for the inside story of Mars and its chocolate empire.",
+      "show": "Acquired",
+      "title": "Mars Inc. (the chocolate story)",
+      "published": "2024-12-16",
+      "duration": "3h 44m",
+      "apple": "https://podcasts.apple.com/us/podcast/mars-inc-the-chocolate-story/id1050462261?i=1000680482245&uo=4",
+      "page": "https://www.acquired.fm/episodes/mars-inc-the-chocolate-story",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a5/84/73/a5847328-c157-e89b-07a3-0d1c9c205412/mza_1062711820519981459.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "An Italian farmer planted some decades-old seeds he found in his attic",
+    "url": "https://kottke.org/26/10/0049901-wheat-with-seven-ears-per",
+    "tldr": "An Italian farmer discovered decades-old seeds in his attic, planted them, and found they grew into a nutritious, drought-resistant wheat variety with seven ears per stalk.",
+    "source": "Kottke",
+    "published": "2026-10-29T21:24:00.000Z",
+    "image": ""
+  }
+}
