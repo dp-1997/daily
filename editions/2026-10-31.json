@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-31",
+  "note": "F1's Mexican Grand Prix qualifying is today, and the Patriots play the Dolphins in Miami on Sunday.",
+  "front": [
+    {
+      "title": "Apple takes \"monumental step forward\" with first touchscreen MacBook",
+      "url": "https://www.dezeen.com/2026/10/30/macbook-pro-touchscreen-apple",
+      "tldr": "Apple's new MacBook Pro introduces the company's first laptop touchscreen, alongside new M6, M5 Pro and M5 Max chip options. Full pricing and configurations were published this week ahead of its release.",
+      "source": "Dezeen",
+      "published": "2026-10-30T10:50:00.000Z",
+      "image": "https://static-2026.dezeen.com/uploads/2026/10/macbook-pro-touchscreen-apple-sq_dezeen_2364_col_2-1024x1024.jpg"
+    },
+    {
+      "title": "'Knives Out' director launches iPhone camera app that shoots like his movies",
+      "url": "https://9to5mac.com/2026/10/30/knives-out-director-launches-iphone-camera-app-that-shoots-like-his-movies",
+      "tldr": "Rian Johnson has released an iPhone camera app built on the image-processing techniques from his Knives Out films, letting anyone shoot footage with a similar look.",
+      "source": "9to5Mac",
+      "published": "2026-10-30T20:44:08.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/rian-camera-app.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "dbreunig/nesformer: an NES emulator baked into an AI model's weights",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer",
+      "tldr": "Developer Drew Breunig built a working Nintendo Entertainment System emulator inside the weights of the Qwen3.5-4B AI model, letting anyone play NES games through it. The project was inspired by a similar one called qwenputer.",
+      "source": "Simon Willison",
+      "published": "2026-10-30T21:59:22.000Z",
+      "image": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Google's first data center satellite is online and writing poetry",
+          "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+          "tldr": "Google's first data-centre satellite is in orbit, running a DeepMind Gemma 4 model that writes poetry from space. It is an early test of moving AI computing off Earth.",
+          "source": "TechCrunch",
+          "published": "2026-10-30T17:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800"
+        },
+        {
+          "title": "Zest's new AI agent finds restaurants and books reservations over text",
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
+          "tldr": "Zest has launched an AI concierge that combines a group's food preferences, puts restaurant options to a vote over text, then books the table. It is aimed at people who cannot agree where to eat.",
+          "source": "TechCrunch",
+          "published": "2026-10-30T17:47:12.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764"
+        },
+        {
+          "title": "Making it easier for websites to express AI training preferences",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "tldr": "OpenAI will honour a shared robots.txt signal so website operators can tell participating AI companies whether their content may be used for training. It is a step toward a common opt-out standard.",
+          "source": "OpenAI",
+          "published": "2026-10-30T09:30:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Community safety report and new protections for teens",
+          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "tldr": "OpenAI is expanding violence-prevention safeguards in ChatGPT, adding earlier interventions for at-risk users and a new commitment to public safety reporting, with particular focus on protecting teenagers.",
+          "source": "OpenAI",
+          "published": "2026-10-30T09:00:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Bluesky now has a dedicated 'moderation inbox'",
+          "url": "https://www.engadget.com/2302932/bluesky-now-has-a-dedicated-moderation-inbox",
+          "tldr": "Bluesky has added a dedicated moderation inbox in beta, making it easier for users to track reports and account strikes in one place rather than hunting through notifications.",
+          "source": "Engadget",
+          "published": "2026-10-30T20:07:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg"
+        },
+        {
+          "title": "Satlyt takes another step toward turning satellites into space data centers",
+          "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers",
+          "tldr": "Satlyt has completed a test moving it closer to turning satellites into orbiting data centres, a step toward offloading some computing into space.",
+          "source": "TechCrunch",
+          "published": "2026-10-30T18:01:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Just_Super-Getty.jpg?resize=1200,750"
+        },
+        {
+          "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+          "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk",
+          "tldr": "Waymo will begin testing self-driving Toyota bZ4X vehicles in Japan next year, part of a wider partnership with the automaker that also covers the UK.",
+          "source": "TechCrunch",
+          "published": "2026-10-30T07:01:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1200,675"
+        },
+        {
+          "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+          "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+          "tldr": "Runware is building a factory to produce prefabricated AI data centres on an assembly line, aiming to deliver them within 48 hours of an order. Whether it can do so at scale is the real test.",
+          "source": "TechCrunch",
+          "published": "2026-10-30T13:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200"
+        },
+        {
+          "title": "Meta quietly launches an AI fashion app for virtually trying on clothes",
+          "url": "https://www.engadget.com/2302003/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes",
+          "tldr": "Meta has quietly launched an AI fashion app, Style Sketch, that lets people virtually try on clothes. It is currently available only in Indonesia, Singapore and Thailand.",
+          "source": "Engadget",
+          "published": "2026-10-30T12:05:36.000Z",
+          "image": "https://www.engadget.com/img/gallery/meta-quietly-launches-an-ai-fashion-app-for-virtually-trying-on-clothes/l-intro-1793361850.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "HomeView Software 27.2: Wallpapers, Control Center, and More",
+          "url": "https://www.macrumors.com/2026/10/30/homeview-software-27-2",
+          "tldr": "Apple has released HomeView Software 27.2, the operating system for its new HomeView device, which launches on 13 November. The update brings new wallpapers, Control Center changes and other refinements ahead of release.",
+          "source": "MacRumors",
+          "published": "2026-10-30T23:15:55.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg"
+        },
+        {
+          "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
+          "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china",
+          "tldr": "Apple says the first iOS 27.3 developer beta will arrive next week, bringing Apple Intelligence features such as Writing Tools and Genmoji to users in China for the first time.",
+          "source": "9to5Mac",
+          "published": "2026-10-30T22:37:36.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-ai-iphone-18-pro-burgundy.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple Music 7.0 for Android rolls out with Liquid Glass redesign",
+          "url": "https://9to5google.com/2026/10/30/apple-music-7-0-redesign",
+          "tldr": "Apple Music 7.0 is rolling out on Android with a Liquid Glass redesign and a new app icon, following a month of beta testing of the streaming service.",
+          "source": "9to5Mac",
+          "published": "2026-10-30T17:27:24.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Music-7-1.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "WhatsApp announces four new features to make group chats easier to manage",
+          "url": "https://9to5mac.com/2026/10/30/whatsapp-announces-four-new-features-to-make-group-chats-easier-to-manage",
+          "tldr": "WhatsApp is rolling out four new features to make group chats easier to manage, according to a blog post this week, aimed at helping people keep track of what is happening in each group.",
+          "source": "9to5Mac",
+          "published": "2026-10-30T23:36:34.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Patrick Stewart Dies at 86",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/patrick-stewart-dead-star-trek-x-men-1236742932",
+          "tldr": "Patrick Stewart, who brought a Shakespearean depth to Star Trek's Jean-Luc Picard and X-Men's Professor X, has died at 86. Tributes have poured in from across film and television for his five-decade career.",
+          "source": "Daring Fireball",
+          "published": "2026-10-30T16:53:09.000Z",
+          "image": ""
+        },
+        {
+          "title": "Martin Scorsese Explains How Seth Rogen \"Ruined\" His 'Cleopatra' Film",
+          "url": "https://deadline.com/2026/10/martin-scorsese-seth-rogen-ruined-cleopatra-film-1237210059",
+          "tldr": "Martin Scorsese says his planned Cleopatra film with Angelina Jolie was never made because of the Sony hack, which he blames partly on Seth Rogen. Deadline reports he is still frustrated more than a decade later.",
+          "source": "Deadline",
+          "published": "2026-10-30T22:32:04.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/Seth-Rogen-Martin-Scorsese-2-shot.jpg"
+        },
+        {
+          "title": "Golden Globes: 'Artificial' Submitted as Comedy",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/golden-globes-artificial-submitted-comedy-exclusive-1236736434",
+          "tldr": "Luca Guadagnino's 'Artificial', written by Simon Rich, has been submitted to the Golden Globes as a comedy despite dealing with dark subject matter, resolving one of the last big questions ahead of Friday's deadline.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-30T17:02:08.000Z",
+          "image": ""
+        },
+        {
+          "title": "Léa Seydoux Getting American Cinematheque Retrospective",
+          "url": "https://variety.com/2026/film/news/lea-seydoux-american-cinematheque-retrospective-1236935548",
+          "tldr": "Léa Seydoux is to receive an American Cinematheque retrospective honouring two decades of work across independent and studio filmmaking, Variety reports exclusively.",
+          "source": "Variety",
+          "published": "2026-10-30T21:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2300758044.jpg"
+        },
+        {
+          "title": "Woody Harrelson Boards First Short Film As EP",
+          "url": "https://deadline.com/2026/10/woody-harrelson-first-short-film-ep-mary-the-widow-1237209631",
+          "tldr": "Woody Harrelson is backing his first short film as executive producer: Mary the Widow, a live-action short written and directed by Ryan Noufer, starring Julie Ariola and Stephen Tobolowsky.",
+          "source": "Deadline",
+          "published": "2026-10-30T18:00:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/stephen.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Pritchard, Celtics cruise to 125-111 NBA Cup win over Bulls",
+          "url": "https://www.celticsblog.com/celtics-scores-results/148917/pritchard-celtics-cruise-to-125-111-nba-cup-win-over-bulls",
+          "tldr": "Payton Pritchard scored 30 as the Celtics beat the Bulls 125-111 at home, their first game of NBA Cup group play and a bounce-back after a slow start to the season.",
+          "source": "CelticsBlog",
+          "published": "2026-10-31T02:13:58.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2302265637.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Joe Mazzulla elaborates on AI usage at Celtics practice",
+          "url": "https://www.celticsblog.com/boston-celtics-news/148897/joe-mazzulla-ai-usage-celtics-practice",
+          "tldr": "Celtics coach Joe Mazzulla says he has been finding ways to use artificial intelligence tools to work more efficiently and effectively as a coach.",
+          "source": "CelticsBlog",
+          "published": "2026-10-30T15:28:07.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2299552729.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "A.J. Brown, TreVeyon Henderson questionable for Week 8 matchup vs. the Dolphins",
+          "url": "https://www.patriots.com/news/injury-report-analysis-wr-a-j-brown-rb-treveyon-henderson-questionable-for-week-8-matchup-vs-the-dolphins",
+          "tldr": "A.J. Brown is officially questionable for Sunday's game against the Dolphins after sitting out New England's final two practices this week with an ankle and knee issue.",
+          "source": "Patriots.com",
+          "published": "2026-10-30T19:50:33.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ajcc1jvs3zdaryrczcb5.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "The art of the scramble drill: how the Patriots capitalize on QB Drake Maye's superpower",
+          "url": "https://www.patriots.com/news/the-art-of-the-scramble-drill-how-the-patriots-capitalize-on-qb-drake-maye-s-superpower",
+          "tldr": "Drake Maye leads all NFL quarterbacks in passing yards on scramble drills this season, and the Patriots have built parts of their offence around his ability to extend plays.",
+          "source": "Patriots.com",
+          "published": "2026-10-30T10:00:40.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/namarf1slmd1ebgw2v0z.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Verstappen, Lawson receive grid penalties after 'unacceptable' practice collision",
+          "url": "https://www.skysports.com/f1/news/12433/13605836/max-verstappen-liam-lawson-receive-grid-penalties-for-unacceptable-practice-collision-at-mexico-city-grand-prix",
+          "tldr": "Max Verstappen and Liam Lawson were both given one-place grid penalties after an \"unacceptable\" collision in second practice for the Mexico City Grand Prix.",
+          "source": "Sky Sports",
+          "published": "2026-10-31T03:10:00.000Z",
+          "image": "https://e2.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7392430.jpg?20261031003711"
+        },
+        {
+          "tag": "F1",
+          "title": "Leclerc seals Mexico City practice double as Hamilton suffers technical issue",
+          "url": "https://www.skysports.com/f1/news/12433/13605831/mexico-city-gp-charles-leclerc-completes-friday-practice-double-as-ferrari-team-mate-lewis-hamilton-suffers-technical-failure",
+          "tldr": "Charles Leclerc topped both Friday practice sessions in Mexico City for Ferrari, while team-mate Lewis Hamilton's day was dented by a technical failure in the second session.",
+          "source": "Sky Sports",
+          "published": "2026-10-30T23:10:00.000Z",
+          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-charles-leclerc-ferrari_7392391.jpg?20261030230356"
+        },
+        {
+          "tag": "F1",
+          "title": "Hamilton on why he is \"built differently\" to stay in F1 for the \"foreseeable future\"",
+          "url": "https://www.autosport.com/f1/news/hamilton-on-why-he-is-built-differently-to-stay-in-f1-for-the-foreseeable-future/10869741",
+          "tldr": "Lewis Hamilton says he intends to keep racing in Formula 1 'for the foreseeable future' if he stays competitive, while still ruling out extending his career into the 2030s.",
+          "source": "Autosport",
+          "published": "2026-10-30T16:30:03.000Z",
+          "image": "https://cdn-4.motorsport.com/images/amp/27No4lK0/s6/lewis-hamilton-ferrari-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox kick start offseason with two minor trades, dealing away Nate Eaton, Tsung-Che Cheng",
+          "url": "https://www.overthemonster.com/red-sox-news/111050/red-sox-kick-start-offseason-with-two-minor-trades-dealing-away-nate-eaton-tsung-che-cheng",
+          "tldr": "The Red Sox have started trimming their 40-man roster, dealing away Nate Eaton and Tsung-Che Cheng in two separate trades as the offseason begins, with the roster's rules forcing further moves.",
+          "source": "Over the Monster",
+          "published": "2026-10-30T16:09:18.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2297974615.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-build-trust-in-a-marketplace",
+    "title": "How to build trust in a marketplace",
+    "why": "AI agents are starting to transact on people's behalf, from Zest's restaurant-booking bot to DoorDash's AI orders, which makes this older look at how marketplaces earn trust worth revisiting.",
+    "subtitle": "Lessons from Lyft, Thumbtack, Rover, Snackpass, Peerspace, Shef, Good Dog, and Udemy",
+    "published": "2022-06-14",
+    "words": 2965,
+    "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86681d67-0ad2-495b-aadc-4f4034492da2_3456x1870.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/414-how-spacex-works/id1141877104?i=1000753892488&uo=4",
+      "title": "Founders #414: How SpaceX Works",
+      "why": "With Apple's touchscreen MacBook Pro leading today's news, this episode on how SpaceX actually builds and operates is a fitting companion on hard engineering made to look simple.",
+      "show": "Founders",
+      "published": "2026-03-08",
+      "duration": "41m",
+      "apple": "https://podcasts.apple.com/us/podcast/414-how-spacex-works/id1141877104?i=1000753892488&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/jeff-zalaznick",
+      "title": "David Senra: Jeff Zalaznick, Carbone, ZZ's, Torrisi",
+      "why": "Today's AI pick is an agent that books restaurant tables, so it pairs well with the Carbone and Torrisi restaurateur talking about the craft of hospitality behind those tables.",
+      "show": "David Senra",
+      "published": "2026-07-19",
+      "duration": "1h 48m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-restaurant-genius-behind-carbone-zzs-torrisi-more/id1836497887?i=1000777404038&uo=4",
+      "page": "https://www.davidsenra.com/episode/jeff-zalaznick",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/b9/30/c3b9303c-690b-6ba3-bc03-f20a5bb65cc2/mza_13475334800129304643.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=7WBfRhPbS5I"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-mark-zuckerberg-interview",
+      "title": "Acquired: The Mark Zuckerberg Interview",
+      "why": "With three separate Meta stories in today's technology section, from an AI fashion app to privacy scrutiny over AI glasses, this interview with Zuckerberg himself is a useful rewind.",
+      "show": "Acquired",
+      "published": "2024-09-18",
+      "duration": "1h 21m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-mark-zuckerberg-interview/id1050462261?i=1000669898852&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-mark-zuckerberg-interview",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6e/9f/db/6e9fdbed-3b21-6741-7341-5d4be08806b2/mza_6904905442447600024.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Listen to a Long-Lost Daft Punk Mix From 1997",
+    "url": "https://kottke.org/26/10/listen-to-a-long-lost-daft-punk-mix-from-1997",
+    "tldr": "DJ Ralph Lawson has unearthed an hour-long mixtape that Daft Punk sent him in 1997 for his Trans Europe Express radio show, a time capsule from early in the duo's career.",
+    "source": "Kottke",
+    "published": "2026-10-30T12:30:00.000Z",
+    "image": ""
+  }
+}
