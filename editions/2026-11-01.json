@@ -1,0 +1,292 @@
+{
+  "date": "2026-11-01",
+  "note": "Formula 1's title could be decided in Mexico City today.",
+  "front": [
+    {
+      "title": "Apple's new MacBook Pro and macOS 27 are built for touch",
+      "url": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate",
+      "tldr": "Apple's new MacBook Pro has a PROLED XDR touch display, the first touchscreen Mac, and macOS 27 adds touch gestures to match. A genuine shift for a laptop line that resisted touch for 15 years.",
+      "source": "9to5Mac",
+      "published": "2026-10-31T19:49:44.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-hand.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "Hamilton becomes F1's oldest pole-sitter in 44 years with first Ferrari pole",
+      "url": "https://www.skysports.com/watch/video/13606514/mexico-city-gp-lewis-hamilton-pips-george-russell-to-become-oldest-pole-sitter-in-44-years",
+      "tldr": "Lewis Hamilton edged out George Russell to take pole for the Mexico City Grand Prix, his first for Ferrari and the team's first of the season. At 41, he is F1's oldest pole-sitter since 1982.",
+      "source": "Sky Sports",
+      "published": "2026-10-31T22:16:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-motorsport-f1-ferrari_7393492.jpg?20261031223647"
+    },
+    {
+      "title": "'Green Room' director recalls how Patrick Stewart saved the film from being scrapped",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/how-patrick-stewart-saved-green-room-scrapped-jeremy-saulnier-1236744241",
+      "tldr": "Director Jeremy Saulnier says 'Green Room' was close to being shelved until Patrick Stewart unexpectedly asked to join the 2015 thriller. Ahead of a Friday screening, he credited Stewart's interest with saving the project outright.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-11-01T00:13:53.000Z",
+      "image": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "How We Took Over ChatGPT Accounts",
+          "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+          "tldr": "Security researchers at Parameter Labs found a way to hijack ChatGPT accounts through OpenAI's artifacts feature, the tool once called Canvas. A reminder that AI products carry the same security risks as any other software.",
+          "source": "Simon Willison",
+          "published": "2026-10-31T23:15:22.000Z",
+          "image": ""
+        },
+        {
+          "title": "Apple's CEO says the company doesn't want to 'ship AI for AI's sake'",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+          "tldr": "Apple's chief executive defended the company's cautious approach to AI, saying it won't ship features just to keep pace with rivals. A rare public defence of Apple's slower, more deliberate product strategy.",
+          "source": "TechCrunch",
+          "published": "2026-10-31T21:41:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024"
+        },
+        {
+          "title": "OpenAI reportedly lowers funding target for new round",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+          "tldr": "OpenAI's latest funding round is reportedly falling short of its original target, a signal that investor appetite for AI mega-rounds may be cooling after a year of record raises.",
+          "source": "TechCrunch",
+          "published": "2026-10-31T16:12:55.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
+        },
+        {
+          "title": "Nvidia weighs playing the cosigner for Nscale's AI data center in West Virginia",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+          "tldr": "Nvidia is reportedly considering guaranteeing financing for Nscale's new West Virginia data centre, as nervous lenders look to the chipmaker to underwrite the AI building boom it sells into.",
+          "source": "TechCrunch",
+          "published": "2026-10-31T01:20:05.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "From restaurant guides to payments, here's how TikTok is building a super app",
+          "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app",
+          "tldr": "TikTok is quietly expanding into restaurant recommendations and payments, following the WeChat playbook of becoming the single app people use for most of their digital life.",
+          "source": "TechCrunch",
+          "published": "2026-10-31T15:41:57.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801"
+        },
+        {
+          "title": "I took two iPhones on vacation. The Duo won me over.",
+          "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over",
+          "tldr": "TechCrunch's review of Apple's dual-screen iPhone Duo found real frustrations but enough charm to beat going back to a Pro Max, a useful data point on whether the device is more than a gimmick.",
+          "source": "TechCrunch",
+          "published": "2026-10-31T14:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675"
+        },
+        {
+          "title": "Xbox manager says AI is already being used in game development",
+          "url": "https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development",
+          "tldr": "An Xbox manager said AI use is already widespread in game development, then deleted the comments from X a day later, hinting at how sensitive the topic remains inside studios.",
+          "source": "Engadget",
+          "published": "2026-10-31T20:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/xbox-manager-says-ai-is-already-being-used-in-game-development/l-intro-1793296757.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple shows off HomeView's software in a new tour",
+          "url": "https://www.macrumors.com/2026/10/31/apple-homeview-software-tour",
+          "tldr": "Developer Steve Troughton-Smith shared a detailed tour of the software running Apple's upcoming HomeView smart home hub, giving the clearest look yet at the interface ahead of its launch.",
+          "source": "MacRumors",
+          "published": "2026-10-31T15:47:40.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/homeview-entertainment-feature-1.jpg"
+        },
+        {
+          "title": "iPhone 18 Pro sales surge in China, offsetting decline in U.S. and Japan",
+          "url": "https://www.macrumors.com/2026/10/31/iphone-18-pro-sales-surge-in-china",
+          "tldr": "A 29% sales jump in China is offsetting weaker iPhone 18 Pro demand in the US and Japan, according to Counterpoint Research, underlining how central the Chinese market has become to Apple.",
+          "source": "MacRumors",
+          "published": "2026-10-31T05:55:35.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Pre-Orders-Feature-Sans-Text.jpg"
+        },
+        {
+          "title": "Apple Maps begins blurring NASA, Space Force, and Air Force bases",
+          "url": "https://spaceexplored.com/2026/10/30/apple-maps-begins-blurring-nasa-space-force-and-air-force-bases",
+          "tldr": "Apple has started blurring satellite imagery of NASA, Space Force and Air Force sites in Maps, a quiet change spotted by enthusiasts who regularly zoom in on launch pads for fun.",
+          "source": "9to5Mac",
+          "published": "2026-10-31T15:42:14.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/CleanShot-2026-10-30-at-8.12.12-PM@2x-2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "'Pluribus' Season 2 reportedly starts production today",
+          "url": "https://www.macrumors.com/2026/10/31/pluribus-season-2-starts-production-today",
+          "tldr": "Filming on the second season of Apple TV's acclaimed sci-fi drama 'Pluribus' is reported to begin today in Albuquerque, a quick turnaround that suggests Apple wants the show back soon.",
+          "source": "MacRumors",
+          "published": "2026-10-31T06:41:45.000Z",
+          "image": "https://images.macrumors.com/article-new/2025/10/Pluribus_Poster_0101.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Fuxi: Four Tales of Feasting' review: whimsical Chinese film explores myth through food",
+          "url": "https://www.hollywoodreporter.com/movies/movie-reviews/fuxi-four-tales-of-feasting-qiu-jiongjiong-1236743718",
+          "tldr": "In Qiu Jiongjiong's latest, elaborate sets and costumes build a strange banquet of storytelling in which food carries the plot, reviewed at the Tokyo International Film Festival.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-10-31T00:36:53.000Z",
+          "image": ""
+        },
+        {
+          "title": "Austin Film Festival announces script and film competition award winners",
+          "url": "https://variety.com/2026/film/news/austin-film-festival-script-film-award-winners-1236936233",
+          "tldr": "'Paper Plane', 'Helicopter' and 'Old Bogus Massacre' topped this year's Austin Film Festival script and film competition, chosen from more than 12,500 submissions and 78 finalist scripts.",
+          "source": "Variety",
+          "published": "2026-10-31T19:30:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/paper_plane.jpg"
+        },
+        {
+          "title": "Alex Gibney-produced 'Mohabat' wins top prize at Ji.hlava documentary festival",
+          "url": "https://variety.com/2026/film/awards/alex-gibney-mohabat-james-longley-winner-jihlava-1236935998",
+          "tldr": "James Longley's 'Mohabat', produced with Oscar-winner Alex Gibney, won the main documentary prize at the Ji.hlava festival, praised by jurors as meticulously researched and exquisitely crafted.",
+          "source": "Variety",
+          "published": "2026-10-31T20:30:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-31-Oct-2026-03-25-PM-6235.jpg"
+        },
+        {
+          "title": "Artisans break down the tricks and treats of designing a Trojan Horse at SCAD Savannah Film Festival",
+          "url": "https://www.indiewire.com/features/craft/scad-savannah-film-festival-artisans-ruth-de-jong-amy-roth-1235224897",
+          "tldr": "Production designer Ruth de Jong, editor Sarah Broshar and costume designer Amy Roth told IndieWire about the hidden craft choices built into their work, at SCAD's Behind Their Lens panel.",
+          "source": "IndieWire",
+          "published": "2026-10-31T22:14:51.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/2302264273.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Payton Pritchard scores 30 to lead Celtics past Bulls in comfortable NBA Cup win",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/10/31/payton-pritchard-scores-30-to-lead-celtics-past-bulls-in-comfortable-nba-cup-win-8-takeaways",
+          "tldr": "Payton Pritchard scored 30 points on 6-for-8 shooting from inside the arc, getting to the free-throw line nine times, as the Celtics beat the Bulls comfortably in their NBA Cup opener.",
+          "source": "Boston.com",
+          "published": "2026-10-31T11:30:37.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/Payton-Pritchard-Celtics-Bulls-Takeaways-6ae087e3c98fb-850x638.jpg"
+        },
+        {
+          "tag": "Celtics",
+          "title": "The Celtics' defense is winning in a new way",
+          "url": "https://www.celticsblog.com/celtics-analysis/148936/the-celtics-defense-is-winning-in-a-new-way",
+          "tldr": "Boston's defense forced 16 turnovers against the Bulls, 10 of them steals, an early-season pattern CelticsBlog says is coming from an unfamiliar source for this team.",
+          "source": "CelticsBlog",
+          "published": "2026-10-31T11:49:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/10/gettyimages-2302275280.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "The Mayes keep showing up at Market Baskets. Fans can't get enough.",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/31/drake-ann-michael-maye-market-basket-patriots",
+          "tldr": "Drake Maye's family keeps turning up at Market Basket stores around New England, and fans wearing his No. 10 jersey can't get enough of the impromptu meet-and-greets.",
+          "source": "Boston.com",
+          "published": "2026-10-31T22:42:35.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/JXLP7D67ZZF7HEBYZXFVIPC4RY-6ae140f320671-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots' A.J. Brown, TreVeyon Henderson ruled out vs. Dolphins",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/10/31/aj-brown-treveyon-henderson-ruled-out-vs-dolphins",
+          "tldr": "Wide receiver A.J. Brown and running back TreVeyon Henderson are ruled out for today's game at Miami, with running back Lan Larison signed to the 53-man roster to cover for Henderson.",
+          "source": "Boston.com",
+          "published": "2026-10-31T22:28:39.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/bro-6ae667b120707-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Antonelli feeling 'tense' amid effort to seal F1 title",
+          "url": "https://www.skysports.com/f1/news/12433/13606017/kimi-antonelli-mercedes-driver-admits-to-feeling-tense-amid-effort-to-seal-f1-title-at-mexico-city-grand-prix",
+          "tldr": "Kimi Antonelli admits he is more tense than usual ahead of Sunday's Mexico City Grand Prix, where he could seal his first Formula 1 world championship.",
+          "source": "Sky Sports",
+          "published": "2026-11-01T00:45:00.000Z",
+          "image": "https://e2.365dm.com/26/11/1920x1080/skysports-f1-kimi-antonelli_7393584.jpg?20261101003807"
+        },
+        {
+          "tag": "F1",
+          "title": "F1 2026 Mexican Grand Prix starting grid with Verstappen penalty",
+          "url": "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-starting-grid-with-verstappen-penalty",
+          "tldr": "Max Verstappen and Liam Lawson both picked up grid penalties for their practice collision, reshuffling the Mexico City Grand Prix starting order ahead of today's race.",
+          "source": "The Race",
+          "published": "2026-11-01T01:09:00.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/10/XPB_1449867_HiRes.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Willson Contreras on what he thinks Red Sox need to do this offseason to improve",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/10/31/willson-contreras-craig-breslow-red-sox",
+          "tldr": "Willson Contreras set out what he thinks the Red Sox need to fix this offseason, putting the decision back in chief baseball officer Craig Breslow's hands.",
+          "source": "Boston.com",
+          "published": "2026-11-01T02:06:44.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/H2FEGF5ZFR43QWG6DZZWV3BRUU-6ae694bbd7c7b-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-gong-builds-product",
+    "why": "Apple's first touchscreen MacBook landed today as a reminder that great products come from deliberate craft decisions, and this is how Gong makes its own.",
+    "title": "How Gong builds product",
+    "subtitle": "Co-founder and chief product officer Eilon Reshef on autonomy, OKRs, design partners, prioritizing, interviewing, and more",
+    "published": "2024-01-23",
+    "words": 4465,
+    "image": "https://substackcdn.com/image/fetch/$s_!ORz0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F166b5927-a571-48f5-b014-33fa2562ca8f_6000x4000.jpeg",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/412-how-roger-federer-works/id1141877104?i=1000750398690&uo=4",
+      "why": "Hamilton's record pole today is a reminder of what elite performance craft looks like, and Senra's breakdown of Federer's discipline fits the mood.",
+      "show": "Founders",
+      "title": "#412 How Roger Federer Works",
+      "published": "2026-02-19",
+      "duration": "49m",
+      "apple": "https://podcasts.apple.com/us/podcast/412-how-roger-federer-works/id1141877104?i=1000750398690&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/eric-glyman",
+      "why": "Ramp co-founder Eric Glyman on building a fast-growing fintech product is useful listening given today's AI funding and infrastructure stories.",
+      "show": "David Senra",
+      "title": "Eric Glyman, Co-founder of Ramp",
+      "published": "2026-07-12",
+      "duration": "59m",
+      "apple": "https://podcasts.apple.com/us/podcast/eric-glyman-co-founder-of-ramp/id1836497887?i=1000776445689&uo=4",
+      "page": "https://www.davidsenra.com/episode/eric-glyman",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/e0/68/b3e068a7-7911-dcb1-f36e-6c6f4fab344e/mza_16944851140969931613.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/acquired-live-from-chase-center-with-daniel-ek-emily-chang-jensen-huang-and-mark-zuckerberg",
+      "why": "A live recording featuring Jensen Huang and Mark Zuckerberg feels timely alongside today's Nvidia and AI infrastructure stories.",
+      "show": "Acquired",
+      "title": "Acquired LIVE from Chase Center (with Daniel Ek, Emily Chang, Jensen Huang and Mark Zuckerberg)",
+      "published": "2024-09-30",
+      "duration": "2h 17m",
+      "apple": "https://podcasts.apple.com/us/podcast/acquired-live-from-chase-center-with-daniel-ek-emily/id1050462261?i=1000671250518&uo=4",
+      "page": "https://www.acquired.fm/episodes/acquired-live-from-chase-center-with-daniel-ek-emily-chang-jensen-huang-and-mark-zuckerberg",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/85/0e/36/850e36fe-1216-5cd0-4b0b-a0862c48b4e5/mza_7485335520123504110.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Em-Estudio lines Mexico City bar with walls of books",
+    "url": "https://www.dezeen.com/2026/10/31/libreria-valladolid-mexico-city-bar-em-estudio",
+    "tldr": "Mexico City's vintage bookshops inspired this basement bar, lined floor to ceiling with walls of books, designed by local studio Em-Estudio in the Roma neighbourhood.",
+    "source": "Dezeen",
+    "published": "2026-10-31T18:00:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/10/libreria-valladolid_em-estudio_dezeen_sq1-1024x1024.jpg"
+  }
+}
