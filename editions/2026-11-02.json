@@ -1,0 +1,283 @@
+{
+  "date": "2026-11-02",
+  "front": [
+    {
+      "title": "Antonelli crowned F1 world champion as Verstappen wins wild Mexico City GP",
+      "url": "https://www.skysports.com/f1/news/12433/13606682/kimi-antonelli-crowned-2026-f1-world-champion-as-max-verstappen-wins-wild-mexico-city-grand-prix-from-lewis-hamilton",
+      "tldr": "Kimi Antonelli, 20, became Formula 1's youngest ever world champion at the Mexico City Grand Prix, beating Sebastian Vettel's record. Max Verstappen won the race, holding off Lewis Hamilton after Ferrari team-mates clashed on lap one.",
+      "source": "Sky Sports",
+      "published": "2026-11-01T22:36:00.000Z",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-lewis-hamilton_7394338.jpg?20261101230925"
+    },
+    {
+      "title": "Rian Johnson and his Knives Out cinematographer launch a RAW camera app for iPhone",
+      "url": "https://deadline.com/2026/11/rian-johnson-knives-out-cinematographer-curated-raw-camera-app-1237210958",
+      "tldr": "Rian Johnson has teamed up with longtime cinematographer Steve Yedlin to release Curated, an iPhone camera app that applies their Knives Out-style image processing to photos taken on the phone.",
+      "source": "Deadline",
+      "published": "2026-11-01T22:50:29.000Z",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/MCDWAUP_ZX054.jpg"
+    },
+    {
+      "title": "Here's what renoa, the first new fibre in 25 years, feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like",
+      "tldr": "Startup Everbloom has created renoa, which TechCrunch says is the first entirely new textile fibre developed in 25 years, aiming for something that feels familiar despite being novel.",
+      "source": "TechCrunch",
+      "published": "2026-11-01T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6045.jpeg?resize=1200,900"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "If in doubt, delete the uv.lock file",
+          "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first",
+          "tldr": "Simon Willison says the reliable fix for confusing Python dependency errors since switching to Python 3.15 is simply to delete the uv.lock file and let uv regenerate it.",
+          "source": "Simon Willison",
+          "published": "2026-11-01T23:24:22.000Z",
+          "image": ""
+        },
+        {
+          "title": "datasette-llm 0.1a9",
+          "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
+          "tldr": "Simon Willison released datasette-llm 0.1a9, a small usability update to the plugin behind his Datasette Agent project, ahead of bigger upgrades he says are coming.",
+          "source": "Simon Willison",
+          "published": "2026-10-31T22:10:01.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Pixel 11 Pro Fold: sturdy rectangle in a wide wide world",
+          "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world",
+          "tldr": "TechCrunch's review calls Google's Pixel 11 Pro Fold a sturdy, well-made foldable, though competition in the foldable phone category keeps getting stronger.",
+          "source": "TechCrunch",
+          "published": "2026-11-01T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Pixel-11-fold-feat.jpg?resize=1200,675"
+        },
+        {
+          "title": "Binance resumes withdrawals following $6.3 billion breach",
+          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach",
+          "tldr": "Binance has resumed withdrawals after a $6.3 billion breach, saying it has now covered 95 per cent of the stolen assets.",
+          "source": "TechCrunch",
+          "published": "2026-11-01T16:20:10.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple's HomeView ships with six-month-old software",
+          "url": "https://www.macrumors.com/2026/11/01/apple-homeview-six-month-old-software",
+          "tldr": "Apple's delayed HomeView smart home hub will ship running software that is already six months old, MacRumors reports, the latest evidence of the product's troubled rollout.",
+          "source": "MacRumors",
+          "published": "2026-11-01T15:37:07.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg"
+        },
+        {
+          "title": "Apple reveals new iPad mini's battery capacity",
+          "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh",
+          "tldr": "An EU energy label shows the new iPad mini 8 has a 4,900 mAh battery, slightly smaller than the 5,034 mAh in the previous model.",
+          "source": "MacRumors",
+          "published": "2026-10-31T14:24:08.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/iPad-mini-OLED-feature-3.jpg"
+        },
+        {
+          "title": "Apple offers steps to fix Daylight Saving Time bug on Apple Watch",
+          "url": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug",
+          "tldr": "Apple has published a support document for Apple Watch owners whose time appears an hour off after the recent Daylight Saving change, with steps to fix it.",
+          "source": "MacRumors",
+          "published": "2026-11-01T11:34:49.000Z",
+          "image": "https://images.macrumors.com/article-new/2020/09/apple-watch-series-3-design.jpg"
+        },
+        {
+          "title": "Indie app Pumpkin Lights adds a jack-o-lantern to your Mac's menu bar",
+          "url": "https://9to5mac.com/2026/10/31/pumpkin-lights-adds-a-fun-jack-o-lantern-to-your-macs-menu-bar",
+          "tldr": "9to5Mac's latest Indie App Spotlight highlights Pumpkin Lights, a small independent Mac app that drops a playful jack-o-lantern into the menu bar, the kind of tiny, well-crafted build worth noticing.",
+          "source": "9to5Mac",
+          "published": "2026-10-31T19:30:00.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/halloween.png?w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Godzilla Minus Zero' sequel crashes into Tokyo Film Festival with stars in tow",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-crashes-tokyo-film-festival-ryunosuke-kamiki-minami-hamabe-1236744328",
+          "tldr": "Takashi Yamazaki's Godzilla Minus Zero sequel played two sold-out Tokyo Film Festival screenings, with stars Ryunosuke Kamiki and Minami Hamabe in attendance, ahead of its Japanese cinema release on 3 November.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-01T08:57:37.000Z",
+          "image": ""
+        },
+        {
+          "title": "'You Can See Everything' beats 'Clayface' to capture first place at the box office",
+          "url": "https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-beats-clayface-first-place-1235224954",
+          "tldr": "A24's Elizabeth Holmes documentary You Can See Everything topped the US box office over Clayface in a quiet Halloween weekend, and has now out-earned Michael Moore's Bowling for Columbine.",
+          "source": "IndieWire",
+          "published": "2026-11-01T16:23:11.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/YCSE_NP_1.jpg?w=650"
+        },
+        {
+          "title": "Dustin Hoffman says filming 'The Graduate' was a 'terrible experience'",
+          "url": "https://variety.com/2026/film/news/dustin-hoffman-the-graduate-mike-nichols-1236937024",
+          "tldr": "Dustin Hoffman has described filming 1967's The Graduate as a terrible experience, writing that director Mike Nichols made co-star Katharine Ross slap him 27 times for one scene.",
+          "source": "Variety",
+          "published": "2026-11-02T00:34:30.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/M8DGRAD_EC005_8b5014.jpg"
+        },
+        {
+          "title": "Robert Downey Jr and Pedro Pascal swap MCU costumes for Halloween",
+          "url": "https://deadline.com/2026/10/robert-downey-jr-pedro-pascal-mcu-role-reversal-halloween-1237210827",
+          "tldr": "With under two months left before Avengers: Doomsday, Robert Downey Jr and Pedro Pascal swapped their Marvel roles for Halloween, each dressing as the other's superhero character.",
+          "source": "Deadline",
+          "published": "2026-11-01T05:35:33.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-31-at-10.24.22-PM.png"
+        },
+        {
+          "title": "Andy Weir names the one condition for writing a Project Hail Mary sequel",
+          "url": "https://www.slashfilm.com/2303088/project-hail-mary-author-andy-weir-sequel-condition",
+          "tldr": "Project Hail Mary author Andy Weir says he would write a sequel under one specific condition, though he has not revealed what that condition is in this new interview.",
+          "source": "/Film",
+          "published": "2026-11-01T21:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/author-andy-weir-will-write-a-project-hail-mary-sequel-under-one-condition-exclusive/l-intro-1793396954.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics outlast Magic, 108-97, behind 32 points from Jayson Tatum",
+          "url": "https://www.celticsblog.com/celtics-scores-results/149094/celtics-magic-recap-jayson-tatum-paul-george-neemias-queta",
+          "tldr": "The Celtics beat the Orlando Magic 108-97 on the road, with Jayson Tatum scoring 32 points despite the team shooting below 45 per cent from the floor.",
+          "source": "CelticsBlog",
+          "published": "2026-11-01T23:24:20.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2302618579.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Instant analysis from Patriots' win over Dolphins",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/142487/nfl-week-8-instant-analysis-patriots-dolphins",
+          "tldr": "The Patriots overcame a 10-point deficit to beat the Miami Dolphins 24-19 in Week 8, with Drake Maye throwing three second-half touchdowns in the comeback.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-02T01:15:16.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2303046151.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots' playoff picture after win over Dolphins in Week 8",
+          "url": "https://www.patspulpit.com/new-england-patriots-nfl-playoffs/142658/patriots-vs-dolphins-afc-east-standings-playoff-picture-nfl-week-8",
+          "tldr": "New England is now 3-0 within the AFC East after beating the Bills, Jets and Dolphins this season, strengthening its position in the division and the wider playoff race.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-02T02:14:42.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY302500751655886079.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Hunter Henry injury: Patriots TE unable to finish Dolphins game",
+          "url": "https://www.patspulpit.com/new-england-patriots-injuries/142539/hunter-henry-injury-patriots-te-leaves-dolphins-game-in-first-half",
+          "tldr": "Patriots tight end Hunter Henry left Sunday's win over the Dolphins in the second quarter with a foot injury and did not return.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-02T01:08:19.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2303035502.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Hamilton demands 'serious talks' at Ferrari after Leclerc clash in Mexico GP",
+          "url": "https://www.autosport.com/f1/news/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-clash-that-lost-us-the-win-to/10870772",
+          "tldr": "Lewis Hamilton has called for serious talks inside Ferrari after a lap-one clash with team-mate Charles Leclerc cost the team a likely one-two finish in Mexico.",
+          "source": "Autosport",
+          "published": "2026-11-01T23:14:33.000Z",
+          "image": "https://cdn-5.motorsport.com/images/amp/63QaE1D2/s6/charles-leclerc-ferrari-lewis-.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Alpine duo stripped of Mexico City GP points after post-race penalties",
+          "url": "https://www.formula1.com/en/latest/article/alpines-gasly-and-colapinto-stripped-of-mexico-city-gp-points-after-post-race-penalties.2wLfobQHufuH1L1aMYPl7h",
+          "tldr": "Alpine's Franco Colapinto and Pierre Gasly both lost their top-10 finishes in Mexico after post-race yellow-flag penalties, with Haas rookie Ryo Hirakawa inheriting points on his F1 debut.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/GettyImages-2303020664.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "2026 Mexican Grand Prix race result and championship points",
+          "url": "https://www.racefans.net/2026/11/01/2026-mexican-grand-prix-race-result-and-championship-points",
+          "tldr": "Max Verstappen won the Mexican Grand Prix for Red Bull, his third victory of the season, and moved up to second in the championship behind new title-holder Antonelli.",
+          "source": "RaceFans",
+          "published": "2026-11-01T22:30:38.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-01-21-19-39-1-SI202611010466.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Durbin, Abreu and Rafaela give Sox three Gold Glovers for first time since '18",
+          "url": "https://www.mlb.com/redsox/news/caleb-durbin-wilyer-abreu-ceddanne-rafaela-win-gold-glove-awards",
+          "tldr": "Caleb Durbin, Wilyer Abreu and Ceddanne Rafaela all won Gold Glove awards, giving the Red Sox three winners in a season for the first time since 2018.",
+          "source": "MLB.com",
+          "published": "2026-11-02T02:36:09.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1793583380/mlb/vboneshppqtuhtnqzlgv.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/ive-launched-a-podcast",
+    "why": "A look back at how Lenny launched his own podcast, a fitting read on a day full of fresh launches, from Rian Johnson's new camera app to Everbloom's new fibre.",
+    "title": "I’ve launched a podcast!",
+    "subtitle": "And the first two episodes with Julie Zhuo and Shreyas Doshi are now live!",
+    "published": "2022-06-07",
+    "words": 541,
+    "image": "https://substackcdn.com/image/fetch/$s_!obaz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3b37edcc-a067-422e-8567-603209266a64_4000x4000.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/411-tortured-into-greatness-the-life-of-andre-agassi/id1141877104?i=1000748209622&uo=4",
+      "why": "A story of total dedication to greatness, a fitting companion to today's F1 news of Kimi Antonelli becoming the sport's youngest ever champion.",
+      "show": "Founders",
+      "title": "#411 Tortured Into Greatness: The Life of Andre Agassi",
+      "published": "2026-02-04",
+      "duration": "1h 01m",
+      "apple": "https://podcasts.apple.com/us/podcast/411-tortured-into-greatness-the-life-of-andre-agassi/id1141877104?i=1000748209622&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/rafael-vivas",
+      "why": "Today's new episode follows Rafael Vivas's path from high school dropout to AppLovin co-founder and billionaire, the kind of relentless founder story this show does best.",
+      "show": "David Senra",
+      "title": "High School Dropout to Multi-Billionaire: The Relentless Drive of Rafael Vivas",
+      "published": "2026-11-01",
+      "duration": "1h 07m",
+      "apple": "https://podcasts.apple.com/us/podcast/high-school-dropout-to-multi-billionaire-the/id1836497887?i=1000799195101&uo=4",
+      "page": "https://www.davidsenra.com/episode/rafael-vivas",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/ab/fa/68abfa5e-221c-61c7-7f6b-6dd7e5629940/mza_1850583619795684727.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/microsoft-volume-ii",
+      "why": "A classic deep dive into Microsoft's rise, useful context for anyone who studies Steve Jobs and Apple's history the way this show's other episodes do.",
+      "show": "Acquired",
+      "title": "Microsoft Volume II",
+      "published": "2024-07-22",
+      "duration": "4h 42m",
+      "apple": "https://podcasts.apple.com/us/podcast/microsoft-volume-ii/id1050462261?i=1000662929328&uo=4",
+      "page": "https://www.acquired.fm/episodes/microsoft-volume-ii",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Scrapped marine rope recast as stools that rock like buoys",
+    "url": "https://www.dezeen.com/2026/11/01/buoy-stools-the-new-raw",
+    "tldr": "Rotterdam studio The New Raw has turned discarded harbour rope into stools that rock like buoys, now nominated for a Dezeen Award for turning waste into something playful.",
+    "source": "Dezeen",
+    "published": "2026-11-01T06:00:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/10/buoy-the-new-raw-stools-recycled-plastic-dezeen-awards-shortlist-2026-sq-1024x1024.jpg"
+  }
+}
