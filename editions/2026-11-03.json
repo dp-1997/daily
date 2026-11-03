@@ -1,0 +1,327 @@
+{
+  "date": "2026-11-03",
+  "front": [
+    {
+      "title": "Apple's Q4 2026 Earnings Call Takeaways",
+      "url": "https://www.macrumors.com/2026/11/02/apple-q4-2026-earnings-takeaways",
+      "tldr": "Apple posted record Q4 revenue of $114.5 billion, up 12% year on year, in John Ternus' first earnings call as chief executive. iPhone revenue grew 17.5% despite ongoing iPhone Duo shortages.",
+      "source": "MacRumors",
+      "published": "2026-11-03T00:26:58.000Z",
+      "image": "https://images.macrumors.com/article-new/2022/01/Apple-Logo-Cash-Feature-Blue.jpg"
+    },
+    {
+      "title": "Antonelli: I couldn't see through my tears on title-clinching lap",
+      "url": "https://www.skysports.com/f1/news/12433/13606689/kimi-antonelli-becomes-f1-world-champion-mercedes-driver-says-he-couldnt-see-through-his-tears-on-final-lap-of-mexico-city-gp",
+      "tldr": "Kimi Antonelli, 20, became Formula 1's youngest-ever world champion at the Mexican Grand Prix and said he was crying so hard before the finish he could barely see the track.",
+      "source": "Sky Sports",
+      "published": "2026-11-02T03:00:00.000Z",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7394475.jpg?20261102034848"
+    },
+    {
+      "title": "Readwise takes on Amazon's Kindle and Goodreads with its new app for book lovers",
+      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers",
+      "tldr": "Readwise launched Readwise Books, an e-book store and reading app combining purchases, tracking and AI features, to challenge Amazon's Kindle and Goodreads ecosystem.",
+      "source": "TechCrunch",
+      "published": "2026-11-02T17:49:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/image-6.png?resize=1200,675"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "llm 0.37",
+          "url": "https://simonwillison.net/2026/Nov/2/llm",
+          "tldr": "Simon Willison shipped version 0.37 of his open-source LLM command-line tool and Python library, adding support for new models after two months of accumulated fixes and features.",
+          "source": "Simon Willison",
+          "published": "2026-11-02T23:49:30.000Z",
+          "image": ""
+        },
+        {
+          "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+          "tldr": "Anthropic said it is nearing recursive self-improvement, the point where AI becomes skilled enough at training itself to sharply accelerate its own capabilities.",
+          "source": "TechCrunch",
+          "published": "2026-11-02T22:14:50.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600"
+        },
+        {
+          "title": "42AI comes out of stealth with $62.5M and a world model that can 'predict human behavior'",
+          "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
+          "tldr": "Startup 42AI emerged from stealth with $62.5 million in funding and a world model it says can predict human behaviour before people act.",
+          "source": "TechCrunch",
+          "published": "2026-11-02T16:30:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895"
+        },
+        {
+          "title": "Y Combinator's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+          "tldr": "Y Combinator's Garry Tan said he spends as much as $200,000 a year on AI tokens, running agents so constantly it affects his sleep.",
+          "source": "TechCrunch",
+          "published": "2026-11-03T00:35:52.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Ninja's first-ever microwave just replaced two of my kitchen appliances at once",
+          "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once",
+          "tldr": "Ninja launched its first microwave, the Crispi, pairing microwave speed with FusionCrisp technology that TechCrunch says delivers air-fryer-style crisping in one appliance.",
+          "source": "TechCrunch",
+          "published": "2026-11-02T14:42:38.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/NinjaCrispi.png?w=800"
+        },
+        {
+          "title": "Casio's new keyboard lets anyone play along to songs without ever hitting a wrong note",
+          "url": "https://www.engadget.com/2304552/casio-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note",
+          "tldr": "Casio's new keyboard uses Feel Sync technology to keep beginners in tune while they play along to songs, aiming to make learning less frustrating.",
+          "source": "Engadget",
+          "published": "2026-11-02T19:41:36.000Z",
+          "image": "https://www.engadget.com/img/gallery/casios-new-keyboard-lets-anyone-play-along-to-songs-without-ever-hitting-a-wrong-note/l-intro-1793648368.jpg"
+        },
+        {
+          "title": "This Chinese Android phone brand has launched a Harry Potter collab",
+          "url": "https://www.engadget.com/2300381/chinese-android-phone-brand-realme-harry-potter-collaboration",
+          "tldr": "Realme launched a Harry Potter-themed Android phone, with magical packaging and themed accessories designed to turn an everyday device into a collectible.",
+          "source": "Engadget",
+          "published": "2026-11-03T01:30:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/this-chinese-android-phone-brand-has-launched-a-harry-potter-collab/l-intro-1793118869.jpg"
+        },
+        {
+          "title": "Why some websites are blocking AI agents",
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web",
+          "tldr": "Some websites are blocking AI agents from browsing or buying on their behalf, limiting a tool that can otherwise make routine online tasks faster.",
+          "source": "Engadget",
+          "published": "2026-11-02T19:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/why-some-websites-are-blocking-ai-agents-from-accessing-the-web/l-intro-1792775857.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple to require 18+ age ratings for dating apps and AI romantic companions",
+          "url": "https://9to5mac.com/2026/11/02/apple-to-require-18-age-ratings-for-dating-apps-and-ai-romantic-companions",
+          "tldr": "Apple will require stricter 18+ age ratings for apps with dating, location-sharing or AI romantic companion features, starting November 16th for developers to comply.",
+          "source": "9to5Mac",
+          "published": "2026-11-03T01:28:51.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/04/app-store-connect-ios.webp?w=1600"
+        },
+        {
+          "title": "Apple spent a record $45.77 billion on R&D in fiscal 2026, up 32%",
+          "url": "https://9to5mac.com/2026/11/02/apple-spent-a-record-45-77-billion-on-rd-in-fiscal-2026-up-32",
+          "tldr": "Apple's research and development spending hit an all-time high of $45.77 billion in fiscal 2026, up 32% year over year, as its product roadmap keeps expanding.",
+          "source": "9to5Mac",
+          "published": "2026-11-02T22:16:51.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Siri Classic brings old things back to life",
+          "url": "https://sixcolors.com/post/2026/11/siri-classic-brings-old-things-back-to-life",
+          "tldr": "Six Colors explores why Apple resurrected an old-style Siri as Siri Classic, comparing it to Coca-Cola's return of its original formula after the New Coke backlash.",
+          "source": "Six Colors",
+          "published": "2026-11-02T19:00:00.000Z",
+          "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2025/06/glenn-shaferbrown.png?ssl=1&w=1380&quality=90"
+        },
+        {
+          "title": "Apple recently notified users in 99 countries of potential mercenary spyware attacks",
+          "url": "https://9to5mac.com/2026/11/02/apple-recently-notified-users-in-99-countries-of-potential-mercenary-spyware-attacks",
+          "tldr": "Apple warned users across 99 countries that they may have been targeted by mercenary spyware, as German authorities probe reports that lawmakers' phones were hacked.",
+          "source": "9to5Mac",
+          "published": "2026-11-03T02:19:39.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Trent Reznor and Atticus Ross to Score David Fincher's 'The Further Mis-Adventures of Cliff Booth'",
+          "url": "https://variety.com/2026/music/news/trent-reznor-atticus-ross-score-david-fincher-cliff-booth-1236938107",
+          "tldr": "Trent Reznor and Atticus Ross will again score a David Fincher film, teaming up for his new feature The Further Mis-Adventures of Cliff Booth.",
+          "source": "Variety",
+          "published": "2026-11-03T02:07:06.000Z",
+          "image": "https://variety.com/wp-content/uploads/2024/11/GF1_0037.jpg"
+        },
+        {
+          "title": "Neve Campbell Confirms Return for 'Scream 8'",
+          "url": "https://variety.com/2026/film/news/neve-campbell-scream-8-sidney-prescott-1236938043",
+          "tldr": "Neve Campbell confirmed she will reprise Sidney Prescott in Scream 8, returning after her character survived her latest encounter with the Ghostface killers.",
+          "source": "Variety",
+          "published": "2026-11-03T01:09:49.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/2263628431.jpg"
+        },
+        {
+          "title": "'Mouse' Review: 'Saint Frances' and 'Ghostlight' Filmmakers Bring Their Singular Humanity to a Coming-of-Age Tale",
+          "url": "https://www.indiewire.com/criticism/movies/mouse-review-kelly-osullivan-alex-thompson-1235178567",
+          "tldr": "IndieWire calls Mouse, the third collaboration between filmmakers Kelly O'Sullivan and Alex Thompson, their best yet, praising its humane take on a coming-of-age story.",
+          "source": "IndieWire",
+          "published": "2026-11-02T20:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/02/Mouse.webp?w=650"
+        },
+        {
+          "title": "Project Hail Mary Author Andy Weir Has Some Controversial Thoughts On AI",
+          "url": "https://www.slashfilm.com/2303857/project-hail-mary-author-andy-weir-controversial-ai-thoughts",
+          "tldr": "Project Hail Mary author Andy Weir says he isn't worried about AI, and shared his view on how the technology could end up being used in entertainment.",
+          "source": "/Film",
+          "published": "2026-11-02T20:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/project-hail-mary-author-andy-weir-has-some-controversial-thoughts-on-ai-exclusive/l-intro-1793630836.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Jayson Tatum named Eastern Conference Player of the Week for 14th time in career",
+          "url": "https://www.celticsblog.com/boston-celtics-news/149183/jayson-tatum-named-eastern-conference-player-of-the-week-for-14th-time-in-career",
+          "tldr": "Jayson Tatum was named Eastern Conference Player of the Week for the 14th time in his career, just two weeks into the Celtics' season.",
+          "source": "CelticsBlog",
+          "published": "2026-11-02T21:08:51.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2302321235.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Jayson Tatum shines as Celtics beat Magic, claim fifth straight win: 8 takeaways",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/01/jayson-tatum-celtics-magic-takeaways",
+          "tldr": "Tatum led the Celtics to a 108-97 road win over Orlando, their fifth straight victory, extending a strong start that follows a 4-1 October.",
+          "source": "Boston.com",
+          "published": "2026-11-02T04:15:30.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Jayson-Tatum-Celtics_Magic_Basketball_81892-6ae80bc1b19fb-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Why Drake Maye's play in Miami was his best game yet this season",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/02/drake-maye-miami-dolphins-injuries-new-england-patriots-nfl-football",
+          "tldr": "Drake Maye produced his best performance of the season in a comeback win over Miami, with teammates saying his growth this year shows in how he plays under pressure.",
+          "source": "Boston.com",
+          "published": "2026-11-02T12:38:39.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_Lee110126patsdolphins20SPTS-6ae807d56ccb2-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Game Notes: Patriots Improve to a 3-0 Record in the AFC East",
+          "url": "https://www.patriots.com/news/game-notes-patriots-improve-to-a-3-0-record-in-the-afc-east",
+          "tldr": "The Patriots beat the Dolphins 24-19 in Miami on Sunday, moving to 3-0 within the AFC East and 5-3 overall for the season.",
+          "source": "Patriots.com",
+          "published": "2026-11-02T02:10:22.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/hfkjp5oktahwsqjbhjam.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Tom Brady is set to make his return to Gillette Stadium on Sunday",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/02/tom-brady-nfl-football-new-england-patriots-fox-broadcast-booth-drake-maye",
+          "tldr": "Tom Brady will call Sunday's Patriots-Packers game for Fox from Gillette Stadium, his first time back at the ground where he won six Super Bowls.",
+          "source": "Boston.com",
+          "published": "2026-11-03T02:28:21.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Bears_Falcons_Football_75493-6ae93f82e0dab-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Lewis Hamilton goes viral after emotional moment with Peter Bonnington in Mexico",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-after-emotional-moment-with-peter-bonnington-in-mexico/10871136",
+          "tldr": "Footage of Lewis Hamilton congratulating his former race engineer Peter Bonnington, now with champion Kimi Antonelli, went viral after the Mexican Grand Prix.",
+          "source": "Motorsport.com",
+          "published": "2026-11-03T00:02:11.000Z",
+          "image": "https://cdn-5.motorsport.com/images/amp/6O7zl1N6/s6/motorsport-com-graphics-52.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "How Mercedes can win the 2026 F1 constructors' championship at the Brazilian GP",
+          "url": "https://www.motorsport.com/f1/news/how-mercedes-can-win-the-2026-f1-constructors-championship-at-the-brazilian-gp/10871090",
+          "tldr": "Mercedes can clinch the constructors' championship as early as this weekend's Brazilian Grand Prix, a week after Kimi Antonelli sealed the drivers' title in Mexico.",
+          "source": "Motorsport.com",
+          "published": "2026-11-02T17:13:41.000Z",
+          "image": "https://cdn-5.motorsport.com/images/amp/YE9EpQMY/s6/motorsport-com-graphics-48.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Hirakawa scores points on his F1 debut after both Alpine drivers are penalised",
+          "url": "https://www.racefans.net/2026/11/02/hirakawa-scores-points-on-his-f1-debut-after-both-alpine-drivers-penalised",
+          "tldr": "Ryo Hirakawa was promoted to a points finish on his Formula 1 debut after both Alpine drivers picked up penalties in Mexico.",
+          "source": "RaceFans",
+          "published": "2026-11-02T07:56:56.000Z",
+          "image": ""
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox trio of Ceddanne Rafaela, Wilyer Abreu, Caleb Durbin take home Gold Gloves",
+          "url": "https://www.overthemonster.com/red-sox-discussion/111116/red-sox-trio-of-ceddanne-rafaela-wilyer-abreu-caleb-durbin-take-home-gold-gloves",
+          "tldr": "Ceddanne Rafaela, Wilyer Abreu and Caleb Durbin each won Gold Gloves, giving the Red Sox a league-high three winners alongside the Diamondbacks.",
+          "source": "Over the Monster",
+          "published": "2026-11-02T14:24:34.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/10/gettyimages-2275350833.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "As MLB free agency begins today, here's a look at the 2026-2027 MLB Offseason Calendar",
+          "url": "https://www.overthemonster.com/mlb-news/111129/as-mlb-free-agency-begins-today-heres-a-look-at-the-2026-2027-mlb-offseason-calendar",
+          "tldr": "MLB free agency opened, giving the Red Sox their exclusive negotiating window with their own free agents five days after the World Series ended.",
+          "source": "Over the Monster",
+          "published": "2026-11-02T17:02:33.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/11/gettyimages-1369786848.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/strategy-blocks-an-operators-guide",
+    "why": "A clear framework for product strategy worth revisiting while Apple and Readwise both make deliberate strategic bets this week.",
+    "title": "Strategy Blocks: An operator’s guide to product strategy",
+    "subtitle": "Five steps to map out and build alignment around the future of your company",
+    "published": "2025-02-25",
+    "words": 4543,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2314d431-64dd-41af-9c52-905c4d5722a0_1457x1461.jpeg",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/410-excellent-advice-for-living/id1141877104?i=1000746605537&uo=4",
+      "why": "Kevin Kelly-style wisdom for a week with big calls to make, from Apple's new CEO to a 20-year-old F1 champion.",
+      "show": "Founders",
+      "title": "#410 Excellent Advice for Living",
+      "published": "2026-01-25",
+      "duration": "38m",
+      "apple": "https://podcasts.apple.com/us/podcast/410-excellent-advice-for-living/id1141877104?i=1000746605537&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/alexander-taubman",
+      "why": "A grounded look at putting AI to work outside Silicon Valley, a useful counterpoint to today's AI headlines.",
+      "show": "David Senra",
+      "title": "Bringing AI to the Real Economy | Alexander Taubman",
+      "published": "2026-09-30",
+      "duration": "1h 02m",
+      "apple": "https://podcasts.apple.com/us/podcast/bringing-ai-to-the-real-economy-alexander-taubman/id1836497887?i=1000792339679&uo=4",
+      "page": "https://www.davidsenra.com/episode/alexander-taubman",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b7/8b/f4/b78bf4a3-cd75-c821-14f9-03f630916104/mza_6264647578679601722.jpeg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=w3-nMklTFjY"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/epic-systems-mychart",
+      "why": "A deep dive into a founder-led company that built an enduring monopoly, a change of pace from today's earnings news.",
+      "show": "Acquired",
+      "title": "Epic Systems (MyChart)",
+      "published": "2025-04-21",
+      "duration": "3h 47m",
+      "apple": "https://podcasts.apple.com/us/podcast/epic-systems-mychart/id1050462261?i=1000704248986&uo=4",
+      "page": "https://www.acquired.fm/episodes/epic-systems-mychart",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c2/21/11/c22111cd-9e1c-42d6-9f8b-46255fad8040/mza_10871303946745081859.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Arkivism is a search and visual discovery engine for millions of public domain works",
+    "url": "https://kottke.org/26/11/0049915-arkivism",
+    "tldr": "Arkivism is a new search and discovery engine for millions of public-domain artworks from the Smithsonian, the Met, NASA, the Library of Congress and more.",
+    "source": "Kottke",
+    "published": "2026-11-02T21:37:00.000Z",
+    "image": ""
+  }
+}
