@@ -1,5 +1,17 @@
 [
  {
+  "id": 221810530,
+  "title": "Lenny’s Newsletter holiday gift guide 2026",
+  "subtitle": "100+ gift ideas—all things I actually use, love, and recommend",
+  "url": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
+  "date": "2026-11-03",
+  "type": "newsletter",
+  "audience": "only_paid",
+  "words": 2759,
+  "minutes": null,
+  "image": "https://substackcdn.com/image/fetch/$s_!TE3u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfde823f-2bd0-4627-ad51-72f034b11907_1456x970.png"
+ },
+ {
   "id": 219482066,
   "title": "How to tell if a startup has a moat",
   "subtitle": "A framework for assessing whether the company you’re considering joining is built to last",
@@ -322,6 +334,18 @@
   "words": 2660,
   "minutes": null,
   "image": "https://substackcdn.com/image/fetch/$s_!z9Ie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd7a56c2-5569-4009-b5f1-9236f147451c_1456x970.png"
+ },
+ {
+  "id": 170720848,
+  "title": "Why your AI product needs a different development lifecycle",
+  "subtitle": "Introducing the Continuous Calibration/Continuous Development (CC/CD) framework",
+  "url": "https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different",
+  "date": "2025-08-19",
+  "type": "newsletter",
+  "audience": "everyone",
+  "words": 4267,
+  "minutes": null,
+  "image": "https://substack-post-media.s3.amazonaws.com/public/images/3f271efb-cdc3-430d-b6f7-17af0306ce8b_1456x971.png"
  },
  {
   "id": 170398751,
