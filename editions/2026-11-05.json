@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-05",
+  "front": [
+    {
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "tldr": "OpenAI's autonomous pipeline found, validated and wrote patches for 948 local privilege-escalation vulnerabilities in the Linux kernel, a large-scale demonstration of AI-assisted security research.",
+      "source": "OpenAI",
+      "published": "2026-11-04T08:00:00.000Z",
+      "image": ""
+    },
+    {
+      "title": "Apple's fiscal 2026 in charts",
+      "url": "https://sixcolors.com/post/2026/11/apples-fiscal-2026-in-charts",
+      "tldr": "Apple closed its record fiscal 2026 with an all-time quarterly revenue high, and Six Colors charts how each product line contributed to the result.",
+      "source": "Six Colors",
+      "published": "2026-11-04T16:42:33.000Z",
+      "image": "https://mt.sixcolors.com/chart-images/8f16d3dc744f96c3a1554f15ef18808d.png?s=lY9LTsQwDIbv4i1NU6RBSJUQR2DBEs3CBHdaJrVD7AKjUe9OShCPJZssvvh_nQFVyRR6GM2S9t7r9B4kStY2yOzfkgvCRmzeRppJf_59lW7AVeLCiLkQaOAJDaE_w8tSCOV4-pUwW_s3BFOK5IaJkcOEUf2mbp9VuDgh84LxX_IqqQZrA0MZUBY-fDt8gvYgcoiEaaouQfV2wHmKp5u7RHxxj6z9ruua666DfelhlnWbtJWrS0upGuVMrLyZXokX-prvosjxEcOxnF1ewbp-AA"
+    },
+    {
+      "title": "Kimi Antonelli to honour Ayrton Senna with special helmet at Brazilian GP",
+      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-to-honour-ayrton-senna-with-special-helmet-at-brazilian-gp/10871582",
+      "tldr": "Kimi Antonelli arrives at Interlagos as 2026 world champion and will wear a helmet honouring his hero Ayrton Senna at this weekend's Brazilian Grand Prix.",
+      "source": "Motorsport.com",
+      "published": "2026-11-05T00:19:06.000Z",
+      "image": "https://cdn-5.motorsport.com/images/amp/YMXblgn2/s6/motorsport-com-graphics-55.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Meta acquires AI coding startup Conductor",
+          "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+          "tldr": "Meta has acquired Conductor, a startup that lets software engineers deploy teams of AI agents to work on different parts of a project at the same time.",
+          "source": "TechCrunch",
+          "published": "2026-11-04T21:10:56.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653"
+        },
+        {
+          "title": "OpenAI to acquire Pierre Computer Company",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "tldr": "OpenAI is acquiring Pierre Computer Company to expand Codex's tools for building, understanding and reviewing code.",
+          "source": "OpenAI",
+          "published": "2026-11-04T14:30:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Introducing Images 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "tldr": "OpenAI's Images 2.6 brings faster image generation, GIF creation, more precise editing and new API controls across ChatGPT, Codex and the API.",
+          "source": "OpenAI",
+          "published": "2026-11-04T00:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Almost no one uses AI agents to book their Uber",
+          "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+          "tldr": "During its busiest week last quarter, Uber says only four people used an AI agent to book a ride, a reality check on agentic commerce hype.",
+          "source": "TechCrunch",
+          "published": "2026-11-04T21:56:01.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Snapchat surpasses 30M paid subscribers",
+          "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers",
+          "tldr": "Snapchat has passed 30 million paid subscribers across Snapchat+ and other plans, a year after it began charging for extra Memories storage.",
+          "source": "TechCrunch",
+          "published": "2026-11-04T21:49:29.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?resize=1200,800"
+        },
+        {
+          "title": "Sequoia hits rewind, undoing 20 years of expansion",
+          "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion",
+          "tldr": "Sequoia is shrinking back to a smaller, Bay Area-centred firm, closing offices and programmes built over 20 years while raising roughly $10 billion in new funds.",
+          "source": "TechCrunch",
+          "published": "2026-11-04T17:11:15.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649"
+        },
+        {
+          "title": "Redditor uses AI to get Switch games running natively on Apple TV",
+          "url": "https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv",
+          "tldr": "A Reddit user used AI coding tools, including Claude Code, to get Nintendo Switch games such as Super Mario Odyssey running natively on the Apple TV 4K.",
+          "source": "Engadget",
+          "published": "2026-11-04T17:15:09.000Z",
+          "image": "https://www.engadget.com/img/gallery/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/l-intro-1793812470.jpg"
+        },
+        {
+          "title": "Bluetooth is going to get a lot faster in 2027",
+          "url": "https://www.engadget.com/2306723/bluetooth-is-going-to-get-a-lot-faster-in-2027",
+          "tldr": "Bluetooth's new HDT standard is set to roll out in 2027, promising a significant speed increase for headphones, speakers and other wireless devices.",
+          "source": "Engadget",
+          "published": "2026-11-04T17:14:21.000Z",
+          "image": "https://www.engadget.com/img/gallery/bluetooth-is-going-to-get-a-lot-faster-in-2027/l-intro-1793812232.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Siri AI's Evolution Is Both Surprising and Obvious",
+          "url": "https://www.macstories.net/stories/siri-ais-evolution-is-both-surprising-and-obvious",
+          "tldr": "Apple's 27.3 developer betas bring a substantial expansion of Siri AI's capabilities, and MacStories traces how the assistant's abilities have grown since the iOS 27 launch.",
+          "source": "MacStories",
+          "published": "2026-11-04T14:18:48.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/11/04/shortcut-upload-1793785592443-c3e7bd97af.png"
+        },
+        {
+          "title": "iPad Mini (A20 Pro) Review Roundup",
+          "url": "https://www.techmeme.com/261103/p15",
+          "tldr": "Early reviews of the new A20 Pro iPad Mini single out its Acoustic Display, which fires sound from the front panel rather than speaker holes, for mixed praise.",
+          "source": "Daring Fireball",
+          "published": "2026-11-03T23:45:18.000Z",
+          "image": ""
+        },
+        {
+          "title": "Apple Releases Xcode 27.3 Beta With Three New Features",
+          "url": "https://www.macrumors.com/2026/11/04/xcode-27-3-beta-new-features",
+          "tldr": "Xcode 27.3 beta adds three new features for developers, including GitHub Copilot support in Apple's built-in coding assistant and the ability to test Siri AI integration in apps.",
+          "source": "MacRumors",
+          "published": "2026-11-04T21:11:43.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/02/macOS-26-Xcode.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Pixar Names Jonathan Garson as President; Jim Morris Moves to Emeritus Role",
+          "url": "https://variety.com/2026/film/news/pixar-jim-morris-president-emeritus-jonathan-garson-president-1236939816",
+          "tldr": "Pixar is handing the presidency to Jonathan Garson, who has worked at Disney for more than 30 years, after Jim Morris's 12 years in the role.",
+          "source": "Variety",
+          "published": "2026-11-05T00:45:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/morris-garson.jpg"
+        },
+        {
+          "title": "AMC Theatres Sets All-Time Record for Quarterly Revenue",
+          "url": "https://variety.com/2026/film/box-office/amc-theatres-record-quarterly-revenue-spider-man-brand-new-day-the-odyssey-1236939750",
+          "tldr": "AMC Theatres posted record quarterly revenue of $1.71 billion, driven by the box-office success of Spider-Man: Brand New Day and The Odyssey.",
+          "source": "Variety",
+          "published": "2026-11-04T22:07:12.000Z",
+          "image": "https://variety.com/wp-content/uploads/2025/07/amc-theatres.jpg"
+        },
+        {
+          "title": "Box Office: 'Godzilla Minus Zero' to Lead With $30 Million Opening Weekend",
+          "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-estimates-cat-in-the-hat-1236938885",
+          "tldr": "Godzilla Minus Zero is on track for a $30 million opening weekend from 3,254 North American cinemas, with Cat in the Hat debuting around $20 million.",
+          "source": "Variety",
+          "published": "2026-11-04T21:12:24.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/09/MCDGOMI_EC012_8e64a0.jpg"
+        },
+        {
+          "title": "Milcho Manchevski's 'Sister Brother Manhole Cover' Wins Top Prize at Tokyo Film Fest",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/sister-brother-manhole-tokyo-film-fest-milcho-manchevski-1236748138",
+          "tldr": "Macedonian director Milcho Manchevski's Sister Brother Manhole Cover, an examination of family and the wealth gap, won the Grand Prix as the Tokyo Film Festival closed after ten days.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-05T01:07:57.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Paul George and Derrick White lead Celtics past Bucks, 109-102",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/04/paul-george-and-derrick-white-leads-celtics-past-bucks-109-102",
+          "tldr": "Paul George and Derrick White led the Celtics past the Bucks 109-102 after Boston blew a 22-point lead, with Baylor Scheierman adding nine points and 11 rebounds off the bench.",
+          "source": "Boston.com",
+          "published": "2026-11-05T03:47:50.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Bucks_Celtics_Basketball_87386-6aebfb3869cea-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "What Drake Maye, Mike Vrabel said about Tom Brady's return to Gillette Stadium",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/04/what-drake-maye-mike-vrabel-said-about-tom-bradys-return-to-gillette-stadium",
+          "tldr": "Tom Brady is returning to Gillette Stadium, and Patriots coach Mike Vrabel says he is contractually required to catch up with him at some point.",
+          "source": "Boston.com",
+          "published": "2026-11-04T22:54:09.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/GOERWG2WYFGITEZW3BCFQOAGYA-6aebb165da1fc-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "How the F1 world reacted to Charles Leclerc becoming a father",
+          "url": "https://www.motorsport.com/f1/news/how-the-f1-world-reacted-to-charles-leclerc-becoming-a-father/10871549",
+          "tldr": "Charles Leclerc and his wife Alexandra have announced the birth of their first child, a daughter named Bianca, drawing congratulations from across Formula 1.",
+          "source": "Motorsport.com",
+          "published": "2026-11-04T17:01:14.000Z",
+          "image": "https://cdn-5.motorsport.com/images/amp/0rVP81d0/s6/motorsport-com-graphics-68.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Liam Lawson's remarkable form is giving Red Bull a headache for 2027",
+          "url": "https://www.motorsport.com/f1/news/liam-lawsons-remarkable-form-is-giving-red-bull-a-headache-for-2027/10871541",
+          "tldr": "Liam Lawson has scored 83 points so far this season, nearly double Pierre Gasly's 42, making him Formula 1's standout midfield performer and a problem for Red Bull's 2027 plans.",
+          "source": "Motorsport.com",
+          "published": "2026-11-04T18:24:31.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/Y9lN4LL2/s6/liam-lawson-racing-bulls.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Mercedes to race in new suits at Brazil GP in nod to legendary era",
+          "url": "https://www.motorsport.com/f1/news/mercedes-to-race-in-new-suits-at-brazil-gp-in-nod-to-legendary-era/10871575",
+          "tldr": "Mercedes will swap their usual look for purple race suits at the Sao Paulo Grand Prix, with champion Kimi Antonelli and George Russell honouring the team's legendary era.",
+          "source": "Motorsport.com",
+          "published": "2026-11-04T23:55:57.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/YpbAzVW0/s6/motorsport-com-graphics-71.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox could add offense this offseason with Japanese Triple Crown winner",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/11/04/teruaki-sato-boston-red-sox-mlb-baseball-offseason-targets-japan",
+          "tldr": "The Red Sox are reportedly eyeing Teruaki Sato, who hit .306/.383/.609 with 40 doubles and 39 home runs in Japan last season, as an offseason target.",
+          "source": "Boston.com",
+          "published": "2026-11-05T00:08:18.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Sato_Posting_Baseball_34188-6aebc1123bf83-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/the-subscription-value-loop-a-framework",
+    "why": "Snapchat just passed 30 million paid subscribers, a good moment for this framework on building consumer subscription growth loops.",
+    "title": "The Subscription Value Loop: A framework for growing consumer subscription businesses",
+    "subtitle": "Including case studies, templates, and 10 proven growth tactics from top consumer subscription apps like Duolingo, Spotify, Tinder, and Calm",
+    "published": "2024-09-03",
+    "words": 6397,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f7432f8-a875-4420-bb1a-093a8df40287_1456x904.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/439-how-eiichiro-oda-works/id1141877104?i=1000799859746&uo=4",
+      "why": "New today: the story of One Piece creator Eiichiro Oda's single-minded devotion to his craft, a counterpoint to the day's product and launch news.",
+      "show": "Founders",
+      "title": "#439 How Eiichiro Oda Works",
+      "published": "2026-11-04",
+      "duration": "33m",
+      "apple": "https://podcasts.apple.com/us/podcast/439-how-eiichiro-oda-works/id1141877104?i=1000799859746&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/scott-kupor",
+      "why": "New today: a16z's first employee turned U.S. government HR chief on building institutions and venture lessons that still apply.",
+      "show": "David Senra",
+      "title": "a16z's First Employee on the History of a16z, Venture Capital & Fixing the Government | Scott Kupor",
+      "published": "2026-11-04",
+      "duration": "58m",
+      "apple": "https://podcasts.apple.com/us/podcast/a16zs-first-employee-on-the-history-of-a16z/id1836497887?i=1000799775972&uo=4",
+      "page": "https://www.davidsenra.com/episode/scott-kupor",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/a8/95/73a8955a-71eb-53fe-258d-020fbe9b96ad/mza_9901957986354320026.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/nintendo-the-console-wars",
+      "why": "A back-catalogue pick for today's Nintendo news, the Switch cartridge supplier's exit and a Reddit hack running Switch games on Apple TV.",
+      "show": "Acquired",
+      "title": "Nintendo: The Console Wars",
+      "published": "2023-04-11",
+      "duration": "3h 11m",
+      "apple": "https://podcasts.apple.com/us/podcast/nintendo-the-console-wars/id1050462261?i=1000608337957&uo=4",
+      "page": "https://www.acquired.fm/episodes/nintendo-the-console-wars",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Cinematography Legend Robert Richardson Answered a Film Student's Email. Their Conversation Became 'The White Devil'",
+    "url": "https://www.indiewire.com/features/interviews/robert-richardson-white-devil-documentary-jana-hojdova-1235225542",
+    "tldr": "Jana Hojdova wanted to ask Oscar-winning cinematographer Robert Richardson about his life. A pandemic correspondence and 650 hours of footage later, her documentary captures what it means to be understood.",
+    "source": "IndieWire",
+    "published": "2026-11-05T00:30:00.000Z",
+    "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RR3-Jana-and-Robert-BW.jpg?w=650"
+  }
+}
