@@ -1,0 +1,319 @@
+{
+  "date": "2026-11-06",
+  "front": [
+    {
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
+      "tldr": "Anthropic's assistant can now link bank and card accounts through Plaid to analyse spending and answer money questions, with read-only access and no ability to move funds.",
+      "source": "TechCrunch",
+      "published": "2026-11-05T18:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675"
+    },
+    {
+      "title": "New York Times in advanced talks to buy Letterboxd for $330 million",
+      "url": "https://deadline.com/2026/11/new-york-times-company-exclusive-talks-letterboxd-1237215118",
+      "tldr": "The New York Times Company is close to buying film community site Letterboxd for about $330 million, Deadline reports, with former bidder A24 now out of the running.",
+      "source": "Deadline",
+      "published": "2026-11-06T01:50:06.000Z",
+      "image": "https://deadline.com/wp-content/uploads/2022/08/letterboxd-logo-v-neg-rgb-1000px.png"
+    },
+    {
+      "title": "Celtics survive late stampede from Bucks, win 109-102",
+      "url": "https://www.celticsblog.com/celtics-scores-results/149351/boston-celtics-survive-against-milwaukee-bucks-109-102-paul-george-derrick-white-tyler-herro-joe-mazzulla",
+      "tldr": "Boston led by 22 points before Milwaukee stormed back, but Paul George and Derrick White steadied the Celtics for a 109-102 win without Jayson Tatum.",
+      "source": "CelticsBlog",
+      "published": "2026-11-05T03:07:56.000Z",
+      "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2303570969.jpg?quality=90&strip=all&crop=0,0,100,100"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Airbnb says it's launching an AI travel agent in the first half of 2027",
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
+          "tldr": "Airbnb's planned AI agent will help travellers plan trips, compare options, manage bookings and get help during their stay, with a launch targeted for early 2027.",
+          "source": "TechCrunch",
+          "published": "2026-11-05T22:40:55.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675"
+        },
+        {
+          "title": "Meta says US users can now video chat with their Muse AI avatar",
+          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+          "tldr": "Meta's Muse assistant can now take video calls as a customisable animated avatar in the US, ahead of a wearable designed to bring the character to life.",
+          "source": "TechCrunch",
+          "published": "2026-11-05T19:48:28.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+        },
+        {
+          "title": "GPT-6 Cyber: advancing the frontier of aligned cybersecurity agents",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "tldr": "OpenAI has introduced GPT-6 Cyber, a model built to find exploitable vulnerabilities and develop fixes while staying within authorised scope.",
+          "source": "OpenAI",
+          "published": "2026-11-05T09:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Axiom Math wants to keep AI slop out of mathematics",
+          "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
+          "tldr": "Startup Axiom Math had its AI agents formally verify the Stacks Project, one of the field's largest proof libraries, betting on verification over unchecked AI-generated proofs.",
+          "source": "TechCrunch",
+          "published": "2026-11-05T16:16:45.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Serve Robotics launches new business to become the AWS for robots",
+          "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots",
+          "tldr": "Alongside third-quarter earnings, Serve Robotics announced Physical AI Services, a new line offering other companies its connectivity and data tools for robots.",
+          "source": "TechCrunch",
+          "published": "2026-11-05T21:15:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800"
+        },
+        {
+          "title": "Google is ditching Firebase Studio and wants developers to use its newer AI tools instead",
+          "url": "https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead",
+          "tldr": "Google is winding down Firebase Studio and steering developers towards Antigravity and Google AI Studio instead.",
+          "source": "Engadget",
+          "published": "2026-11-05T21:01:28.000Z",
+          "image": "https://www.engadget.com/img/gallery/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead/l-intro-1793825592.jpg"
+        },
+        {
+          "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+          "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery",
+          "tldr": "Drone delivery firm Zipline raised $1.5 billion and deepened its partnership with Walmart, pushing its valuation to $21.5 billion.",
+          "source": "TechCrunch",
+          "published": "2026-11-05T15:40:34.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675"
+        },
+        {
+          "title": "The FAA is finally phasing out floppy disks from air traffic control",
+          "url": "https://www.engadget.com/2308330/the-faa-is-finally-phasing-out-floppy-disks-from-air-traffic-control",
+          "tldr": "US air traffic control is finally retiring the floppy disks it has relied on for decades, as the FAA modernises its systems.",
+          "source": "Engadget",
+          "published": "2026-11-05T19:16:43.000Z",
+          "image": "https://www.engadget.com/img/gallery/the-faa-is-finally-phasing-out-floppy-disks-from-air-traffic-control/l-intro-1793906146.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple's first touchscreen Mac is now arriving to customers",
+          "url": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers",
+          "tldr": "Customers who preordered the touchscreen MacBook Pro, OLED iPad mini, M6 MacBook Pro or M6 iMac are starting to receive them, beginning in Australia and New Zealand.",
+          "source": "MacRumors",
+          "published": "2026-11-05T23:12:36.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg"
+        },
+        {
+          "title": "Apple announces a new Mac sales record",
+          "url": "https://www.macrumors.com/2026/11/05/apple-announces-a-new-mac-sales-record",
+          "tldr": "Apple CEO John Ternus said the company sold more Macs in its 2026 fiscal year than in any previous year, on an earnings call this week.",
+          "source": "MacRumors",
+          "published": "2026-11-05T18:52:37.000Z",
+          "image": "https://images.macrumors.com/article-new/2025/10/M5-MacBook-Pro.jpg"
+        },
+        {
+          "title": "Siri AI keeps on improving",
+          "url": "https://sixcolors.com/link/2026/11/siri-ai-keeps-on-improving",
+          "tldr": "Apple's 27.3 developer betas add Siri AI features to Safari, plus a new Siri AI Developer Preview that commentator Federico Viticci examined in detail.",
+          "source": "Six Colors",
+          "published": "2026-11-05T01:12:18.000Z",
+          "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2020/06/cropped-6c-1.png?fit=240%2C240&ssl=1"
+        },
+        {
+          "title": "Apple expected to bid for F1 streaming rights in more countries, says Formula 1 CEO",
+          "url": "https://9to5mac.com/2026/11/05/apple-f1-streaming-international-countries",
+          "tldr": "Apple holds exclusive US streaming rights for Formula 1 and is reportedly set to bid for rights in more countries, F1's CEO said, after a strong first year.",
+          "source": "9to5Mac",
+          "published": "2026-11-06T00:36:46.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/f1-apple-tv-4k-multiview.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Weta FX to invest in Taiwan's Moonshine Studio under AI pact with TAICCA",
+          "url": "https://variety.com/2026/film/markets-festivals/lord-of-the-rings-avatar-vfx-team-weta-fx-back-taiwan-studio-1236941018",
+          "tldr": "The New Zealand effects house behind The Lord of the Rings and Avatar will invest in Taiwanese animation studio Moonshine, part of an AI-focused partnership with Taiwan's content agency.",
+          "source": "Variety",
+          "published": "2026-11-06T03:53:23.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/Weta-TAICCA.jpg"
+        },
+        {
+          "title": "Lionsgate greenlights John Wick animated film with Keanu Reeves",
+          "url": "https://deadline.com/2026/11/lionsgate-animated-john-wick-film-with-keanu-reaves-officially-a-go-1237214979",
+          "tldr": "Lionsgate has greenlit an animated John Wick prequel, with Keanu Reeves signing on to reprise the assassin he has played across the billion-dollar franchise.",
+          "source": "Deadline",
+          "published": "2026-11-05T22:33:12.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2025/04/MCDJOWI_LG006.jpg"
+        },
+        {
+          "title": "La Bola Negra wins Denver Film Festival's top prize",
+          "url": "https://www.indiewire.com/news/festivals/denver-film-festival-2026-award-winners-1235225777",
+          "tldr": "Netflix drama La Bola Negra won Denver Film Festival's narrative feature audience award, the latest regional festival win to boost its awards season chances.",
+          "source": "IndieWire",
+          "published": "2026-11-05T19:41:33.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDLABO_ZX008.jpg?w=650"
+        },
+        {
+          "title": "'Everytime' is Sandra Wollner's haunting portrait of grief in the digital age",
+          "url": "https://www.indiewire.com/criticism/movies/everytime-movie-review-sandra-wollner-1235215903",
+          "tldr": "IndieWire's review places Wollner's third feature, in the lineage of Aftersun and Personal Shopper, among the standout films of the decade, for how it handles mortality in an online age.",
+          "source": "IndieWire",
+          "published": "2026-11-05T20:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/08/Everytime_MainStillTheBarricadesPanamaFilm_GregoryOke.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Derrick White flipped the switch when the Celtics needed him",
+          "url": "https://www.celticsblog.com/boston-celtics-news/149392/derrick-white-celtics-bucks-paul-george",
+          "tldr": "With ice on both knees after the Bucks game, 32-year-old Derrick White explained how he found another gear once Boston's big lead started slipping away.",
+          "source": "CelticsBlog",
+          "published": "2026-11-05T14:54:03.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2302818647.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Paul George is still elite, and it's time to talk about it",
+          "url": "https://www.celticsblog.com/celtics-analysis/149342/paul-george-is-still-elite-and-its-time-to-talk-about-it",
+          "tldr": "Since joining Boston in July's trade for Jaylen Brown, Paul George has quietly played at an elite level, CelticsBlog argues, despite a rocky summer of discontent.",
+          "source": "CelticsBlog",
+          "published": "2026-11-05T12:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2303578498.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots QB Drake Maye named AFC Offensive Player of the Month",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/143107/patriots-drake-maye-afc-offensive-player-month-october",
+          "tldr": "Drake Maye earned his first AFC Offensive Player of the Month award after an October in which he completed 67.2% of his passes for New England.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-05T18:29:43.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2302261608.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "A.J. Brown's knee injury 'raises some concerns' about Patriots future",
+          "url": "https://www.patspulpit.com/new-england-patriots-rumors/143097/aj-brown-knee-injury-concerns-future",
+          "tldr": "Analyst Adam Schefter said A.J. Brown's knee raises concerns about how much longer he can play at a high level, a worry given the first and fourth-round picks New England traded for him.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-05T21:40:44.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2301227074.jpg?quality=90&strip=all&crop=0,5.1168546133371,100,89.435849891393"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Bill Belichick, Robert Kraft advance in Pro Football Hall of Fame Class of 2027 selection process",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/05/bill-belichick-robert-kraft-advance-in-pro-football-hall-of-fame-class-of-2027-selection-process",
+          "tldr": "Patriots legends Bill Belichick and Robert Kraft are among 15 candidates still in contention for the Pro Football Hall of Fame's Class of 2027.",
+          "source": "Boston.com",
+          "published": "2026-11-05T22:14:29.000Z",
+          "image": "https://www.boston.com/wp-content/themes/bdc-2020/assets/images/feed-placeholder.png"
+        },
+        {
+          "tag": "F1",
+          "title": "1980 F1 world champion Alan Jones dies aged 80",
+          "url": "https://www.autosport.com/f1/news/1980-f1-world-champion-alan-jones-dies-aged-80/10871644",
+          "tldr": "Alan Jones, the first driver to win a world title for Williams, has died aged 80 after a short illness, having won the 1980 championship.",
+          "source": "Autosport",
+          "published": "2026-11-05T08:58:53.000Z",
+          "image": "https://cdn-4.motorsport.com/images/amp/6zQ9lGlY/s6/alan-jones-williams-fw07b-ford-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Kimi Antonelli opens up on 'very emotional' visit to Ayrton Senna's family estate",
+          "url": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-very-emotional-visit-to-ayrton-sennas-family-estate/10871927",
+          "tldr": "New champion Kimi Antonelli described visiting Ayrton Senna's family home, Fazenda Dois Lagos, ahead of this weekend's Brazilian Grand Prix, calling the trip very emotional.",
+          "source": "Motorsport.com",
+          "published": "2026-11-05T21:43:40.000Z",
+          "image": "https://cdn-6.motorsport.com/images/amp/YvKBDzn6/s6/motorsport-com-graphics-61.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "How Mercedes can win the F1 world constructors' title in Brazil",
+          "url": "https://www.autosport.com/f1/news/how-mercedes-can-win-the-f1-world-constructors-title-in-brazil/10871661",
+          "tldr": "Mercedes can claim a ninth constructors' championship in Brazil after Kimi Antonelli's title win in Mexico, having taken 12 of the last 19 titles on offer.",
+          "source": "Autosport",
+          "published": "2026-11-05T09:52:25.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/2GdKZbEY/s6/george-russell-mercedes-andrea-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Contreras and Abreu hope to win Silver Slugger for the first time",
+          "url": "https://www.mlb.com/redsox/news/2026-silver-slugger-award-finalists",
+          "tldr": "Two Red Sox hitters, Contreras and Abreu, are finalists for this year's Silver Slugger awards, each hoping to win it for the first time.",
+          "source": "MLB.com",
+          "published": "2026-11-05T16:13:03.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/wv5gzxiistlapslthvqo.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/why-your-ai-product-needs-a-different",
+    "why": "A framework for continuously calibrating AI products, worth revisiting as Claude, Airbnb and Meta all push new AI agents into the world this week.",
+    "title": "Why your AI product needs a different development lifecycle",
+    "subtitle": "Introducing the Continuous Calibration/Continuous Development (CC/CD) framework",
+    "published": "2025-08-19",
+    "words": 4267,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/3f271efb-cdc3-430d-b6f7-17af0306ce8b_1456x971.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/436-ari-emanuels-autobiography/id1141877104?i=1000793225392&uo=4",
+      "why": "A look at how WME and TKO's Ari Emanuel built an entertainment empire through relentless dealmaking, fitting with today's Hollywood news.",
+      "show": "Founders",
+      "title": "#436 Ari Emanuel's Autobiography",
+      "published": "2026-10-05",
+      "duration": "1h 10m",
+      "apple": "https://podcasts.apple.com/us/podcast/436-ari-emanuels-autobiography/id1141877104?i=1000793225392&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/sam-altman",
+      "why": "Timely given today's wave of OpenAI news, tracing how Altman grew the company from a research lab into an IPO contender.",
+      "show": "David Senra",
+      "title": "Sam Altman on Building OpenAI & Betting on the Impossible",
+      "published": "2026-08-23",
+      "duration": "1h 18m",
+      "apple": "https://podcasts.apple.com/us/podcast/sam-altman-on-building-openai-betting-on-the-impossible/id1836497887?i=1000785201420&uo=4",
+      "page": "https://www.davidsenra.com/episode/sam-altman",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/37/bc/e137bcb2-8dcc-f672-326f-35291e532ea9/mza_15456070769090341917.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=kG8AoExkX40"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/disney-the-renaissance-and-the-empire",
+      "why": "A deep dive into the Disney renaissance, for Damian's ongoing study of how the studio keeps reinventing itself.",
+      "show": "Acquired",
+      "title": "Disney: The Renaissance and the Empire",
+      "published": "2026-08-10",
+      "duration": "4h 33m",
+      "apple": "https://podcasts.apple.com/us/podcast/disney-the-renaissance-and-the-empire/id1050462261?i=1000781367915&uo=4",
+      "page": "https://www.acquired.fm/episodes/disney-the-renaissance-and-the-empire",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/47/b2/98/47b298fb-43e6-0472-a780-ea357b41f8d0/mza_16422622195578935624.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=01QR2tmxSD4"
+    }
+  ],
+  "finally": {
+    "title": "An animated film made in Excel sums up the pointless impulse to create",
+    "url": "https://www.thisiscolossal.com/2026/11/maria-tomazou-i-made-a-film-in-excel",
+    "tldr": "Artist Maria Tomazou made an animated short entirely inside Microsoft Excel, a reminder that something worth making doesn't need a practical purpose.",
+    "source": "Colossal",
+    "published": "2026-11-05T19:25:40.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/excel-1-768x431.gif"
+  }
+}
