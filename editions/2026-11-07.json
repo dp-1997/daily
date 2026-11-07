@@ -1,0 +1,298 @@
+{
+  "date": "2026-11-07",
+  "front": [
+    {
+      "title": "Hands-On With Apple's New OLED Touchscreen MacBook Pro",
+      "url": "https://www.macrumors.com/2026/11/06/oled-macbook-pro-hands-on",
+      "tldr": "Apple's first touchscreen MacBook Pro, with a PROLED OLED display, has reached customers. Early hands-on impressions from MacRumors focus on the screen and what touch finally adds to the Mac.",
+      "source": "MacRumors",
+      "published": "2026-11-06T23:46:57.000Z",
+      "image": "https://images.macrumors.com/t/7q4QqphUJThOhCQ98BeO_58HXAE=/1920x/article-new/2026/11/MacBook-Pro-with-PROLED-XDR-Display-First-Impressions-Thumb.jpg"
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "tldr": "OpenAI is reported to have raised a further $11 billion, in a round that has not yet closed, valuing the company at $1.25 trillion.",
+      "source": "TechCrunch",
+      "published": "2026-11-06T22:53:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
+    },
+    {
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million",
+      "tldr": "Letterboxd, the social app beloved by film fans, is reportedly in talks to be bought by The New York Times for $330 million. The platform has grown fast in recent years.",
+      "source": "TechCrunch",
+      "published": "2026-11-06T00:07:18.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198481572_7937f4.jpg?resize=1200,800"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+          "tldr": "Meta has introduced Spaces, a new way to collaborate with its Muse AI agents, the latest in a steady stream of updates to the assistant.",
+          "source": "TechCrunch",
+          "published": "2026-11-06T18:44:20.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+        },
+        {
+          "title": "Underdog shows off a 32MB speech model in new demo",
+          "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo",
+          "tldr": "Startup Underdog has demoed a speech model just 32 megabytes in size that can generate both speech and music, a notably compact footprint for the task.",
+          "source": "TechCrunch",
+          "published": "2026-11-06T13:02:16.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
+        },
+        {
+          "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+          "tldr": "Ramp data shows AI usage still climbing but spending levelling off, as price cuts and tighter cost control take hold just as Anthropic nears an IPO.",
+          "source": "TechCrunch",
+          "published": "2026-11-06T15:54:47.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779"
+        },
+        {
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "tldr": "OpenAI has released BioBasicsBench, a 100-task benchmark testing how well AI agents interpret raw experimental data and handle everyday wet-lab science tasks.",
+          "source": "OpenAI",
+          "published": "2026-11-06T00:00:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Google's eyewear partners can't keep a lid on its smart glasses plans",
+          "url": "https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans",
+          "tldr": "Gentle Monster, one of Google's smart glasses partners, says its Intelligent Eyewear line opens for pre-order on 12 November, another sign of Google's glasses push taking shape.",
+          "source": "Engadget",
+          "published": "2026-11-06T19:45:23.000Z",
+          "image": "https://www.engadget.com/img/gallery/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/l-intro-1793994268.jpg"
+        },
+        {
+          "title": "Google's Find Hub can finally notify you if you've left a tracker behind",
+          "url": "https://www.engadget.com/2308903/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind",
+          "tldr": "Google's Find Hub can now warn you if you have left a Bluetooth tracker behind, rolling out a separation alert feature to help recover lost items.",
+          "source": "Engadget",
+          "published": "2026-11-06T13:05:16.000Z",
+          "image": "https://www.engadget.com/img/gallery/googles-find-hub-can-finally-notify-you-if-youve-left-a-tracker-behind/l-intro-1793970258.jpg"
+        },
+        {
+          "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
+          "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory",
+          "tldr": "The Pentagon has conditionally approved a $250 million loan for battery startup 6K to scale up its microwave-plasma manufacturing process at a new US factory.",
+          "source": "TechCrunch",
+          "published": "2026-11-06T16:50:01.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742"
+        },
+        {
+          "title": "Eufy's clever outdoor security camera that lives inside is now available to buy",
+          "url": "https://www.engadget.com/2309176/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy",
+          "tldr": "Eufy's new $80 Window Camera E10 is an outdoor security camera that sticks to the inside of a window, facing out, and is now on sale.",
+          "source": "Engadget",
+          "published": "2026-11-06T16:16:20.000Z",
+          "image": "https://www.engadget.com/img/gallery/eufys-clever-outdoor-security-camera-that-lives-inside-is-now-available-to-buy/l-intro-1793981717.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "iPhone Duo: The apps are coming",
+          "url": "https://sixcolors.com/post/2026/11/iphone-duo-the-apps-are-coming",
+          "tldr": "Two weeks into using the iPhone Duo as both phone and tablet, Six Colors' Jason Snell finds developers increasingly building apps that take advantage of the split-screen form factor.",
+          "source": "Six Colors",
+          "published": "2026-11-06T22:59:50.000Z",
+          "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/11/apps-duo-6c.png?ssl=1&w=1380&quality=90"
+        },
+        {
+          "title": "Touch and Glow",
+          "url": "https://daringfireball.net/2026/11/touch_and_glow",
+          "tldr": "John Gruber reflects on Apple's 'Pro and Tell' event, the new PROLED XDR MacBook Pros, and what they say about the state of the Mac platform.",
+          "source": "Daring Fireball",
+          "published": "2026-11-06T19:50:46.000Z",
+          "image": "https://daringfireball.net/misc/2026/11/pro-and-tell-hands-on-scrum.jpeg"
+        },
+        {
+          "title": "watchOS 27.3 adds new Apple Watch feature that I absolutely love",
+          "url": "https://9to5mac.com/2026/11/06/watchos-27-3-adds-new-apple-watch-feature-that-i-absolutely-love",
+          "tldr": "watchOS 27.3, out in beta this week alongside iOS 27.3, adds Siri Recap to the latest Apple Watch models, a feature 9to5Mac is already finding useful.",
+          "source": "9to5Mac",
+          "published": "2026-11-06T21:05:28.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/watchos-27-watch-face-red.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Notes from Apple's Siri AI Labs: Schemas, Tools, and Skills",
+          "url": "https://www.macstories.net/stories/notes-from-apples-siri-ai-labs-schemas-tools-and-skills",
+          "tldr": "MacStories attended Apple's online Apple Intelligence Group Lab this week, where most of the session focused on Siri's underlying schemas, tools and skills, largely mirroring Apple's own developer documentation.",
+          "source": "MacStories",
+          "published": "2026-11-06T21:59:44.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/11/06/image-nov-6-2026-04-20-56-pm-1794000100215-0bf7bf59ce.png"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Robert Pattinson And Nicholas Hoult Round Out 'James Bond' Screen Tests",
+          "url": "https://deadline.com/2026/11/robert-pattinson-nicholas-hoult-james-bond-1237216183",
+          "tldr": "Robert Pattinson and Nicholas Hoult have reportedly screen-tested for James Bond with director Denis Villeneuve, Deadline reports, though no casting has been confirmed.",
+          "source": "Deadline",
+          "published": "2026-11-07T03:33:58.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/split-image-1500-1.jpg"
+        },
+        {
+          "title": "Godzilla Minus Zero's King Ghidorah Has One Scene That Was 55 Years In The Making",
+          "url": "https://www.slashfilm.com/2309951/godzilla-minus-zero-king-ghidorah-scene-matsumoto-55-years",
+          "tldr": "Godzilla Minus Zero's director had one King Ghidorah scene in mind for decades; the new film finally let him realise it.",
+          "source": "/Film",
+          "published": "2026-11-06T22:47:18.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/godzilla-minus-zeros-king-ghidorah-has-one-scene-that-was-55-years-in-the-making/l-intro-1794004559.jpg"
+        },
+        {
+          "title": "Idris Elba To Star In & Direct Action-Comedy 'In Laws'",
+          "url": "https://deadline.com/2026/11/idris-elba-to-star-in-direct-action-comedy-in-laws-1237216006",
+          "tldr": "Idris Elba is set to star in and direct the action-comedy In Laws, with sales launching ahead of the American Film Market, Deadline reports.",
+          "source": "Deadline",
+          "published": "2026-11-06T22:15:42.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/idris-elba.jpg"
+        },
+        {
+          "title": "'Godzilla Minus Zero' Roars With $6.7M in Box Office Previews Ahead of Face-Off With 'Cat in the Hat'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-previews-the-cat-in-the-hat-1236749470",
+          "tldr": "Godzilla Minus Zero took $6.7 million in US box office previews, The Hollywood Reporter says, putting it on course to lead a weekend that also includes Wild Horse Nine and Ramayana: Rise of a Legend.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-06T19:06:30.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics brutalize injury-riddled Hornets 119-80 for 2nd NBA Cup win",
+          "url": "https://www.celticsblog.com/celtics-scores-results/149547/celtics-brutalize-injury-riddled-hornets-119-80-for-2nd-nba-cup-win",
+          "tldr": "Jayson Tatum scored 34 points, 24 of them before half-time, as the Celtics beat an injury-hit Hornets side 119-80 for their second NBA Cup win.",
+          "source": "CelticsBlog",
+          "published": "2026-11-07T02:26:01.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2303401807.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Rob Gronkowski Induction Ceremony to be Held on Saturday, November 7",
+          "url": "https://www.patriots.com/news/rob-gronkowski-induction-ceremony-to-be-held-on-saturday-november-7",
+          "tldr": "Rob Gronkowski is inducted into the Patriots Hall of Fame today at 1pm at Patriot Place Plaza, with the ceremony streamed live on Patriots.com.",
+          "source": "Patriots.com",
+          "published": "2026-11-06T16:48:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/fbooufiozgmgntjfeqfe.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Drake Maye's early-season turnaround earns him October honors",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/143149/drake-mayes-early-season-turnaround-earns-him-october-honors",
+          "tldr": "Drake Maye was named AFC Offensive Player of the Month for October after leading the Patriots to a 3-1 record while completing 67.2% of his passes.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-06T11:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2303151791.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Kimi Antonelli reveals special gifts from Ayrton Senna's family ahead of F1 Brazilian GP",
+          "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-special-gifts-from-ayrton-sennas-family-ahead-of-f1-brazilian-gp/10872198",
+          "tldr": "New F1 champion Kimi Antonelli has revealed gifts he received from Ayrton Senna's family after visiting their estate ahead of this weekend's Brazilian Grand Prix.",
+          "source": "Motorsport.com",
+          "published": "2026-11-06T19:00:02.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/YXyKloK6/s6/motorsport-com-graphics-66.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Herta finally clears his last F1 superlicence hurdle",
+          "url": "https://www.the-race.com/formula-1/herta-finally-clears-his-last-f1-superlicence-hurdle",
+          "tldr": "Colton Herta has cleared the final hurdle for his F1 superlicence, completing a penalty-free Friday practice session for Cadillac at the Brazilian Grand Prix.",
+          "source": "The Race",
+          "published": "2026-11-07T00:21:51.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452206_HiRes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Camara reflects on 'very special' F1 weekend debut",
+          "url": "https://www.formula1.com/en/latest/article/camara-reflects-on-very-special-first-f1-outing-as-he-gears-up-for-haas-debut-in-sao-paulo.7FQp0PWMq4lsDsDAoosi4t",
+          "tldr": "Rafael Camara reflects on his first outing in a 2026 F1 car as he prepares for his debut Grand Prix with Haas in Brazil this weekend.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Sao%20Paulo%20(Brazil)/GettyImages-2303855083.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Watch Red Sox prospect Anderson in Saturday's AFL Home Run Derby",
+          "url": "https://www.mlb.com/redsox/news/2026-arizona-fall-league-home-run-derby",
+          "tldr": "Red Sox prospect Anderson takes part in Saturday's Arizona Fall League Home Run Derby, MLB.com previews.",
+          "source": "MLB.com",
+          "published": "2026-11-06T23:59:10.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/nnl3r0bnsvqmqa8hzsd1.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/magical-growth-loops",
+    "why": "Apple says the iPhone Duo has already reached 100,000 optimised apps two weeks after launch, a reminder of how fast the right growth loop compounds.",
+    "title": "Magical growth loops",
+    "published": "2020-11-17",
+    "words": 1612,
+    "image": "https://cdn.substack.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc24de615-f021-4c53-a9c3-f2792c424750_2400x1350.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/390-rare-steve-jobs-interview/id1141877104?i=1000711166034&uo=4",
+      "why": "Apple's new touchscreen MacBook Pro lands this week; this decades-old interview captures a 29-year-old Jobs making the case for the personal computer as humanity's greatest tool.",
+      "show": "Founders",
+      "title": "#390 Rare Steve Jobs Interview",
+      "published": "2025-06-04",
+      "duration": "41m",
+      "apple": "https://podcasts.apple.com/us/podcast/390-rare-steve-jobs-interview/id1141877104?i=1000711166034&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/jeremy-stern",
+      "why": "With OpenAI reportedly raising another $11 billion, this profile of how Zuckerberg, Palmer Luckey, Josh Kushner and Scott Wu think is a useful look at how today's AI fortunes get built.",
+      "show": "David Senra",
+      "title": "How Mark Zuckerberg, Palmer Luckey, Josh Kushner & Scott Wu Think | Jeremy Stern",
+      "published": "2026-10-04",
+      "duration": "1h 08m",
+      "apple": "https://podcasts.apple.com/us/podcast/how-mark-zuckerberg-palmer-luckey-josh-kushner-scott/id1836497887?i=1000793064145&uo=4",
+      "page": "https://www.davidsenra.com/episode/jeremy-stern",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/39/28/923928c5-4713-5e34-fc52-1355cd98fae1/mza_12926593244052744497.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=cvmgnpxr-Lk"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/ferrari",
+      "why": "Ferrari's Hamilton-Leclerc fallout is still dominating F1 headlines into this weekend's Brazilian GP, making this the week for Acquired's deep dive on the team's history.",
+      "show": "Acquired",
+      "title": "Ferrari",
+      "published": "2026-04-13",
+      "duration": "3h 52m",
+      "apple": "https://podcasts.apple.com/us/podcast/ferrari/id1050462261?i=1000761027849&uo=4",
+      "page": "https://www.acquired.fm/episodes/ferrari",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/7a/34/157a34e3-d93a-c379-71a9-5ea867627df1/mza_11606811380157897165.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "They found a chunk of Mars in the Sahara Desert",
+    "url": "https://kottke.org/26/11/0049945-they-found-a-chunk-of-mar",
+    "tldr": "A meteorite found a few years ago in Mali has been dated at more than 4.1 billion years old, with a mix of igneous minerals that tells part of Mars's early story.",
+    "source": "Kottke",
+    "published": "2026-11-06T22:00:00.000Z",
+    "image": ""
+  }
+}
