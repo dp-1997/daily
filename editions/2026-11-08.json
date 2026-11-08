@@ -1,0 +1,251 @@
+{
+  "date": "2026-11-08",
+  "note": "The Patriots host the Packers at Gillette Stadium today, and a rain-mixed grid lines up for the Brazilian Grand Prix this afternoon.",
+  "front": [
+    {
+      "title": "Christopher Nolan says the DGA is holding studios to account on AI, after anti-AI language in The Odyssey",
+      "url": "https://deadline.com/2026/11/christopher-nolan-dga-holding-studios-account-protecting-ai-1237216368",
+      "tldr": "Christopher Nolan, now DGA president, says he is pushing studios to protect copyrighted work from AI, and included anti-AI boilerplate in contracts for The Odyssey.",
+      "source": "Deadline",
+      "published": "2026-11-07T23:40:57.000Z",
+      "image": "https://deadline.com/wp-content/uploads/2026/11/P1162THW-e1794093819243.jpg"
+    },
+    {
+      "title": "Rian Johnson's new Chromagraph camera app reimagines iPhone photography",
+      "url": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone",
+      "tldr": "Director Rian Johnson has released Chromagraph, a new iPhone camera app that rethinks how smartphone photos should look, rather than chasing realism.",
+      "source": "9to5Mac",
+      "published": "2026-11-07T22:30:00.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/rian-camera-app.jpg?quality=82&strip=all&w=1500"
+    },
+    {
+      "title": "Rob Gronkowski's Patriots Hall of Fame induction featured jokes and an appearance from Tom Brady",
+      "url": "https://www.boston.com/sports/new-england-patriots/2026/11/07/rob-gronkowski-patriots-hall-of-fame-induction",
+      "tldr": "Gronkowski was inducted into the Patriots Hall of Fame, with Tom Brady appearing and Matt Light gifting him a T-shirt reading \"Yo soy Hall of Famer.\"",
+      "source": "Boston.com",
+      "published": "2026-11-07T23:58:04.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/11/6NVRK7JUYI64HKTXMG2BSL4YJA-6aefba1588956-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": []
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Parents want safer phones for kids. These companies are answering the call.",
+          "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call",
+          "tldr": "A growing number of companies are building phones designed for children, from feature-limited mobile devices to minimalist home phones, as parents look beyond unrestricted smartphones.",
+          "source": "TechCrunch",
+          "published": "2026-11-07T19:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800"
+        },
+        {
+          "title": "Amazon's redesigned basic Kindle skips extras for a lighter build and better screen",
+          "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles",
+          "tldr": "Amazon's redesigned basic Kindle costs more than before, but a lighter build and improved display make it a strong case against the pricier models.",
+          "source": "TechCrunch",
+          "published": "2026-11-07T17:18:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3861.jpeg?resize=1200,900"
+        },
+        {
+          "title": "Claude Personal Finance vs. ChatGPT Finances: what sets them apart",
+          "url": "https://www.engadget.com/2310182/claude-vs-chatgpt-personal-finance-comparison",
+          "tldr": "Both Claude and ChatGPT now offer to dig deep into your bank accounts, but the two tools differ in how they handle privacy settings.",
+          "source": "Engadget",
+          "published": "2026-11-07T23:10:20.000Z",
+          "image": "https://www.engadget.com/img/gallery/claude-personal-finance-vs-chatgpt-finances-what-sets-them-apart/l-intro-1794083241.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "'Backglow' lets you customise the new MacBook Pro's glowing Apple logo",
+          "url": "https://www.macrumors.com/2026/11/07/backglow-customize-macbook-pro-apple-logo",
+          "tldr": "A new free app called Backglow, built by designer Juan Buis, lets owners of the new MacBook Pro customise the colour of its illuminated Apple logo.",
+          "source": "MacRumors",
+          "published": "2026-11-07T20:44:15.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Glowing-Apple-Logo.jpg"
+        },
+        {
+          "title": "Indie App Spotlight: 'CueFlip' automatically turns the page for your sheet music",
+          "url": "https://9to5mac.com/2026/11/07/indie-app-spotlight-cueflip-automatically-turns-the-page-for-your-sheet-music",
+          "tldr": "CueFlip is a new indie iPhone app that automatically turns the page for musicians reading sheet music, freeing up their hands while they play.",
+          "source": "9to5Mac",
+          "published": "2026-11-07T20:30:00.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/CueFlip.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Mac admins are shipping AI-written code with mistakes, and fixing them is taking days",
+          "url": "https://9to5mac.com/2026/11/07/mac-admins-are-shipping-ai-written-code-in-seconds-but-undoing-them-is-taking-days",
+          "tldr": "A new report finds Mac admins are increasingly shipping AI-generated code that contains mistakes, and that undoing those errors is now taking days rather than minutes.",
+          "source": "9to5Mac",
+          "published": "2026-11-07T14:06:00.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Camerimage founder Marek Zydowicz on AI, Aronofsky and why cinematographers are artists, not technicians",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-founder-marek-zydowicz-ai-aronofsky-cinematographers-1236749343",
+          "tldr": "As Camerimage turns 34, festival founder Marek Zydowicz explains how it embraces new technology while drawing a line at fully AI-generated films, insisting cinematographers are artists, not technicians.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-08T00:11:43.000Z",
+          "image": ""
+        },
+        {
+          "title": "AI could make filmmaking costlier than the 35mm era, Korean pioneers warn",
+          "url": "https://variety.com/2026/film/markets-festivals/ai-films-costlier-35mm-era-korean-pioneers-warn-1236942217",
+          "tldr": "AI is cutting the cost of commercials, but a Korean AI production pioneer warns that runaway token fees and endless revisions could leave feature producers paying more than in the 35mm era.",
+          "source": "Variety",
+          "published": "2026-11-08T00:27:50.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/Korea-AI-panel-TCCF.jpg"
+        },
+        {
+          "title": "'Godzilla Minus Zero' heads for a historic $32M box office opening",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019",
+          "tldr": "Godzilla Minus Zero, the sequel to 2023's Godzilla Minus One, is on course for a historic $32 million opening weekend, with Cat in the Hat debuting at number two.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-07T16:43:46.000Z",
+          "image": ""
+        },
+        {
+          "title": "Papua New Guinea's most expensive film, 'Mussau: The First Song,' wraps shoot",
+          "url": "https://variety.com/2026/film/news/papua-new-guinea-most-expensive-film-mussau-first-song-wraps-1236942202",
+          "tldr": "Mussau: The First Song, Papua New Guinea's most expensive film at $4.5 million, has wrapped its 40-day shoot across two provinces for a historical drama.",
+          "source": "Variety",
+          "published": "2026-11-07T23:58:45.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/Mussau-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics' beatdown of Hornets all but guarantees that they'll advance in the NBA Cup",
+          "url": "https://www.celticsblog.com/celtics-analysis/149595/celtics-beatdown-of-hornets-all-but-guarantees-that-theyll-advance-in-the-nba-cup",
+          "tldr": "Boston's blowout win over Charlotte has all but secured their advance in the NBA Cup, after taking an early lead and never letting the Hornets back into the game.",
+          "source": "CelticsBlog",
+          "published": "2026-11-07T11:53:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2303409149.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Former Celtic Kristaps Porzingis 'stepping away' from basketball amid health issues",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/06/nba-news-celtics-champion-kristaps-porzingis-stepping-away-from-basketball",
+          "tldr": "Kristaps Porzingis is stepping away from basketball because of ongoing health issues, having battled POTS since the end of his Celtics tenure in 2024.",
+          "source": "Boston.com",
+          "published": "2026-11-07T00:33:23.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN031826Celtics-Warriors_SPT4-6aee6e1659c54-scaled-e1794010679941-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots activate WR Mack Hollins to the 53-man roster",
+          "url": "https://www.patriots.com/news/patriots-activate-wr-mack-hollins-to-the-53-man-roster",
+          "tldr": "The Patriots have activated wide receiver Mack Hollins from injured reserve to the 53-man roster, in time for Sunday's game against the Packers at Gillette Stadium.",
+          "source": "Patriots.com",
+          "published": "2026-11-07T21:00:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/gnatzcpqynoo5s2umeal.png"
+        },
+        {
+          "tag": "Patriots",
+          "title": "On Sunday at Gillette Stadium, Tom Brady will arrive at the top of his broadcasting game",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/07/tom-brady-fox-sports-media-patriots",
+          "tldr": "Tom Brady returns to Gillette Stadium on Sunday for Fox's broadcast, where he has become excellent company after working out what his strength as an analyst really is.",
+          "source": "Boston.com",
+          "published": "2026-11-07T23:34:12.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/ZCNPMN5I43BQXTFC5OCJ5JWNSE-6aefb40e9255b-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Norris on Brazilian GP pole as Russell rages at Mercedes over aborted lap",
+          "url": "https://www.the-race.com/formula-1/norris-on-brazilian-gp-pole-as-russell-rages-at-mercedes-over-aborted-lap",
+          "tldr": "Lando Norris took a stunning pole position for the Brazilian Grand Prix at a rain-soaked Interlagos, while George Russell felt Mercedes had cost him a shot at pole.",
+          "source": "The Race",
+          "published": "2026-11-07T20:48:57.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1452772_HiRes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Hamilton insists Ferrari tensions with Leclerc are over: 'We've squashed it'",
+          "url": "https://www.motorsport.com/f1/news/lewis-hamilton-insists-ferrari-tensions-with-charles-leclerc-are-over-weve-squashed-it/10872756",
+          "tldr": "Lewis Hamilton says he and Ferrari teammate Charles Leclerc have cleared the air over their Mexico City clash after talks in Brazil, calling the tension squashed.",
+          "source": "Motorsport.com",
+          "published": "2026-11-07T21:45:25.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/0Zq8lQ56/s6/charles-leclerc-ferrari-lewis-.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "What to watch for in the Sao Paulo Grand Prix at Interlagos",
+          "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-sao-paulo-grand-prix-at-interlagos.01wpd3EFVTEsOYLLkP6HyD",
+          "tldr": "Chris Medland previews five things to watch when the lights go out for today's Sao Paulo Grand Prix at the Autodromo Jose Carlos Pace.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9South/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Sao%20Paulo%20(Brazil)/GettyImages-2303867908.webp"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-perplexity-builds-product",
+    "why": "A product-building piece in the vein of the ones you've liked before, and timely given today's AI and data centre stories.",
+    "title": "How Perplexity builds product",
+    "subtitle": "Johnny Ho, co-founder and head of product, explains how he organizes his teams like slime mold, uses AI to build their AI company, and much more",
+    "published": "2024-04-30",
+    "words": 3185,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc79f69d5-7443-4c73-870c-ab2fdf76c24c_2048x1365.webp",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/417-arnold-schwarzenegger/id1141877104?i=1000762241588&uo=4",
+      "why": "Ties to today's film news about Stallone and Schwarzenegger's long rivalry.",
+      "show": "Founders",
+      "title": "#417 Arnold Schwarzenegger",
+      "published": "2026-04-19",
+      "duration": "44m",
+      "apple": "https://podcasts.apple.com/us/podcast/417-arnold-schwarzenegger/id1141877104?i=1000762241588&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/ari-emanuel",
+      "why": "Emanuel's WME and TKO story connects to today's Hollywood business news, from AFM deals to Netflix's studio ambitions.",
+      "show": "David Senra",
+      "title": "Channeling Rage, Rolling Calls & Building an Entertainment Empire | Ari Emanuel, WME & TKO",
+      "published": "2026-10-07",
+      "duration": "1h 24m",
+      "apple": "https://podcasts.apple.com/us/podcast/channeling-rage-rolling-calls-building-an/id1836497887?i=1000793617594&uo=4",
+      "page": "https://www.davidsenra.com/episode/ari-emanuel",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/14/ad/5214adeb-243b-99ee-e4b8-02dc71b83fa5/mza_14154378253608877425.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=QeolP6gwSb4"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/formula-1",
+      "why": "A good companion to today's chaotic, rain-soaked Brazilian Grand Prix qualifying.",
+      "show": "Acquired",
+      "title": "Formula 1: The History and Business",
+      "published": "2026-03-02",
+      "duration": "4h 19m",
+      "apple": "https://podcasts.apple.com/us/podcast/formula-1-the-history-and-business/id1050462261?i=1000752750417&uo=4",
+      "page": "https://www.acquired.fm/episodes/formula-1",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/16/1f/f6/161ff697-59f0-9ae9-7e56-7cbaa435dae0/mza_5880707699337898631.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Taller Alberto Calleja nestles concrete Casa Nova into a tree-filled site on Mexico's coast",
+    "url": "https://www.dezeen.com/2026/11/07/taller-alberto-calleja-casa-nova",
+    "tldr": "Mexican studio Taller Alberto Calleja has built Casa Nova around a tree-filled \"fissure\" on the country's southern coast, bridged by elevated timber walkways.",
+    "source": "Dezeen",
+    "published": "2026-11-07T11:00:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/11/taller-alberto-calleja-casa-nova-concrete-home-mexico-sq_dezeen_2364_col_0-1024x1024.jpg"
+  }
+}
