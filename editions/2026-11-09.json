@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-09",
+  "note": "F1 crowned its 2026 constructors' champion in Brazil this weekend, in a chaotic, rain-hit race.",
+  "front": [
+    {
+      "title": "Researchers solve the mystery behind coordinated power grid disturbances worldwide",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery",
+      "tldr": "German researchers identified the cause of coordinated power drops that have puzzled grid operators worldwide, closing a long-running mystery.",
+      "source": "TechCrunch",
+      "published": "2026-11-08T20:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg?resize=1200,800"
+    },
+    {
+      "title": "Norris wins Brazilian GP as Mercedes clinches the 2026 constructors' title",
+      "url": "https://www.the-race.com/formula-1/norris-wins-as-mercedes-clinches-title-with-a-scrappy-race",
+      "tldr": "Lando Norris survived a late downpour to win the Brazilian Grand Prix at Interlagos, as Mercedes sealed the 2026 constructors' title despite missing the podium themselves.",
+      "source": "The Race",
+      "published": "2026-11-08T18:54:11.000Z",
+      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1453581_HiRes.jpg"
+    },
+    {
+      "title": "Apple changes its development process for iOS 28 and macOS 28",
+      "url": "https://www.macrumors.com/2026/11/08/apple-tweaks-ios-28-development-process",
+      "tldr": "Apple has changed how it develops iOS 28 and macOS 28, Bloomberg's Mark Gurman reports, as the company looks to work faster on software.",
+      "source": "MacRumors",
+      "published": "2026-11-08T15:42:38.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/11/iOS-28-AI.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "parse_number() as a SQLite extension: C vs Rust",
+          "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust",
+          "tldr": "Simon Willison compares writing a parse_number() SQLite extension in C against Rust, prompted by a dog-walk curiosity about numeric parsing edge cases.",
+          "source": "Simon Willison",
+          "published": "2026-11-08T22:26:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Datasette stops serving link rel=next HTTP headers to Firefox for HTML pages",
+          "url": "https://simonwillison.net/2026/Nov/7/link-rel-next",
+          "tldr": "Simon Willison spotted Firefox prefetching needlessly because of a link rel=next header on Datasette's HTML table pages, and fixed it in issue #3046.",
+          "source": "Simon Willison",
+          "published": "2026-11-07T23:57:46.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Snap's Specs are more comfortable than before, but still pricey, ahead of their autumn launch",
+          "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be",
+          "tldr": "Snap's long-in-development Specs smart glasses go on sale this autumn. They remain expensive, but TechCrunch found them notably more comfortable to wear than earlier versions.",
+          "source": "TechCrunch",
+          "published": "2026-11-08T21:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675"
+        },
+        {
+          "title": "Ninja's AutoBarista espresso machine is versatile, but one feature is a dealbreaker",
+          "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me",
+          "tldr": "Ninja's AutoBarista impressed TechCrunch's reviewer with its bean-analysing \"Grind iQ\" tech for pulling espresso shots, but one feature was enough to put them off recommending it outright.",
+          "source": "TechCrunch",
+          "published": "2026-11-08T15:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/ninja-autobarista-1-1.jpg?resize=1200,722"
+        },
+        {
+          "title": "Ex-Secret Service agent turned CISO is raising a second $250m cybersecurity fund",
+          "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund",
+          "tldr": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is raising roughly $250 million for a second fund at his cybersecurity venture firm, Brightmind Partners.",
+          "source": "TechCrunch",
+          "published": "2026-11-08T17:30:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Stephen_Ward_horiztonal.jpeg?resize=1200,1077"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "macOS 27.3 will change how AI agents are granted Full Disk Access",
+          "url": "https://9to5mac.com/2026/11/08/macos-changes-for-full-disk-access-ai-agents-imessage",
+          "tldr": "Apple is preparing new controls in macOS 27.3 for granting AI agents Full Disk Access, after announcing last month it would tighten privacy safeguards following agents misusing user data without permission.",
+          "source": "9to5Mac",
+          "published": "2026-11-08T19:52:41.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-hero.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Report: John Ternus is pushing Craig Federighi to speed up Apple's software engineering",
+          "url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering",
+          "tldr": "Bloomberg's Mark Gurman reports that Apple hardware chief John Ternus is pushing software chief Craig Federighi to accelerate engineering, amid concerns the company isn't moving fast enough in the AI era.",
+          "source": "9to5Mac",
+          "published": "2026-11-08T15:55:23.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/06/New-Apple-privacy-features.jpg?quality=82&strip=all&w=1500"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'You Can See Everything' sweeps the Critics Choice Documentary Awards",
+          "url": "https://deadline.com/2026/11/you-can-see-everything-critics-choice-documentary-awards-winners-1237217011",
+          "tldr": "Nathan Fielder and Lance Oppenheim's documentary 'You Can See Everything' swept all the major categories at this year's Critics Choice Documentary Awards.",
+          "source": "Deadline",
+          "published": "2026-11-09T03:38:43.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/10/MCDYOCA_EC125.jpg"
+        },
+        {
+          "title": "'You Can See Everything' box office passes $80m, A24's third-biggest release",
+          "url": "https://www.indiewire.com/news/box-office/you-can-see-everything-a24-third-biggest-domestic-release-1235226144",
+          "tldr": "The Elizabeth Holmes documentary 'You Can See Everything' has passed $80 million at the US box office, making it A24's third-biggest domestic release, ahead of 'March of the Penguins'.",
+          "source": "IndieWire",
+          "published": "2026-11-08T18:28:07.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/YCSE_NP_1.jpg?w=650"
+        },
+        {
+          "title": "Janusz Kaminski named The Hollywood Reporter's Visionary of the Year",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/janusz-kaminski-thr-visionary-cinematographer-award-1236750373",
+          "tldr": "Cinematographer Janusz Kaminski, known for 'Schindler's List', 'Saving Private Ryan' and 'The Diving Bell and the Butterfly', has been named The Hollywood Reporter's Visionary of the Year.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-08T13:45:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "'Godzilla Minus Zero' debuts with $31.6m, the biggest ever for a live-action foreign-language film",
+          "url": "https://www.indiewire.com/news/box-office/box-office-godzilla-minus-zero-debut-record-foreign-film-1235226132",
+          "tldr": "'Godzilla Minus Zero' opened with $31.6 million, the biggest domestic debut ever for a live-action, foreign-language film, continuing a run of surprise hits for subtitled blockbusters.",
+          "source": "IndieWire",
+          "published": "2026-11-08T16:21:19.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDGOMI_EC012-1.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics beat the Bucks 117-97 for a 20-point win",
+          "url": "https://www.celticsblog.com/celtics-scores-results/149706/celtics-mantle-20-point-win-on-bucks-117-97",
+          "tldr": "The Celtics improved to 8-2 by beating the Milwaukee Bucks 117-97, pulling away in the final three quarters after a tight first.",
+          "source": "CelticsBlog",
+          "published": "2026-11-09T03:29:19.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2303787964.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots fall to the Packers 45-27 at Gillette Stadium",
+          "url": "https://www.patriots.com/news/game-observations-8-takeaways-from-the-patriots-loss-to-the-packers-in-week-9",
+          "tldr": "The Patriots lost 45-27 to the Green Bay Packers at Gillette Stadium in Week 9, a tough defeat at home.",
+          "source": "Patriots.com",
+          "published": "2026-11-09T03:25:33.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/qzfbwskmntemv2xues4l.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Max Verstappen's charge from 21st to second in Brazil stuns Red Bull boss",
+          "url": "https://www.motorsport.com/f1/news/red-bull-boss-hails-max-verstappens-brazil-podium-hes-beating-the-sim-on-a-regular-basis/10873193",
+          "tldr": "Max Verstappen fought from 21st on the grid to finish second in the Brazilian Grand Prix at Interlagos, a recovery Red Bull boss Laurent Mekies said no simulation could have predicted.",
+          "source": "Motorsport.com",
+          "published": "2026-11-08T23:11:39.000Z",
+          "image": "https://cdn-4.motorsport.com/images/amp/2y7Qrrm6/s6/motorsport-com-graphics-76.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Lando Norris's Brazilian GP podium celebration goes viral after it goes wrong",
+          "url": "https://www.motorsport.com/f1/news/lando-norris-goes-viral-after-brazilian-gp-podium-celebration-goes-wrong/10873089",
+          "tldr": "Lando Norris controlled almost everything at a chaotic, wet Interlagos, until a mishap during his Brazilian Grand Prix podium celebration went viral on social media.",
+          "source": "Motorsport.com",
+          "published": "2026-11-08T19:39:51.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/24QGbZAY/s6/motorsport-com-graphics-73.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Toto Wolff says few sports teams have turned around as fast as Mercedes",
+          "url": "https://www.skysports.com/f1/news/12433/13609697/toto-wolff-proud-of-mercedes-turnaround-after-winning-f1-2026-constructors-championship-at-sao-paulo-grand-prix",
+          "tldr": "Mercedes boss Toto Wolff said he's proud of his team's turnaround to win the 2026 F1 constructors' championship, and that few sports teams have recovered as quickly.",
+          "source": "Sky Sports",
+          "published": "2026-11-08T22:20:00.000Z",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-george-russell_7401701.jpg?20261108223038"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Mickey Gasper's big August raises questions about his role for the 2027 Red Sox",
+          "url": "https://www.overthemonster.com/red-sox-comentary/111265/was-mickey-gaspers-incredible-august-a-fluke-or-will-he-contribute-to-the-2027-red-sox",
+          "tldr": "Over the Monster revisits Mickey Gasper's standout August as part of its look back at the 2026 Red Sox season, weighing whether it signals a role for him in 2027.",
+          "source": "Over the Monster",
+          "published": "2026-11-08T13:33:31.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/11/gettyimages-2293575895.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/introducing-core-4-the-best-way-to",
+    "why": "Today's report of Apple's Ternus pushing Federighi to speed up engineering pairs well with this framework for measuring and improving product velocity.",
+    "title": "Introducing Core 4: The best way to measure and improve your product velocity",
+    "subtitle": "A unified developer productivity framework from the creators of DORA, SPACE, and DevEx",
+    "published": "2025-01-14",
+    "words": 3488,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbec3635-771c-441f-9a27-6e8a8b8b4946_2912x1828.jpeg",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/430-how-to-write-ads-that-sell/id1141877104?i=1000785306106&uo=4",
+      "why": "A craft lesson in writing ads that sell, straight from Damian's own patch as a product marketer.",
+      "show": "Founders",
+      "title": "#430 How to Write Ads That Sell",
+      "published": "2026-08-23",
+      "duration": "1h 04m",
+      "apple": "https://podcasts.apple.com/us/podcast/430-how-to-write-ads-that-sell/id1141877104?i=1000785306106&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/nikesh-arora",
+      "why": "New this week: Nikesh Arora on growing Palo Alto Networks into a $250bn cybersecurity giant, having scaled Google Europe from 2,000 to 60,000 people.",
+      "show": "David Senra",
+      "title": "How to Win Deals & Grow a $250B Business | Nikesh Arora, Palo Alto Networks",
+      "published": "2026-11-08",
+      "duration": "1h 02m",
+      "apple": "https://podcasts.apple.com/us/podcast/how-to-win-deals-grow-a-%24250b-business-nikesh-arora/id1836497887?i=1000800536977&uo=4",
+      "page": "https://www.davidsenra.com/episode/nikesh-arora",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/54/60/4a54604a-d9ef-9e27-c24f-eb430d5955a4/mza_10179425682080314154.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-walt-disney-company",
+      "why": "Disney's business story, a case study Damian returns to for how a studio builds and defends a creative empire.",
+      "show": "Acquired",
+      "title": "The Walt Disney Company",
+      "published": "2026-06-22",
+      "duration": "4h 31m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-walt-disney-company/id1050462261?i=1000773687734&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-walt-disney-company",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/09/41/c0/0941c036-555e-80aa-af76-860826211540/mza_17592569476655460113.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=7EUVr0-V6DA"
+    }
+  ],
+  "finally": {
+    "title": "Fala Atelier tucks three playful volumes into a Portuguese hillside for Cookie Cutter Retreat",
+    "url": "https://www.dezeen.com/2026/11/08/fala-atelier-cookie-cutter-retreat",
+    "tldr": "Porto studio Fala Atelier has completed Cookie Cutter Retreat, three semicircular volumes of different scales set into a Portuguese hillside for digital nomads.",
+    "source": "Dezeen",
+    "published": "2026-11-08T11:00:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/11/fala-atelier-cookie-cutter-retreat-portugal-sq_dezeen_2364_col_0-1024x1024.jpg"
+  }
+}
