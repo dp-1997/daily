@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-11",
+  "front": [
+    {
+      "title": "AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "tldr": "DeepMind's AlphaProof Code agents wrote three million lines of formal proofs in Lean to verify Signal's core encryption, the kind of exhaustive software checking no human team could do at this scale.",
+      "source": "Google DeepMind",
+      "published": "2026-11-10T12:02:28.000Z",
+      "image": "https://lh3.googleusercontent.com/hn6AiI6lYFo6chi1mL6uJ9nOW9UXfsAKnSyOApiie2urHNU2tmSPUmGn0hNfWyYLRcsWCGjCIrBZSCt1ihZmvW-LDJPfyolsr5w-yvzlknZVzmaH=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "Apple Music debuts Labrinth's new single, created live on the touchscreen MacBook Pro",
+      "url": "https://9to5mac.com/2026/11/10/apple-music-debuts-labrinths-new-single-created-live-on-the-touchscreen-macbook-pro",
+      "tldr": "Labrinth composed and recorded the track overnight at Apple's Tower Theatre in Los Angeles on the new touchscreen MacBook Pro, and Apple Music has now released it as a single.",
+      "source": "9to5Mac",
+      "published": "2026-11-11T01:31:51.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/labrinth-apple-store.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "Mercedes clinch 2026 F1 constructors' title in a chaotic, wet Brazilian Grand Prix",
+      "url": "https://www.skysports.com/f1/news/12433/13610204/sao-paulo-gp-martin-brundles-verdict-as-mercedes-seal-2026-f1-constructors-title-and-lando-norris-wins-wet-race-in-brazil",
+      "tldr": "Mercedes claimed Formula 1's 2026 constructors' championship in a wet, chaotic Sao Paulo Grand Prix at Interlagos, while Lando Norris won the race itself for McLaren.",
+      "source": "Sky Sports",
+      "published": "2026-11-10T15:20:00.000Z",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7403229.jpg?20261110153210"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+          "tldr": "Claude can now join meetings to draft plans and timelines live, answer questions in the chat and pull information from connected work apps as participants talk, Anthropic said.",
+          "source": "TechCrunch",
+          "published": "2026-11-10T17:30:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Meetings.png?resize=1200,675"
+        },
+        {
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+          "tldr": "Google's Gemini 4 Carbon, previously limited to a subset of cyber defenders, is now available to everyone. Simon Willison called it Google's best Gemini model yet.",
+          "source": "Google DeepMind",
+          "published": "2026-11-10T16:03:47.000Z",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg"
+        },
+        {
+          "title": "Meta's AI agent Muse lands on Apple Watch and Android Wear OS",
+          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
+          "tldr": "Meta's AI assistant Muse can now be reached by voice call, text message or dictation from an Apple Watch or an Android Wear OS smartwatch, extending it beyond phones.",
+          "source": "TechCrunch",
+          "published": "2026-11-10T15:29:30.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200"
+        },
+        {
+          "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
+          "tldr": "Google added two new tensor processing units to its chip lineup, aimed at confidential model training and workloads needing more memory, broadening its AI hardware range.",
+          "source": "TechCrunch",
+          "published": "2026-11-10T15:54:08.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "X-energy gets green light to build its first small modular nuclear reactors",
+          "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors",
+          "tldr": "X-energy received a US Nuclear Regulatory Commission permit to build four small modular reactors in Texas, a milestone for a technology meant to power data centres with less land and water.",
+          "source": "TechCrunch",
+          "published": "2026-11-10T20:43:55.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900"
+        },
+        {
+          "title": "Pixel Tag, Google's $30 answer to Apple's AirTag, is now available",
+          "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available",
+          "tldr": "Google's $30 Pixel Tag lets Android users track lost items such as keys or bags, working much like Apple's AirTag but built for Android phones instead of iPhones.",
+          "source": "TechCrunch",
+          "published": "2026-11-10T18:49:19.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Tag_Lifestyle_Keys.png?resize=1166,1200"
+        },
+        {
+          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp",
+          "tldr": "Adobe added AI agents and new tools across Photoshop, Premiere and Firefly, including a prototype builder in Firefly aimed at challenging Figma for app and web design work.",
+          "source": "TechCrunch",
+          "published": "2026-11-10T14:05:10.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/FF-AIA-PlanMode-No-Logo-4.jpg?resize=1200,675"
+        },
+        {
+          "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more",
+          "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai",
+          "tldr": "Sundrop, a new iPhone app, uses Apple's on-device AI to turn a backlog of photos into recaps and time lapses for parents, keeping images off the cloud rather than skipping AI entirely.",
+          "source": "TechCrunch",
+          "published": "2026-11-10T16:50:38.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/sundrop-promo.jpg?resize=1200,675"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple's Claris testing 'Harbor' app for local AI on Macs",
+          "url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app",
+          "tldr": "Apple's Claris subsidiary is testing Harbor, an app that turns an Apple silicon Mac into a private AI server, with support for linking several Macs together for more capacity.",
+          "source": "MacRumors",
+          "published": "2026-11-10T23:34:51.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/11/claris-harbor.jpg"
+        },
+        {
+          "title": "Apple TV introduces new sign language interpretation feature",
+          "url": "https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature",
+          "tldr": "Apple TV is adding sign language interpretation for supported titles, starting Friday with the documentary Being Heumann, as part of a wider accessibility push.",
+          "source": "Apple Newsroom",
+          "published": "2026-11-10T16:00:26.015Z",
+          "image": "https://www.apple.com/newsroom/images/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/tile/Apple-TV-ASL-Sign-Language-interpretation-lp.jpg.og.jpg?202611101602"
+        },
+        {
+          "title": "iFixit tears down touchscreen MacBook Pro, reveals light-up Apple logo details",
+          "url": "https://9to5mac.com/2026/11/10/ifixit-tears-down-touchscreen-macbook-pro-reveals-light-up-apple-logo-details",
+          "tldr": "iFixit's teardown of Apple's new touchscreen PROLED MacBook Pro shows how the laptop brought back its glowing logo and shed weight compared with the 14-inch M6 model.",
+          "source": "9to5Mac",
+          "published": "2026-11-10T23:14:49.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ifixit-mbp-touch-teardown.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'You've Got Mail' reboot in the works at Warner Bros.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/youve-got-mail-reboot-warner-bros-1236752627",
+          "tldr": "Director Jason Orley is making a new take on the 1998 Tom Hanks and Meg Ryan rom-com for Warner Bros., though plot and cast details have not been announced.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-11T03:52:30.000Z",
+          "image": ""
+        },
+        {
+          "title": "Stacy Keach, 'Fat City' and 'Mike Hammer' star, dead at 85",
+          "url": "https://www.indiewire.com/news/obituary/stacy-keach-dead-mike-hammer-fat-city-1235226784",
+          "tldr": "The actor, known for 'Fat City' and the title role in 'The New Mike Hammer', died in Poland on Monday. He had more than 200 screen credits across seven decades.",
+          "source": "IndieWire",
+          "published": "2026-11-11T01:20:51.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/StacyKeachObit.jpg?w=650"
+        },
+        {
+          "title": "Alexander Skarsgård and Olivia Colman's romantic fantasy movie is a sleeper box office hit",
+          "url": "https://www.slashfilm.com/2312600/alexander-skarsgard-olivia-colman-romantic-fantasy-movie-wicker-box-office",
+          "tldr": "Wicker, the romantic fantasy comedy starring Alexander Skarsgård and Olivia Colman, has become one of the sleeper box-office hits Hollywood needed this year, despite a modest start.",
+          "source": "/Film",
+          "published": "2026-11-11T00:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/alexander-skarsgard-and-olivia-colmans-romantic-fantasy-movie-is-a-sleeper-box-office-hit/l-intro-1794340819.jpg"
+        },
+        {
+          "title": "How David Leitch made 'How to Rob a Bank' on a budget, and around Nicholas Hoult's torn ACL",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/how-to-rob-a-bank-david-leitch-1236752122",
+          "tldr": "David Leitch shot 'How to Rob a Bank' in half the days of his previous film, 'The Fall Guy', while working around leading man Nicholas Hoult's torn ACL.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-10T21:00:56.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Paul George leads Celtics past 76ers 123-101 in first Tatum-Brown meeting",
+          "url": "https://www.celticsblog.com/celtics-scores-results/149871/george-leads-celtics-to-123-101-win-over-76ers-in-first-battle-between-jays",
+          "tldr": "Paul George scored 36 points as the Celtics beat the 76ers 123-101, in the first meeting between former teammates Jayson Tatum and Jaylen Brown since Brown's trade to Philadelphia.",
+          "source": "CelticsBlog",
+          "published": "2026-11-11T03:31:24.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2304065171.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots make no moves at the NFL trade deadline",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/143845/patriots-nfl-trade-deadline-results-2026-recap",
+          "tldr": "New England made no trades before Tuesday's NFL deadline, despite six trades elsewhere in the league and speculation that defensive tackle Christian Barmore or cornerback Carlton Davis could move.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-10T21:13:35.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2303886237.jpg?quality=90&strip=all&crop=0,5.7032147420119,100,94.296785257988"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots to play Lions in Munich for NFL Week 10",
+          "url": "https://www.patriots.com/news/game-preview-patriots-at-lions-nfl-week-10",
+          "tldr": "New England travel to Munich, Germany to face the Detroit Lions on Sunday 15 November at 9:30am ET, in the NFL's International Series.",
+          "source": "Patriots.com",
+          "published": "2026-11-10T17:32:42.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/g0a3zri8uxjf5nqhml0k.png"
+        },
+        {
+          "tag": "F1",
+          "title": "Why Norris' Sao Paulo victory was one of his best ever wins",
+          "url": "https://www.formula1.com/en/latest/article/why-norris-sao-paulo-victory-was-one-of-his-best-ever-wins.3hyiRlbfztlQekIw1WuvWd",
+          "tldr": "Former F1 driver Jolyon Palmer writes that Lando Norris's wet-weather victory at the Sao Paulo Grand Prix ranks among the world champion's best performances.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Brazil/2304168827.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "F1 stands Imola down: what it means for the 2026 and '27 calendars",
+          "url": "https://www.the-race.com/formula-1/f1-stands-imola-down-what-it-means-for-2026-and-27-calendars",
+          "tldr": "Formula 1 has ruled out Imola as a fallback and will finish the 2026 season in the Middle East, with the Qatar and Abu Dhabi rounds going ahead unless the Iran war escalates further.",
+          "source": "The Race",
+          "published": "2026-11-10T14:22:02.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/testpirelliimola-charleslecler5.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "Daniel Ricciardo: Max Verstappen will \"go down as one of the best ever\"",
+          "url": "https://www.motorsport.com/f1/news/daniel-ricciardo-max-verstappen-will-go-down-as-one-of-the-best-ever/10873738",
+          "tldr": "Daniel Ricciardo says Max Verstappen will rank among F1's greatest ever drivers, adding he still cannot fully explain how Red Bull built a competitive power unit in its first season doing so.",
+          "source": "Motorsport.com",
+          "published": "2026-11-11T02:05:02.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/YP748J42/s6/motorsport-com-graphics-87.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Tolle finishes third for AL Rookie of the Year award",
+          "url": "https://www.mlb.com/redsox/news/payton-tolle-finishes-third-in-al-rookie-of-the-year-voting",
+          "tldr": "Red Sox rookie Payton Tolle finished third in voting for the American League's 2026 Rookie of the Year award.",
+          "source": "MLB.com",
+          "published": "2026-11-10T01:04:38.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/boulh3eziiawajse5pn4.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/the-ultimate-guide-to-negotiating",
+    "why": "A timely one given today's Anthropic IPO payouts: a step-by-step playbook for negotiating comp, from a writer whose day job is finding the story inside a launch.",
+    "title": "The ultimate guide to negotiating your comp",
+    "subtitle": "The step-by-step guide that’s helped hundreds of leaders secure life-changing compensation",
+    "published": "2025-05-06",
+    "words": 6332,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/b2ed0bc3-654b-4365-a233-e939ab7a793b_2401x1261.jpeg",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/428-how-claude-shannon-worked/id1141877104?i=1000781268416&uo=4",
+      "why": "The father of information theory feels apt on a day stacked with Claude, Gemini and DeepMind news.",
+      "show": "Founders",
+      "title": "#428 How Claude Shannon Worked",
+      "published": "2026-08-09",
+      "duration": "51m",
+      "apple": "https://podcasts.apple.com/us/podcast/428-how-claude-shannon-worked/id1141877104?i=1000781268416&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidenra.com/mati-staniszewski",
+      "why": "ElevenLabs' founder on building voice AI fits a day full of AI product launches.",
+      "show": "David Senra",
+      "title": "Mati Staniszewski on ElevenLabs, Voice AI & Building the Communication Layer for AI",
+      "published": "2026-09-09",
+      "duration": "1h 11m",
+      "apple": "https://podcasts.apple.com/us/podcast/mati-staniszewski-on-elevenlabs-voice-ai-building-the/id1836497887?i=1000788628928&uo=4",
+      "page": "https://www.davidenra.com/mati-staniszewski",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/63/a5/2a/63a52ae5-3297-d076-0aef-87d12db38b62/mza_15911965899414927082.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-nfl",
+      "why": "The business of the NFL, for a day with a trade deadline recap and a Patriots preview.",
+      "show": "Acquired",
+      "title": "The NFL",
+      "published": "2026-01-27",
+      "duration": "4h 08m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-nfl/id1050462261?i=1000746788889&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-nfl",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ad/b1/9e/adb19ea5-b6b7-e42a-1f97-db9c336bb519/mza_16418780272218086998.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Bats, spiders and slime molds make the Close-up Photographer of the Year shortlist",
+    "url": "https://www.thisiscolossal.com/2026/11/close-up-photographer-of-the-year-2026-shortlist",
+    "tldr": "This year's Close-up Photographer of the Year competition drew its highest-ever number of entries, with the shortlist spanning bats, spiders and slime molds in extraordinary detail.",
+    "source": "Colossal",
+    "published": "2026-11-10T18:00:00.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/cupoty2026-5.jpg"
+  }
+}
