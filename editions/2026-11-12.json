@@ -1,0 +1,272 @@
+{
+  "date": "2026-11-12",
+  "front": [
+    {
+      "title": "AlphaGenome 2: deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "tldr": "DeepMind has released a second version of AlphaGenome, which predicts how DNA sequences and variants affect specific human cell types. The aim is a better understanding of how such changes contribute to disease.",
+      "source": "Google DeepMind",
+      "published": "2026-11-11T15:00:15.000Z",
+      "image": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo"
+    },
+    {
+      "title": "iFixit reveals the magic behind the new glowing MacBook Pro logo",
+      "url": "https://sixcolors.com/link/2026/11/ifixit-reveals-the-magic-behind-the-new-glowing-macbook-pro-logo",
+      "tldr": "iFixit's teardown of the new MacBook Pro shows how Apple brought back the glowing logo, a detail Six Colors had asked Apple about directly at a briefing.",
+      "source": "Six Colors",
+      "published": "2026-11-11T15:23:56.000Z",
+      "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/11/mac-book-proled-185-6c.jpeg?ssl=1&w=1380&quality=90"
+    },
+    {
+      "title": "Celtics win 5th straight, overcoming 22-point deficit to beat Raptors 98-93",
+      "url": "https://www.boston.com/sports/boston-celtics/2026/11/11/celtics-win-5th-straight-overcoming-22-point-deficit-to-beat-raptors-98-93",
+      "tldr": "Boston erased a 22-point deficit to beat the Raptors 98-93, their fifth straight win. Jayson Tatum scored 24, Derrick White added 19 and Payton Pritchard chipped in 14 off the bench.",
+      "source": "Boston.com",
+      "published": "2026-11-12T03:14:31.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/11/Celtics_Raptors_Basketball_91132-6af52d3225720-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Google launches Gemini Decisions API for fast, calibrated multimodal decisions",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+          "tldr": "Google has launched the Gemini Decisions API, built on a new Gemini Decision model for fast, calibrated multimodal choices. It follows OpenAI's similar Jev decision model into the same category.",
+          "source": "Google",
+          "published": "2026-11-11T18:00:00.000Z",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png"
+        },
+        {
+          "title": "AWS ships an official emulator for testing against its services locally",
+          "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+          "tldr": "AWS has released an official open-source emulator, written in Rust, that lets developers run tests against a local clone of its services without needing a paid API key.",
+          "source": "Simon Willison",
+          "published": "2026-11-11T21:18:30.000Z",
+          "image": ""
+        },
+        {
+          "title": "Britain's Fractile raises $720m to build custom AI chips",
+          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
+          "tldr": "UK startup Fractile has raised $720 million in new funding, making it one of the best-funded companies racing to build purpose-built AI chips.",
+          "source": "TechCrunch",
+          "published": "2026-11-11T19:34:55.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2183896789.jpg?resize=1200,800"
+        },
+        {
+          "title": "Google Labs launches Tabletop, a collaborative planning space for groups",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+          "tldr": "Google Labs has opened a waitlist for Tabletop, an experiment for building interactive itineraries, polls and brackets together as a group, aimed at shared planning rather than solo chat.",
+          "source": "Google",
+          "published": "2026-11-11T16:00:00.000Z",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "United is restricting AI agents from booking flights",
+          "url": "https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights",
+          "tldr": "United Airlines is blocking AI agents from booking its flights, citing security risks and possible breaches of DOT and FAA rules.",
+          "source": "Engadget",
+          "published": "2026-11-11T20:09:44.000Z",
+          "image": "https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg"
+        },
+        {
+          "title": "OpenAI's quarterly revenue reportedly crosses $10 billion for the first time",
+          "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+          "tldr": "OpenAI's quarterly revenue has reportedly passed $10 billion for the first time, up almost 50% from the $6.7 billion it recorded in the second quarter.",
+          "source": "TechCrunch",
+          "published": "2026-11-11T16:14:44.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675"
+        },
+        {
+          "title": "Roku will stop selling smart home devices and refocus on streaming",
+          "url": "https://www.engadget.com/2313802/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming",
+          "tldr": "Roku is exiting smart home hardware, including its video doorbells and home monitoring system, to concentrate on its streaming business.",
+          "source": "Engadget",
+          "published": "2026-11-11T17:44:53.000Z",
+          "image": "https://www.engadget.com/img/gallery/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/l-intro-1794419052.jpg"
+        },
+        {
+          "title": "Siri co-founder backs Helix for its voice ID technology",
+          "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech",
+          "tldr": "Siri's co-founder is backing Helix, a startup betting that voice-based biometric signals will become how we verify identity as AI agents take on more tasks online.",
+          "source": "TechCrunch",
+          "published": "2026-11-11T15:02:47.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Helix-Co-Founders-Credit_-Coy-Gutierrez.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "iPhone Duo one week later: the future, or not for me?",
+          "url": "https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me",
+          "tldr": "A week in with the folding iPhone Duo, 9to5Mac's review is mixed: impressive as a daily carry, but still unsure whether it is the iPhone's future or just not for this reviewer.",
+          "source": "9to5Mac",
+          "published": "2026-11-11T21:33:21.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Live Rewind makes me want to buy an Apple Watch",
+          "url": "https://sixcolors.com/post/2026/11/live-rewind-makes-me-want-to-buy-an-apple-watch",
+          "tldr": "Six Colors' Dan Moren, who has never owned an Apple Watch, says the new Live Rewind feature is the first thing that has tempted him to buy one.",
+          "source": "Six Colors",
+          "published": "2026-11-11T18:00:00.000Z",
+          "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/09/apple-live-rewind-video-frames.png?ssl=1&w=1380&quality=90"
+        },
+        {
+          "title": "Apple chip supplier TSMC approves $1 billion AI investment",
+          "url": "https://www.macrumors.com/2026/11/11/tsmc-approves-ai-investment",
+          "tldr": "TSMC's board has approved investing up to $1 billion in OpenAI and Anthropic, buying as much as $500 million of shares in each. It ties Apple's main chipmaker closer to both AI labs.",
+          "source": "MacRumors",
+          "published": "2026-11-11T10:00:54.000Z",
+          "image": "https://images.macrumors.com/t/J46PnqFon6uZq7AZIAThCrBf36g=/2500x/article-new/2024/04/apple-silicon-feature-joeblue.jpg"
+        },
+        {
+          "title": "Google's Gemini assistant is rolling out on Apple CarPlay",
+          "url": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay",
+          "tldr": "Google says a dedicated Gemini app for Apple CarPlay is rolling out globally in several languages from today, letting drivers talk to the assistant directly through CarPlay.",
+          "source": "MacRumors",
+          "published": "2026-11-11T19:50:14.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/11/Google-Gemini-Apple-CarPlay.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "How Godzilla Minus Zero dominated the box office",
+          "url": "https://www.indiewire.com/features/interviews/godzilla-minus-zero-box-office-gkids-imax-1235226577",
+          "tldr": "GKIDS president Dave Jesteadt credits younger audiences and premium large formats like IMAX for Godzilla Minus Zero's record opening, part of a growing market for foreign-language films in US cinemas.",
+          "source": "IndieWire",
+          "published": "2026-11-11T19:30:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GodzillaMinusZero.jpg?w=650"
+        },
+        {
+          "title": "Avengers: Endgame Encore sets Disney+ release date",
+          "url": "https://deadline.com/2026/11/avengers-endgame-encore-disney-plus-stream-release-date-1237220911",
+          "tldr": "Disney+ will stream Avengers: Endgame: Encore from Friday 13 November, continuing the countdown to Avengers: Doomsday later this year.",
+          "source": "Deadline",
+          "published": "2026-11-11T22:02:06.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/avengers-endgame-encore-poster.jpg"
+        },
+        {
+          "title": "Attend, a marketplace linking filmmakers directly to theatre owners, launches",
+          "url": "https://www.indiewire.com/news/breaking-news/attend-marketplace-filmmakers-theater-owners-launch-afm-1235226617",
+          "tldr": "The Fithian Group has launched Attend, billed as the first marketplace connecting filmmakers directly with theatre owners, debuting at the American Film Market.",
+          "source": "IndieWire",
+          "published": "2026-11-11T17:30:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Attend-Screenshot.jpg?w=650"
+        },
+        {
+          "title": "'One in a Million' filmmaker on the ethical dilemma he faced",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/one-in-a-million-scad-jack-macinnes-1236743001",
+          "tldr": "Co-directors Itab Azzam and Jack MacInnes spent a decade documenting a young Syrian refugee in Germany, and discuss letting their subject find her own way through the story.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-11T22:36:41.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Big Mitch quietly showed exactly why the Celtics signed him",
+          "url": "https://www.celticsblog.com/celtics-analysis/150020/big-mitch-quietly-showed-exactly-why-the-celtics-signed-him",
+          "tldr": "Buried beneath Tuesday's Jaylen Brown vs Jayson Tatum storylines was a quieter one: CelticsBlog explains why Boston's win over Philadelphia validated the decision to sign Big Mitch.",
+          "source": "CelticsBlog",
+          "published": "2026-11-11T19:26:16.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2304065119.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots' defence aims for redemption against another tough NFC North foe",
+          "url": "https://www.boston.com/sports/local-news/2026/11/11/patriots-defense-aims-for-redemption-against-another-tough-nfc-north-foe",
+          "tldr": "After conceding a season-high 45 points to the Packers last week, New England's defence faces the Lions on Sunday in Munich looking to put it right.",
+          "source": "Boston.com",
+          "published": "2026-11-12T01:48:57.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/TEQ7DSQU7KCKXSEERXHC574TJA-6af12a502d7c7-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "George Russell credits Toto Wolff's loyalty for Mercedes' F1 title return",
+          "url": "https://www.motorsport.com/f1/news/george-russell-credits-toto-wolffs-loyalty-for-mercedes-f1-title-return-nobody-was-hired-or-fired/10873975",
+          "tldr": "George Russell says Toto Wolff's refusal to overhaul Mercedes during its difficult ground-effect years is a big reason the team has returned to the top of Formula 1.",
+          "source": "Motorsport.com",
+          "published": "2026-11-12T00:01:07.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/68VwM3B2/s6/motorsport-com-graphics-94.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Kimi Antonelli keeps F1 title promise with Italian flag hair",
+          "url": "https://www.motorsport.com/f1/news/kimi-antonelli-keeps-f1-title-promise-with-italian-flag-hair-at-mercedes-factory/10873952",
+          "tldr": "Mercedes' new world champion Kimi Antonelli turned up at the team's Brackley factory with his hair dyed green, white and red, keeping a promise made before he won the title.",
+          "source": "Motorsport.com",
+          "published": "2026-11-11T20:55:48.000Z",
+          "image": "https://cdn-9.motorsport.com/images/amp/6Alv9kGY/s6/motorsport-com-graphics-91.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role",
+    "why": "A practical case for redefining PM work norms rather than accepting 'the great flattening', and a good read for a product marketer on the same path, two years to the day since it published.",
+    "title": "Product manager is an unfair role. So work unfairly.",
+    "subtitle": "How to thrive in “the great flattening” by redefining work norms",
+    "published": "2024-11-12",
+    "words": 3920,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/4bd329d0-8b93-4bfb-8179-2d52f47f83ab_1456x970.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/426-how-obsession-built-christopher-nolan/id1141877104?i=1000778364358&uo=4",
+      "why": "Nolan's obsessive craft is the same lens Damian studies in Jobs and Apple, and a fitting pick on a day full of Hollywood news.",
+      "show": "Founders",
+      "title": "#426 How Obsession Built Christopher Nolan",
+      "published": "2026-07-26",
+      "duration": "51m",
+      "apple": "https://podcasts.apple.com/us/podcast/426-how-obsession-built-christopher-nolan/id1141877104?i=1000778364358&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/vlad-tenev",
+      "why": "New this week: Senra talks to Robinhood's Vlad Tenev about building through chaos, from a Bulgarian childhood to surviving GameStop.",
+      "show": "David Senra",
+      "title": "Building Robinhood, Surviving GameStop & A $500 Million Phone Call | Vlad Tenev",
+      "published": "2026-11-11",
+      "duration": "1h 11m",
+      "apple": "https://podcasts.apple.com/us/podcast/building-robinhood-surviving-gamestop-a-%24500/id1836497887?i=1000801172887&uo=4",
+      "page": "https://www.davidsenra.com/episode/vlad-tenev",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/26/22/75/2622755a-1795-afdf-0481-03af59f20002/mza_8783717451831162092.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/nike",
+      "why": "A classic on how Nike built its brand through storytelling, pairing well with Founders' Phil Knight episode and Damian's interest in great product operators.",
+      "show": "Acquired",
+      "title": "Nike",
+      "published": "2023-07-25",
+      "duration": "3h 54m",
+      "apple": "https://podcasts.apple.com/us/podcast/nike/id1050462261?i=1000622225443&uo=4",
+      "page": "https://www.acquired.fm/episodes/nike",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "'I Made a Film in Excel, and I Don't Know Why'",
+    "url": "https://kottke.org/26/11/i-made-a-film-in-excel-and-i-dont-know-why",
+    "tldr": "Animation director Maria Tomazou made a short animated film entirely in Microsoft Excel, a project with no real reason to exist beyond itself. It took ages, and she kept going anyway.",
+    "source": "Kottke",
+    "published": "2026-11-11T17:02:00.000Z",
+    "image": "https://i.ytimg.com/vi/sz_vI8V_k1E/sddefault.jpg"
+  }
+}
