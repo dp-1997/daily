@@ -1,0 +1,285 @@
+{
+  "date": "2026-11-13",
+  "note": "Apple's new HomeView and the fourth-generation Apple TV 4K both launch today.",
+  "front": [
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "tldr": "Google is rolling out Gemini 4 Hydrogen, its newest AI model, to Search worldwide, promising clearer, more visual answers to complicated questions.",
+      "source": "Google",
+      "published": "2026-11-12T18:00:00.000Z",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp"
+    },
+    {
+      "title": "HomeView Launch Kicks Off as First Orders Reach Customers",
+      "url": "https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving",
+      "tldr": "Apple's new home device, HomeView, announced a month ago, began reaching customers today as the global rollout started in Australia and New Zealand.",
+      "source": "MacRumors",
+      "published": "2026-11-12T22:50:59.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/10/homeview_home_screen_feature-1.jpg"
+    },
+    {
+      "title": "Saoirse Ronan's first short film, Paper Plane, proves she can direct",
+      "url": "https://www.indiewire.com/features/interviews/saoirse-ronan-directorial-debut-short-paper-plane-interview-1235225445",
+      "tldr": "Saoirse Ronan's directorial debut short, Paper Plane, won Best Narrative Short at the Austin Film Festival and earned Oscar-qualifying status, her first produced work behind the camera.",
+      "source": "IndieWire",
+      "published": "2026-11-12T18:30:00.000Z",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/GettyImages-2300540275-1-e1793896779341.jpg?w=650"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "tldr": "Amplitude's AI product agent, Wave, now spots what to build, ships changes with coding agents, and measures the result, cutting its improvement cycle to one or two days.",
+          "source": "OpenAI",
+          "published": "2026-11-12T20:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Gondola doubles revenue as its team builds more with Codex",
+          "url": "https://openai.com/business/customer-stories/gondola",
+          "tldr": "Gondola, which helps creatives get credit and get hired, has doubled revenue after Codex raised its lead engineer's output by 50 percent.",
+          "source": "OpenAI",
+          "published": "2026-11-12T12:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Supporting research on AI and children's safety",
+          "url": "https://openai.com/index/children-first-declaration",
+          "tldr": "OpenAI is putting $2 million into research on AI and children's safety, funding shared tools to measure risks and opportunities for young people.",
+          "source": "OpenAI",
+          "published": "2026-11-12T00:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Muse can now place calls to US businesses, if you pay",
+          "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+          "tldr": "Meta's Muse assistant can now call US businesses on your behalf, such as to book a table, but only for paying subscribers.",
+          "source": "TechCrunch",
+          "published": "2026-11-12T22:22:28.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-calls.jpg?w=1104"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Whoop just launched a social network",
+          "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network",
+          "tldr": "Whoop has launched a social network letting members share sleep, recovery and workout data, part of a bigger push to become a personal health brand rather than just a wearable.",
+          "source": "TechCrunch",
+          "published": "2026-11-12T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-31-at-8.39.34-AM.png?resize=1200,692"
+        },
+        {
+          "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+          "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
+          "tldr": "Phota Labs uses AI to automate photo editing, turning everyday snaps into professional-looking shots without consumers having to learn another editing tool.",
+          "source": "TechCrunch",
+          "published": "2026-11-12T17:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/04_Holiday_Lights_before_after.jpg?resize=1200,867"
+        },
+        {
+          "title": "Hands-on with the first Android XR smartglasses",
+          "url": "https://www.engadget.com/2314258/android-xr-smartglasses-hands-on",
+          "tldr": "Hands-on time with Google's first Android XR smartglasses left our reviewer rethinking the case for glasses without a display, calling the hardware surprisingly capable.",
+          "source": "Engadget",
+          "published": "2026-11-12T14:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/the-first-batch-of-android-xr-smartglasses-made-me-rethink-my-stance-on-specs-without-displays/l-intro-1794495834.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Hands-On With the New Apple TV 4K and Siri AI",
+          "url": "https://www.macrumors.com/2026/11/12/apple-tv-4k-siri-hands-on",
+          "tldr": "The fourth-generation Apple TV 4K, with an A19 chip and Siri AI, goes on sale today. MacRumors got hands-on time with it ahead of launch.",
+          "source": "MacRumors",
+          "published": "2026-11-13T00:42:07.000Z",
+          "image": "https://images.macrumors.com/t/Klp9x3R0niKAd-wJW65m-OsfTJk=/2500x/article-new/2026/11/Apple-TV-4K-Thumb-2.jpg"
+        },
+        {
+          "title": "Apple HomeView Review Roundup: Simple, Charming, and Built for Apple Users",
+          "url": "https://www.macstories.net/news/apple-homeview-review-roundup-simple-charming-and-built-for-apple-users",
+          "tldr": "Early HomeView reviews are in, and critics call it simple and charming, especially for people already inside the Apple ecosystem.",
+          "source": "MacStories",
+          "published": "2026-11-12T20:15:49.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/11/12/apple-homeview-collection-of-faces-261013-1794513789318-d190e0e321.jpg"
+        },
+        {
+          "title": "Apple Explains How HomeView Keeps Camera Data Private",
+          "url": "https://www.macrumors.com/2026/11/12/apple-homeview-secure-exclaves",
+          "tldr": "Apple has detailed how Secure Exclaves isolate and protect camera and microphone data on HomeView, iPhone 18 Pro and other devices.",
+          "source": "MacRumors",
+          "published": "2026-11-12T20:49:35.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature5.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Laika's 'Wildwood' Passes $60 Million Worldwide",
+          "url": "https://variety.com/2026/film/global/wildwood-passes-60-million-worldwide-box-office-1236946750",
+          "tldr": "Laika's stop-motion film Wildwood has passed $60 million worldwide, recovering from a slow start to reach $41.86 million domestically.",
+          "source": "Variety",
+          "published": "2026-11-13T01:43:39.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/Wildwood.jpg"
+        },
+        {
+          "title": "Brad Pitt to Star in 'Connector' from 'Sound of Metal' Director Darius Marder for Apple",
+          "url": "https://www.indiewire.com/news/breaking-news/brad-pitt-connector-sound-of-metal-director-darius-marder-1235227338",
+          "tldr": "Brad Pitt will star in Connector, a 1970s drama about a New York ironworker, from Sound of Metal director Darius Marder for Apple.",
+          "source": "IndieWire",
+          "published": "2026-11-12T18:15:18.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2025/07/2221709688.jpg?w=650"
+        },
+        {
+          "title": "'The Good Daughter' Review: Rose Byrne Leads Peacock's Crime Drama",
+          "url": "https://www.indiewire.com/criticism/shows/the-good-daughter-review-rose-byrne-peacock-series-1235226499",
+          "tldr": "Rose Byrne leads Peacock's six-episode adaptation of Karin Slaughter's The Good Daughter, about long-separated sisters reunited to defend a family member. The review calls the clichés thick, the cast sharp.",
+          "source": "IndieWire",
+          "published": "2026-11-12T19:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/The-Good-Daughter-Rose-Byrne-Meghann-Fahy-Peacock-series.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics win 5th straight, overcoming 22-point deficit to beat Raptors 98-93",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/11/celtics-win-5th-straight-overcoming-22-point-deficit-to-beat-raptors-98-93",
+          "tldr": "The Celtics erased a 22-point deficit to beat the Raptors 98-93, their fifth straight win. Jayson Tatum scored 24, Derrick White 19, Payton Pritchard 14.",
+          "source": "Boston.com",
+          "published": "2026-11-12T03:14:31.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Celtics_Raptors_Basketball_91132-6af52d3225720-850x638.jpg"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Paul George was the star of the Celtics' dominant win over the 76ers",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/12/paul-george-was-the-star-of-the-night-and-other-leftover-thoughts-from-the-celtics-dominant-win-over-the-rival-76ers",
+          "tldr": "Paul George led Boston's dominant win over Philadelphia, needing no tribute video to make his return to the arena memorable.",
+          "source": "Boston.com",
+          "published": "2026-11-12T12:45:03.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/IMB2QOGDZO4RFE74W625O25GQE-6af4b694310f0-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots get pleasant surprise regarding Rhamondre Stevenson's injury status",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/12/patriots-injury-report-rhamondre-stevenson-knee-update-comments",
+          "tldr": "Rhamondre Stevenson returned to Patriots practice on Thursday, sooner than the several weeks he was reportedly expected to miss with a knee injury.",
+          "source": "Boston.com",
+          "published": "2026-11-12T22:04:44.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/09/ET6SRIMKR3WVKWGVDA4XB5NGY4-6a9dc1987425b-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "3 to Watch: Patriots and Lions Clash in Germany",
+          "url": "https://www.patriots.com/news/3-to-watch-patriots-and-lions-clash-in-germany",
+          "tldr": "The Patriots play the Lions in Munich on Sunday, looking to get back on track after a heavy loss to Green Bay last week.",
+          "source": "Patriots.com",
+          "published": "2026-11-12T17:00:01.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/gcjz1tmsmot3annlfp5w.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Racing Bulls confirm 2027 line-up",
+          "url": "https://www.skysports.com/f1/news/12433/13610206/racing-bulls-confirm-liam-lawson-and-arvid-lindblad-as-2027-formula-1-driver-line-up",
+          "tldr": "Racing Bulls have confirmed Liam Lawson and Arvid Lindblad will stay together for a second season in 2027, ending speculation about Lawson's seat.",
+          "source": "Sky Sports",
+          "published": "2026-11-12T11:00:00.000Z",
+          "image": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-liam-lawson-arvid-lindblad_7389969.jpg?20261028160218"
+        },
+        {
+          "tag": "F1",
+          "title": "George Russell launches karting academy",
+          "url": "https://www.motorsport.com/f1/news/george-russell-launches-karting-academy/10874105",
+          "tldr": "George Russell has launched a karting academy with Silverstone, aiming to make motorsport more accessible and find the sport's next young talent.",
+          "source": "Motorsport.com",
+          "published": "2026-11-12T12:18:46.000Z",
+          "image": "https://cdn-2.motorsport.com/images/amp/YvKB3V16/s6/gr63-academy-unveil-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Stats: Verstappen claims second place from lowest grid position since 1983",
+          "url": "https://www.racefans.net/2026/11/12/stats-verstappen-claims-second-place-from-lowest-grid-position-since-1983",
+          "tldr": "Max Verstappen fought back to second place in Brazil from the lowest grid slot of any driver to finish on the podium since 1983.",
+          "source": "RaceFans",
+          "published": "2026-11-12T10:11:49.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-08-17-59-01-3-SI202611080333.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Gray, Contreras earn All-MLB honors after helping fuel Red Sox's turnaround",
+          "url": "https://www.mlb.com/redsox/news/sonny-gray-willson-contreras-2026-all-mlb",
+          "tldr": "Sonny Gray and Willson Contreras have been named to the All-MLB team, honours that reflect their part in the Red Sox's turnaround season.",
+          "source": "MLB.com",
+          "published": "2026-11-12T04:08:30.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/o0hq6du66bzjgm6txkgq.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth",
+    "why": "A growth story worth revisiting on a day full of product launches: how Duolingo's streaks and leaderboards turned small design choices into a 350% acceleration.",
+    "title": "How Duolingo reignited user growth",
+    "subtitle": "The story behind Duolingo's 350% growth acceleration, leaderboards, streaks, notifications, and innovative growth model",
+    "published": "2023-02-28",
+    "words": 4561,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/acd78b4f-7ef1-4ab9-84a3-903e83308449_1456x970.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/426-how-obsession-built-christopher-nolan/id1141877104?i=1000778364358&uo=4",
+      "why": "A study in the kind of obsessive craft Damian admires, and a fitting companion to today's run of film news.",
+      "show": "Founders",
+      "title": "#426 How Obsession Built Christopher Nolan",
+      "published": "2026-07-26",
+      "duration": "51m",
+      "apple": "https://podcasts.apple.com/us/podcast/426-how-obsession-built-christopher-nolan/id1141877104?i=1000778364358&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/alexandr-wang",
+      "why": "Alexandr Wang on building Muse, the AI product at the centre of today's calling-feature news.",
+      "show": "David Senra",
+      "title": "Creating Muse: The Fastest-Growing AI Product Since ChatGPT | Alexandr Wang, Meta",
+      "published": "2026-10-11",
+      "duration": "1h 12m",
+      "apple": "https://podcasts.apple.com/us/podcast/creating-muse-the-fastest-growing-ai-product-since/id1836497887?i=1000795226761&uo=4",
+      "page": "https://www.davidsenra.com/episode/alexandr-wang",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/f0/39/04f039a2-6318-6179-d093-fa3c41dc090d/mza_406662140537295737.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/vanguard",
+      "why": "The story of a company built on low costs and quiet discipline rather than hype, still the newest Acquired episode Damian hasn't heard.",
+      "show": "Acquired",
+      "title": "Vanguard",
+      "published": "2026-05-18",
+      "duration": "3h 48m",
+      "apple": "https://podcasts.apple.com/us/podcast/vanguard/id1050462261?i=1000768328125&uo=4",
+      "page": "https://www.acquired.fm/episodes/vanguard",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5f/ce/91/5fce91ea-be85-67a3-5053-62f49c75315f/mza_4700417078932584699.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Get Up-Close to Cells, Ink, and Insects in the Nikon Small World Photomicrography Contest",
+    "url": "https://www.thisiscolossal.com/2026/11/nikon-small-world-photomicrography-competition-2026-winners",
+    "tldr": "The Nikon Small World photomicrography contest winners are in, giving tiny subjects such as cells, ink and insects their moment on a very big stage.",
+    "source": "Colossal",
+    "published": "2026-11-12T14:51:12.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/photomicography-2026-2.jpg"
+  }
+}
