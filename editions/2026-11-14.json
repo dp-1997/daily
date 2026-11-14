@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-14",
+  "front": [
+    {
+      "title": "Apple HomeView available today",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today",
+      "tldr": "Apple's new HomeView smart home display went on sale today, a single hub for entertainment, communication and managing the home.",
+      "source": "Apple Newsroom",
+      "published": "2026-11-13T13:59:07.218Z",
+      "image": "https://www.apple.com/newsroom/images/2026/11/apple-homeview-available-today/tile/Apple-HomeView-available-3up-lp.jpg.og.jpg?202611131359"
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "tldr": "OpenAI has launched ChatGPT Wallet, letting its agents in ChatGPT Work, Codex and dots complete purchases with user approval and existing card protections.",
+      "source": "OpenAI",
+      "published": "2026-11-13T15:00:00.000Z",
+      "image": ""
+    },
+    {
+      "title": "Tom Brady surprised a Boston bride on her wedding day",
+      "url": "https://www.boston.com/sports/new-england-patriots/2026/11/12/tom-brady-new-england-patriots-nfl-football-wedding-bride-langham",
+      "tldr": "Tom Brady turned up for a lifelong Patriots fan on her wedding day, posing for a photo with the bride before she said her vows.",
+      "source": "Boston.com",
+      "published": "2026-11-13T02:00:58.000Z",
+      "image": "https://www.boston.com/wp-content/themes/bdc-2020/assets/images/feed-placeholder.png"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "AI agent startup LangChain hits $3B valuation",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+          "tldr": "LangChain has reached a $3bn valuation, with the company citing 7,000 customers of LangSmith, its model and platform agnostic tool for managing AI agents.",
+          "source": "TechCrunch",
+          "published": "2026-11-13T19:37:57.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829"
+        },
+        {
+          "title": "ElevenLabs' new app combines meeting note-taking and dictation for teams",
+          "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+          "tldr": "ElevenLabs has launched ElevenAI, a meeting notetaker and dictation app aimed at teams and enterprises, extending the company's voice AI work.",
+          "source": "TechCrunch",
+          "published": "2026-11-13T14:44:48.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774"
+        },
+        {
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "tldr": "Shield's Forge agents, built on OpenAI, now navigate legacy IT portals so technicians can focus on the issues that need their own judgement.",
+          "source": "OpenAI",
+          "published": "2026-11-13T08:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "llm-gemini 0.37",
+          "url": "https://simonwillison.net/2026/Nov/12/llm-gemini",
+          "tldr": "Simon Willison updated his llm-gemini plugin for Gemini 4 Hydrogen, Google's new low-cost Gemini 4 model, priced not far off its bigger siblings.",
+          "source": "Simon Willison",
+          "published": "2026-11-12T22:55:19.000Z",
+          "image": "https://static.simonwillison.net/static/2026/gemini-4-pelicans.webp"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Amazon's new Kindle Colorsoft is a premium e-reader with a premium price",
+          "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price",
+          "tldr": "The new Kindle Colorsoft is lighter and thinner than its predecessor with an edge-to-edge display, though first-generation owners have little reason to upgrade.",
+          "source": "TechCrunch",
+          "published": "2026-11-13T23:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925"
+        },
+        {
+          "title": "This young startup wants to power floating data centers with the ocean's heat",
+          "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board",
+          "tldr": "Drogue is harvesting ocean heat to power floating data centres, with a first prototype expected on the water within two years and investors already on board.",
+          "source": "TechCrunch",
+          "published": "2026-11-13T20:07:24.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900"
+        },
+        {
+          "title": "Whoop Humans is a social network designed for fitness enthusiasts",
+          "url": "https://www.engadget.com/2315689/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts",
+          "tldr": "Whoop, maker of screenless fitness trackers, has launched its own social network, Whoop Humans, for members to share workouts and progress.",
+          "source": "Engadget",
+          "published": "2026-11-13T10:39:44.000Z",
+          "image": "https://www.engadget.com/img/gallery/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/l-intro-1794566195.jpg"
+        },
+        {
+          "title": "Some physical copies of GTA VI can allegedly be redeemed without opening the box",
+          "url": "https://www.engadget.com/2316687/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box",
+          "tldr": "Some international physical copies of GTA VI can reportedly be redeemed without opening the box, making the packaging purely decorative.",
+          "source": "Engadget",
+          "published": "2026-11-13T22:50:13.000Z",
+          "image": "https://www.engadget.com/img/gallery/some-physical-copies-of-gta-vi-can-allegedly-be-redeemed-without-opening-the-box/l-intro-1794609739.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "iOS 27.3 adds three features I've used almost every day",
+          "url": "https://9to5mac.com/2026/11/13/ios-27-3-adds-three-new-features-ive-used-almost-every-day",
+          "tldr": "9to5Mac flags three features in the iOS 27.3 beta, due next month, that its writer has used almost daily since testing began.",
+          "source": "9to5Mac",
+          "published": "2026-11-13T18:56:41.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-3-iphone-fi.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple Maps in iOS 27 has a hidden feature worth loving",
+          "url": "https://9to5mac.com/2026/11/13/apple-maps-in-ios-27-has-hidden-new-feature-ive-been-loving",
+          "tldr": "Of the features iOS 27 added to Apple Maps, 9to5Mac singles out Local Lists, which keeps surfacing fresh updates every week, as its favourite.",
+          "source": "9to5Mac",
+          "published": "2026-11-13T16:59:38.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-maps-ios-27-app-icon-colors.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "title": "iPhone Duo survives 450,000 folds, but its hinge is weakening",
+          "url": "https://www.macrumors.com/2026/11/13/iphone-duo-fold-testing",
+          "tldr": "Three weeks into a CNET livestream stress test, the iPhone Duo has passed 451,000 folds, though its hinge is now showing signs of wear.",
+          "source": "MacRumors",
+          "published": "2026-11-13T18:43:39.000Z",
+          "image": "https://images.macrumors.com/t/Im11BUuuIFrgQlKCgYNZc5nbdm8=/2500x/article-new/2026/10/iPhone-Duo-AAAAAAAHHHHHPP-Icons-Feature.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Production designer Ruth De Jong on how to build ancient worlds for auteurs",
+          "url": "https://www.indiewire.com/features/craft/production-designer-ruth-de-jong-the-odyssey-interview-1235227809",
+          "tldr": "Ruth De Jong talks IndieWire through designing The Odyssey, and her earlier work for David Lynch, Paul Thomas Anderson and Terrence Malick.",
+          "source": "IndieWire",
+          "published": "2026-11-13T22:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDODYS_UV014.jpg?w=650"
+        },
+        {
+          "title": "Seth Rogen on The Invite, Tangles and the best advice he ever got",
+          "url": "https://variety.com/2026/film/awards/seth-rogen-the-invite-tangles-the-studio-season-2-1236946538",
+          "tldr": "At the Middleburg Film Festival, Seth Rogen talks to Variety about The Invite, Tangles, The Studio season two and reviving Darkwing Duck.",
+          "source": "Variety",
+          "published": "2026-11-13T23:16:01.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/Tangles-New-York-Screening-1000.jpg"
+        },
+        {
+          "title": "IndieWire Honors will celebrate John Turturro, the Artificial cast and more",
+          "url": "https://www.indiewire.com/news/events/indiewire-honors-2026-film-awards-1235227778",
+          "tldr": "IndieWire Honors will mark the year in film with awards for John Turturro, Andrew Garfield, Yura Borisov, Monica Barbaro and others.",
+          "source": "IndieWire",
+          "published": "2026-11-13T21:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/IndieWire-Honors-Dec-2026.jpg?w=650"
+        },
+        {
+          "title": "Margot Robbie to star in A24's The Week of Pain",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/margot-robbie-the-week-of-pain-the-drama-kristoffer-borgli-1236754966",
+          "tldr": "Margot Robbie will star in The Week of Pain, from The Drama director Kristoffer Borgli, her first time leading a film for A24.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-13T20:22:32.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Patriots",
+          "title": "Patriots look to bounce back against the Lions in Munich",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/13/patriots-lions-preview-munich-germany-predictions",
+          "tldr": "Coming off a heavy loss to the Packers, the Patriots face Dan Campbell's one-loss Lions in Munich on Sunday, looking to show they can beat a strong opponent.",
+          "source": "Boston.com",
+          "published": "2026-11-13T13:08:04.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/OM3SRPFG4IQVNGHNGY2RDIEUPY-6af6e2609f171-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Hundreds of Scotland's Tartan Army set to attend the Patriots' game in Germany",
+          "url": "https://www.boston.com/news/sports-news/2026/11/12/scotland-tartan-army-set-to-attend-patriots-game-in-germany",
+          "tldr": "Hundreds of members of Scotland's Tartan Army plan to attend Sunday's Patriots-Lions game in Munich, calling it a chance to revisit the city.",
+          "source": "Boston.com",
+          "published": "2026-11-12T23:01:33.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/6YCSMHM7WO6KPBEGICFUETQZ5E-6af62fde658b4-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "James Allison reveals the trick behind Kimi Antonelli's F1 title",
+          "url": "https://www.motorsport.com/f1/news/james-allison-reveals-the-very-adventurous-trick-behind-kimi-antonellis-f1-title/10874402",
+          "tldr": "Mercedes technical director James Allison explains how Kimi Antonelli's bold use of his steering wheel tools helped him become F1's youngest world champion.",
+          "source": "Motorsport.com",
+          "published": "2026-11-13T21:56:05.000Z",
+          "image": "https://cdn-4.motorsport.com/images/amp/0R7BEmE2/s6/motorsport-com-graphics-2026-1.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Las Vegas GP reveals neon sign-inspired trophy design",
+          "url": "https://www.motorsport.com/f1/news/las-vegas-gp-reveals-neon-sign-inspired-trophy-design/10874361",
+          "tldr": "The Las Vegas Grand Prix has unveiled a new winners' trophy, a 3.6kg, 56cm design inspired by the city's neon lights that took six months to develop.",
+          "source": "Motorsport.com",
+          "published": "2026-11-13T16:09:45.000Z",
+          "image": "https://cdn-3.motorsport.com/images/amp/6zoD8dJ0/s6/20949for-2026-f1-trophy206172.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Why are F1 drivers obsessed with padel?",
+          "url": "https://www.formula1.com/en/latest/article/why-f1-drivers-love-padel-as-aston-martin-become-the-latest-to-embrace-the-sport.2n2jOtb63TbalovQuHIIUi",
+          "tldr": "Padel has become increasingly popular among F1 drivers, with Aston Martin the latest team to back the sport through a new racket collection.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Lifestyle/ADHOC/display%20Image%20padel.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Bauers agrees to four-year deal with the Red Sox",
+          "url": "https://www.mlb.com/redsox/news/jake-bauers-4-year-contract-with-red-sox",
+          "tldr": "Jake Bauers, a postseason breakout star for the Brewers, has agreed to a four-year deal with the Red Sox, a source tells MLB.com.",
+          "source": "MLB.com",
+          "published": "2026-11-13T19:02:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/tmdqnegtid15mikeqfxg.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/introducing-the-foundation-sprint",
+    "why": "A guide to getting new projects right from day one, from the creators of the Design Sprint, fitting on a day Apple and OpenAI both shipped something new.",
+    "title": "Introducing the Foundation Sprint: From the creators of the Design Sprint",
+    "subtitle": "An exclusive first look at Jake Knapp and John Zeratsky’s new book, Click, and the new 2-day process for jump-starting big projects right",
+    "published": "2025-01-28",
+    "words": 3849,
+    "image": "https://substackcdn.com/image/fetch/$s_!e6WF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe39ea34-d1a7-4df0-b51a-80a125045630_1600x993.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/437-the-tycoons-carnegie-rockefeller-gould-morgan/id1141877104?i=1000796222878&uo=4",
+      "why": "Carnegie, Rockefeller, Gould and Morgan: the industrialists who built in an earlier age of invention, worth revisiting on a day full of product launches.",
+      "show": "Founders",
+      "title": "#437 The Tycoons: Carnegie, Rockefeller, Gould & Morgan",
+      "published": "2026-10-13",
+      "duration": "54m",
+      "apple": "https://podcasts.apple.com/us/podcast/437-the-tycoons-carnegie-rockefeller-gould-morgan/id1141877104?i=1000796222878&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/vlad-tenev",
+      "why": "Vlad Tenev on building Robinhood, surviving GameStop and a $500 million phone call, a founder's view on building through scrutiny.",
+      "show": "David Senra",
+      "title": "Building Robinhood, Surviving GameStop & A $500 Million Phone Call | Vlad Tenev",
+      "published": "2026-11-11",
+      "duration": "1h 11m",
+      "apple": "https://podcasts.apple.com/us/podcast/building-robinhood-surviving-gamestop-a-%24500/id1836497887?i=1000801172887&uo=4",
+      "page": "https://www.davidsenra.com/episode/vlad-tenev",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/26/22/75/2622755a-1795-afdf-0481-03af59f20002/mza_8783717451831162092.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=cU9uOHRWDmE"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/costco",
+      "why": "The story of Costco's quiet discipline rather than hype, still the newest Acquired episode Damian hasn't heard.",
+      "show": "Acquired",
+      "title": "Costco",
+      "published": "2026-05-02",
+      "duration": "2h 53m",
+      "apple": "https://podcasts.apple.com/us/podcast/costco/id1050462261?i=1000625088063&uo=4",
+      "page": "https://www.acquired.fm/episodes/costco",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7d/1c/80/7d1c8085-9fc7-45da-bdab-9487e6917bcf/mza_677492021207196652.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "The long-lost source for a sample in Craig Mack's 'Flava in Ya Ear' has been found",
+    "url": "https://kottke.org/26/11/0049991-the-long-lost-source-for-",
+    "tldr": "The long-mysterious source of a sample in Craig Mack's 'Flava in Ya Ear' has finally been identified, decades after rap producers took care to disguise their chops.",
+    "source": "Kottke",
+    "published": "2026-11-13T18:01:00.000Z",
+    "image": "https://kottke.org/images/unfurls/thumb-49991-6b3dfe64.jpg"
+  }
+}
