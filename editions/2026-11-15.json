@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-15",
+  "note": "The Patriots play the Lions in Munich and the Celtics host the Mavericks, both today.",
+  "front": [
+    {
+      "title": "Tesla opens Cybercab pre-orders 'for personal use,' with geo restrictions and a $299 monthly fee",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee",
+      "tldr": "Tesla has opened pre-orders for personal Cybercab ownership, limited to certain areas and requiring a $299 monthly software fee. Even Elon Musk said the fee was too high.",
+      "source": "TechCrunch",
+      "published": "2026-11-14T20:04:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834"
+    },
+    {
+      "title": "Here's a HomeView feature that should come to every Apple device",
+      "url": "https://9to5mac.com/2026/11/14/homeview-ambient-dark-mode-should-come-to-all-devices",
+      "tldr": "Apple's new HomeView smart display has an ambient dark mode that softens its screen in low light. 9to5Mac argues the feature should spread to every Apple device.",
+      "source": "9to5Mac",
+      "published": "2026-11-14T17:43:49.000Z",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-faces-grid.jpg?quality=82&strip=all&w=1600"
+    },
+    {
+      "title": "Our writers on Antonelli's title success and what it means",
+      "url": "https://www.formula1.com/en/latest/article/our-writers-on-antonellis-title-success-and-what-it-means.2FAfHA49byUlrrTfVgWKWc",
+      "tldr": "After Kimi Antonelli was crowned the 2026 Formula 1 drivers' champion, Formula1.com's writers gave their take on what his title win means for the sport.",
+      "source": "Formula1.com",
+      "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico/2303049074.webp"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+          "tldr": "Nvidia poured tens of billions into AI startups while Jensen Huang ran the company. Founders and investors now expect smaller cheques and lower valuations without him.",
+          "source": "TechCrunch",
+          "published": "2026-11-13T22:43:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
+        },
+        {
+          "title": "datasette-llm 0.1a11",
+          "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+          "tldr": "Simon Willison released version 0.1a11 of datasette-llm, the plugin that lets other Datasette plugins configure which language models they use.",
+          "source": "Simon Willison",
+          "published": "2026-11-14T23:59:28.000Z",
+          "image": "https://static.simonwillison.net/static/2026/lmstudio-datasette-agent.webp"
+        },
+        {
+          "title": "datasette-vega 0.7",
+          "url": "https://simonwillison.net/2026/Nov/14/datasette-vega",
+          "tldr": "Simon Willison shipped version 0.7 of datasette-vega, Datasette's longest-untouched plugin for Vega-Lite charts: its last release was back in July 2018.",
+          "source": "Simon Willison",
+          "published": "2026-11-14T17:09:09.000Z",
+          "image": "https://static.simonwillison.net/static/2026/datasette-vega.webp"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "This Sony patent would add a credit card reader to your PlayStation controller",
+          "url": "https://www.engadget.com/2313652/sony-patent-playstation-controller-adds-credit-card-reader",
+          "tldr": "Sony has filed a patent for a PlayStation controller with a built-in credit card reader, aimed at easing purchases as the platform moves toward digital-only consoles.",
+          "source": "Engadget",
+          "published": "2026-11-15T00:45:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/this-sony-patent-would-add-a-credit-card-reader-to-your-playstation-controller/l-intro-1793989603.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "HomeView review: a late arrival with promise, but still showing some seams",
+          "url": "https://sixcolors.com/post/2026/11/homeview-review-a-late-arrival-with-promise-but-still-showing-some-seams",
+          "tldr": "Jason Snell says HomeView's hardware is solid and coherent and the screen a pleasure to use, but the software feels like an amalgam of other Apple products.",
+          "source": "Daring Fireball",
+          "published": "2026-11-14T17:45:00.000Z",
+          "image": "https://sixcolors.com/wp-content/uploads/2026/11/homeview-back-6c.png"
+        },
+        {
+          "title": "Indie App Spotlight: 'Milton' lets you turn your old iPad into a home dashboard",
+          "url": "https://9to5mac.com/2026/11/14/indie-app-spotlight-milton-lets-you-turn-your-old-ipad-into-a-home-dashboard",
+          "tldr": "9to5Mac's weekly Indie App Spotlight picks Milton, an app that turns an old iPad into a home dashboard.",
+          "source": "9to5Mac",
+          "published": "2026-11-14T20:30:00.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/37256650cdc1b8807ed7cf263170dc6288a29c048d7fe757a47beb047fd38757.png?w=1600"
+        },
+        {
+          "title": "Apple @ Work: the spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
+          "url": "https://9to5mac.com/2026/11/14/apple-work-the-spiritual-successor-to-the-xserve-is-here-and-apple-never-had-to-ship-an-llm-to-get-there",
+          "tldr": "9to5Mac argues Apple silicon and the MLX framework now do the job the discontinued Xserve once did, without Apple needing to ship its own LLM.",
+          "source": "9to5Mac",
+          "published": "2026-11-14T14:00:00.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Fatherland' Wins Top Camerimage Prize as 'Wild Horse Nine' Nabs Audience Award",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-awards-fatherland-wild-horse-nine-cinematography-1236755483",
+          "tldr": "'Fatherland' won the top prize at the Camerimage film festival, which honours cinematography, with 'Wild Horse Nine' taking the audience award.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-14T20:06:12.000Z",
+          "image": ""
+        },
+        {
+          "title": "Box Office: Johnny Depp's 'Ebenezer' Leads With $6.7 Million on Opening Day",
+          "url": "https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-day-1236947684",
+          "tldr": "'Ebenezer,' Johnny Depp's take on Scrooge, led Friday's box office with $6.7 million on opening day, ahead of 'How to Rob a Bank' at $2.2 million.",
+          "source": "Variety",
+          "published": "2026-11-14T16:05:34.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/MCDEBAC_PA014.jpg"
+        },
+        {
+          "title": "Danny Boyle Talks 'Ink', The Common Architecture Of His Movies And More '28 Years Later' As He Receives The Deadline Legend Award",
+          "url": "https://deadline.com/2026/11/danny-boyle-interview-ink-more-28-years-later-1237224197",
+          "tldr": "Accepting Deadline's Legend Award, Danny Boyle reflected on the common threads running through films from Shallow Grave and Trainspotting to Ink.",
+          "source": "Deadline",
+          "published": "2026-11-15T01:00:33.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2304636878.jpg"
+        },
+        {
+          "title": "'Fatherland,' 'La Bola Negra,' 'Fjord' Lead European Film Award Nominations",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/fatherland-la-bola-negra-european-film-award-nominations-1236754942",
+          "tldr": "Sandra Hüller picked up a dual best actress nomination at the European Film Awards, alongside Renate Reinsve, Sebastian Stan, Penélope Cruz, Javier Bardem and Andrew Scott.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-14T10:30:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics get good injury news ahead of game against Mavericks",
+          "url": "https://www.celticsblog.com/boston-celtics-news/148943/celtics-injury-news-mavericks-game",
+          "tldr": "The Celtics have a clean injury report, with Paul George and the rest of the roster available for Sunday night's home game against the Mavericks.",
+          "source": "CelticsBlog",
+          "published": "2026-11-15T00:09:39.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2265189311.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Celtics",
+          "title": "The NBA is all about fit. Paul George and the Celtics fit together perfectly.",
+          "url": "https://www.celticsblog.com/celtics-analysis/150172/paul-george-celtics-perfect-fit-jayson-tatum-jaylen-brown-analysis",
+          "tldr": "CelticsBlog argues Paul George's game suits Boston's system well, pushing back on narratives about him formed before he joined the Celtics.",
+          "source": "CelticsBlog",
+          "published": "2026-11-14T12:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2304545934.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Mike Vrabel, Patriots embracing Munich ahead of international matchup vs. Lions",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/14/nfl-international-game-germany-patriots-lions",
+          "tldr": "The Patriots play their first ever game in Munich on Sunday. Mike Vrabel marked the trip on Saturday night by tapping a keg of German beer for himself.",
+          "source": "Boston.com",
+          "published": "2026-11-15T01:40:37.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Patriots_Lions_Football_35369-6af90a5653064-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "A.J. Brown is questionable for the Patriots' game against the Lions in Germany",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/13/patriots-lions-injury-report-week-10-germany",
+          "tldr": "A.J. Brown (ankle and knee) and Rhamondre Stevenson (knee) are listed as questionable for the Patriots' Sunday game against the Lions in Munich.",
+          "source": "Boston.com",
+          "published": "2026-11-13T22:49:31.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/S3PB2QP6J7UN7BFJS6MIP63DAU-6af78f6c0bbd2-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Kimi Antonelli meets Italian president Sergio Mattarella",
+          "url": "https://www.motorsport.com/f1/news/kimi-antonelli-meets-italian-president-sergio-mattarella/10874471",
+          "tldr": "New Formula 1 champion Kimi Antonelli met Italian president Sergio Mattarella, part of a run of meetings and celebrations for his title win.",
+          "source": "Motorsport.com",
+          "published": "2026-11-14T10:37:42.000Z",
+          "image": "https://cdn-6.motorsport.com/images/amp/0R7BEaE2/s6/il-presidente-sergio-mattarell.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Toto Wolff's journey from Williams to nine F1 titles",
+          "url": "https://www.formula1.com/en/latest/article/toto-wolffs-journey-from-williams-to-nine-time-champion-with-mercedes.2l85DG3mfUyL5icscw0Gbn",
+          "tldr": "A profile of Toto Wolff's path from racing driver to Mercedes team boss, where he has now matched Sir Frank Williams's record of nine constructors' championships.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Brazil___Practice/2303855635.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "Antonelli names his biggest threat for 2027 title defence",
+          "url": "https://www.formula1.com/en/latest/article/antonelli-identifies-which-driver-poses-the-biggest-threat-to-his-title-defence-in-2027.6qjcpNnf8IerbXck8NpB05",
+          "tldr": "Reigning champion Kimi Antonelli has given his view on which driver poses the biggest threat to his title in 2027, his first season defending it.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_United_States/2301987827.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "What experts are saying about Red Sox reportedly signing 2026 NLCS MVP Jake Bauers",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/11/13/jake-bauers-red-sox-reaction-analysis",
+          "tldr": "Pundits reportedly think Boston got a bargain in signing Jake Bauers, the 2026 NLCS MVP, who fills a need in the Red Sox lineup.",
+          "source": "Boston.com",
+          "published": "2026-11-14T02:16:20.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/ODOLRA6H2BFWRFXFPECNWOYEHI-6af7becfe732e-850x638.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-accelerate-growth-by-focusing",
+    "why": "The ARIA framework for finding growth inside features you've already shipped, rather than chasing new ones, a launch-minded idea for a day full of product news.",
+    "title": "How to accelerate growth by focusing on the features you already have",
+    "subtitle": "Introducing the ARIA framework",
+    "published": "2024-04-16",
+    "words": 3622,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9e605e5-738d-477c-abba-e19c16af824f_2274x1196.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/424-peter-thiel-on-how-to-build-a-creative-monopoly/id1141877104?i=1000776309638&uo=4",
+      "why": "Peter Thiel on building a creative monopoly, a useful lens on the competitive dynamics in the Nvidia and AI funding story today.",
+      "show": "Founders",
+      "title": "#424 Peter Thiel on How to Build a Creative Monopoly",
+      "published": "2026-07-10",
+      "duration": "54m",
+      "apple": "https://podcasts.apple.com/us/podcast/424-peter-thiel-on-how-to-build-a-creative-monopoly/id1141877104?i=1000776309638&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/ben-wilson",
+      "why": "Lessons from Napoleon, Steve Jobs and Joan of Arc on leadership, fitting on a day Apple's newest hardware is being judged against its old standards.",
+      "show": "David Senra",
+      "title": "Lessons from Napoleon, Steve Jobs, Joan of Arc & Other Leaders | Ben Wilson",
+      "published": "2026-10-14",
+      "duration": "1h 11m",
+      "apple": "https://podcasts.apple.com/us/podcast/lessons-from-napoleon-steve-jobs-joan-of-arc-other/id1836497887?i=1000796270200&uo=4",
+      "page": "https://www.davidsenra.com/episode/ben-wilson",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/38/05/8d/38058dad-2cf7-5bb0-db72-0cd824bf9421/mza_15879069794120001383.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=Js7Wf3Lj96A"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/google-the-ai-company",
+      "why": "Google's build-out as an AI company, useful context on the industry Jensen Huang's exit is now unsettling.",
+      "show": "Acquired",
+      "title": "Google Part III: The AI Company",
+      "published": "2025-10-06",
+      "duration": "3h 56m",
+      "apple": "https://podcasts.apple.com/us/podcast/google-part-iii-the-ai-company/id1050462261?i=1000730326283&uo=4",
+      "page": "https://www.acquired.fm/episodes/google-the-ai-company",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/77/d4/eb/77d4eb2e-a30c-44f5-2cca-383d10a86df8/mza_1526797956128173393.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "This week Sony revived its classic Walkman headphones",
+    "url": "https://www.dezeen.com/2026/11/14/this-week-sony-walkman-headphones",
+    "tldr": "Sony has relaunched its original Walkman headphones with colourful foam pads, leaning into 1980s nostalgia.",
+    "source": "Dezeen",
+    "published": "2026-11-14T06:00:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/11/b-sony-mdr-3r-headphones_dezeen_2364_sq-1024x1024.jpg"
+  }
+}
