@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-16",
+  "front": [
+    {
+      "title": "Apple launches research study to explore the use of AI for health",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health",
+      "tldr": "Apple has launched the Apple Health AI Usage Study in the United States, a virtual research study with a companion app exploring how people use AI to answer everyday health questions.",
+      "source": "Apple Newsroom",
+      "published": "2026-11-16T01:18:33.934Z",
+      "image": "https://www.apple.com/newsroom/images/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/tile/Apple-Health-AI-Usage-Study-hero-lp.jpg.og.jpg?202611160119"
+    },
+    {
+      "title": "Tatum scores 32, Celtics set franchise history on the way to 131-94 rout of Mavericks",
+      "url": "https://www.boston.com/sports/boston-celtics/2026/11/15/tatum-scores-32-celtics-set-franchise-history-on-the-way-to-131-94-rout-of-mavericks",
+      "tldr": "Jayson Tatum scored 32 points and Derrick White added 16 as the Celtics routed the Mavericks 131-94, their sixth straight win and 11th in their last 12 games.",
+      "source": "Boston.com",
+      "published": "2026-11-16T01:40:04.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/11/Mavericks_Celtics_Basketball_3_655-6afa5e1fd7ca9-850x638.jpg"
+    },
+    {
+      "title": "Mecanoo transforms former gold vault into 'city's living room' in Amsterdam bank renovation",
+      "url": "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo",
+      "tldr": "Dutch firm Mecanoo has completed a major renovation of the Netherlands' central bank in Amsterdam, dismantling a 14-storey tower and opening the former gold vault as public space.",
+      "source": "Dezeen",
+      "published": "2026-11-15T10:00:00.000Z",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_sq_0-1024x1024.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "tldr": "OpenAI researchers set out a candidate nonperturbative lattice definition of the Standard Model, with the AI system GPT-6 Astra helping turn the idea into a detailed proof.",
+          "source": "OpenAI",
+          "published": "2026-11-15T22:00:01.000Z",
+          "image": ""
+        },
+        {
+          "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+          "tldr": "Bharat Semi has raised a $24 million seed round for its AI-enabled sensor chips, having already secured design wins with companies including General Atomics.",
+          "source": "TechCrunch",
+          "published": "2026-11-15T23:30:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800"
+        },
+        {
+          "title": "Datasette 1.0a43 reaches its streaming milestone, 53% of the way to 1.0",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette",
+          "tldr": "Simon Willison's Datasette project is now 53% through its 1.0 milestone, with streaming exports among the biggest additions in this release, built partly with help from Claude Fable 5.2.",
+          "source": "Simon Willison",
+          "published": "2026-11-15T23:20:27.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Flaming Hydra's new Kickstarter campaign rethinks e-book ownership and digital lending",
+          "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending",
+          "tldr": "A new Kickstarter campaign for Flaming Hydra aims to rethink e-book ownership and digital lending, pitched by its creators as a return to a more open internet.",
+          "source": "TechCrunch",
+          "published": "2026-11-15T18:29:14.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800"
+        },
+        {
+          "title": "Samsung is discontinuing several of its mobile apps in December",
+          "url": "https://www.engadget.com/2313930/samsung-is-discontinuing-these-useful-mobile-apps-in-december",
+          "tldr": "Samsung is retiring several of its mobile apps in December, including augmented reality tools for Galaxy devices, giving users limited time to use them before they go.",
+          "source": "Engadget",
+          "published": "2026-11-15T22:30:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/samsung-is-discontinuing-these-useful-mobile-apps-in-december/l-intro-1793998077.jpg"
+        },
+        {
+          "title": "TechCrunch Mobility: The Nvidia backup plan for China's self-driving industry",
+          "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry",
+          "tldr": "TechCrunch's Mobility newsletter examines Nvidia's backup plan for China's self-driving industry, as AI takes an increasingly central role in autonomous vehicle development.",
+          "source": "TechCrunch",
+          "published": "2026-11-15T17:05:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "The new Apple TV has twice as much RAM as the previous model, but apps and games can't use it",
+          "url": "https://9to5mac.com/2026/11/15/new-apple-tv-ram-limit",
+          "tldr": "Apple's new Apple TV 4K ships with an A19 chip, 128GB of storage and 8GB of RAM, double the memory of the previous model, though apps and games cannot yet use the extra capacity.",
+          "source": "9to5Mac",
+          "published": "2026-11-15T15:57:57.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-ram-memory-limit.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Writing With Fire' directors' Himalayan Story Lab unveils fourth cohort, taps Payal Kapadia and Shaunak Sen as mentors",
+          "url": "https://variety.com/2026/film/asia/writing-with-fire-directors-fourth-himalayan-story-lab-cohort-1236947650",
+          "tldr": "Oscar-nominated 'Writing With Fire' directors Rintu Thomas and Sushmit Ghosh have launched the fourth cohort of their Himalayan Story Lab documentary fellowship, with Payal Kapadia and Shaunak Sen joining as mentors.",
+          "source": "Variety",
+          "published": "2026-11-16T03:30:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/Himalayan-lab.jpg"
+        },
+        {
+          "title": "'Toy Story 5' producer reflects on technology's growing complexity, including a curly hair tool built for Blaze",
+          "url": "https://deadline.com/2026/11/toy-story-5-producer-interview-1237224163",
+          "tldr": "Toy Story 5 producer Lindsey Collins said the film's technology, including a curly hair tool built specifically for new character Blaze, shows how far Pixar's tools have advanced since A Bug's Life and Ratatouille.",
+          "source": "Deadline",
+          "published": "2026-11-15T00:05:58.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/Lindsey-Collins-Toy-Story-5-Contenders-1.jpg"
+        },
+        {
+          "title": "Johnny Depp's 'Ebenezer' opens to No. 1 with $19 million, 'How to Rob a Bank' stumbles with $5 million debut",
+          "url": "https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-weekend-how-to-rob-a-bank-1236948055",
+          "tldr": "Johnny Depp's Christmas film 'Ebenezer' opened at number one with $19 million from 3,535 North American theatres, while 'How to Rob a Bank' debuted a distant fifth with $5 million.",
+          "source": "Variety",
+          "published": "2026-11-15T16:20:53.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/ebenezer.png"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Patriots",
+          "title": "Final: Lions 35, Patriots 10. Drake Maye injured during lopsided loss in Munich",
+          "url": "https://www.boston.com/new-england-patriots/live/patriots-vs-lions-live-coverage-a-j-brown-rhamondre-stevenson-officially-listed-as-active-for-matchup-in-germany",
+          "tldr": "Drake Maye left in the first quarter and did not return as the Patriots lost 35-10 to the Lions in Munich, in what has become a difficult season for New England.",
+          "source": "Boston.com",
+          "published": "2026-11-15T13:22:25.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Gibbs-Patriots-Lions-Munich-6af9eb7d4d520-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Kimi Antonelli names biggest threat to 2027 title defence as he warns Mercedes advantage may fade",
+          "url": "https://www.motorsport.com/f1/news/kimi-antonelli-names-biggest-threat-to-2027-title-defence-as-he-warns-mercedes-advantage-may-fade/10874729",
+          "tldr": "2026 champion Kimi Antonelli has named Red Bull's Max Verstappen as the biggest threat to his 2027 title defence, warning that Mercedes' current advantage may not last.",
+          "source": "Motorsport.com",
+          "published": "2026-11-15T22:26:14.000Z",
+          "image": "https://cdn-5.motorsport.com/images/amp/6O7zrGw6/s6/motorsport-com-graphics-2026-1.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Piastri on his tough 2026 and why it could make him stronger",
+          "url": "https://www.formula1.com/en/latest/article/exclusive-piastri-on-taming-the-mcl40-redefining-success-and-why-a-tough-2026-could-make-him-stronger.qz9mVgFRNxNey7waRfq83",
+          "tldr": "McLaren's Oscar Piastri reflected on a difficult 2026 season, saying the struggle to tame the MCL40 could ultimately make him a stronger driver next year.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/McLaren/EXCLUSIVE_INTERVIEW_ADHOC%20FEATURE%20V4%20DISPLAY%20(4).webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "The nasty pitch that could help Aroldis evolve",
+          "url": "https://www.mlb.com/redsox/news/aroldis-chapman-evolving-with-nasty-splitter",
+          "tldr": "Red Sox closer Aroldis Chapman is working on a new splitter that could add another dangerous weapon to his pitching arsenal.",
+          "source": "MLB.com",
+          "published": "2026-11-15T14:12:21.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/rymxotmzxwg2grpmhker.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/why-pms-are-best-positioned-to-thrive",
+    "why": "A reminder that product marketers' storytelling instincts are an edge as AI reshapes the job, worth revisiting on a day Apple and OpenAI both pushed new AI initiatives.",
+    "title": "Why PMs are best positioned to thrive in an AI world",
+    "subtitle": "An optimistic case for the future of product management",
+    "published": "2024-08-20",
+    "words": 1381,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5db0ed6-5e36-4539-803f-838510dff630_3714x2000.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/421-jony-ive/id1141877104?i=1000772060625&uo=4",
+      "why": "Ive's lifelong devotion to craft and simplicity pairs naturally with today's Apple hardware stories and Damian's own interest in design and taste.",
+      "show": "Founders",
+      "title": "#421 Jony Ive",
+      "published": "2026-06-10",
+      "duration": "53m",
+      "apple": "https://podcasts.apple.com/us/podcast/421-jony-ive/id1141877104?i=1000772060625&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/michael-rubin",
+      "why": "New this week: Fanatics founder Michael Rubin on starting a ski shop at 13 and building a sports retail empire, in Senra's trademark relentless-founder style.",
+      "show": "David Senra",
+      "title": "What It Means to Be a “Real” Entrepreneur | Michael Rubin, Fanatics",
+      "published": "2026-11-15",
+      "duration": "1h 08m",
+      "apple": "https://podcasts.apple.com/us/podcast/what-it-means-to-be-a-real-entrepreneur-michael/id1836497887?i=1000802049206&uo=4",
+      "page": "https://www.davidsenra.com/episode/michael-rubin",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8f/cc/1f/8fcc1f6a-b817-c8f5-95e8-064be4641a47/mza_10301725708771821740.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/alphabet-inc",
+      "why": "Picking up where the recently covered Google AI episode left off, this look at the creation of Alphabet suits a day full of AI news from Apple and OpenAI.",
+      "show": "Acquired",
+      "title": "Google Part II: Alphabet",
+      "published": "2025-08-26",
+      "duration": "4h 02m",
+      "apple": "https://podcasts.apple.com/us/podcast/google-part-ii-alphabet/id1050462261?i=1000723582204&uo=4",
+      "page": "https://www.acquired.fm/episodes/alphabet-inc",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/84/e2/9f/84e29f13-dc8c-7bab-e12d-326bd02a4875/mza_17192775422872785600.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Tant A Temps Design restores the visual characteristics of Tang architecture in Chinese cafe",
+    "url": "https://www.dezeen.com/2026/11/15/tant-a-temps-design-tang-architecture-cafe-laibei-1087-china",
+    "tldr": "Tant A Temps Design revived the aesthetics of China's Tang Dynasty for the interiors of Laibei 1087, a cafe inside a historic building in Xi'an.",
+    "source": "Dezeen",
+    "published": "2026-11-15T18:00:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/11/tant-a-temp-design-laibei-1087-interior-cafe-sq_dezeen_2364_col_0-1024x1024.jpg"
+  }
+}
