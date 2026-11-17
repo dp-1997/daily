@@ -1,0 +1,318 @@
+{
+  "date": "2026-11-17",
+  "front": [
+    {
+      "title": "Robert Pattinson is cast as James Bond",
+      "url": "https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683",
+      "tldr": "Robert Pattinson has been cast as James Bond. The actor called it a 'dream come true' today, describing 007 as one of the most legendary characters in cinema.",
+      "source": "Deadline",
+      "published": "2026-11-16T21:23:15.000Z",
+      "image": "https://deadline.com/wp-content/uploads/2024/07/GettyImages-2158581935-e1733371910417.jpg"
+    },
+    {
+      "title": "Hands-on with the iPhone Duo's new face unlock",
+      "url": "https://www.macrumors.com/2026/11/16/iphone-duo-face-unlock-hands-on",
+      "tldr": "Apple's iOS 27.3 beta 2 adds a way to unlock the foldable iPhone Duo with its front camera, partially solving a common complaint about the device. MacRumors tried it out ahead of release.",
+      "source": "MacRumors",
+      "published": "2026-11-16T23:27:28.000Z",
+      "image": "https://images.macrumors.com/t/WYX-4dZbdfz-OGjCo01S6dzoqWs=/2500x/article-new/2026/11/iOS-27.3-Beta-2-Thumb-1.jpg"
+    },
+    {
+      "title": "OpenAI gives 200,000 researchers worldwide free access to its AI models",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "tldr": "OpenAI is expanding its ChatGPT for Academic Researchers programme to give 200,000 scientists worldwide free access to its frontier models.",
+      "source": "OpenAI",
+      "published": "2026-11-16T17:00:00.000Z",
+      "image": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "How 1,800 scientists are using ChatGPT in research",
+          "url": "https://openai.com/index/science-at-the-frontier",
+          "tldr": "OpenAI surveyed more than 1,800 scientists on how they use ChatGPT in research, looking at daily workflows, productivity and expectations for scientific discovery.",
+          "source": "OpenAI",
+          "published": "2026-11-16T12:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "AI cybersecurity startup Corma hits $1bn valuation in three months",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+          "tldr": "AI cybersecurity startup Corma has raised a $125 million Series A led by NEA, reaching a $1 billion valuation just three months after launching its product.",
+          "source": "TechCrunch",
+          "published": "2026-11-16T23:32:32.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600"
+        },
+        {
+          "title": "The King's Trust and OpenAI launch £1m partnership for young people",
+          "url": "https://openai.com/index/the-kings-trust-and-openai",
+          "tldr": "The King's Trust and OpenAI have launched a £1 million partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+          "source": "OpenAI",
+          "published": "2026-11-16T00:00:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Google Maps can now build full holiday trip itineraries",
+          "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop",
+          "tldr": "New Ask Maps features let you plan holiday road trips, get route tips, find local appointments and search your saved lists.",
+          "source": "TechCrunch",
+          "published": "2026-11-16T14:48:13.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800"
+        },
+        {
+          "title": "Meta tests Direct, a standalone Instagram messaging app",
+          "url": "https://www.engadget.com/2318452/meta-is-testing-direct-a-standalone-messaging-app-for-instagram",
+          "tldr": "Meta is testing Direct, a standalone direct-messaging app for Instagram, currently available only in Turkey and Thailand.",
+          "source": "Engadget",
+          "published": "2026-11-17T01:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/meta-is-testing-direct-a-standalone-messaging-app-for-instagram/l-intro-1794862378.jpg"
+        },
+        {
+          "title": "Island turns cutting your screen time into a farming game",
+          "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game",
+          "tldr": "YC-backed app Island turns screen-time goals into a farming game, rewarding users with new crops and animals when they stick to their limits.",
+          "source": "TechCrunch",
+          "published": "2026-11-16T18:54:18.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/island-graphic.png?resize=1200,586"
+        },
+        {
+          "title": "Tesla puts €3bn into Berlin gigafactory for Cybercab production",
+          "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion",
+          "tldr": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin gigafactory.",
+          "source": "TechCrunch",
+          "published": "2026-11-16T18:21:14.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Tesla-cybercab-Getty.jpg?resize=1200,900"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "iPhone Duo's alarms and calls get quieter with iOS 27.3",
+          "url": "https://9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update",
+          "tldr": "Apple's next iOS update brings one of Face ID's quieter features to the iPhone Duo, making alarms, timers and phone calls less disruptive.",
+          "source": "9to5Mac",
+          "published": "2026-11-17T03:15:50.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-Duo-Attention-Aware-Features-FI-Fixed.png?w=1600"
+        },
+        {
+          "title": "Twice as many apps are now optimised for the iPhone Duo",
+          "url": "https://9to5mac.com/2026/11/16/iphone-duo-now-has-twice-as-many-optimized-apps-as-it-did-10-days-ago",
+          "tldr": "Apple says the number of iPhone Duo-optimised apps on the App Store has doubled since it last reported the figure, according to marketing chief Greg Joswiak.",
+          "source": "9to5Mac",
+          "published": "2026-11-16T20:18:40.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-15.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple News+ puzzles are coming to the UK",
+          "url": "https://www.macrumors.com/2026/11/16/apple-news-puzzles-expanding",
+          "tldr": "Apple News+ puzzles are expanding to subscribers in the UK, Australia and French Canada with the 27.3 software updates.",
+          "source": "MacRumors",
+          "published": "2026-11-16T19:43:43.000Z",
+          "image": "https://images.macrumors.com/t/A5Ka_Jn6_ySOoBF0pY_CFi9x6B8=/2000x/article-new/2025/06/apple-news-plus-emoji-game.jpg"
+        },
+        {
+          "title": "Apple TV lands two Grammy nominations for 'Schmigadoon!' and 'Widow's Bay'",
+          "url": "https://9to5mac.com/2026/11/16/schmigadoon-and-widows-bay-land-apple-tv-two-grammy-nominations",
+          "tldr": "Apple TV picked up two Grammy nominations, one of them for the cancelled musical comedy 'Schmigadoon!', an unlikely awards success story.",
+          "source": "9to5Mac",
+          "published": "2026-11-16T22:20:37.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo-large.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Brad Pitt explains why Leonardo DiCaprio's cameo fell through",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-explains-leonardo-dicaprio-cameo-cliff-booth-fell-apart-1236756581",
+          "tldr": "Brad Pitt told the Hollywood Reporter at the LA premiere that a Rick Dalton cameo from Leonardo DiCaprio in the Cliff Booth sequel would have needed too many prosthetics.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-17T02:59:56.000Z",
+          "image": ""
+        },
+        {
+          "title": "Christopher Nolan could help save physical media next",
+          "url": "https://www.slashfilm.com/2318727/christopher-nolan-helped-rescue-theaters-save-physical-media",
+          "tldr": "Best Buy is returning to physical media sales with 'The Odyssey', and Christopher Nolan may end up helping save the format just as he helped save cinemas.",
+          "source": "/Film",
+          "published": "2026-11-17T01:26:39.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/christopher-nolan-helped-rescue-theaters-now-he-could-save-physical-media/l-intro-1794878778.jpg"
+        },
+        {
+          "title": "Del Toro's Frankenstein director's cut changes the film with one scene",
+          "url": "https://www.slashfilm.com/2314083/guillermo-del-toro-frankenstein-director-cut-movie-changes",
+          "tldr": "A newly released director's cut of Guillermo del Toro's 'Frankenstein' adds just eight extra minutes, but one new scene changes how the whole film plays.",
+          "source": "/Film",
+          "published": "2026-11-16T20:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/guillermo-del-toros-frankenstein-directors-cut-totally-changes-the-movie-with-one-scene/l-intro-1794425685.jpg"
+        },
+        {
+          "title": "'Spider-Man: Brand New Day' returns to cinemas with new scenes in December",
+          "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654",
+          "tldr": "The re-release of 'Spider-Man: Brand New Day', with previously unseen footage, hits theatres on 4 December. Tickets go on sale 19 November.",
+          "source": "Variety",
+          "published": "2026-11-16T23:00:00.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/MixCollage-16-Nov-2026-02-49-PM-8729.jpg"
+        },
+        {
+          "title": "'Minotaur' review: Zvyagintsev's riveting comeback",
+          "url": "https://www.indiewire.com/criticism/movies/minotaur-movie-review-andrey-zvyagintsev-1235194820",
+          "tldr": "Andrey Zvyagintsev, director of 'Loveless' and 'Leviathan', returns with an adultery thriller that reworks familiar territory into something IndieWire calls engrossing and icily gripping.",
+          "source": "IndieWire",
+          "published": "2026-11-16T21:45:18.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screenshot-2026-05-09-at-10.22.34 PM.png?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Magic end Celtics' six-game win streak with 115-105 win",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/16/magic-rally-in-4th-to-beat-celtics-115-105-end-bostons-6-game-win-streak",
+          "tldr": "Orlando rallied in the fourth quarter to beat Boston 115-105 on the back end of a back-to-back, ending the Celtics' six-game winning streak. Jayson Tatum had 24 points and 12 rebounds.",
+          "source": "Boston.com",
+          "published": "2026-11-17T03:18:44.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Magic_Celtics_Basketball_68399-6afbc61867bd3-850x638.jpg"
+        },
+        {
+          "tag": "Celtics",
+          "title": "Celtics set franchise record for first-quarter lead in Mavericks blowout",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/15/jayson-tatum-celtics-stifle-mavericks-in-dominant-performance-9-takeaways",
+          "tldr": "The Celtics set a franchise record for a first-quarter lead against the Mavericks, the widest margin seen in an NBA game after one quarter since 1987.",
+          "source": "Boston.com",
+          "published": "2026-11-16T04:35:44.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Mavericks_Celtics_Basketball_3_655-6afa87fd04efa-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots' Drake Maye could miss an extended period with leg injury",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/16/drake-maye-injury-update-report-patriots-lions",
+          "tldr": "Drake Maye exited Sunday's loss in Munich in the first quarter and did not return. The Patriots fear he has suffered a significant lower leg injury.",
+          "source": "Boston.com",
+          "published": "2026-11-16T13:19:04.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Drake-Maye-Injury-Report-Patriots-Lions-6afaf6ff19ebf-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots blown out 35-10 by Lions in Germany",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/16/patriots-loss-lions-germany-reaction",
+          "tldr": "The Lions, led by running back Jahmyr Gibbs, routed the Patriots 35-10 in Germany, with the game effectively over long before the final whistle.",
+          "source": "Boston.com",
+          "published": "2026-11-16T13:32:21.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/EQKI77RGUS2JAS2BYL7F4ULOQY-6afa34c7a1678-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "What's still left to fight for in F1 2026",
+          "url": "https://www.autosport.com/f1/news/what-is-left-to-fight-for-in-f1-2026/10874769",
+          "tldr": "Kimi Antonelli has already secured his maiden title as Formula 1's youngest world champion, but a five-way battle for second place in the standings is still open.",
+          "source": "Autosport",
+          "published": "2026-11-16T09:28:44.000Z",
+          "image": "https://cdn-9.motorsport.com/images/amp/YpbAX7g0/s6/lewis-hamilton-ferrari-max-ver-3.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Williams and Aston Martin reveal special liveries for Las Vegas GP",
+          "url": "https://www.motorsport.com/f1/news/williams-aston-martin-among-new-f1-liveries-for-las-vegas-gp-as-acura-replaces-honda/10874925",
+          "tldr": "Both teams have revamped their cars for this weekend's Las Vegas Grand Prix, F1's third and final US race of the season.",
+          "source": "Motorsport.com",
+          "published": "2026-11-16T18:45:08.000Z",
+          "image": "https://cdn-8.motorsport.com/images/amp/2GdKxKQY/s6/williams-las-vegas-livery.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "F1 poised to take crucial step towards V8 engines' return",
+          "url": "https://www.the-race.com/formula-1/f1-poised-to-take-crucial-step-towards-v8-engines-return",
+          "tldr": "Formula 1 manufacturers were set to back new regulations on Monday, a step towards bringing V8 engines back to the sport.",
+          "source": "The Race",
+          "published": "2026-11-16T07:11:53.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Spacesuit-CE-F1-MXGP-31-10-26-0550.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "The Red Sox prospects who need protecting before Tuesday's 40-man deadline",
+          "url": "https://www.mlb.com/redsox/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
+          "tldr": "Boston faces Tuesday's 40-man roster deadline, with a group of ranked prospects needing to be protected before then.",
+          "source": "MLB.com",
+          "published": "2026-11-17T02:42:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/n0q9izvzsdfo224eqhm0.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Jon Lester debuts on the Hall of Fame ballot, Pedroia returns for third year",
+          "url": "https://www.mlb.com/redsox/news/baseball-hall-of-fame-ballot-2027",
+          "tldr": "Jon Lester appears on the Baseball Hall of Fame ballot for the first time, with Dustin Pedroia back for a third year of eligibility.",
+          "source": "MLB.com",
+          "published": "2026-11-16T17:04:53.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/jfyyrzfu9ybtlsyuzywi.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-the-most-successful-b2b-startups",
+    "why": "A look at how founders actually found their original ideas, good grounding for a day full of launches and casting decisions, from the iPhone Duo to James Bond's new leading man.",
+    "title": "How the most successful B2B startups came up with their original idea",
+    "subtitle": "Part one of my seven-part series on kickstarting and scaling a B2B business",
+    "published": "2023-08-08",
+    "words": 8453,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F356b3df7-4ec3-4961-ba71-33d674a1ca92_2318x1204.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/420-steve-jobs-in-exile/id1141877104?i=1000771074198&uo=4",
+      "why": "A back-catalogue pick on Steve Jobs, one of the product operators Damian studies closely, for a day led by Apple hardware news.",
+      "show": "Founders",
+      "title": "#420 Steve Jobs In Exile",
+      "published": "2026-06-04",
+      "duration": "54m",
+      "apple": "https://podcasts.apple.com/us/podcast/420-steve-jobs-in-exile/id1141877104?i=1000771074198&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/michael-ovitz-2",
+      "why": "Michael Ovitz co-founded Hollywood talent agency CAA, a fitting listen on the day Robert Pattinson's casting as James Bond dominates the film news.",
+      "show": "David Senra",
+      "title": "Michael Ovitz, Co-founder of CAA",
+      "published": "2026-08-09",
+      "duration": "1h 07m",
+      "apple": "https://podcasts.apple.com/us/podcast/michael-ovitz-co-founder-of-caa/id1836497887?i=1000781174011&uo=4",
+      "page": "https://www.davidsenra.com/episode/michael-ovitz-2",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/6d/e7/316de7cd-9000-7869-da40-a812de08a3e5/mza_13016933703227782249.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=SHh03lzOJz0"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis",
+      "why": "A milestone conversation with master storyteller Michael Lewis, resonant for a broadcast-journalist-turned-marketer who studies how the best stories get told.",
+      "show": "Acquired",
+      "title": "10 Years of Acquired (with Michael Lewis)",
+      "published": "2025-12-15",
+      "duration": "2h 38m",
+      "apple": "https://podcasts.apple.com/us/podcast/10-years-of-acquired-with-michael-lewis/id1050462261?i=1000741297651&uo=4",
+      "page": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/b3/bf/5bb3bf66-cb58-d65c-f994-74f680e2bb34/mza_10419917004390918792.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "A short animation chronicles a life told through handwriting",
+    "url": "https://www.thisiscolossal.com/2026/11/paper-trail-animal-don-hertzfeldt",
+    "tldr": "The short animation 'Paper Trail' traces the evolution of a young mind through the notes and lists it leaves behind, a quiet reminder of what handwriting can tell us about a life.",
+    "source": "Colossal",
+    "published": "2026-11-16T18:47:00.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/Paper-Trail-2.gif"
+  }
+}
