@@ -1,0 +1,292 @@
+{
+  "date": "2026-11-18",
+  "front": [
+    {
+      "title": "Hollywood Reacts to Robert Pattinson's James Bond Casting",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/hollywood-celebs-react-robert-pattinson-james-bond-casting-1236757856",
+      "tldr": "Robert Pattinson has been cast as the next James Bond, taking over from Daniel Craig, who ended his run with No Time to Die in 2021. Florence Pugh, Brad Pitt and others reacted to the news.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-11-18T00:06:22.000Z",
+      "image": ""
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "tldr": "OpenAI has launched GPT-6.2 Astra and Sol, successors to its Astra and Sol models, promising better coding, computer use and professional outputs at lower cost across ChatGPT Work, Codex and the API.",
+      "source": "OpenAI",
+      "published": "2026-11-17T17:45:00.000Z",
+      "image": ""
+    },
+    {
+      "title": "Dezeen launches 20x20 project to find the designers to watch over the next 20 years",
+      "url": "https://www.dezeen.com/2026/11/17/dezeen-20x20-birthday",
+      "tldr": "To mark its 20th birthday, Dezeen asked 20 influential architects and designers, including Bjarke Ingels, to each name one person they believe will shape design over the next two decades.",
+      "source": "Dezeen",
+      "published": "2026-11-17T12:26:29.000Z",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/20x20-series-dezeen_dezeen_2364_col_0-1024x1024.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+          "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
+          "tldr": "Amazon will own just under 15% of Anthropic after its IPO, with room to go higher, and Google holds nearly 14%, making the pair close to a third of the AI firm between them.",
+          "source": "TechCrunch",
+          "published": "2026-11-17T22:29:05.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721"
+        },
+        {
+          "title": "Google makes Gemini's Task mode free in six countries",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+          "tldr": "Tasks in Gemini, which can handle calls and purchases on a user's behalf, is now free in six countries, with new features rolling out first in the US and deeper Google Workspace integration.",
+          "source": "Google",
+          "published": "2026-11-17T17:00:00.000Z",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp"
+        },
+        {
+          "title": "External sandboxes for coding agents",
+          "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents",
+          "tldr": "Simon Willison has been exploring new ways to sandbox code written by AI agents, aiming to make it safer to try local models without worrying a mistake does real damage.",
+          "source": "Simon Willison",
+          "published": "2026-11-17T22:52:29.000Z",
+          "image": "https://static.simonwillison.net/static/2026/sandbox-proxy.png"
+        },
+        {
+          "title": "Proton's Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+          "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
+          "tldr": "Proton has launched Lumo Desktop for Windows, Mac and Linux, letting users automate tasks across files and connected apps with granular control over what its AI assistant can access.",
+          "source": "TechCrunch",
+          "published": "2026-11-17T17:32:25.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Waymo suspends freeway rides nationwide after California DMV order",
+          "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order",
+          "tldr": "Waymo has paused all freeway robotaxi rides after California's DMV said the operations were an imminent hazard to public safety, following an incident where a driverless car passed a slowing patrol vehicle.",
+          "source": "TechCrunch",
+          "published": "2026-11-17T19:49:41.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/11/SF_WAYMO-FREEWAY_FRONT.jpg?resize=1200,801"
+        },
+        {
+          "title": "Stripe backer Atomico calls for Europe to own its success stories",
+          "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories",
+          "tldr": "Venture firm Atomico's latest State of European Tech report argues Europe should take more ownership of its fast-growing companies, noting the continent is already home to many of the world's biggest.",
+          "source": "TechCrunch",
+          "published": "2026-11-18T00:01:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Tom-Wehmeier-Atomico.jpg?resize=1200,800"
+        },
+        {
+          "title": "Daydream's new AI agent acts as your personal stylist, and can shop for you too",
+          "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too",
+          "tldr": "Daydream has launched an AI shopping agent that remembers your style, lets you virtually try on clothes, plans outfits from your existing wardrobe, tracks sales and can complete purchases for you.",
+          "source": "TechCrunch",
+          "published": "2026-11-17T16:32:55.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/2daydream-agent-1.jpeg?w=1024"
+        },
+        {
+          "title": "You can now see and edit what Google Gemini remembers about you",
+          "url": "https://www.engadget.com/2315475/google-gemini-memory-summary-see-what-remembers-about-you",
+          "tldr": "Google has added a way to view and edit the memory Gemini keeps about you, giving users a direct way to shape how the AI responds based on what it has learned.",
+          "source": "Engadget",
+          "published": "2026-11-18T00:00:00.000Z",
+          "image": "https://www.engadget.com/img/gallery/you-can-now-see-and-edit-what-google-gemini-remembers-about-you/l-intro-1794427961.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Final Cut Pro 13 adds MotionVFX and more to Creator Studio",
+          "url": "https://www.macstories.net/news/final-cut-pro-13-adds-motionvfx-and-more-to-creator-studio",
+          "tldr": "Apple has released one of its biggest Final Cut Pro updates since it joined Creator Studio, adding thousands of MotionVFX templates, titles and transitions after acquiring the company earlier this year.",
+          "source": "MacStories",
+          "published": "2026-11-17T18:00:01.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/10/27/apple-creator-studio-final-cut-pro-motionvfx-261027-1793113245739-88898398dc.jpg"
+        },
+        {
+          "title": "Apple blames internal update for outage, says it wasn't a cyberattack",
+          "url": "https://www.macrumors.com/2026/11/17/apple-outage-internal-update",
+          "tldr": "Apple has largely resolved outages affecting iCloud accounts and retail stores, telling Bloomberg the disruption was caused by an unspecified internal update rather than a cyberattack.",
+          "source": "MacRumors",
+          "published": "2026-11-17T21:54:04.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/01/Apple-Logo-Black.jpeg"
+        },
+        {
+          "title": "Report: iPhone set to gain market share in 2027 amid industry-wide slump",
+          "url": "https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump",
+          "tldr": "Apple could see iPhone shipments rise 7% next year, giving it a 26% share of global smartphone shipments even as the wider industry slows, according to a new report.",
+          "source": "9to5Mac",
+          "published": "2026-11-17T22:07:22.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Denis Villeneuve says 'Dune: Part Three' is 'something even better' than the first two films",
+          "url": "https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247",
+          "tldr": "Denis Villeneuve has called Dune: Part Three his favourite of the trilogy so far, telling GQ the third film is even better than the first two, without yet revealing further detail.",
+          "source": "Deadline",
+          "published": "2026-11-17T23:41:16.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/denis-villeneuve-dune-part-three.jpg"
+        },
+        {
+          "title": "A24's TV division is quietly having as strong a year as its film team",
+          "url": "https://www.indiewire.com/news/business/a24-tv-division-istrong-2026-crystal-lake-1235228517",
+          "tldr": "With shows including Crystal Lake, Euphoria and Margo's Got Money Troubles, A24 has ramped up its television output and landed shows on nearly every major streamer this year.",
+          "source": "IndieWire",
+          "published": "2026-11-17T22:15:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/10/NUP_211121_00008.jpg?w=650"
+        },
+        {
+          "title": "Jeff Daniels set for Ramy Youssef's 'Martha & Muhammad' at A24",
+          "url": "https://deadline.com/2026/11/jeff-daniels-ramy-youssef-martha-muhammad-1237227139",
+          "tldr": "Jeff Daniels is joining Ramy Youssef's A24 comedy Martha & Muhammad, alongside previously announced co-stars Amanda Seyfried and Sharon Stone, though plot details remain under wraps.",
+          "source": "Deadline",
+          "published": "2026-11-17T23:10:00.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/Jeff-Daniels-Ramy-Youssef.jpg"
+        },
+        {
+          "title": "Project Hail Mary's animation supervisor explains the huge impact of Rocky's tiny movements",
+          "url": "https://www.slashfilm.com/2316134/project-hail-mary-animation-supervisor-impact-rocky-movements",
+          "tldr": "Animation supervisor Arslan Elver says the small, subtle movements of the character Rocky were crucial to making him work on screen in Project Hail Mary.",
+          "source": "/Film",
+          "published": "2026-11-17T20:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/project-hail-marys-animation-supervisor-explains-the-huge-impact-of-rockys-tiny-movements/l-intro-1794589887.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics get good injury news ahead of game vs. Nuggets",
+          "url": "https://www.celticsblog.com/boston-celtics-news/150441/celtics-injury-report-denver-nuggets-neemias-queta",
+          "tldr": "The Celtics will be at full strength to face the Denver Nuggets on Wednesday, with Neemias Queta, who sat out Monday to rest, fully available again.",
+          "source": "CelticsBlog",
+          "published": "2026-11-17T23:37:51.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2304161941.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots QB targets after Drake Maye injury include Will Levis, Jimmy Garoppolo",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/144609/5-quarterbacks-patriots-could-targets-drake-maye",
+          "tldr": "After Drake Maye suffered a potentially season-ending ankle fracture, head coach Mike Vrabel indicated the Patriots could look to the free-agent quarterback market, with Will Levis and Jimmy Garoppolo among the names mentioned.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-17T16:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-1915089525.jpg?quality=90&strip=all&crop=0,0,96.855322265625,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Alonso, Loeb join Aston Martin for 2027 Dakar Rally",
+          "url": "https://www.autosport.com/dakar/news/alonso-loeb-join-aston-martin-for-2027-dakar-rally/10875003",
+          "tldr": "Two-time F1 champion Fernando Alonso will headline Aston Martin's factory entry into the 2027 Dakar Rally, joining Sebastien Loeb and Lucas Moraes in a star-studded line-up.",
+          "source": "Autosport",
+          "published": "2026-11-17T09:01:58.000Z",
+          "image": "https://cdn-9.motorsport.com/images/amp/6n7bvPO0/s6/fernando-alonso-aston-martin-3.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Oscar Piastri set for grid penalty at F1 Las Vegas GP",
+          "url": "https://www.motorsport.com/f1/news/oscar-piastri-set-for-grid-penalty-at-f1-las-vegas-gp/10875180",
+          "tldr": "McLaren's Oscar Piastri faces a 10-place grid drop at the Las Vegas Grand Prix after exceeding his season's engine allowance, having already been at the limit of internal combustion engines used.",
+          "source": "Motorsport.com",
+          "published": "2026-11-18T00:21:42.000Z",
+          "image": "https://cdn-4.motorsport.com/images/amp/YpbAXoM0/s6/oscar-piastri-mclaren.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Mercedes confirm ADUO turbo upgrade ready for Las Vegas GP with Kimi Antonelli set to run new engine part",
+          "url": "https://www.skysports.com/f1/news/12433/13613272/mercedes-confirm-aduo-turbo-upgrade-ready-for-las-vegas-gp-with-kimi-antonelli-set-to-run-new-engine-part",
+          "tldr": "World champions Mercedes will bring their ADUO turbocharger upgrade to this weekend's Las Vegas Grand Prix, fitting it only to Kimi Antonelli's car to spare George Russell a grid penalty.",
+          "source": "Sky Sports",
+          "published": "2026-11-17T15:31:00.000Z",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7408835.jpg?20261117150606"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Jake Bauers says the city of Boston figured into his decision to sign with the Red Sox",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/11/17/jake-bauers-says-the-city-of-boston-figured-into-his-decision-to-sign-with-the-red-sox",
+          "tldr": "New Red Sox signing Jake Bauers said Boston was a city he had always been excited to join, noting his mother-in-law has run the Boston Marathon.",
+          "source": "Boston.com",
+          "published": "2026-11-18T01:51:51.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/World_Series_Brewers_Rays_Baseball_967_3-6af78b3d34cec-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox add AFL standout Huggins in trade with A's",
+          "url": "https://www.mlb.com/redsox/news/red-sox-athletics-kenya-huggins-trade",
+          "tldr": "The Red Sox have acquired Arizona Fall League standout Kenya Huggins in a trade with the Athletics, adding him to their farm system.",
+          "source": "MLB.com",
+          "published": "2026-11-17T19:51:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/xfov4hijuj5ygxqhkmwp.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/validating-your-startup-idea",
+    "why": "A day full of new launches, from GPT-6.2 to Final Cut Pro's MotionVFX, is a good prompt to revisit how to validate an idea before you ship it.",
+    "title": "How to validate your startup idea",
+    "subtitle": "Lessons learned from Flexport, Vanta, Rec Room, LaunchDarkly, Pinwheel, Snackpass, Good Dog, and Cocoon—a guest post by Todd Jackson",
+    "published": "2022-05-10",
+    "words": 12121,
+    "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36b5a61c-6d44-4ceb-a2f0-3616f8b1d5dd_5888x6676.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/440-the-most-inspiring-autobiography-ive-ever-read/id1141877104?i=1000802535460&uo=4",
+      "why": "Senra's breakdown of Hyundai founder Chung Ju-yung's relentless, decades-long build, for your collection of operator biographies.",
+      "show": "Founders",
+      "title": "#440 The Most Inspiring Autobiography I've Ever Read: Born of This Land: Chung Ju-yung",
+      "published": "2026-11-17",
+      "duration": "50m",
+      "apple": "https://podcasts.apple.com/us/podcast/440-the-most-inspiring-autobiography-ive-ever-read/id1141877104?i=1000802535460&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/nik-storonsky",
+      "why": "How Nik Storonsky built Revolut into a $115 billion bank through sheer competitive intensity.",
+      "show": "David Senra",
+      "title": "Competition, Intensity & Building a $115 Billion Global Bank | Nik Storonsky, Revolut",
+      "published": "2026-10-25",
+      "duration": "1h 07m",
+      "apple": "https://podcasts.apple.com/us/podcast/competition-intensity-building-a-%24115-billion/id1836497887?i=1000797995956&uo=4",
+      "page": "https://www.davidsenra.com/episode/nik-storonsky",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/30/d7/5d30d7b4-53ea-e2e1-1c66-a787a3b0aeb8/mza_15450912200775397383.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/home-depot",
+      "why": "A classic Acquired deep dive on how Home Depot was built, for your collection of great operator stories.",
+      "show": "Acquired",
+      "title": "The Home Depot",
+      "published": "2026-09-14",
+      "duration": "3h 35m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-home-depot/id1050462261?i=1000789467893&uo=4",
+      "page": "https://www.acquired.fm/episodes/home-depot",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e5/4b/eb/e54bebd6-32db-0a46-bb4b-f2acd3a8464b/mza_8660330428363636018.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=6Kq5e49MD6U"
+    }
+  ],
+  "finally": {
+    "title": "Navigate the Open Sea with Juliet Schreckinger's Cooperative Creatures",
+    "url": "https://www.thisiscolossal.com/2026/11/juliet-schreckinger-limitless-sea-ink-graphite-drawings",
+    "tldr": "Illustrator Juliet Schreckinger's new ink and graphite drawings of lighthouses, lanterns and sunlight breaking through clouds at sea glow with a quiet sense of optimism.",
+    "source": "Colossal",
+    "published": "2026-11-17T15:32:42.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/schreckinger-4.jpg"
+  }
+}
