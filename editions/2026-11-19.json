@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-19",
+  "front": [
+    {
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+      "tldr": "The AI company's long-awaited IPO priced above its target range, valuing it at $1.5 trillion on a fully diluted basis.",
+      "source": "TechCrunch",
+      "published": "2026-11-18T22:11:15.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
+    },
+    {
+      "title": "Nolan and del Toro break down The Odyssey's monsters and AI's limits with VFX supervisor Andrew Jackson",
+      "url": "https://www.indiewire.com/news/general-news/christopher-nolan-guillermo-del-toro-the-odyssey-vfx-1235228482",
+      "tldr": "The directors discussed building The Odyssey's Cyclops, Scylla and Circe sequences with VFX supervisor Andrew Jackson, and where AI falls short of practical craft.",
+      "source": "IndieWire",
+      "published": "2026-11-18T21:30:00.000Z",
+      "image": "https://www.indiewire.com/wp-content/uploads/2026/11/NolanDelToroQA.jpg?w=650"
+    },
+    {
+      "title": "Cadillac confirm Bottas to stay with team for 2027",
+      "url": "https://www.skysports.com/f1/news/12433/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix",
+      "tldr": "Valtteri Bottas will continue racing for Cadillac alongside Sergio Perez in 2027, ending weeks of speculation and completing the team's driver line-up for the season.",
+      "source": "Sky Sports",
+      "published": "2026-11-18T20:11:00.000Z",
+      "image": "https://e1.365dm.com/26/11/1920x1080/skysports-f1-valtteri-bottas_7409855.jpg?20261118202516"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Google DeepMind introduces Gemini 4 Neon",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+          "tldr": "Google DeepMind's new Gemini 4 Neon model promises frontier-level reasoning for complex, high-frequency workflows at Flash-model speeds, now rolling out for AI Pro subscribers.",
+          "source": "Google DeepMind",
+          "published": "2026-11-18T21:35:43.000Z",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png"
+        },
+        {
+          "title": "OpenAI introduces GPT‑6.2 Astra and GPT‑6.2 Sol",
+          "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol",
+          "tldr": "OpenAI introduced GPT‑6.2 Astra, a new frontier model for its hardest projects, alongside GPT‑6.2 Sol, a faster, cheaper model built for everyday work.",
+          "source": "Simon Willison",
+          "published": "2026-11-17T22:38:52.000Z",
+          "image": "https://static.simonwillison.net/static/2026/astra-6-2-max.webp"
+        },
+        {
+          "title": "Advancing chip design with OpenAI models",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "tldr": "OpenAI says its models helped optimise circuits in Jalapeño silicon and improve RISC‑V core designs, an early sign of AI helping develop its own hardware.",
+          "source": "OpenAI",
+          "published": "2026-11-18T00:00:00.000Z",
+          "image": ""
+        },
+        {
+          "title": "Research acceleration: the jagged frontier",
+          "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+          "tldr": "OpenAI measured how much coding agents accelerate its own research, finding the gains uneven across tasks, an early signal of how close AI is to improving itself.",
+          "source": "OpenAI",
+          "published": "2026-11-18T08:00:00.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+          "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor",
+          "tldr": "Snapchat lens creators can now describe the AR lens they want in plain language and have an AI coding assistant such as Claude Code or Cursor build it.",
+          "source": "TechCrunch",
+          "published": "2026-11-18T19:56:39.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200"
+        },
+        {
+          "title": "Google's AI feature in Search gets its own incognito mode",
+          "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode",
+          "tldr": "Google's AI Mode in Search now offers temporary threads, letting people have conversations without adding them to search history or future recommendations.",
+          "source": "TechCrunch",
+          "published": "2026-11-18T18:04:05.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644"
+        },
+        {
+          "title": "Sony's updated turntable is an easy entry into the world of vinyl",
+          "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl",
+          "tldr": "Sony's refreshed beginner turntable adds automatic playback, USB connectivity and aptX Adaptive Bluetooth, aimed at newcomers to vinyl.",
+          "source": "TechCrunch",
+          "published": "2026-11-18T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/PS-LX3BT_Sony.png?w=1200"
+        },
+        {
+          "title": "Spend management platform Payhawk announces $280M raise, $2B valuation",
+          "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation",
+          "tldr": "Payhawk, the enterprise expense and procurement platform founded in 2018, raised $280 million at a $2 billion valuation, using AI agents to manage spend.",
+          "source": "TechCrunch",
+          "published": "2026-11-18T19:29:41.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1414277307.jpg?resize=1200,776"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple's Fall Creator Studio updates now live",
+          "url": "https://www.macrumors.com/2026/11/18/apple-fall-creator-studio-updates",
+          "tldr": "Apple's fall Creator Studio updates are live, including Final Cut Pro with MotionVFX integration, as announced in October.",
+          "source": "MacRumors",
+          "published": "2026-11-18T17:43:18.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/01/Apple-Creator-Studio.jpg"
+        },
+        {
+          "title": "Visual Intelligence is coming to the iPad's Camera app",
+          "url": "https://www.macstories.net/news/visual-intelligence-is-coming-to-the-ipads-camera-app",
+          "tldr": "The Siri-powered Visual Intelligence mode Apple added to the iPhone's Camera app with iOS 27 is coming to the iPad's Camera app too.",
+          "source": "MacStories",
+          "published": "2026-11-18T19:46:27.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/11/18/siri-camera-mode-last-frame-1795030637421-160c556511.png"
+        },
+        {
+          "title": "Meet the 2026 App Store Award finalists",
+          "url": "https://www.apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists",
+          "tldr": "Apple named the finalists for its 2026 App Store Awards, recognising 45 developers worldwide for exceptional apps and games.",
+          "source": "Apple Newsroom",
+          "published": "2026-11-18T13:59:20.769Z",
+          "image": "https://www.apple.com/newsroom/images/2026/11/meet-the-2026-app-store-award-finalists/tile/Apple-2026-App-Store-Awards-hero-lp.jpg.og.jpg?202611181401"
+        },
+        {
+          "title": "Instagram now lets you save songs to Apple Music",
+          "url": "https://www.macrumors.com/2026/11/18/apple-music-instagram-playlist",
+          "tldr": "Instagram added a feature letting users connect an Apple Music account and save songs they discover on the app straight to a playlist.",
+          "source": "MacRumors",
+          "published": "2026-11-19T01:19:31.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/11/apple-music-instagram.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Pierce Brosnan welcomes Robert Pattinson into the James Bond family",
+          "url": "https://variety.com/2026/film/news/robert-pattinson-pierce-brosnan-james-bond-1236952519",
+          "tldr": "Former 007 Pierce Brosnan publicly welcomed Robert Pattinson as the new James Bond, calling him magnificent, days after Pattinson's casting was announced.",
+          "source": "Variety",
+          "published": "2026-11-19T00:14:26.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/MobLand-Season-Two-World-Premiere-Arrivals-2026-Vanity-Fair-Oscar-Party-Hosted-By-Mark-Guiducci-Arrivals-1000.jpg"
+        },
+        {
+          "title": "Jason Blum and James Wan discuss why horror is Hollywood's hottest genre",
+          "url": "https://variety.com/2026/film/news/jason-blum-james-wan-obsession-blumhouse-atomic-1236952472",
+          "tldr": "Blumhouse Atomic's Jason Blum and James Wan discussed horror's record year at the box office and why their film Obsession performed so well.",
+          "source": "Variety",
+          "published": "2026-11-19T01:18:14.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2305784685.jpg"
+        },
+        {
+          "title": "Skydance to combine Warner Bros. Television Group and Paramount Television Studios",
+          "url": "https://www.indiewire.com/news/business/skydance-combine-warner-bros-tv-group-paramount-tv-studios-1235229155",
+          "tldr": "Skydance plans to merge Warner Bros. Television Group and Paramount Television Studios into one studio, led jointly by Channing Dungey and Matt Thunell.",
+          "source": "IndieWire",
+          "published": "2026-11-18T18:35:07.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Channing-Dungey-Matt-Thunell.jpg?w=650"
+        },
+        {
+          "title": "Elsinore review: Andrew Scott's towering performance can't overcome awards-bait clichés",
+          "url": "https://www.indiewire.com/criticism/movies/elsinore-movie-review-andrew-scott-1235214584",
+          "tldr": "IndieWire's review says Andrew Scott is excellent as dying actor Ian Charleson in Elsinore, but the film around him sinks into familiar awards-season cliché.",
+          "source": "IndieWire",
+          "published": "2026-11-18T18:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/07/E_03144_R.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Chris Cenac Jr. flashes promise, growing pains in early minutes",
+          "url": "https://www.celticsblog.com/celtics-analysis/150513/chris-cenac-jr-flashes-promise-growing-pains-in-early-minutes",
+          "tldr": "Rookie Chris Cenac Jr., a raw, athletic prospect not expected to play much this year, has shown flashes in his minutes 14 games into the season.",
+          "source": "CelticsBlog",
+          "published": "2026-11-18T11:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2304992412.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Drake Maye injury update: Patriots teammate drops hint about QB's outlook",
+          "url": "https://www.patspulpit.com/new-england-patriots-injuries/144724/drake-maye-injury-update-ankle-2026-outlook-recovery-kevin-byard",
+          "tldr": "A Patriots teammate's comments suggest quarterback Drake Maye's ankle injury may keep him out for the rest of the season.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-18T12:20:09.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2302723732.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Piastri to serve grid penalty at Las Vegas GP",
+          "url": "https://www.skysports.com/f1/news/12433/13613606/oscar-piastri-to-serve-grid-penalty-at-las-vegas-gp-as-mclaren-confirm-addition-of-more-upgrades-to-mcl40",
+          "tldr": "Oscar Piastri will take a 10-place grid penalty at this weekend's Las Vegas Grand Prix after exceeding his season's engine allowance, McLaren confirmed.",
+          "source": "Sky Sports",
+          "published": "2026-11-18T14:30:00.000Z",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-oscar-piastri-mclaren_7409656.jpg?20261118144240"
+        },
+        {
+          "tag": "F1",
+          "title": "Fernando Alonso opens up on his daunting Dakar Rally challenge",
+          "url": "https://www.formula1.com/en/latest/article/this-is-another-level-alonso-opens-up-on-daunting-dakar-rally-challenge-as-he-prepares-for-return.6bm7UWyTcLVjB2T1gVLRPL",
+          "tldr": "Fernando Alonso will contest the 2027 Dakar Rally for Aston Martin before the next Formula 1 season begins, calling it another level of challenge.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Las%20Vegas/GettyImages-2305792888.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox introduce long-coveted free-agent prize Bauers",
+          "url": "https://www.mlb.com/redsox/news/red-sox-introduce-jake-bauers-in-press-conference",
+          "tldr": "The Red Sox formally introduced new signing Jake Bauers, fresh off winning his first Silver Slugger award, at a press conference.",
+          "source": "MLB.com",
+          "published": "2026-11-17T22:51:33.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/k4rymgbmunj3lsfq8q8b.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Busy Red Sox boost catching depth, acquire Fortes from division rival Rays",
+          "url": "https://www.mlb.com/redsox/news/nick-fortes-red-sox-rays-trade",
+          "tldr": "Boston traded for Rays catcher Nick Fortes to boost its catching depth, part of an active start to the offseason.",
+          "source": "MLB.com",
+          "published": "2026-11-18T21:44:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/fotctuat7a55priyujgc.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/li-jin-launches-atelier-ventures",
+    "why": "A day full of product launches, from Gemini 4 Neon to Anthropic's IPO, makes it a good moment to revisit how Li Jin launched her own fund around a category thesis.",
+    "title": "Li Jin launches Atelier Ventures, her debut fund to invest in the passion economy",
+    "subtitle": "A special edition of Lenny's Newsletter",
+    "published": "2021-02-16",
+    "words": 2902,
+    "image": "https://substackcdn.com/image/fetch/$s_!BeRf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fb2cb1b-e4e0-4382-9007-9c0cacecffbc_1600x900.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&uo=4",
+      "why": "Bloomberg built his financial data empire on being first and precise, a fitting listen on a day when an AI company's IPO made market history.",
+      "show": "Founders",
+      "title": "#433 How Michael Bloomberg Works",
+      "published": "2026-09-14",
+      "duration": "49m",
+      "apple": "https://podcasts.apple.com/us/podcast/433-how-michael-bloomberg-works/id1141877104?i=1000789605191&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/brian-armstrong-2",
+      "why": "Coinbase's Brian Armstrong on rewiring his own habits to push through hard conversations, this week's new episode.",
+      "show": "David Senra",
+      "title": "Divine Discontent, AI Agents & the Future of Money | Brian Armstrong, Coinbase",
+      "published": "2026-11-18",
+      "duration": "1h 00m",
+      "apple": "https://podcasts.apple.com/us/podcast/divine-discontent-ai-agents-the-future-of-money/id1836497887?i=1000802663099&uo=4",
+      "page": "https://www.davidsenra.com/episode/brian-armstrong-2",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/99/63/52996376-a806-f9a9-c194-4dee6161e086/mza_779682447353807629.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=NuoEkfIkKX4"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/seinfeld",
+      "why": "A look at the business behind a TV institution feels timely as Skydance combines two major studios and GTA 6 gets called the entertainment event of the decade.",
+      "show": "Acquired",
+      "title": "Seinfeld",
+      "published": "2026-10-19",
+      "duration": "3h 50m",
+      "apple": "https://podcasts.apple.com/us/podcast/seinfeld/id1050462261?i=1000797010256&uo=4",
+      "page": "https://www.acquired.fm/episodes/seinfeld",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/90/36/c4/9036c494-e46d-6a71-6c82-281cc1b7a6e3/mza_10964486558370967940.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Hand-marbled papers ground Sylvain Lefebvre's surreal landscapes",
+    "url": "https://www.thisiscolossal.com/2026/11/sylvain-lefebvre-oil-paintings-marbled-paper",
+    "tldr": "French artist Sylvain Lefebvre grounds his surreal oil landscapes, Journeys Into the Unseen Forest, in hand-marbled paper, balancing chance and control.",
+    "source": "Colossal",
+    "published": "2026-11-18T20:00:00.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/lefebvre-9.jpeg"
+  }
+}
