@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-20",
+  "note": "Anthropic's blockbuster Nasdaq debut dominates tech today, with F1's rain-soaked Las Vegas weekend running alongside it.",
+  "front": [
+    {
+      "title": "Anthropic is now a public company worth more than $1 trillion",
+      "url": "https://www.engadget.com/2322144/anthropic-is-now-a-public-company-worth-more-than-1-trillion",
+      "tldr": "Anthropic began trading publicly for the first time, briefly valued at more than $2 trillion before settling above $1 trillion. It is one of the most valuable AI companies on the stock market.",
+      "source": "Engadget",
+      "published": "2026-11-19T18:41:26.000Z",
+      "image": "https://www.engadget.com/img/gallery/anthropic-is-now-a-public-company-worth-more-than-1-trillion/l-intro-1795113508.jpg"
+    },
+    {
+      "title": "Apple is building an AI agent that can use apps and write code",
+      "url": "https://www.macrumors.com/2026/11/19/apple-ai-agent-development",
+      "tldr": "Job listings spotted by Bloomberg show Apple developing a proactive AI agent, in the mould of Meta's Muse or OpenAI's Dots, that can code, use apps and browse the web on a user's behalf.",
+      "source": "MacRumors",
+      "published": "2026-11-19T22:43:08.000Z",
+      "image": "https://images.macrumors.com/t/_tjfK0vua64wDcGeqmNXpkPzL54=/2048x/article-new/2026/11/Siri-AI-Icon.jpeg"
+    },
+    {
+      "title": "The Verge's review of Grand Theft Auto 6",
+      "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjJ2dm1YT25YaEwiLCJwIjoiL2dhbWVzLzEwMzU4MDEvZ3JhbmQtdGhlZnQtYXV0by02LXJldmlldyIsImV4cCI6MTc5NTU1MTkzNiwiaWF0IjoxNzk1MTE5OTM2fQ.XQt8Qcs5vUE3Paa_aDtLGeZOo2ZDaOU7mB0dTBzXrrQ&amp;utm_medium=gift-link",
+      "tldr": "Andrew Webster reviews Grand Theft Auto 6, asking how Rockstar follows a game that redefined the open world genre thirteen years ago. It is one of this year's defining launches in any medium.",
+      "source": "Daring Fireball",
+      "published": "2026-11-19T20:30:10.000Z",
+      "image": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Google gives Gemini the ability to use your Mac for you",
+          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+          "tldr": "Google's latest Gemini update brings an AI agent to the Mac that can organise files, fill out forms and handle multistep workflows. It lands days after reports that Apple is building a rival agent.",
+          "source": "TechCrunch",
+          "published": "2026-11-19T18:09:11.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675"
+        },
+        {
+          "title": "PostgreSQL 19 released",
+          "url": "https://simonwillison.net/2026/Nov/19/postgresql-19",
+          "tldr": "PostgreSQL 19 has shipped, two months later than usual after the team worked through a flurry of issues before release. A reminder that even quiet infrastructure software is carefully made.",
+          "source": "Simon Willison",
+          "published": "2026-11-19T20:43:57.000Z",
+          "image": ""
+        },
+        {
+          "title": "Anthropic's IPO could deliver $156 billion to charity",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
+          "tldr": "At a $95 share price, Anthropic's Public Benefit Foundation, employee donations and company match could together deliver $156 billion to charity, a direct result of this week's IPO.",
+          "source": "TechCrunch",
+          "published": "2026-11-19T19:10:45.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800"
+        },
+        {
+          "title": "Walter Isaacson on curiosity and creativity in the AI age",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+          "tldr": "Biographer Walter Isaacson joins Google's Dialogues series to discuss how history's great innovators can still guide creativity and judgement in the AI age.",
+          "source": "Google",
+          "published": "2026-11-19T17:00:00.000Z",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+          "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones",
+          "tldr": "Elon Musk says SpaceX has finished designing a miniature rooftop cell tower intended to close mobile dead zones. No launch date was given.",
+          "source": "TechCrunch",
+          "published": "2026-11-19T23:37:56.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800"
+        },
+        {
+          "title": "You can now buy the 512GB Steam Machine like a normal console",
+          "url": "https://www.engadget.com/2322377/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console",
+          "tldr": "Valve has cleared its waitlist for the smaller, 512GB Steam Machine, which is now available to buy outright rather than through a queue.",
+          "source": "Engadget",
+          "published": "2026-11-19T20:42:38.000Z",
+          "image": "https://www.engadget.com/img/gallery/you-can-now-purchase-the-512gb-steam-machine-like-a-normal-console/l-intro-1795120492.jpg"
+        },
+        {
+          "title": "Superhuman pushes its Go assistant everywhere",
+          "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere",
+          "tldr": "Superhuman is making its Go assistant the central agent across its products, extending it into Docs and Mail.",
+          "source": "TechCrunch",
+          "published": "2026-11-19T14:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Static_Go-Proactive.jpeg?resize=1200,675"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple executive in charge of iPhone's camera app reportedly retires",
+          "url": "https://www.macrumors.com/2026/11/19/iphone-camera-app-vp-retires",
+          "tldr": "Jon McCormack, Apple's vice president of camera and photo software engineering, retired at the end of October after more than eight years leading the iPhone's camera software, Bloomberg's Mark Gurman reported.",
+          "source": "MacRumors",
+          "published": "2026-11-19T19:37:10.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/11/iPhone-18-Pro-Camera.jpg"
+        },
+        {
+          "title": "WhatsApp is raising its group chat limit to 1,500 participants",
+          "url": "https://9to5mac.com/2026/11/19/whatsapp-is-raising-group-chat-limit-to-1500-participants",
+          "tldr": "WhatsApp is gradually rolling out a higher group chat limit of 1,500 participants, up from the previous cap of 1,024.",
+          "source": "9to5Mac",
+          "published": "2026-11-20T01:54:39.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-05.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Apple TV becomes the new US home of F1 Academy",
+          "url": "https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series",
+          "tldr": "Apple TV will become the US home of F1 Academy, the all-female racing series, starting in 2027, Apple's latest expansion into live motorsport coverage.",
+          "source": "Apple Newsroom",
+          "published": "2026-11-19T15:59:07.903Z",
+          "image": "https://www.apple.com/newsroom/images/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/tile/Apple-TV-F1-ACADEMY-hero-lp.jpg.og.jpg?202611191559"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Billy Evans secures his cut of 'You Can See Everything' profits, and gives it to charity",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/billy-evans-profits-you-can-see-everything-ycse-charity-1236759761",
+          "tldr": "Billy Evans, the subject at the centre of A24's hit documentary \"You Can See Everything,\" negotiated to secure his share of the film's profits after all, and is donating the payout to a children's charity.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-20T01:52:13.000Z",
+          "image": ""
+        },
+        {
+          "title": "Bill Hader's feature directorial debut 'They Know' acquired by Black Bear",
+          "url": "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795",
+          "tldr": "Black Bear has acquired North American rights to \"They Know,\" Bill Hader's feature directorial debut. Hader wrote, directs and stars in the horror-thriller alongside Linda Cardellini.",
+          "source": "Variety",
+          "published": "2026-11-20T00:30:46.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/MixCollage-19-Nov-2026-04-22-PM-3973.jpg"
+        },
+        {
+          "title": "Ryan Coogler's Proximity Media hires former Netflix exec Tendo Nagenda as president",
+          "url": "https://www.indiewire.com/news/breaking-news/ryan-coogler-proximity-media-hires-tendo-nagenda-president-1235228838",
+          "tldr": "Ryan Coogler's production company has hired former Netflix executive Tendo Nagenda, who worked on \"Da 5 Bloods,\" \"Glass Onion\" and \"Ma Rainey's Black Bottom,\" to oversee all of Proximity's creative divisions.",
+          "source": "IndieWire",
+          "published": "2026-11-19T21:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Tendo-Nagenda-Headshot.png?w=650"
+        },
+        {
+          "title": "Francis Lawrence on directing the Hunger Games prequel Sunrise on the Reaping",
+          "url": "https://letterboxd.com/journal/hunger-games-sunrise-on-the-reaping-francis-lawrence-interview",
+          "tldr": "With \"Sunrise on the Reaping\" now in theatres, director Francis Lawrence talks through casting a young Haymitch and building the prequel's infamous second Quarter Quell.",
+          "source": "Letterboxd Journal",
+          "published": "2026-11-19T19:32:56.000Z",
+          "image": "https://a.ltrbxd.com/resized/sm/upload/w6/m7/gi/pj/rdLax1R7YPEVi9z3fTofzthAOAD-0-960-0-540-crop-fill.jpg?k=d331acf5f2"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics blow 17-point lead to Nuggets, lose 105-101",
+          "url": "https://www.celticsblog.com/celtics-scores-results/150608/celtics-blow-17-point-lead-lose-105-101-to-nuggets-boston-denver-jayson-tatum-nikola-jokic-jamal-murray-loss",
+          "tldr": "The Celtics opened a four-game road trip in Denver by blowing a 17-point lead and losing 105-101 to the Nuggets. Jayson Tatum later said the collapse was on him.",
+          "source": "CelticsBlog",
+          "published": "2026-11-19T05:34:27.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2305258315.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Robert Kraft, Bill Belichick finalists for Pro Football Hall of Fame class of 2027",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/19/robert-kraft-bill-belichick-finalists-for-pro-football-hall-of-fame-class-of-2027",
+          "tldr": "Robert Kraft and Bill Belichick are both finalists for the Pro Football Hall of Fame's class of 2027, having missed out on induction last year.",
+          "source": "Boston.com",
+          "published": "2026-11-19T18:46:05.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2025/12/TOFIFPXSGAI6PGLDHOAXXF2FPA-69381fb5e386c-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Nike joins F1 as apparel partner",
+          "url": "https://www.autosport.com/f1/news/nike-joins-f1-as-apparel-partner/10875757",
+          "tldr": "Nike has joined Formula 1 as its official apparel and uniform supplier, taking over from Puma from the start of 2027, as had long been rumoured in the paddock.",
+          "source": "Autosport",
+          "published": "2026-11-20T00:24:50.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/6O7zEMP6/s6/nike-x-formula-1.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "FIA to introduce full-time F1 stewards from 2027 to improve consistency",
+          "url": "https://www.motorsport.com/f1/news/fia-to-introduce-full-time-f1-stewards-from-2027-in-bid-to-improve-consistency/10875716",
+          "tldr": "The FIA will introduce full-time stewards to Formula 1 from the 2027 season, aiming for greater consistency in race-day decisions after years of debate in the paddock.",
+          "source": "Motorsport.com",
+          "published": "2026-11-19T20:48:50.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/25dLdEQ0/s6/race-start-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "F1 Las Vegas GP: rain washes out first practice",
+          "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-fp1-report/10875770",
+          "tldr": "Heavy rain washed out first practice for the Las Vegas Grand Prix, with no meaningful lap times set. Racing Bulls' Liam Lawson had already warned this year's rain tyres would struggle on the street circuit.",
+          "source": "Autosport",
+          "published": "2026-11-20T01:43:05.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/6DGgOo9Y/s6/george-russell-mercedes-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Sonny Gray leaves Red Sox, signs with Twins for reported $55 million",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/11/18/sonny-gray-boston-red-sox-free-agency-minnesota-twins-mlb-baseball",
+          "tldr": "Sonny Gray is leaving the Red Sox to sign with the Twins for a reported $55 million. He finished fifth in AL Cy Young voting during his one season in Boston.",
+          "source": "Boston.com",
+          "published": "2026-11-18T23:09:37.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Red_Sox_Pirates_Baseball_3192_-6afe28cc1d17e-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Why Abreu is one of MLB's most underrated players",
+          "url": "https://www.mlb.com/redsox/news/red-sox-wilyer-abreu-among-most-underrated-players-mlb",
+          "tldr": "MLB.com makes the case that Red Sox outfielder Wilyer Abreu is among the league's most underrated players.",
+          "source": "MLB.com",
+          "published": "2026-11-19T20:58:02.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/cwzpsdq5u5qsqcigpoim.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-figma-builds-product",
+    "why": "Figma's CPO on building with craft and user research, a good companion to today's wave of AI-agent launches, where taste still separates the products that last.",
+    "title": "How Figma builds product",
+    "subtitle": "Yuhki Yamashita, Chief Product Officer at Figma, shares lessons learned, plug-and-play templates, and fresh insights into how Figma builds product",
+    "published": "2022-11-15",
+    "words": 2097,
+    "image": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9dbd5513-892a-4a64-9a26-f25ab638bde9_3000x3000.jpeg",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/423-soichiro-honda/id1141877104?i=1000774523761&uo=4",
+      "why": "Honda's relentless, hands-on engineering is a nice counterpoint to today's software-agent news: some products still get made by hand.",
+      "show": "Founders",
+      "title": "#423 Soichiro Honda",
+      "published": "2026-06-28",
+      "duration": "48m",
+      "apple": "https://podcasts.apple.com/us/podcast/423-soichiro-honda/id1141877104?i=1000774523761&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://davidsenra.com/episode/luca-ferrari",
+      "why": "Ferrari's talent science and relentless simplification at Bending Spoons resonate with today's AI-agent race, and with building your own small software products.",
+      "show": "David Senra",
+      "title": "Luca Ferrari on Building Bending Spoons: Extreme Ownership, Talent Science & Relentless Simplification",
+      "published": "2026-09-13",
+      "duration": "2h 01m",
+      "apple": "https://podcasts.apple.com/us/podcast/luca-ferrari-on-building-bending-spoons-extreme-ownership/id1836497887?i=1000789287660&uo=4",
+      "page": "https://davidsenra.com/episode/luca-ferrari",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/6d/61/52/6d6152f4-19d7-46ea-032b-ac81c01be6ed/mza_10680068299434896450.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis",
+      "why": "A milestone episode about storytelling, fitting for a week Anthropic had its own landmark moment on Nasdaq.",
+      "show": "Acquired",
+      "title": "10 Years of Acquired (with Michael Lewis)",
+      "published": "2025-12-15",
+      "duration": "2h 38m",
+      "apple": "https://podcasts.apple.com/us/podcast/10-years-of-acquired-with-michael-lewis/id1050462261?i=1000741297651&uo=4",
+      "page": "https://www.acquired.fm/episodes/10-years-of-acquired-with-michael-lewis",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5b/b3/bf/5bb3bf66-cb58-d65c-f994-74f680e2bb34/mza_10419917004390918792.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Yoshitomo Nara's wide-eyed figures return to New York",
+    "url": "https://www.thisiscolossal.com/2026/11/yoshitomo-nara-new-york",
+    "tldr": "Yoshitomo Nara's wide-eyed figures are back in New York with a blockbuster solo show drawing queues down the street, a reminder that simple, honest images still pull crowds.",
+    "source": "Colossal",
+    "published": "2026-11-19T18:28:00.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/new-nara-hero.jpg"
+  }
+}
