@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-21",
+  "front": [
+    {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis, and a human did too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+      "tldr": "An AI system has produced a claimed proof of the 167-year-old Riemann hypothesis, with a competing human-derived proof submitted separately. Mathematicians are now checking both claims.",
+      "source": "TechCrunch",
+      "published": "2026-11-20T19:32:08.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750"
+    },
+    {
+      "title": "GTA 6 made $3.79 billion in its first day, but Rockstar's workers still lack job security",
+      "url": "https://www.engadget.com/2323671/gta-6-made-dollar379-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security",
+      "tldr": "Grand Theft Auto 6 earned $3.79 billion on its first day, Rockstar's biggest launch yet, while staff continue voting on union recognition.",
+      "source": "Engadget",
+      "published": "2026-11-20T21:02:54.000Z",
+      "image": "https://www.engadget.com/img/gallery/gta-6-made-3-79-billion-in-its-first-day-but-rockstars-workers-still-lack-job-security/l-intro-1795208536.jpg"
+    },
+    {
+      "title": "V8 engines return confirmed in bid to 'reconnect with DNA' of F1",
+      "url": "https://www.skysports.com/f1/news/12433/13614482/v8-engines-returning-to-formula-1-in-2030-as-fia-president-mohammed-ben-sulayem-describes-move-to-reconnect-with-dna-of-the-sport",
+      "tldr": "Formula 1 has confirmed it will return to V8 engines from the 2030 season, with the FIA calling it a chance to reconnect with the sport's roots.",
+      "source": "Sky Sports",
+      "published": "2026-11-20T20:10:00.000Z",
+      "image": "https://e0.365dm.com/26/10/1920x1080/skysports-f1-max-verstappen_7374105.jpg?20261011142434"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Apple may be developing its own AI agent that runs your Mac",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+          "tldr": "Apple is reportedly developing an AI agent able to carry out tasks on a Mac, positioning it against Meta's Muse, Instinct and OpenAI's Dots.",
+          "source": "TechCrunch",
+          "published": "2026-11-20T00:56:01.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800"
+        },
+        {
+          "title": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+          "tldr": "Anthropic's seven founders sold shares worth almost $2 billion combined at $83 a share in the company's IPO, which valued Anthropic at close to $105 billion.",
+          "source": "TechCrunch",
+          "published": "2026-11-20T00:43:50.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801"
+        },
+        {
+          "title": "Daniel Ek backs an AI researcher's fusion power startup",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
+          "tldr": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher, the latest tech money flowing into nuclear fusion.",
+          "source": "TechCrunch",
+          "published": "2026-11-20T19:53:41.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812"
+        },
+        {
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "tldr": "OpenAI has introduced MedChemBench, a benchmark testing how well AI models interpret molecular structures and reason from evidence to pick promising drug candidates in early-stage discovery.",
+          "source": "OpenAI",
+          "published": "2026-11-20T00:00:00.000Z",
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Super-hot rock geothermal could end data center energy woes",
+          "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes",
+          "tldr": "A wave of geothermal startups is betting that super-hot rock drilling can deliver terawatts of power almost anywhere, addressing the energy crunch behind new AI data centres.",
+          "source": "TechCrunch",
+          "published": "2026-11-20T18:34:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/mazama-project-athena-rig-sunset.jpeg?resize=1200,675"
+        },
+        {
+          "title": "Teenage Engineering's first CD player kind of looks like a turntable",
+          "url": "https://www.engadget.com/2323390/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable",
+          "tldr": "Teenage Engineering has launched its first CD player, the $329 EP/BC-1, styled like a turntable and opening a new line of broadcast-style audio gear.",
+          "source": "Engadget",
+          "published": "2026-11-20T18:53:49.000Z",
+          "image": "https://www.engadget.com/img/gallery/teenage-engineerings-first-cd-player-kind-of-looks-like-a-turntable/l-intro-1795200766.jpg"
+        },
+        {
+          "title": "IconSwapper brings live AI usage data to your Mac's app icons",
+          "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you",
+          "tldr": "A new Mac app called IconSwapper animates your app icons with real-time data, letting you see things like live AI usage at a glance.",
+          "source": "TechCrunch",
+          "published": "2026-11-19T22:33:26.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/IconSwapper-Key-Art.jpg?resize=1200,630"
+        },
+        {
+          "title": "Anthropic rival says companies can mostly skip the pricey models",
+          "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models",
+          "tldr": "On the day Anthropic went public, Fireworks AI's co-founder argued most companies don't need the priciest models, making the case for cheaper open-source alternatives instead.",
+          "source": "TechCrunch",
+          "published": "2026-11-20T00:26:03.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Chenyu-Zhao.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Finally, Apple can reveal the UK backdoor demand",
+          "url": "https://sixcolors.com/link/2026/11/finally-apple-can-reveal-the-uk-backdoor-demand",
+          "tldr": "Apple can now confirm what was long suspected: the UK government ordered it to restrict iCloud's Advanced Data Protection for new users there in February 2025.",
+          "source": "Six Colors",
+          "published": "2026-11-20T19:59:45.000Z",
+          "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zaXhjb2xvcnMuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIwXC8wNlwvY3JvcHBlZC02Yy0xLnBuZz9maXQ9NTEyJTJDNTEyJnNzbD0xIiwidHh0IjoiU2l4IENvbG9ycyIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxNzU2Mjc2ODV9.3zPYMS7NdNDzu39zR3tvPULq5Z8L_9X76EcbPYfutjgMQ"
+        },
+        {
+          "title": "iOS 27 lets you use two iPhones with the same phone number",
+          "url": "https://9to5mac.com/2026/11/20/ios-27-lets-you-use-two-iphones-with-the-same-phone-number",
+          "tldr": "iOS 27 can now share one phone number across two iPhones, Apple's latest update confirms.",
+          "source": "9to5Mac",
+          "published": "2026-11-20T23:06:00.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iPhone-18-Pro-homescreen.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Signal now blocks screenshots on iPhone to stop Siri AI from seeing chats",
+          "url": "https://9to5mac.com/2026/11/20/signal-now-blocks-screenshots-on-iphone-to-stop-siri-ai-from-seeing-chats",
+          "tldr": "Signal has rolled out an iPhone update that disables screenshots by default, blocking Apple's Siri AI from reading users' chats.",
+          "source": "9to5Mac",
+          "published": "2026-11-20T16:29:42.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/signal-app-icon-fi.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "title": "Jon McCormack retires from Apple",
+          "url": "https://daringfireball.net/2026/11/mccormack_retires_from_apple",
+          "tldr": "Apple executive Jon McCormack has retired after years in an essential role at the company, leaving what Daring Fireball calls big shoes to fill.",
+          "source": "Daring Fireball",
+          "published": "2026-11-19T22:25:12.000Z",
+          "image": "https://daringfireball.net/graphics/df-wide-card.png"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "David Fincher defends use of AI amid 'Cliff Booth' criticism",
+          "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711",
+          "tldr": "David Fincher has defended his use of AI on The Further Mis-Adventures of Cliff Booth after criticism, arguing the technology exists and should be used.",
+          "source": "Deadline",
+          "published": "2026-11-20T23:45:30.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg"
+        },
+        {
+          "title": "Home Alone sequel in development at Disney with Macaulay Culkin, Seth Rogen and Evan Goldberg",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/home-alone-sequel-disney-macaulay-culkin-seth-rogen-1236760116",
+          "tldr": "Disney is developing a new Home Alone film with Macaulay Culkin expected to reprise Kevin McCallister, written and produced by Seth Rogen and Evan Goldberg.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-20T20:15:48.000Z",
+          "image": ""
+        },
+        {
+          "title": "Project Hail Mary breakout James Ortiz on the art of puppetry",
+          "url": "https://variety.com/2026/film/awards/james-ortiz-rocky-project-hail-mary-oscars-puppetry-serkis-1236954348",
+          "tldr": "Puppeteer James Ortiz explains how practical puppetry, not CGI, brought Project Hail Mary's alien character Rocky to life, drawing awards-season attention for the craft.",
+          "source": "Variety",
+          "published": "2026-11-20T22:45:53.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/17th-Governors-Awards-1000.jpg"
+        },
+        {
+          "title": "'Disclosure Day' did its biggest stunts practically, so the VFX team worked hard to look invisible",
+          "url": "https://www.indiewire.com/features/craft/disclosure-day-vfx-craft-roundtables-1235229693",
+          "tldr": "Disclosure Day VFX supervisor Matthew Butler says the film's biggest stunts were shot practically, with visual effects used mainly to make that stunt work invisible on screen.",
+          "source": "IndieWire",
+          "published": "2026-11-20T21:30:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B9442-2.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Neemias Queta is flourishing for the Celtics",
+          "url": "https://www.celticsblog.com/celtics-analysis/150402/neemias-queta-is-flourishing-boston-celtics-anchoring-defense-joe-mazzulla-brad-stevens-nba-player-development",
+          "tldr": "Celtics coach Joe Mazzulla says Neemias Queta's growth has gone under the radar, after Boston's 131-94 win over the Mavericks showcased his anchoring of the defence.",
+          "source": "CelticsBlog",
+          "published": "2026-11-20T11:59:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2305296807.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots get update on Drake Maye and A.J. Brown's injuries",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/20/drake-maye-a-j-brown-injury-update-fracture-fractured-fibula-lions-hamstring-detroit-new-england-patriots",
+          "tldr": "Drake Maye's fractured fibula won't need surgery but puts his season availability in doubt, with A.J. Brown also sidelined by a hamstring injury, the Patriots said.",
+          "source": "Boston.com",
+          "published": "2026-11-20T20:24:57.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_CHIN061126Patriots-Minicamp_SPT13-6b00a6d1d994c-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Daniel Jones released by the Colts, as Patriots weigh a possible move",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/144867/daniel-jones-colts-release-patriots-drake-maye-injury",
+          "tldr": "The Colts have released quarterback Daniel Jones, with the Patriots now being discussed as a possible landing spot given their ongoing need at the position.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-20T23:17:27.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2290030519.jpg?quality=90&strip=all&crop=6.3231658935547,0,93.676834106445,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Russell fastest in final Las Vegas practice after Verstappen collision",
+          "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-final-practice-after-verstappen-collision/10876189",
+          "tldr": "George Russell topped the final Las Vegas Grand Prix practice session after colliding with Max Verstappen during a tense battle for track position.",
+          "source": "Autosport",
+          "published": "2026-11-21T01:46:05.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/2wlKzDpY/s6/george-russell-mercedes-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Antonelli hit with grid penalty for Las Vegas GP",
+          "url": "https://www.skysports.com/f1/news/12433/13614180/las-vegas-gp-kimi-antonelli-to-serve-grid-penalty-along-with-oscar-piastri-carlos-sainz-lance-stroll-oliver-bearman",
+          "tldr": "Kimi Antonelli has been handed a five-place grid penalty for the Las Vegas Grand Prix after exceeding his season's engine allocation again.",
+          "source": "Sky Sports",
+          "published": "2026-11-20T06:00:00.000Z",
+          "image": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7411091.jpg?20261120055053"
+        },
+        {
+          "tag": "F1",
+          "title": "Max Verstappen: \"I really thought that we would not win a race this year\"",
+          "url": "https://www.motorsport.com/f1/news/max-verstappen-i-really-thought-that-we-would-not-win-a-race-this-year/10875990",
+          "tldr": "Max Verstappen says that back in March he doubted Red Bull would win a race all season, a low point now contrasted by a run of eight consecutive podiums.",
+          "source": "Motorsport.com",
+          "published": "2026-11-20T12:43:44.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/YXyKX156/s6/max-verstappen-red-bull-racing-a10875990-b707-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox trade RHP Johan Oviedo to Diamondbacks, receive LHP in return",
+          "url": "https://www.boston.com/sports/boston-red-sox/2026/11/20/red-sox-diamondbacks-trade-johan-oviedo",
+          "tldr": "The Red Sox have traded right-hander Johan Oviedo to the Diamondbacks, acquiring minor-league left-hander Luke Dotson in return.",
+          "source": "Boston.com",
+          "published": "2026-11-21T00:35:33.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/TKTP4L363XQIZVE2I53T3A2ZAE-6b00e22528796-850x638.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox sign 4 players, tender contracts to Duran, Rutschman and more",
+          "url": "https://www.mlb.com/redsox/news/red-sox-2026-non-tender-deadline-decisions",
+          "tldr": "The Red Sox tendered contracts to Jarren Duran, Adley Rutschman and others, and signed four new players, ahead of MLB's non-tender deadline.",
+          "source": "MLB.com",
+          "published": "2026-11-20T23:45:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/alarlrz4nichvjznb8xa.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/lessons-from-going-freemium-a-decision",
+    "why": "A sharp reminder that pricing and packaging decisions have real consequences, the same lesson sitting under today's GTA 6 launch and F1's engine rule change.",
+    "title": "Lessons from going freemium: a decision that broke our business",
+    "subtitle": "How freemium and no-friction onboarding reversed our growth, and how we got back on track",
+    "published": "2023-11-28",
+    "words": 2934,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fca0295-5da1-406a-9082-ab7a3c28715e_680x367.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/420-steve-jobs-in-exile/id1141877104?i=1000771074198&uo=4",
+      "why": "Jobs' wilderness years are a useful counterpoint on a day full of big corporate bets and comebacks.",
+      "show": "Founders",
+      "title": "#420 Steve Jobs In Exile",
+      "published": "2026-06-04",
+      "duration": "54m",
+      "apple": "https://podcasts.apple.com/us/podcast/420-steve-jobs-in-exile/id1141877104?i=1000771074198&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/lulu-cheng-meservey",
+      "why": "Meservey built her name on positioning and narrative, exactly the craft behind today's product marketing pick.",
+      "show": "David Senra",
+      "title": "Lulu Cheng Meservey, Founder of Rostra",
+      "published": "2026-08-12",
+      "duration": "1h 18m",
+      "apple": "https://podcasts.apple.com/us/podcast/lulu-cheng-meservey-founder-of-rostra/id1836497887?i=1000782903883&uo=4",
+      "page": "https://www.davidsenra.com/episode/lulu-cheng-meservey",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/6e/7d/d66e7da6-f44a-d34f-ad8c-3eccb6521a42/mza_7053976884331272004.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=DFImJfJGXl0"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/google",
+      "why": "A search-origins story feels apt on a day when AI claims to have cracked a 167-year-old maths problem.",
+      "show": "Acquired",
+      "title": "Google Part I: Origins of Search",
+      "published": "2025-06-30",
+      "duration": "3h 29m",
+      "apple": "https://podcasts.apple.com/us/podcast/google-part-i-origins-of-search/id1050462261?i=1000715075095&uo=4",
+      "page": "https://www.acquired.fm/episodes/google",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/86/2f/63862fa2-7d9b-86d0-67ff-1512b0a2a827/mza_11743760503072097107.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "The Nine Inch Nails Live Archive",
+    "url": "https://kottke.org/26/11/0050036-the-nine-inch-nails-live-",
+    "tldr": "A new online archive lets fans download and stream more than 1,900 recordings from over 1,200 Nine Inch Nails concerts.",
+    "source": "Kottke",
+    "published": "2026-11-20T21:15:00.000Z",
+    "image": "https://kottke.org/images/unfurls/thumb-50036-73a9eda2.jpg"
+  }
+}
