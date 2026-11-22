@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-22",
+  "front": [
+    {
+      "title": "Hunger Games: Sunrise on the Reaping opens to $120m-plus, reviving the franchise",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511",
+      "tldr": "Lionsgate's dystopian franchise opener took the third-best Friday of the six-film series and more than $120m domestically, a strong comeback after 2023's Ballad of Songbirds & Snakes underperformed.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-11-21T16:16:34.000Z",
+      "image": ""
+    },
+    {
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru",
+      "tldr": "Graham Dumpleton, who built mod_wsgi twenty years ago, has written Muru, a new AI-assisted Rust server for serving Python web applications in production, documented by Simon Willison.",
+      "source": "Simon Willison",
+      "published": "2026-11-21T23:56:28.000Z",
+      "image": ""
+    },
+    {
+      "title": "Antonelli fastest but Verstappen takes pole for the Las Vegas Grand Prix",
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-antonelli-tops-qualifying-but-verstappen-gets-pole/10876233",
+      "tldr": "Kimi Antonelli set the fastest lap in Las Vegas qualifying, but a five-place grid penalty hands pole to Max Verstappen, with George Russell starting alongside him.",
+      "source": "Autosport",
+      "published": "2026-11-21T05:20:37.000Z",
+      "image": "https://cdn-1.motorsport.com/images/amp/0rVPkgW0/s6/andrea-kimi-antonelli-mercedes-2.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+          "tldr": "Signal is limiting screenshot capability in its Android and iOS apps, a defensive move against AI tools built to scrape chat screens for surveillance.",
+          "source": "TechCrunch",
+          "published": "2026-11-21T21:37:10.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800"
+        },
+        {
+          "title": "An actor licensed his face to an AI microdrama startup, a trend already popular in China",
+          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+          "tldr": "An actor has licensed his face for use in AI-generated microdramas, a practice already established in China, raising questions about what it means for Hollywood if the trend spreads.",
+          "source": "TechCrunch",
+          "published": "2026-11-21T16:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Alaska's next governor-elect has made more than 13,000 Wikipedia edits",
+          "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd",
+          "tldr": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 Wikipedia edits, an unusual hobby for an incoming state leader.",
+          "source": "TechCrunch",
+          "published": "2026-11-21T15:18:29.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304454647.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "iOS 27: my favorite new iPhone features, other than AI",
+          "url": "https://9to5mac.com/2026/11/21/ios-27-my-favorite-new-iphone-features-other-than-ai",
+          "tldr": "iOS 27 shipped alongside heavy Siri AI coverage, but it also brought smaller refinements elsewhere. 9to5Mac picks out a handful of the non-AI changes worth noticing.",
+          "source": "9to5Mac",
+          "published": "2026-11-21T22:22:26.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-lock-screen-clock-small.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "A week with the new privacy controls in MacOS 27.3 beta 2",
+          "url": "https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273",
+          "tldr": "John Gruber finds Apple's new Full Disk Access and other privacy controls in MacOS 27.3 mostly good, though he dislikes the permanent menu bar indicator for apps that control others.",
+          "source": "Daring Fireball",
+          "published": "2026-11-21T20:09:57.000Z",
+          "image": "https://daringfireball.net/graphics/df-wide-card.png"
+        },
+        {
+          "title": "Apple documents extra Apple Intelligence usage limits per iCloud+ paid tier",
+          "url": "https://support.apple.com/en-us/127901",
+          "tldr": "From the 2027 software releases, Siri AI and Apple Intelligence stay free for supported devices, but Apple's support pages now spell out extra usage allowances tied to paid iCloud+ tiers.",
+          "source": "Daring Fireball",
+          "published": "2026-11-21T18:02:51.000Z",
+          "image": "https://daringfireball.net/misc/2026/11/apple-intelligence-siri-ai-daily-limits-table.png"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "How the Elsinore makeup team transformed Andrew Scott and Olivia Colman",
+          "url": "https://variety.com/2026/artisans/news/elsinore-makeup-olivia-colman-andrew-scott-1236954968",
+          "tldr": "In Elsinore, Andrew Scott plays actor Ian Charleson, who performed his final role while dying of AIDS; Variety details how the makeup team aged and transformed him and Olivia Colman for the part.",
+          "source": "Variety",
+          "published": "2026-11-21T19:09:40.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/elsinore-E_03084_R_rgb.jpg"
+        },
+        {
+          "title": "Jeff Goldblum performs a piano medley and reflects on his career at Marrakech Film Festival",
+          "url": "https://variety.com/2026/film/global/jeff-goldblum-career-marrakech-film-festival-tilda-swinton-1236954972",
+          "tldr": "Jeff Goldblum was honoured with a tribute award at the Marrakech Film Festival, playing a surprise piano medley before reflecting on more than fifty years in film.",
+          "source": "Variety",
+          "published": "2026-11-21T19:51:33.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2305693351.jpg"
+        },
+        {
+          "title": "Russell Crowe's request to shoot A Beautiful Mind chronologically added $1 million to the budget, says Ron Howard",
+          "url": "https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038",
+          "tldr": "Ron Howard says Russell Crowe's suggestion to film A Beautiful Mind in script order cost the studio an extra $1 million, but called it the right kind of investment for the performance.",
+          "source": "Variety",
+          "published": "2026-11-21T19:28:57.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/MSDBEMI_EC006.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "The Celtics, in all of their early-season glory, haven't passed Brad Stevens' test yet",
+          "url": "https://www.celticsblog.com/celtics-analysis/150697/the-celtics-in-all-of-their-early-season-glory-havent-passed-brad-stevens-test-yet",
+          "tldr": "The Celtics are 11-4 a fifth of the way through the season, a strong start that CelticsBlog says still hasn't fully answered coach Brad Stevens' tougher questions about the roster.",
+          "source": "CelticsBlog",
+          "published": "2026-11-21T12:00:00.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2305469508.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "F1",
+          "title": "F1 2026 Las Vegas GP starting grid after five penalties",
+          "url": "https://www.the-race.com/formula-1/f1-2026-las-vegas-gp-starting-grid-after-five-penalties",
+          "tldr": "Grid penalties reshuffled the Las Vegas Grand Prix starting order well away from Saturday's qualifying times; The Race sets out the final lineup ahead of the race.",
+          "source": "The Race",
+          "published": "2026-11-21T07:52:05.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/XPB_1455201_HiRes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "F1 still 'very small' in US, says Domenicali",
+          "url": "https://www.the-race.com/formula-1/f1-still-very-small-in-us-domenicali",
+          "tldr": "F1 chief executive Stefano Domenicali says the championship remains 'very small' in the United States, despite the sport's rapid growth there in recent years.",
+          "source": "The Race",
+          "published": "2026-11-21T15:13:40.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/Photo-select_Axios2026_EDI-17.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox trade Johan Oviedo to Diamondbacks in exchange for minor leaguer Luke Dotson",
+          "url": "https://www.overthemonster.com/red-sox-news/111650/red-sox-trade-johan-oviedo-to-diamondbacks-in-exchange-for-minor-leaguer-luke-dotson",
+          "tldr": "Boston has traded pitcher Johan Oviedo to the Diamondbacks for minor leaguer Luke Dotson, a year after giving up a top-100 prospect to acquire him.",
+          "source": "Over the Monster",
+          "published": "2026-11-21T13:22:33.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/09/gettyimages-2267595717.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "These ranked prospects got 40-man roster spots",
+          "url": "https://www.mlb.com/redsox/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
+          "tldr": "The Red Sox have protected a group of ranked prospects by adding them to the 40-man roster ahead of next month's Rule 5 draft.",
+          "source": "MLB.com",
+          "published": "2026-11-21T17:15:00.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/n0q9izvzsdfo224eqhm0.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/which-companies-accelerate-your-pm",
+    "why": "A data-driven look at which companies best launch product careers, useful as you weigh your own mix of marketing, building and journalism.",
+    "title": "Which companies accelerate PM careers most",
+    "subtitle": "A first-ever deep dive into the impact 50+ companies have had on alumni trajectories",
+    "published": "2024-12-10",
+    "words": 1778,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb48a89c4-4536-447a-ac26-9f3929dc0170_2912x2126.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/429-bob-dylans-autobiography/id1141877104?i=1000783536703&uo=4",
+      "why": "Senra's take on Bob Dylan's reinvention and storytelling instincts fits a quiet news day and speaks to your own broadcast and product-marketing background.",
+      "show": "Founders",
+      "title": "#429 Bob Dylan's Autobiography",
+      "published": "2026-08-16",
+      "duration": "1h 00m",
+      "apple": "https://podcasts.apple.com/us/podcast/429-bob-dylans-autobiography/id1141877104?i=1000783536703&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/peter-rahal",
+      "why": "Peter Rahal built RXBAR and now David Protein by obsessing over positioning and brand, exactly the craft you study in product marketing.",
+      "show": "David Senra",
+      "title": "Building One of the Fastest Growing CPG Companies in History | Peter Rahal of David Protein, Medici Brands & RXBAR",
+      "published": "2026-09-20",
+      "duration": "1h 21m",
+      "apple": "https://podcasts.apple.com/us/podcast/building-one-of-the-fastest-growing-cpg-companies/id1836497887?i=1000790757685&uo=4",
+      "page": "https://www.davidsenra.com/episode/peter-rahal",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/73/fe/8e/73fe8e22-fd06-16a4-dff0-f58db09a2acb/mza_12162952990155392706.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/trader-joes",
+      "why": "A classic Acquired breakdown of how Trader Joe's built one of retail's strongest brands through positioning and taste rather than scale.",
+      "show": "Acquired",
+      "title": "Trader Joe’s",
+      "published": "2025-10-27",
+      "duration": "3h 18m",
+      "apple": "https://podcasts.apple.com/us/podcast/trader-joes/id1050462261?i=1000733630276&uo=4",
+      "page": "https://www.acquired.fm/episodes/trader-joes",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/83/31/51/833151a1-d31b-b277-db05-d44c1cc9a3d9/mza_10997712225950733623.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "ZHA completes 'secular' Théâtre Royal de Rabat in Morocco",
+    "url": "https://www.dezeen.com/2026/11/21/zha-theatre-royal-de-rabat-morroco",
+    "tldr": "Zaha Hadid Architects has completed the Théâtre Royal de Rabat in Morocco, its sweeping riverside form housing three performance spaces.",
+    "source": "Dezeen",
+    "published": "2026-11-21T11:00:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/11/theatre-royal-de-rabat-zha-architecture-morocco-cultural_dezeen_2364_sq-1024x1024.jpg"
+  }
+}
