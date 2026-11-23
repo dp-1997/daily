@@ -1,0 +1,240 @@
+{
+  "date": "2026-11-23",
+  "front": [
+    {
+      "title": "F1 Las Vegas GP: Verstappen wins thriller as Russell hits the wall late on",
+      "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-report/10876677",
+      "tldr": "Max Verstappen won a chaotic Las Vegas Grand Prix with more than 30 lead changes, holding off both Mercedes drivers as George Russell crashed late and Ferrari's Hamilton and Leclerc collided again.",
+      "source": "Autosport",
+      "published": "2026-11-22T05:45:47.000Z",
+      "image": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-3.jpg"
+    },
+    {
+      "title": "'You Can See Everything' Crosses $100M Globally, Becomes First Doc to Hit 1M Letterboxd Watches",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-box-office-100-million-letterboxd-1236746421",
+      "tldr": "Nathan Fielder and Lance Oppenheim's A24 documentary about Elizabeth Holmes passed $100 million worldwide in its sixth week, becoming the first documentary to reach 1 million Letterboxd logs.",
+      "source": "The Hollywood Reporter",
+      "published": "2026-11-23T03:29:15.000Z",
+      "image": ""
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+      "tldr": "Three early backers explain what gave them the conviction to invest billions in Anthropic ahead of its stock market listing, a rare look at how big AI bets get made.",
+      "source": "TechCrunch",
+      "published": "2026-11-23T01:25:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "OpenAI's chief scientist has thoughts on how to limit AI development",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+          "tldr": "OpenAI's chief scientist argues that any speed limit on AI progress first needs an agreed way to measure that speed, a harder problem than it sounds.",
+          "source": "TechCrunch",
+          "published": "2026-11-22T21:14:07.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+        },
+        {
+          "title": "Select Styling Specimens",
+          "url": "https://simonwillison.net/2026/Nov/22/select-styling",
+          "tldr": "Frustrated by how inconsistent and ugly HTML select boxes look across browsers, Simon Willison had Claude Fable 5.2 build a tool for designing custom ones, a small fix for an old annoyance.",
+          "source": "Simon Willison",
+          "published": "2026-11-22T19:45:06.000Z",
+          "image": "https://static.simonwillison.net/static/2026/select-firefox-safari-chrome.webp"
+        },
+        {
+          "title": "Why data centers are at the center of the Big Tech backlash",
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+          "tldr": "Journalist Paris Marx's new book, \"Hyperscale,\" unpacks why data centres have become the flashpoint in the public reaction against Big Tech's AI buildout.",
+          "source": "TechCrunch",
+          "published": "2026-11-22T18:08:43.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
+        },
+        {
+          "title": "Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "tldr": "OpenAI explains how it uses perplexity to measure progress in its models, aiming to give developers a shared way to judge emerging AI capabilities.",
+          "source": "OpenAI",
+          "published": "2026-11-22T00:00:00.000Z",
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": []
+    },
+    {
+      "id": "apple",
+      "stories": []
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Box Office: 'Hunger Games: Sunrise on the Reaping' Debuts to Mighty $120 Million, Reviving Lionsgate's Most Important Franchise",
+          "url": "https://www.indiewire.com/news/box-office/hunger-games-sunrise-on-the-reaping-revives-franchise-1235229881",
+          "tldr": "Lionsgate's prequel opened to $120 million domestically, reviving its biggest franchise, while Paul Thomas Anderson's \"Cameron Winter at Carnegie Hall\" took just $162,000 from three cinemas.",
+          "source": "IndieWire",
+          "published": "2026-11-22T16:18:16.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/solstice-unit-250916-00315rc.jpg?w=650"
+        },
+        {
+          "title": "If There's Generative AI in 'The Further Mis-Adventures of Cliff Booth,' It's Not the First Time David Fincher's Used It",
+          "url": "https://www.indiewire.com/features/craft/generative-ai-tools-david-fincher-cliff-booth-1235229866",
+          "tldr": "David Fincher has used generative AI tools before, including in the 4K remaster of \"Se7en\" to bring the film closer to its original print, ahead of his new project.",
+          "source": "IndieWire",
+          "published": "2026-11-21T23:45:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDFUMI_ZX009.jpg?w=650"
+        },
+        {
+          "title": "Robert Eggers Says He's \"Eager\" to Take a Break From Horror Genre After 'Werwulf'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-eager-break-horror-genre-werwulf-nosferatu-1236760762",
+          "tldr": "After a decade of horror films including \"The Witch,\" \"The Lighthouse\" and \"Nosferatu,\" director Robert Eggers says he is ready to step away from the genre following \"Werwulf.\"",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-22T22:44:25.000Z",
+          "image": ""
+        },
+        {
+          "title": "Rian Johnson Leaves the Door Open to Star Wars Return: 'It's a World I Deeply Love'",
+          "url": "https://www.indiewire.com/news/breaking-news/rian-johnson-star-wars-return-update-1235229946",
+          "tldr": "The \"Last Jedi\" director says he loves the Star Wars universe more than ever, as new films set after \"The Rise of Skywalker\" move forward under Lucasfilm's Dave Filoni.",
+          "source": "IndieWire",
+          "published": "2026-11-22T21:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDSTWA_EC194_a74a29.jpg?w=650"
+        },
+        {
+          "title": "John Turturro Says 'I Still Consider Myself a Beginner' as He Gets Marrakech Film Festival Tribute Award",
+          "url": "https://variety.com/2026/film/festivals/john-turturro-marrakech-film-festival-award-still-beginner-1236955255",
+          "tldr": "Four decades into his career, John Turturro received a tribute award at the Marrakech Film Festival and says he still feels like he is just getting started.",
+          "source": "Variety",
+          "published": "2026-11-22T20:39:11.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/john-turturro.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Down Tatum, White, and Robinson, Celtics lose to lowly Kings 97-96",
+          "url": "https://www.celticsblog.com/celtics-scores-results/150781/down-jayson-tatum-and-derrick-white-celtics-lose-to-lowly-kings-97-96-boston-sacramento-darius-acuff-paul-george-joe-mazzulla-mike-conley",
+          "tldr": "Missing Jayson Tatum, Derrick White and Mitchell Robinson, the Celtics lost 97-96 to the two-win Sacramento Kings, their third straight defeat.",
+          "source": "CelticsBlog",
+          "published": "2026-11-22T05:51:14.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2306293523.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Ian Rapoport gives updated recovery timeline for Drake Maye",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/22/new-england-patriots-drake-maye-nfl-football-injury-update-fibula",
+          "tldr": "There is an outside chance Drake Maye returns this season if the Patriots make the playoffs with Tommy DeVito at quarterback, per Ian Rapoport's latest update on his fibula injury.",
+          "source": "Boston.com",
+          "published": "2026-11-23T00:35:52.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Packers_Patriots_Football_51496-6b037c1bcf87f-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "AFC playoff picture: Updating the Patriots postseason outlook on the bye",
+          "url": "https://www.patspulpit.com/new-england-patriots-nfl-playoffs/144921/afc-playoff-picture-new-england-patriots-postseason-outlook-week-11",
+          "tldr": "On their bye week, the Patriots sit outside the AFC playoff picture as Mike Vrabel's team, fresh off a trip to Germany, assesses where it stands.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-23T01:09:29.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2305242866.jpg?quality=90&strip=all&crop=0,2.0681466814261,95.811987304687,97.931853318574"
+        },
+        {
+          "tag": "F1",
+          "title": "F1 plans two-team engine supply limit under 2030 V8 rules",
+          "url": "https://www.autosport.com/f1/news/f1-set-to-reduce-customer-teams-as-key-2030-details-emerge/10877058",
+          "tldr": "Formula 1 is planning to cap engine manufacturers at two customer teams each from 2030, a change that raises questions over Mercedes' three current customer squads.",
+          "source": "Autosport",
+          "published": "2026-11-22T20:32:03.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/YP7rVg42/s6/race-start-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Camara to finish F1 season with Haas, ending F2 title bid",
+          "url": "https://www.autosport.com/f1/news/haas-keeps-rafael-camara-in-f1-ending-his-2026-f2-title-bid/10877044",
+          "tldr": "Haas rookie Rafael Camara will race out the season in Qatar and Abu Dhabi rather than chase the Formula 2 title, ahead of a full-time F1 seat in 2027.",
+          "source": "Autosport",
+          "published": "2026-11-22T18:32:32.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/YP74VKA2/s6/rafael-camara-haas-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Battle for second place tightens as finish line nears",
+          "url": "https://www.formula1.com/en/latest/article/battle-for-second-place-tightens-as-2026-world-championship-finish-line-nears.5Rqr6EDZZLiPtFbnomVdfb",
+          "tldr": "Max Verstappen has now won four of the last six races, but with two rounds left several drivers are still bunched together fighting for second in the championship.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Las_Vegas/2306311179.webp"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox Roster Problem or Solution: Triston Casas",
+          "url": "https://www.overthemonster.com/red-sox-analysis/111645/red-sox-roster-problem-or-solution-triston-casas",
+          "tldr": "With the Red Sox again facing a third-place finish, the site asks whether Triston Casas is part of the answer to Boston's roster problems or part of the issue.",
+          "source": "Over the Monster",
+          "published": "2026-11-22T13:20:21.000Z",
+          "image": "https://platform.overthemonster.com/wp-content/uploads/sites/120/2026/02/gettyimages-2261909903.jpg?quality=90&strip=all&crop=0,0,100,100"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/the-racecar-growth-frameworkexpanded",
+    "why": "On a day Max Verstappen won a chaotic Grand Prix, Lenny's racecar-shaped map of how products actually grow is a fitting nudge for your own go-to-market thinking.",
+    "title": "The Racecar Growth Framework—expanded and illustrated",
+    "subtitle": "The culmination of all my GTM and growth research in one image",
+    "published": "2022-10-11",
+    "words": 1350,
+    "image": "https://substackcdn.com/image/fetch/$s_!66GE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2b763a14-9134-4246-812d-0cbc65fdbbaf_8966x4492.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/418-phil-knight-founder-of-nike/id1141877104?i=1000766662563&uo=4",
+      "why": "Phil Knight's obsessive brand-building is a sharp lens for product marketing, and lines up with today's heavy sports news day.",
+      "show": "Founders",
+      "title": "#418 Phil Knight: Founder of Nike",
+      "published": "2026-05-07",
+      "duration": "1h 03m",
+      "apple": "https://podcasts.apple.com/us/podcast/418-phil-knight-founder-of-nike/id1141877104?i=1000766662563&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/tobi-lutke-2",
+      "why": "Tobi Lütke on why founders like Jensen Huang are irreplaceable pairs well with this morning's Anthropic and AI stories.",
+      "show": "David Senra",
+      "title": "Jensen Huang, AI & Why Founders Are Irreplaceable | Tobi Lütke, Shopify",
+      "published": "2026-11-22",
+      "duration": "1h 10m",
+      "page": "https://www.davidsenra.com/episode/tobi-lutke-2",
+      "artwork": "https://megaphone-images.spotifycdn.com/podcasts/141e67c6-e643-11f1-bbe7-536993c97162/image/c26fac90295e425cb605b941bc88c802.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "youtube": "https://www.youtube.com/watch?v=w0oOxs0WKNk"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang",
+      "why": "The company behind the chips in every AI story this morning, told through the founder who built it.",
+      "show": "Acquired",
+      "title": "TSMC Founder Morris Chang",
+      "published": "2025-01-27",
+      "duration": "2h 48m",
+      "apple": "https://podcasts.apple.com/us/podcast/tsmc-founder-morris-chang/id1050462261?i=1000685569822&uo=4",
+      "page": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/08/2d/65082d51-4c48-f604-a480-38839bf89028/mza_12588002078552567770.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Jony Ive and Margaret Calvert create posters to celebrate decade of Design Museum in Kensington",
+    "url": "https://www.dezeen.com/2026/11/22/jony-ive-margaret-calvert-posters-decade-london-design-museum-kensington",
+    "tldr": "Ten leading designers, including Jony Ive and Margaret Calvert, created posters marking ten years of London's Design Museum in its Kensington home.",
+    "source": "Dezeen",
+    "published": "2026-11-22T06:00:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/11/margaret-calvert-design-museum-kensington-poster-sq-1024x1024.jpg"
+  }
+}
