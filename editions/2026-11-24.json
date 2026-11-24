@@ -1,0 +1,299 @@
+{
+  "date": "2026-11-24",
+  "front": [
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+      "tldr": "Anthropic's new tool lets Claude review pull requests, fix issues and approve the changes a team's policy allows, aimed at clearing the backlog of AI-generated code awaiting human review.",
+      "source": "TechCrunch",
+      "published": "2026-11-23T22:05:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
+    },
+    {
+      "title": "John Siracusa launches Jetty Pro",
+      "url": "https://sixcolors.com/link/2026/11/john-siracusa-launches-jetty-pro",
+      "tldr": "After a thousand beta builds, developer John Siracusa has released Jetty Pro, an auto-hiding Mac palette for file server connections, SSH and screen-sharing shortcuts, and Keyboard Maestro macros.",
+      "source": "Six Colors",
+      "published": "2026-11-23T23:58:53.000Z",
+      "image": "https://sixcolors.com/wp-content/uploads/2026/11/incomparable-ssh-icon-tray-tooltip-6c.png"
+    },
+    {
+      "title": "The real reasons behind Las Vegas's 352-overtake F1 chaos",
+      "url": "https://www.the-race.com/formula-1/f1-las-vegas-gp-352-overtakes-chaos-explained",
+      "tldr": "The Race looks at what actually drove the record 352 overtakes at the Las Vegas Grand Prix, beyond easy comparisons to the season's earlier 'yo-yo' racing.",
+      "source": "The Race",
+      "published": "2026-11-23T18:22:46.000Z",
+      "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/M656883-1.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+          "url": "https://simonwillison.net/2026/Nov/23/glm-54",
+          "tldr": "Chinese lab Z.ai has released GLM-5.4, its first model built on a looped transformer architecture rather than a standard one, aimed at improving coding performance.",
+          "source": "Simon Willison",
+          "published": "2026-11-23T23:40:49.000Z",
+          "image": "https://static.simonwillison.net/static/2026/glm-5.4-max.webp"
+        },
+        {
+          "title": "Ladybird's first alpha release",
+          "url": "https://simonwillison.net/2026/Nov/23/ladybird",
+          "tldr": "Ladybird, a browser built from scratch with its own HTML parser, CSS engine, layout and JavaScript implementations, has reached its first alpha release.",
+          "source": "Simon Willison",
+          "published": "2026-11-23T21:46:35.000Z",
+          "image": "https://static.simonwillison.net/static/2026/ladybird-ffmpeg.webp"
+        },
+        {
+          "title": "Finding faster quantum algorithms with agents and formal verification",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+          "tldr": "Google DeepMind combined agent teams with formal verification to find faster quantum algorithms for problems in fusion and chemistry.",
+          "source": "Google DeepMind",
+          "published": "2026-11-23T16:59:40.000Z",
+          "image": "https://lh3.googleusercontent.com/jIoM2lo98EDqLMQjIaXBlXPmXgPbUPpM2GgtXcDsGekZBOPUY41IjBsnuZIhLac7MSOuRkklNBsp20a5M25oDz-xTIY0BIqoBxUqmmXvEHwlM3MJJw=w528-h297-n-nu-rw-lo"
+        },
+        {
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "tldr": "OpenAI and Cisco have launched Shirudo, an open-source Linux runtime meant to help teams keep systems protected while they roll out security patches.",
+          "source": "OpenAI",
+          "published": "2026-11-23T21:20:00.000Z",
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&h=900&fit=fill"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Uber now lets you book rides that record the drive by default",
+          "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default",
+          "tldr": "Uber's new 'Recorded Rides' option uses the driver's front camera to record the whole journey, intended to improve safety and help resolve disputes.",
+          "source": "TechCrunch",
+          "published": "2026-11-23T14:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800"
+        },
+        {
+          "title": "Anthropic softens its data retention policy for Mythos and Fable model use",
+          "url": "https://www.engadget.com/2325684/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use",
+          "tldr": "Anthropic is easing its data retention rules for enterprise customers, who can now keep prompts and responses on their own servers instead of Anthropic's.",
+          "source": "Engadget",
+          "published": "2026-11-23T20:02:30.000Z",
+          "image": "https://www.engadget.com/img/gallery/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/l-intro-1795464099.jpg"
+        },
+        {
+          "title": "Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+          "tldr": "Google is extending Personal Intelligence in AI Mode to Drive and Wallet, letting Search draw on a user's own files and payment data for more tailored results.",
+          "source": "TechCrunch",
+          "published": "2026-11-23T19:14:46.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "M6 iMac Review: Apple's latest power play",
+          "url": "https://sixcolors.com/post/2026/11/m6-imac-review-apples-latest-power-play",
+          "tldr": "Six Colors reviews the M6 iMac, Apple's latest all-in-one desktop, weighing it against decades of Mac desktops the reviewer has used as a daily machine.",
+          "source": "Six Colors",
+          "published": "2026-11-23T20:00:00.000Z",
+          "image": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/11/apple-i-mac-with-m6-hero-261027-6c.png?ssl=1&w=1380&quality=90"
+        },
+        {
+          "title": "Apple Store With All-New Design Opening in UK Next Month",
+          "url": "https://www.macrumors.com/2026/11/23/new-apple-store-at-the-oracle",
+          "tldr": "Apple will open a redesigned store at The Oracle in Reading on 3 December, replacing its existing shop in the same shopping centre.",
+          "source": "MacRumors",
+          "published": "2026-11-23T21:13:46.000Z",
+          "image": "https://images.macrumors.com/article-new/2025/07/Apple-Store-Wallpaper-Basic-Apple-Guy.jpg"
+        },
+        {
+          "title": "Apple Announces 'Ted Lasso' Renewed for Fifth Season",
+          "url": "https://www.macrumors.com/2026/11/23/ted-lasso-season-five-renewal",
+          "tldr": "Apple TV has renewed Ted Lasso for a fifth season, with production expected to begin around 14 April, though no release date has been set.",
+          "source": "MacRumors",
+          "published": "2026-11-23T21:28:39.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/01/Ted-Lasso-16x9.jpg"
+        },
+        {
+          "title": "The App Store Award Finalists for 2026",
+          "url": "https://www.macstories.net/news/the-app-store-award-finalists-for-2026",
+          "tldr": "Apple has named the finalists for its 2026 App Store Awards, its annual celebration of standout apps and games across 12 categories.",
+          "source": "MacStories",
+          "published": "2026-11-23T14:43:04.000Z",
+          "image": "https://cdn.macstories.net/images/uploads/2026/11/23/apple-2026-app-store-awards-hero-00-00-02-033-1795393031655-1afd1e26d5.png"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "AI Film 'Gods Don't Give Gifts' Deemed Ineligible by Academy for Best Animated Feature Oscar",
+          "url": "https://www.indiewire.com/news/breaking-news/ai-film-gods-dont-give-gifts-ineligible-oscars-1235230159",
+          "tldr": "The Academy has ruled the AI-made film 'Gods Don't Give Gifts' ineligible for the Best Animated Feature Oscar. Its makers plan to appeal and still intend a theatrical run from 4 December.",
+          "source": "IndieWire",
+          "published": "2026-11-23T21:42:26.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/Still-15.png?w=650"
+        },
+        {
+          "title": "How Sound Design Helps 'Minotaur' Get Away with Murder",
+          "url": "https://www.indiewire.com/features/craft/andrey-zvyagintsev-minotaur-sound-design-1235230040",
+          "tldr": "Director Andrey Zvyagintsev tells IndieWire how sound design in 'Minotaur' is used to let the world close in on its central character.",
+          "source": "IndieWire",
+          "published": "2026-11-23T19:50:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDMINO_K3013.jpg?w=650"
+        },
+        {
+          "title": "The Best Visual Effects in 'Wildwood' Are the Ones You Can't See",
+          "url": "https://www.indiewire.com/features/craft/wildwood-vfx-indiewire-craft-roundtables-1235230006",
+          "tldr": "'Wildwood' head of CG animation Benoit Dubuc talks through the film's visual effects, many of them designed so audiences never notice them.",
+          "source": "IndieWire",
+          "published": "2026-11-23T21:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/RP_B9339_0263f5.jpg?w=650"
+        },
+        {
+          "title": "How Iran's Pegah Ahangarani Turned Her Family Archives Into a Regime-Challenging Oscar Hopeful",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/iran-pegah-ahangarani-uk-rehearsals-for-a-revolution-oscars-1236760972",
+          "tldr": "Pegah Ahangarani's 'Rehearsals for a Revolution,' built from 40 years of her family's own archives, is the UK's submission for Best International Feature at the Oscars.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-23T21:01:32.000Z",
+          "image": ""
+        },
+        {
+          "title": "Danny Boyle reflects on his career at the Savannah Film Festival",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/danny-boyle-awards-chatter-podcast-ink-savannah-film-festival-1236760205",
+          "tldr": "Danny Boyle discussed his film 'Ink' and his wider career with The Hollywood Reporter at the SCAD Savannah Film Festival, where he received the Maverick Director Award.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-23T21:17:49.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics extend losing streak to 4 games with 88-87 loss to Warriors",
+          "url": "https://www.celticsblog.com/celtics-analysis/150856/celtics-extend-losing-streak-to-4-games-with-88-87-loss-to-warriors",
+          "tldr": "Boston lost 88-87 to Golden State, their fourth straight defeat and the longest losing streak of the Joe Mazzulla era.",
+          "source": "CelticsBlog",
+          "published": "2026-11-23T04:44:47.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2306420403.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "'Tommy's our starter': Patriots stick with Tommy DeVito after Drake Maye's injury",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/23/tommys-our-starter-patriots-are-sticking-with-tommy-devito-following-drake-mayes-injury",
+          "tldr": "Head coach Mike Vrabel confirmed Tommy DeVito stays as New England's starting quarterback after Drake Maye's fractured fibula, citing his strong preseason and improvement since.",
+          "source": "Boston.com",
+          "published": "2026-11-23T22:06:28.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/08/Colts_Patriots_Football_17793-6a7e57859826f-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots finally get some good news on injury front at receiver, offensive line",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/23/new-england-patriots-offensive-line-injury-update-ir-romeo-doubs-alijah-vera-tucker",
+          "tldr": "Left guard Alijah Vera-Tucker and receiver Romeo Doubs could both be activated off injured reserve this week, a rare bright spot for New England.",
+          "source": "Boston.com",
+          "published": "2026-11-23T22:55:56.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/Raiders_Patriots_Football__76_5-1-6b04bfc2d14de-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Verstappen 'from a different planet', says Mekies",
+          "url": "https://www.formula1.com/en/latest/article/hes-from-a-different-planet-mekies-praises-verstappen-after-las-vegas-gp-victory.TXH10rYL99f2dIZqnVbCq",
+          "tldr": "Red Bull boss Laurent Mekies praised Max Verstappen's Las Vegas win, saying the Dutchman had outsmarted the opposition on track.",
+          "source": "Formula1.com",
+          "image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Las%20Vegas/GettyImages-2306301749.webp"
+        },
+        {
+          "tag": "F1",
+          "title": "Guenther Steiner expects Ferrari board to react after Hamilton-Leclerc clash",
+          "url": "https://www.motorsport.com/f1/news/guenther-steiner-expects-ferrari-board-to-react-after-lewis-hamilton-charles-leclerc-clash/10877259",
+          "tldr": "Former Haas boss Guenther Steiner thinks Ferrari's board will make changes after Lewis Hamilton and Charles Leclerc collided again in Las Vegas.",
+          "source": "Motorsport.com",
+          "published": "2026-11-23T19:00:03.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/6DGgbp7Y/s6/charles-leclerc-ferrari-lewis-a10877259-b704-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Toto Wolff: Las Vegas was 'Indy 500, NASCAR and Formula 1 mixed'",
+          "url": "https://www.motorsport.com/f1/news/toto-wolff-las-vegas-was-indy-500-and-nascar-and-formula-1-mixed/10877232",
+          "tldr": "Mercedes boss Toto Wolff said he left Las Vegas thrilled by the spectacle, even after both his drivers slipped off the podium in the closing laps.",
+          "source": "Motorsport.com",
+          "published": "2026-11-23T18:10:17.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/0arEdzP2/s6/toto-wolff-mercedes-a10877232-b705-2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Nats lefty Tolman wins 2026 Tony Conigliaro Award",
+          "url": "https://www.mlb.com/redsox/news/erik-tolman-conigliaro-award-2026",
+          "tldr": "Washington pitcher Erik Tolman has won the 2026 Tony Conigliaro Award, given each year to a player who has overcome adversity.",
+          "source": "MLB.com",
+          "published": "2026-11-23T15:30:08.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/ot3caiqdymjhachdty2i.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/how-to-build-a-killer-sales-pitch",
+    "why": "Product marketing is pitch-craft, and this one is about building a pitch that beats your real competitor, which is usually 'no decision'.",
+    "title": "How to build a killer sales pitch",
+    "subtitle": "And why your real competition is “no decision”",
+    "published": "2023-10-17",
+    "words": 3692,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/ece7157f-8d48-4ae3-a840-0ce6599aee09_960x540.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/422-joseph-pulitzer/id1141877104?i=1000773486278&uo=4",
+      "why": "You trained as a journalist, and Pulitzer is the story of how modern mass media as a business was invented.",
+      "show": "Founders",
+      "title": "#422 Joseph Pulitzer",
+      "published": "2026-06-20",
+      "duration": "53m",
+      "apple": "https://podcasts.apple.com/us/podcast/422-joseph-pulitzer/id1141877104?i=1000773486278&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/travis-kalanick",
+      "why": "Kalanick on building Uber pairs nicely with today's Uber product news, and with your interest in relentless founders.",
+      "show": "David Senra",
+      "title": "Travis Kalanick, Founder of Uber & Atoms",
+      "published": "2026-08-16",
+      "duration": "1h 49m",
+      "apple": "https://podcasts.apple.com/us/podcast/travis-kalanick-founder-of-uber-atoms/id1836497887?i=1000783566781&uo=4",
+      "page": "https://www.davidsenra.com/episode/travis-kalanick",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/19/22/d2/1922d243-0c7d-c8c8-b8af-7bd568ff955e/mza_17854511174282367109.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=QVnU5lGlKE8"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-steve-ballmer-interview",
+      "why": "A first-hand account of running Microsoft's biggest calls, useful alongside your study of great product operators.",
+      "show": "Acquired",
+      "title": "The Steve Ballmer Interview",
+      "published": "2025-06-02",
+      "duration": "2h 49m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-steve-ballmer-interview/id1050462261?i=1000710802439&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-steve-ballmer-interview",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/10/61/4910616b-6f78-522e-58dc-69520eed200a/mza_12071236440639884160.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Su Blackwell Enchants with Folkloric Stories That Spring from Vintage Books",
+    "url": "https://www.thisiscolossal.com/2026/11/su-blackwell-vintage-books",
+    "tldr": "Artist Su Blackwell's new exhibition draws folkloric stories from nature and vintage books, rooted in the tales we take from the world around us.",
+    "source": "Colossal",
+    "published": "2026-11-23T20:33:23.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/blackwell-10.jpg"
+  }
+}

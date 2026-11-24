@@ -215,7 +215,8 @@
       "duration": "1h 10m",
       "page": "https://www.davidsenra.com/episode/tobi-lutke-2",
       "artwork": "https://megaphone-images.spotifycdn.com/podcasts/141e67c6-e643-11f1-bbe7-536993c97162/image/c26fac90295e425cb605b941bc88c802.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "youtube": "https://www.youtube.com/watch?v=w0oOxs0WKNk"
+      "youtube": "https://www.youtube.com/watch?v=w0oOxs0WKNk",
+      "apple": "https://podcasts.apple.com/us/podcast/jensen-huang-ai-why-founders-are-irreplaceable-tobi/id1836497887?i=1000803394783&uo=4"
     },
     {
       "url": "https://www.acquired.fm/episodes/tsmc-founder-morris-chang",
