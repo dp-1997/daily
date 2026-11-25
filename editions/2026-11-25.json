@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-25",
+  "front": [
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "tldr": "OpenAI says GPT-6 models can design new protein structures and sequences using reasoning and code, with lab tests showing binding across five targets. AI doing real scientific work, not just chat.",
+      "source": "OpenAI",
+      "published": "2026-11-24T13:00:00.000Z",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill"
+    },
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks from streaming",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
+      "tldr": "From 9 December, Tidal will remove songs generated entirely by AI, though tracks made with AI assistance can stay. A streaming platform drawing a line on authorship as AI music floods in.",
+      "source": "TechCrunch",
+      "published": "2026-11-24T16:46:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720"
+    },
+    {
+      "title": "Lando Norris expects 2030 F1 racing to surpass Las Vegas GP spectacle",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-admits-some-of-the-overtakes-werent-overtakes-in-vegas-thriller-and-explains-why-2030-/10877443",
+      "tldr": "Max Verstappen won a Las Vegas Grand Prix with a record 352 overtakes and 35 lead changes. Lando Norris says the 2030 rules should make racing even better.",
+      "source": "Motorsport.com",
+      "published": "2026-11-24T23:30:01.000Z",
+      "image": "https://cdn-1.motorsport.com/images/amp/2wlKznbY/s6/lando-norris-mclaren-a10877443-b706-2.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Three LLM inflection points in twelve months",
+          "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
+          "tldr": "Simon Willison's conference keynote traces three moments in the past year that changed what LLMs and coding agents can do. Useful context for anyone tracking how fast the ground is moving.",
+          "source": "Simon Willison",
+          "published": "2026-11-24T23:02:07.000Z",
+          "image": "https://static.simonwillison.net/static/2026/fable-class.webp"
+        },
+        {
+          "title": "Searching for distant planets with Astra",
+          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "tldr": "Two amateur astronomers used OpenAI's Codex and Astra tools to hunt for potential exoplanets in public NASA Kepler and TESS data. AI widening who gets to do science.",
+          "source": "OpenAI",
+          "published": "2026-11-24T11:00:00.000Z",
+          "image": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill"
+        },
+        {
+          "title": "GLM-5.4: toward generalized coding with a first loop transformer",
+          "url": "https://simonwillison.net/2026/Nov/23/glm-54",
+          "tldr": "Chinese lab Z.ai has released GLM-5.4, its first model built on a looped transformer architecture rather than a standard stack. An experiment beyond the usual scaling playbook.",
+          "source": "Simon Willison",
+          "published": "2026-11-23T23:40:49.000Z",
+          "image": "https://static.simonwillison.net/static/2026/glm-5.4-max.webp"
+        },
+        {
+          "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+          "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+          "tldr": "Startup Maple has raised $5.3 million to build AI products on encrypted architecture designed so even the company cannot see users' private data. A different bet on privacy and AI.",
+          "source": "TechCrunch",
+          "published": "2026-11-24T21:19:52.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "Threads comes to iPad and takes a page from X's playbook with cashtags",
+          "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags",
+          "tldr": "Threads is now available on iPad and adds live stock quotes and charts via cashtags. Meta is chasing the financial-chat crowd that has mostly lived on X.",
+          "source": "TechCrunch",
+          "published": "2026-11-24T17:44:34.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-app-store-GettyImages-2262056893.jpg?w=1024"
+        },
+        {
+          "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+          "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch",
+          "tldr": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public roads in the Bay Area, ahead of a planned 2027 robotaxi launch. One more entrant into the race to remove the driver.",
+          "source": "TechCrunch",
+          "published": "2026-11-24T16:40:46.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/uber-nuro-Driverless-Image-.jpg?resize=1200,675"
+        },
+        {
+          "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+          "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
+          "tldr": "Pinterest is giving parents a setting to restrict how much AI-generated content shows up in teenagers' feeds, a narrower response than the chatbot-access limits other platforms have tried.",
+          "source": "TechCrunch",
+          "published": "2026-11-24T16:02:37.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/pinterest-header.jpg?resize=1200,800"
+        },
+        {
+          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+          "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers",
+          "tldr": "An investor in data centre firm Crusoe argues solar power paired with batteries, not gas turbines, is the realistic way to meet AI's growing electricity demand. Infrastructure as the real constraint.",
+          "source": "TechCrunch",
+          "published": "2026-11-24T16:10:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1373266060.jpg?resize=1200,800"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "PrismML's Bonsai 2.5 brings better coding and tool use to on-device AI",
+          "url": "https://9to5mac.com/2026/11/24/prismmls-bonsai-2-5-brings-better-coding-and-tool-use-to-on-device-ai",
+          "tldr": "PrismML has released Ternary Bonsai 2.5, a roughly 4GB model it says runs fully on an iPhone, now better at coding and using tools. On-device AI keeps closing the gap with the cloud.",
+          "source": "9to5Mac",
+          "published": "2026-11-25T01:08:37.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/PrismML.png?w=1508"
+        },
+        {
+          "title": "Apple Mail added four convenient new features in iOS 27",
+          "url": "https://9to5mac.com/2026/11/24/heres-everything-new-for-apple-mail-in-ios-27",
+          "tldr": "iOS 27 brings four new features to Apple Mail, alongside updates already made to Wallet, Maps, Notes and Messages. A small refresh for an app most people check first thing.",
+          "source": "9to5Mac",
+          "published": "2026-11-24T23:56:12.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "title": "Apple to celebrate 20 years of (RED) with special event in New York",
+          "url": "https://www.macrumors.com/2026/11/24/apple-soho-red-event-new-york",
+          "tldr": "Apple is marking two decades of its partnership with (RED), which has raised money to fight HIV/AIDS since 2006, with an event in New York. A long-running cause tied closely to its products.",
+          "source": "MacRumors",
+          "published": "2026-11-24T16:39:12.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/11/Product-Red-and-Apple-Logo-Feature.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "Frederick Wiseman's complete filmography to be distributed by Janus Films",
+          "url": "https://www.indiewire.com/news/general-news/frederick-wiseman-complete-works-distributed-janus-films-1235230945",
+          "tldr": "Documentary maker Frederick Wiseman's films, from 1967's Titicut Follies to 2007's State Legislature, have been restored in 4K and will be distributed by Janus Films. A life's work made accessible together.",
+          "source": "IndieWire",
+          "published": "2026-11-24T23:15:17.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2025/01/PBDFRWI_EC003_cbf0a7.jpg?w=650"
+        },
+        {
+          "title": "Marvel plans Patrick Stewart tribute in Avengers: Doomsday",
+          "url": "https://deadline.com/2026/11/marvel-patrick-stewart-tribute-avengers-doomsday-last-day-filming-1237233059",
+          "tldr": "Marvel will honour Patrick Stewart in Avengers: Doomsday, reprising Professor X one last time. Director Anthony Russo says Stewart was struggling with his health on his final day filming.",
+          "source": "Deadline",
+          "published": "2026-11-25T02:10:40.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/patrick-stewart-xmen-avengers-doomsday.jpg"
+        },
+        {
+          "title": "Avengers: Doomsday might have the biggest box office opening weekend ever",
+          "url": "https://www.slashfilm.com/2326965/marvel-avengers-doomsday-box-office-preview",
+          "tldr": "Early tracking suggests Avengers: Doomsday could beat Dune: Part Three and set a new opening-weekend record. A high bar for the most expensive crossover Marvel has attempted.",
+          "source": "/Film",
+          "published": "2026-11-24T20:00:00.000Z",
+          "image": "https://www.slashfilm.com/img/gallery/marvels-avengers-doomsday-might-have-the-biggest-box-office-opening-weekend-ever/l-intro-1795546838.jpg"
+        },
+        {
+          "title": "Oscars visual effects top 20 revealed: Disney leads with four titles",
+          "url": "https://variety.com/2026/film/awards/oscars-visual-effects-top-20-shortlist-disney-dune-odyssey-1236957450",
+          "tldr": "The Academy's effects branch has narrowed the visual effects race to 20 films, with Disney leading on four, including The Odyssey and Dune: Part Three. Craft work getting its due.",
+          "source": "Variety",
+          "published": "2026-11-25T01:57:22.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-4-2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics survive late scare in NBA Cup, beat Wizards 131-116",
+          "url": "https://www.celticsblog.com/celtics-scores-results/150959/celtics-survive-late-scare-in-nba-cup-beat-wizards-131-116",
+          "tldr": "Boston beat Washington 131-116 in NBA Cup group play after exploding for 46 points in the second quarter, despite a late scare. A needed result after a rough stretch.",
+          "source": "CelticsBlog",
+          "published": "2026-11-25T03:42:52.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2306231553.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Rob Gronkowski headlines Patriots player group advancing in Pro Football Hall of Fame voting",
+          "url": "https://www.patriots.com/news/rob-gronkowski-headlines-patriots-player-group-advancing-in-pro-football-hall-of-fame-voting",
+          "tldr": "Rob Gronkowski, Rodney Harrison, Vince Wilfork and Logan Mankins are among former Patriots advancing as candidates for the Hall of Fame's 2027 class. Recognition for New England's most successful era.",
+          "source": "Patriots.com",
+          "published": "2026-11-24T19:15:04.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ijoqsphg40sleyh6a1px.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Alijah Vera-Tucker return will be 'huge' for Patriots offensive line",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/145102/alijah-vera-tucker-return-huge-patriots-offensive-line-will-campbell",
+          "tldr": "Left guard Alijah Vera-Tucker is back at practice after missing four games with a hamstring injury, ahead of Sunday's game at the Chargers. Needed depth back for a patched-together line.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-24T14:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/gettyimages-2300781592.jpg?quality=90&strip=all&crop=2.4585632324219,0.22804547046463,97.541436767578,77.76490996381"
+        },
+        {
+          "tag": "F1",
+          "title": "Unaired Las Vegas radio reveals Red Bull considered giving up Max Verstappen's lead",
+          "url": "https://www.motorsport.com/f1/news/unaired-radio-reveals-red-bull-told-max-verstappen-to-consider-giving-antonelli-the-lead-before-las/10877450",
+          "tldr": "Newly surfaced team radio from the Las Vegas Grand Prix shows Red Bull's pitwall weighing whether Verstappen should hand over the race lead late on. He held on and won anyway.",
+          "source": "Motorsport.com",
+          "published": "2026-11-24T21:08:35.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/0o5Ak91Y/s6/max-verstappen-red-bull-racing-a10877450-b707-4.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Jolyon Palmer: no rival could match Max Verstappen's fight against George Russell in Las Vegas",
+          "url": "https://www.motorsport.com/f1/news/jolyon-palmer-hails-max-verstappens-unbelievable-racecraft-in-george-russell-duel/10877407",
+          "tldr": "Former F1 driver Jolyon Palmer says Verstappen's wheel-to-wheel battle with George Russell was the defining moment of a race with 352 overtakes and 35 lead changes. Racecraft over strategy, for once.",
+          "source": "Motorsport.com",
+          "published": "2026-11-24T20:05:06.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/0kZXkEK6/s6/max-verstappen-red-bull-racing-a10877407-b707-2.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/startup-to-exit-lessons-from-a-first",
+    "why": "A first-time founder's honest account of VC pressure, building in stealth, losing conviction and eventually selling, useful for anyone building something on the side while holding down a day job.",
+    "title": "Startup to exit: Lessons from a first-time founder",
+    "subtitle": "Why VC funding is a drug, when building in stealth is a mistake, what to do when you lose conviction, how to approach selling your company, and more",
+    "published": "2022-11-22",
+    "words": 5453,
+    "image": "https://substackcdn.com/image/fetch/$s_!OkDY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F881aee89-b7a8-4ff0-a4af-5c2f7bb6e141_4096x1368.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/376-jensen-huang-founder-of-nvidia/id1141877104?i=1000683725727&uo=4",
+      "why": "With Jensen Huang back running Nvidia after this week's boardroom drama, this biography of how he built the company from nothing is the useful rewind.",
+      "show": "Founders",
+      "title": "#376 Jensen Huang: Founder of Nvidia",
+      "published": "2025-01-13",
+      "duration": "1h 41m",
+      "apple": "https://podcasts.apple.com/us/podcast/376-jensen-huang-founder-of-nvidia/id1141877104?i=1000683725727&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/travis-kalanick",
+      "why": "Travis Kalanick's account of building Uber, and Red Swoosh before it, through years of going unpaid pairs well with today's Lenny's piece on founder conviction.",
+      "show": "David Senra",
+      "title": "Travis Kalanick, Founder of Uber & Atoms",
+      "published": "2026-08-16",
+      "duration": "1h 49m",
+      "apple": "https://podcasts.apple.com/us/podcast/travis-kalanick-founder-of-uber-atoms/id1836497887?i=1000783566781&uo=4",
+      "page": "https://www.davidsenra.com/episode/travis-kalanick",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/19/22/d2/1922d243-0c7d-c8c8-b8af-7bd568ff955e/mza_17854511174282367109.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=QVnU5lGlKE8"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/marvel/id1050462261?i=1000428067480&uo=4",
+      "why": "With Avengers: Doomsday chasing box-office records this week, Acquired's history of how Marvel built its characters and business from a 1939 pulp publisher is worth revisiting.",
+      "show": "Acquired",
+      "title": "Marvel",
+      "published": "2016-12-05",
+      "duration": "1h 19m",
+      "apple": "https://podcasts.apple.com/us/podcast/marvel/id1050462261?i=1000428067480&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Kate Jenkins whips up delicious 'Knitalian' dishes in an immersive exhibition",
+    "url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation",
+    "tldr": "Textile artist Kate Jenkins has built an exhibition of Italian dishes, from spaghetti to tiramisu, entirely out of knitted and crocheted yarn. Playful craft made to be smiled at.",
+    "source": "Colossal",
+    "published": "2026-11-24T20:30:00.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/jenkins-8.jpg"
+  }
+}
