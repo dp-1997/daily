@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-26",
+  "note": "It's Thanksgiving weekend in the US, so expect a quieter news day and more box-office and movie-going coverage than usual.",
+  "front": [
+    {
+      "title": "A closer look at Claude's Mac \"apps\"",
+      "url": "https://www.macstories.net/stories/a-closer-look-at-claudes-mac-apps",
+      "tldr": "Anthropic's new beta feature turns Claude-built HTML artifacts into apps you can install on Mac and Windows. Federico Viticci dug into how the system actually works under the hood.",
+      "source": "MacStories",
+      "published": "2026-11-25T17:25:49.000Z",
+      "image": "https://cdn.macstories.net/images/uploads/2026/11/25/shortcut-upload-1795625565922-e54ce57825.png"
+    },
+    {
+      "title": "How 'Backrooms' artisans transformed a YouTube series into cinema's favourite liminal space",
+      "url": "https://variety.com/2026/artisans/news/backrooms-visual-effects-production-design-1236958246",
+      "tldr": "Kane Parsons' online horror series Backrooms became a $400m global box-office hit, built using 30,000 square feet of practical sets across four sound stages rather than CGI alone.",
+      "source": "Variety",
+      "published": "2026-11-25T20:14:20.000Z",
+      "image": "https://variety.com/wp-content/uploads/2026/11/EFG_LOCK-R5Changes_Clean_A24_20260326.00_37_55_22.Still016_CropR.jpg"
+    },
+    {
+      "title": "Jayson Tatum scores 41, Celtics snap skid with win over Wizards",
+      "url": "https://www.boston.com/sports/boston-celtics/2026/11/25/jayson-tatum-41-celtics-snap-skid-wizards-takeaways",
+      "tldr": "Tatum had a season-high 41 points, eight assists and six rebounds as Boston beat the Wizards 131-116, avoiding a fifth straight defeat and staying unbeaten in NBA Cup play.",
+      "source": "Boston.com",
+      "published": "2026-11-25T12:43:26.000Z",
+      "image": "https://www.boston.com/wp-content/uploads/2026/11/Jayson-Tatum-Celtics-Takeaways-Wizards-11.24-6b06d630b1e81-850x638.jpg"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Three LLM inflection points in twelve months",
+          "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
+          "tldr": "Simon Willison's AI Engineer Code Summit keynote maps three distinct shifts in LLM and coding-agent ability over the past year, a useful shorthand for how fast the ground has moved.",
+          "source": "Simon Willison",
+          "published": "2026-11-24T23:02:07.000Z",
+          "image": "https://static.simonwillison.net/static/2026/fable-class.webp"
+        },
+        {
+          "title": "Quoting Scott Aaronson",
+          "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson",
+          "tldr": "Computer scientist Scott Aaronson says AI tools are set to reveal not isolated proofs but \"a whole new continent of mathematical truth\" in complexity theory, quoted by Simon Willison.",
+          "source": "Simon Willison",
+          "published": "2026-11-25T23:26:32.000Z",
+          "image": ""
+        },
+        {
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+          "tldr": "OpenAI is combining ChatGPT's Chat and Work tiers under a single usage meter, meaning heavy users could hit their limits sooner once the merge lands.",
+          "source": "TechCrunch",
+          "published": "2026-11-25T20:03:27.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800"
+        },
+        {
+          "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+          "tldr": "Amazon and Meta are reportedly discussing a deal to end a two-month-long blockade of Meta's AI agent Muse.",
+          "source": "TechCrunch",
+          "published": "2026-11-25T14:10:18.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "WhatsApp now lets you schedule messages in group and individual chats",
+          "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats",
+          "tldr": "WhatsApp is rolling out scheduled messages for group and individual chats, letting users queue up a text, photo or video to send from 10 minutes to 14 days ahead.",
+          "source": "TechCrunch",
+          "published": "2026-11-25T16:57:51.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/WhatsApp-schedule.jpg?resize=1200,675"
+        },
+        {
+          "title": "FCC approves SpaceX plan to put AI data centers in space",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space",
+          "tldr": "The FCC approved SpaceX's plan to put AI data centers in orbit, dismissing concerns raised by opponents, including threats to scientific research, as outside its regulatory authority.",
+          "source": "TechCrunch",
+          "published": "2026-11-25T20:56:44.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801"
+        },
+        {
+          "title": "NASA's DART mission left a stadium-sized crater in an asteroid, the ESA finds",
+          "url": "https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds",
+          "tldr": "ESA's Hera probe has begun imaging the aftermath of NASA's deliberate DART impact, confirming it carved a crater the size of a stadium into the asteroid.",
+          "source": "Engadget",
+          "published": "2026-11-25T20:01:08.000Z",
+          "image": "https://www.engadget.com/img/gallery/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/l-intro-1795636789.jpg"
+        },
+        {
+          "title": "Nothing's Ear (note) is a pair of earbuds with built-in AI notetaking",
+          "url": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking",
+          "tldr": "Nothing has teased Ear (note), earbuds with built-in AI notetaking, promising fuller details on 8 December.",
+          "source": "Engadget",
+          "published": "2026-11-25T16:03:17.000Z",
+          "image": "https://www.engadget.com/img/gallery/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/l-intro-1795622251.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns",
+          "url": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns",
+          "tldr": "Apple removed the Chinese AI companion app Talkie from the App Store after reports that its characters sent inappropriate messages to minors.",
+          "source": "9to5Mac",
+          "published": "2026-11-26T02:12:24.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/App-Store-fraud.webp?w=1500"
+        },
+        {
+          "title": "Apple TV's 'Carême' wins top prize at the International Emmys",
+          "url": "https://9to5mac.com/2026/11/25/apple-tv-just-won-prestigious-award-for-hit-drama-series",
+          "tldr": "Apple TV's period drama Carême won the top award at the International Emmys, after Widow's Bay triumphed at the Emmy Awards earlier this year.",
+          "source": "9to5Mac",
+          "published": "2026-11-25T21:04:00.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/careme-benjamin-voisin-1.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Screens can now turn iPhone Duo into a tiny MacBook",
+          "url": "https://9to5mac.com/2026/11/25/screens-can-now-turn-iphone-duo-into-a-tiny-macbook",
+          "tldr": "Screens 5.10 adds a playful \"tiny laptop mode\" for iPhone Duo users, following two other highly requested desktop features added to the app earlier this month.",
+          "source": "9to5Mac",
+          "published": "2026-11-25T22:10:00.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/screens-iphone-duo.webp?w=1600"
+        },
+        {
+          "title": "Wispr Flow improves dictation accuracy with new Canto-2 speech-to-text model",
+          "url": "https://9to5mac.com/2026/11/25/wispr-flow-improves-dictation-accuracy-with-new-canto-2-speech-to-text-model",
+          "tldr": "AI dictation app Wispr Flow is rolling out a new Canto-2 speech-to-text model across Mac, iPhone and other platforms, promising fewer errors and better name recognition.",
+          "source": "9to5Mac",
+          "published": "2026-11-26T00:35:52.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/wispr-canto-2.jpg?quality=82&strip=all&w=1600"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Baahubali', 'RRR' tech chief C.V. Rao named SMPTE Fellow",
+          "url": "https://variety.com/2026/film/news/baahubali-rrr-tech-chief-weaning-india-off-overseas-facilities-1236958697",
+          "tldr": "C.V. Rao, who helped shape the production and post-production pipelines behind Baahubali and RRR, has become the first technologist from South India named a SMPTE Fellow.",
+          "source": "Variety",
+          "published": "2026-11-26T02:57:01.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/CV-Rao.jpg"
+        },
+        {
+          "title": "'Avengers: Doomsday' eyes $270M opening as 'Dune: Part Three' also heads for big start",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/avengers-doomsday-box-office-tracking-dune-part-three-1236763223",
+          "tldr": "Avengers: Doomsday is tracking for a $270m opening weekend, with Dune: Part Three also heading for a strong debut as both blockbusters hit early tracking.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-25T19:45:27.000Z",
+          "image": ""
+        },
+        {
+          "title": "Cult hit 'Hundreds of Beavers' returns to theaters for big Christmas expansion",
+          "url": "https://www.indiewire.com/news/breaking-news/hundreds-of-beavers-returns-theaters-christmas-expansion-1235231135",
+          "tldr": "The silent, black-and-white slapstick indie comedy Hundreds of Beavers returns for a third annual holiday re-release, with 130 screenings across 85 cities this Christmas.",
+          "source": "IndieWire",
+          "published": "2026-11-25T19:47:46.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2025/02/MCDHUOF_EC038.jpg?w=650"
+        },
+        {
+          "title": "'The Mosquito Bowl' producer Alex Gayner thought he'd solved every problem a set could throw at him. Then came a runaway parrot.",
+          "url": "https://www.hollywoodreporter.com/movies/movie-features/the-mosquito-bowl-alex-gayner-1236763483",
+          "tldr": "Producer Alex Gayner says the most nerve-wracking ten seconds of The Mosquito Bowl's shoot came from a runaway parrot, not any of the production's bigger logistical problems.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-25T22:41:18.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Patriots",
+          "title": "Patriots don't want a new Drake Maye. They want Tommy DeVito to be himself.",
+          "url": "https://www.patspulpit.com/new-england-patriots-news/145133/patriots-drake-maye-tommy-devito-backup-quarterback",
+          "tldr": "With Drake Maye injured, the Patriots have committed to Tommy DeVito as their starting quarterback, telling the 28-year-old simply to be himself.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-25T15:00:00.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY295778661518773750.jpg?quality=90&strip=all&crop=0,0,97.247790527344,100"
+        },
+        {
+          "tag": "F1",
+          "title": "FIA filings reveal the Red Bull aero update behind Max Verstappen's Las Vegas GP win",
+          "url": "https://www.motorsport.com/f1/news/fia-filings-reveal-the-lone-rb22-aero-update-behind-max-verstappens-las-vegas-gp-win/10877619",
+          "tldr": "FIA filings show a quiet aerodynamic fix underpinned Max Verstappen's Las Vegas Grand Prix win, alongside a high-speed battery deployment battle on track.",
+          "source": "Motorsport.com",
+          "published": "2026-11-25T20:31:23.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-a10877619-b707-3.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Five things to look out for at F1's Qatar GP",
+          "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-f1s-qatar-gp/10877727",
+          "tldr": "F1 heads to Qatar for round 22 of the season this weekend, with both championships already decided and little left to play for.",
+          "source": "Motorsport.com",
+          "published": "2026-11-25T17:13:20.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/YMX3X1v2/s6/lusail-city-qatar-november-29--2.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Red Sox had their best bullpen in 2026. Can it be even better in '27?",
+          "url": "https://www.mlb.com/redsox/news/red-sox-bullpen-analysis-2027-mlb",
+          "tldr": "Boston's bullpen was its best in 2026, and MLB.com looks at whether an already strong relief corps can improve further heading into next season.",
+          "source": "MLB.com",
+          "published": "2026-11-25T21:05:48.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1785395130/mlb/ovcdms1ocisasq9kuelh.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/five-steps-to-starting-your-plg-motion",
+    "why": "A practical five-step framework for starting product-led growth, useful groundwork for thinking about distribution on the products Damian builds on the side.",
+    "title": "Five steps to starting your product-led growth motion",
+    "subtitle": "An in-depth guide to getting started with PLG",
+    "published": "2023-01-10",
+    "words": 4394,
+    "image": "https://substack-post-media.s3.amazonaws.com/public/images/af832b0f-4950-4374-9b51-c154e9050fd9_4000x2000.png",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/434-sam-walton/id1141877104?i=1000790878150&uo=4",
+      "why": "A scrappy, obsessive builder scaling something huge, in the same spirit as today's Backrooms story on practical craft winning out.",
+      "show": "Founders",
+      "title": "#434 Sam Walton",
+      "published": "2026-09-21",
+      "duration": "49m",
+      "apple": "https://podcasts.apple.com/us/podcast/434-sam-walton/id1141877104?i=1000790878150&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/jacob-hirshman",
+      "why": "This week's new episode: a lawyer turned bank co-founder on building Erebor with Palmer Luckey.",
+      "show": "David Senra",
+      "title": "A Deep Dive Into Palmer Luckey’s Bank | Jacob Hirshman, Erebor",
+      "published": "2026-11-25",
+      "duration": "1h 01m",
+      "page": "https://www.davidsenra.com/episode/jacob-hirshman",
+      "artwork": "https://megaphone-images.spotifycdn.com/podcasts/ce1d0c9e-e88d-11f1-a9af-97eebdfbe80f/image/ef35ef69993aa0891bfe94636de11d9b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "youtube": "https://www.youtube.com/watch?v=O_dAi5KlVO0"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/coca-cola",
+      "why": "A classic on building an enduring brand through story and distribution, squarely in product marketing territory alongside today's Lenny pick on growth.",
+      "show": "Acquired",
+      "title": "Coca-Cola",
+      "published": "2025-11-24",
+      "duration": "3h 54m",
+      "apple": "https://podcasts.apple.com/us/podcast/coca-cola/id1050462261?i=1000738059532&uo=4",
+      "page": "https://www.acquired.fm/episodes/coca-cola",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/22/14/8c/22148c4b-40c8-09ed-01ac-ad76f1bd8b3a/mza_16845767999812105218.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Run with the Semi-Wild Yilki Horses of Anatolia in Nur Tucker's Captivating Photos",
+    "url": "https://www.thisiscolossal.com/2026/11/the-untold-story-of-the-yilki-horse-nur-tucker-book",
+    "tldr": "In 'The Untold Story of the Yilki Horse', British-Turkish photographer Nur Tucker captures a portrait of the region's free-roaming horses and the living heritage they represent.",
+    "source": "Colossal",
+    "published": "2026-11-25T15:56:17.000Z",
+    "image": "https://www.thisiscolossal.com/wp-content/uploads/2026/11/yilki-4.jpeg"
+  }
+}
