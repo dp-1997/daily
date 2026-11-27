@@ -1,0 +1,293 @@
+{
+  "date": "2026-11-27",
+  "note": "It's Thanksgiving weekend in the US, so feeds were thinner and heavier on Black Friday deals, which are filtered out here.",
+  "front": [
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn't a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+      "tldr": "Anthropic went public the same day Grand Theft Auto VI became one of the most successful entertainment launches ever, a reminder that painstaking, inefficient human craft still beats pure optimisation.",
+      "source": "TechCrunch",
+      "published": "2026-11-26T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675"
+    },
+    {
+      "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+      "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center",
+      "tldr": "The FCC has approved SpaceX's plan to put 1 million satellites into orbit to build an AI data centre in space, a vast bet on computing beyond Earth.",
+      "source": "Engadget",
+      "published": "2026-11-26T11:01:32.000Z",
+      "image": "https://www.engadget.com/img/gallery/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/l-intro-1795690830.jpg"
+    },
+    {
+      "title": "MacRemote: Connect Any Agent to Your Mac's Tools, Now Free and Open Source",
+      "url": "https://www.macstories.net/stories/macremote-connect-any-agent-to-your-macs-tools-now-free-and-open-source",
+      "tldr": "A MacStories developer has released MacRemote, a free, open source Mac app that lets any AI agent securely use a Mac's tools and local MCPs, six months in the making.",
+      "source": "MacStories",
+      "published": "2026-11-26T16:35:02.000Z",
+      "image": "https://cdn.macstories.net/images/uploads/2026/11/26/shortcut-upload-1795709781796-e3766cf95e.png"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+          "tldr": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the US tightens its push to keep AI chips out of China.",
+          "source": "TechCrunch",
+          "published": "2026-11-26T20:03:54.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024"
+        },
+        {
+          "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+          "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
+          "tldr": "Simon Willison flags sqlite3_rsync, SQLite's remote copy tool, added as experimental in 2024 and since improved, for syncing databases efficiently between machines.",
+          "source": "Simon Willison",
+          "published": "2026-11-26T06:08:25.000Z",
+          "image": ""
+        },
+        {
+          "title": "The New York Times warns photographers not to update Photoshop over AI features",
+          "url": "https://simonwillison.net/2026/Nov/26/hn-50651685",
+          "tldr": "Simon Willison notes the New York Times is telling contracted photographers not to update Photoshop, after its new AI features raised concerns flagged on Hacker News.",
+          "source": "Simon Willison",
+          "published": "2026-11-26T05:08:46.000Z",
+          "image": ""
+        },
+        {
+          "title": "Quoting Jack Despain Zhou",
+          "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
+          "tldr": "Simon Willison quotes Jack Despain Zhou on AI's de-individualising effect: hearing the same Claude-shaped voice in YouTube videos, conference talks and emails alike.",
+          "source": "Simon Willison",
+          "published": "2026-11-26T15:09:31.000Z",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "A month with the iPhone Duo has changed how I use my phone",
+          "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone",
+          "tldr": "A TechCrunch writer says a month with Apple's folding iPhone Duo pushed them to read more books and break mindless scrolling habits.",
+          "source": "TechCrunch",
+          "published": "2026-11-26T17:00:00.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/iphone-duo-GettyImages-2301595744.jpg?w=1024"
+        },
+        {
+          "title": "The Screens app will let you turn your iPhone Duo into an itty bitty MacBook",
+          "url": "https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook",
+          "tldr": "Edovia has added a Laptop Mode to its Screens remote desktop app, letting iPhone Duo owners control a Mac from the folding phone's two screens.",
+          "source": "Engadget",
+          "published": "2026-11-26T13:59:06.000Z",
+          "image": "https://www.engadget.com/img/gallery/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/l-intro-1795701363.jpg"
+        },
+        {
+          "title": "X finally gets parental controls after 20 years",
+          "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years",
+          "tldr": "X has added parental controls for teenagers after two decades without them, giving parents tools to manage what their children see on the platform.",
+          "source": "TechCrunch",
+          "published": "2026-11-26T19:31:50.000Z",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Readdle's Documents app adds voice recording with transcripts, summaries, more",
+          "url": "https://9to5mac.com/2026/11/26/readdles-documents-app-adds-voice-recording-with-transcripts-summaries-more",
+          "tldr": "Readdle has updated its Documents app for iPhone and iPad with Voice Notes, letting users record conversations and automatically generate transcripts and summaries.",
+          "source": "9to5Mac",
+          "published": "2026-11-26T20:30:32.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/readdle-documents-voice-notes.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "Halide Adds Fill Light Feature for iPhone Duo",
+          "url": "https://www.macrumors.com/2026/11/26/halide-adds-fill-light-feature-for-iphone-duo",
+          "tldr": "Halide 3.4 can use the iPhone Duo's outer display as a fill light when the phone is unfolded, offering softer lighting than the built-in flash.",
+          "source": "MacRumors",
+          "published": "2026-11-26T16:17:32.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/11/halide-iphone-duo.jpg"
+        },
+        {
+          "title": "Obvious Affordances Are Due for a Comeback",
+          "url": "https://daringfireball.net/2026/11/obvious_affordances_are_due_for_a_comeback",
+          "tldr": "A Daring Fireball post argues interface design is overdue a return to obvious, clickable-looking affordances, after years of flat design hiding what can actually be tapped.",
+          "source": "Daring Fireball",
+          "published": "2026-11-26T15:11:46.000Z",
+          "image": "https://daringfireball.net/graphics/df-wide-card.png"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Hunger Games: Sunrise on the Reaping' Devouring $85M Over Thanksgiving Weekend",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-box-office-thanksgiving-focker-hexed-1236764014",
+          "tldr": "Lionsgate's prequel is on track for an $85m Thanksgiving weekend, aiming to beat its own series record after a strong Monday and Tuesday debut.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-26T17:51:13.000Z",
+          "image": ""
+        },
+        {
+          "title": "Chiwetel Ejiofor on How Stephen Frears' 'Dirty Pretty Things' Led Him to Fall in Love With Film",
+          "url": "https://variety.com/2026/film/awards/chiwetel-ejiofor-stephen-frears-dirty-pretty-things-1236959080",
+          "tldr": "Chiwetel Ejiofor traces his love of film to working with Stephen Frears on Dirty Pretty Things, after his screen debut alongside Steven Spielberg on Amistad.",
+          "source": "Variety",
+          "published": "2026-11-26T20:58:05.000Z",
+          "image": "https://variety.com/wp-content/uploads/2026/11/Stephen-Frears-and-Chiwetel-Ejiofor.jpg"
+        },
+        {
+          "title": "Robert Aramayo's Star-Making Turn in 'I Swear' Is Already Award-Winning, Now He Just Wants People to See It",
+          "url": "https://www.indiewire.com/features/interviews/robert-aramayo-i-swear-baftas-john-davidson-tourettes-1235190387",
+          "tldr": "Robert Aramayo won two BAFTAs for I Swear and tells IndieWire the next step is simply getting more people to watch it, not more acclaim.",
+          "source": "IndieWire",
+          "published": "2026-11-26T16:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/04/GettyImages-2263059255.jpg?w=650"
+        },
+        {
+          "title": "Michel Hazanavicius To Present Exclusive Footage Of 'The Third Hand' In AI Case Study At Les Arcs",
+          "url": "https://deadline.com/2026/11/michel-hazanavicius-exclusive-footage-third-hand-ai-1237234059",
+          "tldr": "Oscar-winning director Michel Hazanavicius will show unseen footage from his upcoming film The Third Hand as part of an AI case study at December's Les Arcs festival.",
+          "source": "Deadline",
+          "published": "2026-11-26T16:06:03.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg"
+        },
+        {
+          "title": "'The Lowdown' Season 2 Finale Hinges on Two Monologues: Ethan Hawke and Sterlin Harjo Break Them Down",
+          "url": "https://www.indiewire.com/features/interviews/the-lowdown-season-2-episode-8-explained-ethan-hawke-ending-1235230568",
+          "tldr": "Creator Sterlin Harjo and star Ethan Hawke explain how they built the finale's two pivotal monologues, one written as a homage to No Country for Old Men.",
+          "source": "IndieWire",
+          "published": "2026-11-26T14:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/The-Lowdown-Season-2-Episode-8-Ethan-Hawke-finale-interview.jpg?w=650"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Bill Simmons: Last year's Jaylen Brown played better than this year's Jayson Tatum",
+          "url": "https://www.boston.com/sports/boston-celtics/2026/11/25/bill-simmons-boston-celtics-jayson-tatum-jaylen-brown-nba-basketball-ringer",
+          "tldr": "Bill Simmons says last year's Jaylen Brown was playing better than this year's Jayson Tatum, criticising the shots Tatum is taking in Boston's offence.",
+          "source": "Boston.com",
+          "published": "2026-11-26T00:05:53.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/BOPGCIMZKRC7FP34QB6PLQQAWA-6b075f08f2053-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "3 to Watch: Patriots Look to Get Back on Track in Los Angeles vs. Chargers",
+          "url": "https://www.patriots.com/news/3-to-watch-patriots-look-to-get-back-on-track-in-los-angeles-vs-chargers",
+          "tldr": "The 5-5 Patriots travel to face the 1-9 Chargers looking to end a two-game losing streak, with three storylines to watch in the Week 12 matchup.",
+          "source": "Patriots.com",
+          "published": "2026-11-25T22:21:00.000Z",
+          "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/patriots/ubvk3kopyi14z8pplngu.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "How does Aaron Rodgers' shocking release impact the Patriots?",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/25/new-england-patriots-aaron-rodgers-nfl-football-pittsburgh-steelers",
+          "tldr": "Aaron Rodgers' release from the Steelers could help New England's playoff hopes, since the Patriots trail Pittsburgh in the race for a wildcard spot.",
+          "source": "Boston.com",
+          "published": "2026-11-26T00:43:16.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/J4CPHHXZ4ZFK5C7HMXCUBCXMEU-6b076a94c0469-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "What Romeo Doubs returning to practice means for the Patriots",
+          "url": "https://www.patspulpit.com/new-england-patriots-analysis/145271/romeo-doubs-return-practice-injured-reserve-impact-roster",
+          "tldr": "Wide receiver Romeo Doubs returned to Patriots practice this week, one of two starters back from injured reserve while the offence still waits on quarterback Drake Maye.",
+          "source": "Pats Pulpit",
+          "published": "2026-11-26T12:18:07.000Z",
+          "image": "https://platform.patspulpit.com/wp-content/uploads/sites/121/2026/10/gettyimages-2299752161.jpg?quality=90&strip=all&crop=0,0,95.847021484375,100"
+        },
+        {
+          "tag": "F1",
+          "title": "Haas finally confirms Bearman's new contract for 2027",
+          "url": "https://www.racefans.net/2026/11/26/haas-finally-confirm-bearmans-new-contract-for-2027",
+          "tldr": "Haas has confirmed Oliver Bearman will stay for 2027 alongside Rafael Camara, completing the Formula 1 grid for next season with two Ferrari junior drivers.",
+          "source": "RaceFans",
+          "published": "2026-11-26T09:19:12.000Z",
+          "image": "https://www.racefans.net/wp-content/uploads/2026/11/racefansdotnet-24-11-18-17-41-55-6-2305798002-579.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Max Verstappen details his ideal 2030 F1 Formula",
+          "url": "https://www.motorsport.com/f1/news/verstappen-outlines-his-ideal-2030-f1-formula-lighter-cars-simpler-engines-and-push-to-pass-over-en/10878035",
+          "tldr": "Fresh off winning a chaotic Las Vegas Grand Prix, Max Verstappen laid out his vision for Formula 1's 2030 rules: lighter cars, simpler engines and a push-to-pass system.",
+          "source": "Motorsport.com",
+          "published": "2026-11-26T22:13:25.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/24QGyQAY/s6/max-verstappen-red-bull-racing-a10878035-b707-2.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Alonso to not let his age determine F1 retirement",
+          "url": "https://www.autosport.com/f1/news/alonso-to-not-let-age-determine-f1-retirement/10877846",
+          "tldr": "Fernando Alonso, F1's most experienced driver, says he will retire once he feels slow, not because of his age, and doesn't need a footballer's fitness to compete.",
+          "source": "Autosport",
+          "published": "2026-11-26T10:42:24.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/6grQVmGY/s6/fernando-alonso-aston-martin-r-2.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/1000000",
+    "why": "A nice reminder to pause and celebrate milestones before getting back to work, fitting for Thanksgiving weekend and Damian's own side projects.",
+    "title": "1,000,000",
+    "subtitle": "Taking a moment to celebrate and reflect—and then back to work",
+    "published": "2025-03-04",
+    "words": 2831,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf80d241-d9c0-40ce-8766-d85d3a0a948a_2913x1530.jpeg",
+    "paid": false
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/438-james-garfields-extraordinary-rise/id1141877104?i=1000798157248&uo=4",
+      "why": "Garfield's rise from poverty rewards patient, unglamorous effort, the same theme running through today's lead story on craft beating efficiency.",
+      "show": "Founders",
+      "title": "#438 James Garfield's Extraordinary Rise",
+      "published": "2026-10-26",
+      "duration": "38m",
+      "apple": "https://podcasts.apple.com/us/podcast/438-james-garfields-extraordinary-rise/id1141877104?i=1000798157248&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/travis-kalanick",
+      "why": "Travis Kalanick on building Atoms after Uber, a founder still obsessed with hard, unglamorous problems, fitting today's theme of effort over efficiency.",
+      "show": "David Senra",
+      "title": "Travis Kalanick, Founder of Uber & Atoms",
+      "published": "2026-08-16",
+      "duration": "1h 49m",
+      "apple": "https://podcasts.apple.com/us/podcast/travis-kalanick-founder-of-uber-atoms/id1836497887?i=1000783566781&uo=4",
+      "page": "https://www.davidsenra.com/episode/travis-kalanick",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/19/22/d2/1922d243-0c7d-c8c8-b8af-7bd568ff955e/mza_17854511174282367109.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=QVnU5lGlKE8"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/the-steve-ballmer-interview",
+      "why": "Steve Ballmer on building and leading Microsoft, fitting Damian's interest in the great product operators alongside Jobs and Disney.",
+      "show": "Acquired",
+      "title": "The Steve Ballmer Interview",
+      "published": "2025-06-02",
+      "duration": "2h 49m",
+      "apple": "https://podcasts.apple.com/us/podcast/the-steve-ballmer-interview/id1050462261?i=1000710802439&uo=4",
+      "page": "https://www.acquired.fm/episodes/the-steve-ballmer-interview",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/10/61/4910616b-6f78-522e-58dc-69520eed200a/mza_12071236440639884160.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Victorian hospital conversion in Edinburgh named Scotland's best new building",
+    "url": "https://www.dezeen.com/2026/11/27/rias-doolan-award-edinburgh-futures",
+    "tldr": "An old Victorian infirmary turned into an educational space by Bennetts Associates has won the Andrew Doolan award for Scotland's best new building of 2026.",
+    "source": "Dezeen",
+    "published": "2026-11-27T00:01:00.000Z",
+    "image": "https://static-2026.dezeen.com/uploads/2026/11/bennetts-associates-edinburgh-futures-institute-rias-doolan-award-sq_dezeen_2364_col_1-1-1024x1024.jpg"
+  }
+}

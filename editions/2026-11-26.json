@@ -248,7 +248,8 @@
       "duration": "1h 01m",
       "page": "https://www.davidsenra.com/episode/jacob-hirshman",
       "artwork": "https://megaphone-images.spotifycdn.com/podcasts/ce1d0c9e-e88d-11f1-a9af-97eebdfbe80f/image/ef35ef69993aa0891bfe94636de11d9b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "youtube": "https://www.youtube.com/watch?v=O_dAi5KlVO0"
+      "youtube": "https://www.youtube.com/watch?v=O_dAi5KlVO0",
+      "apple": "https://podcasts.apple.com/us/podcast/a-deep-dive-into-palmer-luckeys-bank-jacob-hirshman-erebor/id1836497887?i=1000803945653&uo=4"
     },
     {
       "url": "https://www.acquired.fm/episodes/coca-cola",
