@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-28",
+  "note": "Qualifying for the Qatar Grand Prix is today, with Mercedes dominant in practice.",
+  "front": [
+    {
+      "title": "Apple TV's 'Carême' Wins International Emmy for Best Drama",
+      "url": "https://www.macrumors.com/2026/11/27/careme-wins-emmy",
+      "tldr": "Apple TV's French-language drama Carême won Best Drama at the International Emmy Awards, the service's second win in the category after Drops of God. A craft win for Apple's original content push.",
+      "source": "MacRumors",
+      "published": "2026-11-27T14:30:59.000Z",
+      "image": "https://images.macrumors.com/article-new/2026/11/careme.jpg"
+    },
+    {
+      "title": "Hawkins\\Brown's temporary housing for homeless families in London is a UK first",
+      "url": "https://www.dezeen.com/2026/11/27/harold-hill-family-welcome-centre-hawkins-brown-temporary-homeless-housing",
+      "tldr": "Architecture studio Hawkins\\Brown has opened the Harold Hill Family Welcome Centre in London, the first purpose-built temporary housing for homeless families built in the UK. Design put to direct social use.",
+      "source": "Dezeen",
+      "published": "2026-11-27T11:00:00.000Z",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/harold-hill-family-welcome-centre-hawkins-brown-sq_dezeen_2364_col_0-1024x1024.jpg"
+    },
+    {
+      "title": "Antonelli completes Qatar Friday practice double for dominant Mercedes",
+      "url": "https://www.skysports.com/f1/news/12433/13617140/qatar-gp-kimi-antonelli-completes-friday-practice-double-as-mercedes-dominate-despite-red-flag-interruptions",
+      "tldr": "Kimi Antonelli topped both Friday practice sessions for the Qatar Grand Prix, finishing ahead of Mercedes team-mate George Russell as the team dominated despite two red flags. Qualifying is today.",
+      "source": "Sky Sports",
+      "published": "2026-11-27T18:20:00.000Z",
+      "image": "https://e0.365dm.com/26/11/1920x1080/skysports-kimi-antonelli-mercedes_7418112.jpg?20261127183024"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "stories": [
+        {
+          "title": "Samsung is reportedly giving its camera app an AI mode",
+          "url": "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode",
+          "tldr": "Samsung is reportedly adding an AI mode to its camera app, mirroring the Siri-powered mode Apple introduced in iOS 27. Another sign camera software, not hardware, is where phone makers are now competing.",
+          "source": "Engadget",
+          "published": "2026-11-27T20:06:02.000Z",
+          "image": "https://www.engadget.com/img/gallery/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/l-intro-1795809894.jpg"
+        },
+        {
+          "title": "datasette-charts 0.4a0",
+          "url": "https://simonwillison.net/2026/Nov/27/datasette-charts",
+          "tldr": "Simon Willison's datasette-charts plugin gained a hook letting other plugins define new chart types, built with Claude's help before he had an actual use for it himself. Tooling built ahead of need.",
+          "source": "Simon Willison",
+          "published": "2026-11-27T23:57:17.000Z",
+          "image": "https://static.simonwillison.net/static/2026/datasette-charts-gallery.webp"
+        },
+        {
+          "title": "LA school district blocks Google's AI search features",
+          "url": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features",
+          "tldr": "Los Angeles Unified has blocked Google's AI Overviews and AI Mode in its schools, after Google refused to let districts turn the AI features off separately from search itself. A dispute over bundling.",
+          "source": "Engadget",
+          "published": "2026-11-27T22:00:08.000Z",
+          "image": "https://www.engadget.com/img/gallery/la-school-district-blocks-googles-ai-search-features/l-intro-1795816633.jpg"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "stories": [
+        {
+          "title": "WhatsApp adds support for travel eSIMs",
+          "url": "https://www.engadget.com/2329553/whatsapp-adds-support-for-travel-esims",
+          "tldr": "WhatsApp now lets users buy travel eSIMs directly in the app, alongside early tests of view-once messages and a simplified interface. A messaging app edging further into travel and commerce.",
+          "source": "Engadget",
+          "published": "2026-11-27T16:24:07.000Z",
+          "image": "https://www.engadget.com/img/gallery/whatsapp-adds-support-for-travel-esims/l-intro-1795796572.jpg"
+        },
+        {
+          "title": "Hackers reportedly infiltrated the Air Force's cloud systems",
+          "url": "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems",
+          "tldr": "Hackers reportedly breached the US Air Force's cloud systems, discovered during routine system upgrade work within the last month, according to Reuters. One of the more serious reported breaches of US military infrastructure this year.",
+          "source": "Engadget",
+          "published": "2026-11-27T16:55:43.000Z",
+          "image": "https://www.engadget.com/img/gallery/hackers-reportedly-infiltrated-the-air-forces-cloud-systems/l-intro-1795798468.jpg"
+        },
+        {
+          "title": "Google will soon share Android developers' addresses publicly",
+          "url": "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly",
+          "tldr": "Google will soon publish Android developers' home addresses and other identifying details to comply with new European transparency rules, drawing criticism from smaller developers. A compliance change with real privacy costs.",
+          "source": "Engadget",
+          "published": "2026-11-27T09:38:33.000Z",
+          "image": "https://www.engadget.com/img/gallery/google-will-soon-share-android-developers-addresses-publicly/l-intro-1795830224.jpg"
+        }
+      ]
+    },
+    {
+      "id": "apple",
+      "stories": [
+        {
+          "title": "Apple TV to adapt William Gibson's Neuromancer as a new sci-fi series",
+          "url": "https://9to5mac.com/2026/11/27/apple-tv-unveils-major-new-sci-fi-series-thats-coming-soon",
+          "tldr": "A behind-the-scenes look reveals Apple TV is preparing to launch a new science fiction series adapting William Gibson's Neuromancer. Apple's next bet on prestige sci-fi.",
+          "source": "9to5Mac",
+          "published": "2026-11-27T19:22:45.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/neuromancer-chair-callum-turner.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "title": "MacWhisper now remembers speakers' voices across recordings",
+          "url": "https://9to5mac.com/2026/11/27/macwhisper-now-remembers-speakers-voices-across-recordings",
+          "tldr": "MacWhisper's latest update lets the transcription app automatically recognise previously named speakers across different recordings, a much-requested feature. A small but useful step for an already well-regarded tool.",
+          "source": "9to5Mac",
+          "published": "2026-11-27T21:08:01.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/05/macwhisper.webp?w=1600"
+        },
+        {
+          "title": "Apple claims six of China's 10 bestselling smartphones during Singles' Day",
+          "url": "https://9to5mac.com/2026/11/27/apple-claims-six-of-chinas-10-bestselling-smartphones-during-singles-day",
+          "tldr": "Counterpoint Research says Apple took six of the top 10 best-selling smartphone spots in China during this year's Singles' Day shopping festival, despite a broader slowdown in smartphone demand there.",
+          "source": "9to5Mac",
+          "published": "2026-11-27T21:49:17.000Z",
+          "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&strip=all&w=1500"
+        },
+        {
+          "title": "GTA VI Now (Barely) Running on Apple Silicon Macs",
+          "url": "https://www.macrumors.com/2026/11/27/gta-vi-on-apple-silicon-macs",
+          "tldr": "Developers have adapted Grand Theft Auto VI's Xbox version to run, barely, on Apple Silicon Macs via unofficial community projects, with no official Mac release from Rockstar. A rough but real proof of concept.",
+          "source": "MacRumors",
+          "published": "2026-11-27T15:46:16.000Z",
+          "image": "https://images.macrumors.com/article-new/2026/11/grand-theft-auto-iv-scaled.jpg"
+        }
+      ]
+    },
+    {
+      "id": "film",
+      "stories": [
+        {
+          "title": "'Odyssey' Cinematographer Hoyte van Hoytema Was More Interested in the Intimate Than the Epic",
+          "url": "https://www.indiewire.com/features/craft/odyssey-cinematography-hoyte-van-hoytema-1235230743",
+          "tldr": "Odyssey cinematographer Hoyte van Hoytema says that despite the film's IMAX scale, he and director Christopher Nolan stayed focused on the human story at its centre rather than the spectacle.",
+          "source": "IndieWire",
+          "published": "2026-11-27T20:30:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDODYS_UV014.jpg?w=650"
+        },
+        {
+          "title": "Forget Photorealism: How 'Wildwood' Made Its Handmade Digital Artistry Visible",
+          "url": "https://www.indiewire.com/features/animation/weta-fx-visual-effects-supervisors-stop-motion-wildwood-1235230742",
+          "tldr": "WETA FX supervisors Dan Macarin and Sabine Laimer explain how they matched Wildwood's digital animation to the tones and textures of Laika's stop-motion filmmaking, keeping the handmade look visible rather than hiding it.",
+          "source": "IndieWire",
+          "published": "2026-11-27T16:00:00.000Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/11/MCDWILD_EC241.jpg?w=650"
+        },
+        {
+          "title": "Doha Winners: 'A Girl Unknown' & 'Concrete Land' Scoop Top Prizes",
+          "url": "https://deadline.com/2026/11/doha-2026-winners-girl-unknown-concrete-land-1237234325",
+          "tldr": "Zou Jing's A Girl Unknown won the $75,000 Best Narrative prize at the Doha Film Festival, as the festival's revamped second edition closed on Friday.",
+          "source": "Deadline",
+          "published": "2026-11-27T18:21:54.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/07/A-Girl-Unknown.jpeg"
+        },
+        {
+          "title": "Denis Villeneuve Pledges Traditional, 'Unapologetic' Bond: 'Not Here to Change the DNA'",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-bond-movie-denis-villeneuve-1236764148",
+          "tldr": "Denis Villeneuve says his Bond film with Robert Pattinson will be a traditional, unapologetic take on the character rather than a reinvention: not here to change the DNA, in his words.",
+          "source": "The Hollywood Reporter",
+          "published": "2026-11-27T17:47:36.000Z",
+          "image": ""
+        },
+        {
+          "title": "Mike Leigh Reminds The World Why He Doesn't Work With Hollywood Stars",
+          "url": "https://deadline.com/2026/11/mike-leigh-retirement-tender-loving-care-hollywood-1237234216",
+          "tldr": "Veteran British director Mike Leigh told The Guardian he has no regrets about declining to work with Hollywood stars throughout his career, standing by his preference for lesser-known actors.",
+          "source": "Deadline",
+          "published": "2026-11-27T09:10:01.000Z",
+          "image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2300369759.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "stories": [
+        {
+          "tag": "Celtics",
+          "title": "Celtics lose Group C to Hawks 87-86, will be Play-In wildcard",
+          "url": "https://www.celticsblog.com/celtics-scores-results/151106/celtics-lose-group-c-to-hawks-87-86-will-be-play-in-wildcard",
+          "tldr": "The Celtics lost their final NBA Cup group game 87-86 to the Hawks, missing out on winning East Group C and home-court advantage, and will instead enter the competition as a Play-In wildcard.",
+          "source": "CelticsBlog",
+          "published": "2026-11-28T03:42:58.000Z",
+          "image": "https://platform.celticsblog.com/wp-content/uploads/sites/63/2026/11/gettyimages-2306656232.jpg?quality=90&strip=all&crop=0,0,100,100"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots rule out four starters including A.J. Brown ahead of Chargers game",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/27/patriots-rule-out-four-starters-including-a-j-brown-ahead-of-chargers-game",
+          "tldr": "The Patriots have ruled out four starters, including quarterback Drake Maye and receiver A.J. Brown, for Sunday's game against the Chargers, leaving backup Tommy DeVito to start again.",
+          "source": "Boston.com",
+          "published": "2026-11-27T22:50:41.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/10/35ARACYZZES3PR57PCSSWSYHBU-6ad4fd6d187d7-850x638.jpg"
+        },
+        {
+          "tag": "Patriots",
+          "title": "Patriots & Chargers expected to draw one of the least experienced non-rookie QB matchups in NFL history",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/27/nfl-patriots-chargers-preview-tommy-devito-dj-uiagalelei",
+          "tldr": "Sunday's Patriots-Chargers game pits two inexperienced backup quarterbacks, Tommy DeVito and D.J. Uiagalelei, against each other, one of the least experienced non-rookie QB matchups in NFL history.",
+          "source": "Boston.com",
+          "published": "2026-11-27T23:54:00.000Z",
+          "image": "https://www.boston.com/wp-content/uploads/2026/11/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_tlumackipatriots527-6b0a14b78df55-850x638.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "Five big revelations from Marquez's retirement announcement",
+          "url": "https://www.the-race.com/motogp/five-big-revelations-from-marc-marquez-motogp-retirement-announcement",
+          "tldr": "Marc Marquez's shock MotoGP retirement announcement included new detail on his decision timing, how long he kept it secret and what finally prompted the call.",
+          "source": "The Race",
+          "published": "2026-11-27T12:52:23.000Z",
+          "image": "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/2026/11/GnG_1366204_HiRes.jpg"
+        },
+        {
+          "tag": "F1",
+          "title": "FIA confirms F1 engine freeze and imposes testing restrictions ahead of V8 return",
+          "url": "https://www.motorsport.com/f1/news/fia-confirms-f1-engine-freeze-and-imposes-testing-restrictions-ahead-of-v8-return/10878333",
+          "tldr": "The FIA has confirmed a freeze on current F1 engines from mid-2028 and new testing restrictions, clearing the way for the sport's return to V8 power units.",
+          "source": "Motorsport.com",
+          "published": "2026-11-27T17:15:13.000Z",
+          "image": "https://cdn-1.motorsport.com/images/amp/0arED5G2/s6/arvid-lindblad-racing-bulls-an.jpg"
+        },
+        {
+          "tag": "Red Sox",
+          "title": "Triston Casas returns to game action with a grand slam in Dominican winter league",
+          "url": "https://www.mlb.com/redsox/news/triston-casas-hits-grand-slam-in-dominican-winter-league",
+          "tldr": "Triston Casas marked his long-awaited return to game action with a grand slam for his Dominican winter league team, his first extended live action since injury.",
+          "source": "MLB.com",
+          "published": "2026-11-28T03:33:12.000Z",
+          "image": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/v1795835662/mlb/oe2xro96n5jnc5azx9ja.jpg"
+        }
+      ]
+    }
+  ],
+  "read": {
+    "url": "https://www.lennysnewsletter.com/p/pulling-back-the-curtain-on-the-magic",
+    "why": "A dive into Y Combinator's playbook, for a product builder who studies how the best operators work.",
+    "title": "Pulling back the curtain on the magic of Y Combinator",
+    "subtitle": "A first-of-its-kind deep dive into the data to see what’s really working for the industry’s biggest incubator",
+    "published": "2025-02-11",
+    "words": 2835,
+    "image": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01ef6615-804e-4164-98ac-1fc8a9ace37b_1728x2304.png",
+    "paid": true
+  },
+  "listen": [
+    {
+      "url": "https://podcasts.apple.com/us/podcast/422-joseph-pulitzer/id1141877104?i=1000773486278&uo=4",
+      "why": "The newspaper tycoon who built modern journalism, a fitting listen for a trained broadcast journalist turned product marketer.",
+      "show": "Founders",
+      "title": "#422 Joseph Pulitzer",
+      "published": "2026-06-20",
+      "duration": "53m",
+      "apple": "https://podcasts.apple.com/us/podcast/422-joseph-pulitzer/id1141877104?i=1000773486278&uo=4",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/71/4f/ed714f67-f095-a4ef-f38e-d8c02300666a/mza_11432355988627368701.jpg/600x600bb.jpg"
+    },
+    {
+      "url": "https://www.davidsenra.com/episode/michael-ovitz-2",
+      "why": "The co-founder of Hollywood's most powerful talent agency, pairing well with today's craft-heavy film stories.",
+      "show": "David Senra",
+      "title": "Michael Ovitz, Co-founder of CAA",
+      "published": "2026-08-09",
+      "duration": "1h 07m",
+      "apple": "https://podcasts.apple.com/us/podcast/michael-ovitz-co-founder-of-caa/id1836497887?i=1000781174011&uo=4",
+      "page": "https://www.davidsenra.com/episode/michael-ovitz-2",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/31/6d/e7/316de7cd-9000-7869-da40-a812de08a3e5/mza_13016933703227782249.jpg/600x600bb.jpg",
+      "youtube": "https://www.youtube.com/watch?v=SHh03lzOJz0"
+    },
+    {
+      "url": "https://www.acquired.fm/episodes/ikea",
+      "why": "The story of how flat-pack furniture became one of the world's most loved product businesses.",
+      "show": "Acquired",
+      "title": "IKEA",
+      "published": "2024-11-18",
+      "duration": "3h 13m",
+      "apple": "https://podcasts.apple.com/us/podcast/ikea/id1050462261?i=1000677277227&uo=4",
+      "page": "https://www.acquired.fm/episodes/ikea",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/600x600bb.jpg"
+    }
+  ],
+  "finally": {
+    "title": "Watch Transformers: The Movie (1986) for Free This Weekend",
+    "url": "https://kottke.org/26/11/watch-transformers-the-movie-1986-for-free-this-weekend",
+    "tldr": "For one weekend only, the 1986 animated Transformers: The Movie is free to watch on YouTube, paired with a new short film based on it. A nostalgic treat, no catch.",
+    "source": "Kottke",
+    "published": "2026-11-27T18:00:00.000Z",
+    "image": "https://i.ytimg.com/vi/-XToMWLJEIg/maxresdefault.jpg"
+  }
+}
